@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1995221318632132608"
+      ],
+      "media_source_tweet_id": [
+        "1995221368888267049"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1995598080734052635",
+    "created_at": "2025-12-01T20:57:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T21:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995598080734052635"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "German Cola Kid",
+          "probability": 0.936,
+          "start": 18,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1933231787632963584",
+          "start": 3,
+          "username": "meme_ancient"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tK4Em5lvYz",
+          "end": 64,
+          "expanded_url": "https://x.com/meme_ancient/status/1995221368888267049/video/1",
+          "media_key": "13_1995221318632132608",
+          "start": 41,
+          "url": "https://t.co/tK4Em5lvYz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995598080734052635",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1290
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995221368888267049",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meme_ancient: German Cola Kid (2020) https://t.co/tK4Em5lvYz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13525,
+        "height": 1280,
+        "media_key": "13_1995221318632132608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1995221318632132608/img/cHW9ws7KNN2u8ti5.jpg",
+        "public_metrics": {
+          "view_count": 43822
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995221318632132608/vid/avc1/320x568/Zrai_hknX_b_8fRt.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995221318632132608/vid/avc1/480x852/PgiwcMl1SZQecHad.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995221318632132608/vid/avc1/720x1280/XRkHRuj2BVvu09Ol.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1995221318632132608/pl/pssqh6Sl8BJxT5hf.m3u8?tag=14&v=d3e"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1995221318632132608"
+          ],
+          "media_source_tweet_id": [
+            "1995221368888267049"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1995598080734052635",
+        "created_at": "2025-12-01T20:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T21:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995598080734052635"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "German Cola Kid",
+              "probability": 0.936,
+              "start": 18,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1933231787632963584",
+              "start": 3,
+              "username": "meme_ancient"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tK4Em5lvYz",
+              "end": 64,
+              "expanded_url": "https://x.com/meme_ancient/status/1995221368888267049/video/1",
+              "media_key": "13_1995221318632132608",
+              "start": 41,
+              "url": "https://t.co/tK4Em5lvYz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995598080734052635",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1290
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995221368888267049",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meme_ancient: German Cola Kid (2020) https://t.co/tK4Em5lvYz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1995221318632132608"
+          ]
+        },
+        "author_id": "1933231787632963584",
+        "conversation_id": "1995221368888267049",
+        "created_at": "2025-11-30T20:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T21:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995221368888267049"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "German Cola Kid",
+              "probability": 0.9424,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tK4Em5lvYz",
+              "end": 46,
+              "expanded_url": "https://x.com/meme_ancient/status/1995221368888267049/video/1",
+              "media_key": "13_1995221318632132608",
+              "start": 23,
+              "url": "https://t.co/tK4Em5lvYz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995221368888267049",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1373,
+          "impression_count": 89779,
+          "like_count": 7193,
+          "quote_count": 86,
+          "reply_count": 51,
+          "retweet_count": 1290
+        },
+        "reply_settings": "everyone",
+        "text": "German Cola Kid (2020) https://t.co/tK4Em5lvYz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989746234408701952/CGIjbFWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7965,
+          "following_count": 5397,
+          "like_count": 13637,
+          "listed_count": 17,
+          "media_count": 2505,
+          "tweet_count": 18245
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T18:35:57.000Z",
+        "description": "ancient memes | follow me and stick around :) use the templates featured 👇 @memelordtech",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "memelordtech"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "signup.memelord.com/ancientmemes",
+                "end": 23,
+                "expanded_url": "https://signup.memelord.com/ancientmemes",
+                "start": 0,
+                "url": "https://t.co/bSCkPUyzCR"
+              }
+            ]
+          }
+        },
+        "id": "1933231787632963584",
+        "name": "ancient memes",
+        "pinned_tweet_id": "1980372738624860433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934549779909902336/ZjZSuT_z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23321,
+          "following_count": 7,
+          "like_count": 31,
+          "listed_count": 16,
+          "media_count": 913,
+          "tweet_count": 1178
+        },
+        "url": "https://t.co/bSCkPUyzCR",
+        "username": "meme_ancient",
+        "verified": true
+      }
+    ]
+  }
+}

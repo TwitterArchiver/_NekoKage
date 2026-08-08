@@ -1,0 +1,610 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861324970607157248",
+        "7_1861325481834168320"
+      ],
+      "media_source_tweet_id": [
+        "1861326470603513879",
+        "1861326470603513879"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899469046054924",
+          "name": "Virtual reality games"
+        }
+      }
+    ],
+    "conversation_id": "1861672690760982883",
+    "created_at": "2024-11-27T07:25:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T08:25:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861672690760982883"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "ドリフトヘイロー",
+          "probability": 0.542,
+          "start": 25,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1533807231258742784",
+          "start": 3,
+          "username": "taro_san_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8NhGpN6NFJ",
+          "end": 125,
+          "expanded_url": "https://x.com/taro_san_x/status/1861326470603513879/video/1",
+          "media_key": "3_1861324970607157248",
+          "start": 102,
+          "url": "https://t.co/8NhGpN6NFJ"
+        },
+        {
+          "display_url": "pic.x.com/8NhGpN6NFJ",
+          "end": 125,
+          "expanded_url": "https://x.com/taro_san_x/status/1861326470603513879/video/1",
+          "media_key": "7_1861325481834168320",
+          "start": 102,
+          "url": "https://t.co/8NhGpN6NFJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861672690760982883",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 602
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861326470603513879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @taro_san_x: VRChat向け『ドリフトヘイロー』販売開始しました！\n頭の上でドリフトし続けるヘイローです。\n追走もできます。　\n掴んで遊ぶこともできます。\n今後車の種類は更新予定!! https://t.co/8NhGpN6NFJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1861324970607157248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdTBMvSaoAA8etu.jpg",
+        "width": 1024
+      },
+      {
+        "duration_ms": 73333,
+        "height": 854,
+        "media_key": "7_1861325481834168320",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1861325481834168320/pu/img/W6_DxOaDC1w4Cz-j.jpg",
+        "public_metrics": {
+          "view_count": 26055
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1861325481834168320/pu/vid/avc1/480x270/AuKTr4Ryqygb1yd7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1861325481834168320/pu/vid/avc1/642x360/e8lWjHtmWWpNQRqU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1861325481834168320/pu/vid/avc1/1284x720/3WlAd97nN-eiYBfK.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1861325481834168320/pu/pl/bV-KXIHAc4iAjupR.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1524
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861324970607157248",
+            "7_1861325481834168320"
+          ],
+          "media_source_tweet_id": [
+            "1861326470603513879",
+            "1861326470603513879"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "1861672690760982883",
+        "created_at": "2024-11-27T07:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T08:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861672690760982883"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "ドリフトヘイロー",
+              "probability": 0.542,
+              "start": 25,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1533807231258742784",
+              "start": 3,
+              "username": "taro_san_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8NhGpN6NFJ",
+              "end": 125,
+              "expanded_url": "https://x.com/taro_san_x/status/1861326470603513879/video/1",
+              "media_key": "3_1861324970607157248",
+              "start": 102,
+              "url": "https://t.co/8NhGpN6NFJ"
+            },
+            {
+              "display_url": "pic.x.com/8NhGpN6NFJ",
+              "end": 125,
+              "expanded_url": "https://x.com/taro_san_x/status/1861326470603513879/video/1",
+              "media_key": "7_1861325481834168320",
+              "start": 102,
+              "url": "https://t.co/8NhGpN6NFJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861672690760982883",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 602
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861326470603513879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @taro_san_x: VRChat向け『ドリフトヘイロー』販売開始しました！\n頭の上でドリフトし続けるヘイローです。\n追走もできます。　\n掴んで遊ぶこともできます。\n今後車の種類は更新予定!! https://t.co/8NhGpN6NFJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861324970607157248",
+            "7_1861325481834168320"
+          ]
+        },
+        "author_id": "1533807231258742784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "1861326470603513879",
+        "created_at": "2024-11-26T08:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T09:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861326470603513879"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "ドリフトヘイロー",
+              "probability": 0.597,
+              "start": 9,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8NhGpN6NFJ",
+              "end": 109,
+              "expanded_url": "https://x.com/taro_san_x/status/1861326470603513879/video/1",
+              "media_key": "3_1861324970607157248",
+              "start": 86,
+              "url": "https://t.co/8NhGpN6NFJ"
+            },
+            {
+              "display_url": "pic.x.com/8NhGpN6NFJ",
+              "end": 109,
+              "expanded_url": "https://x.com/taro_san_x/status/1861326470603513879/video/1",
+              "media_key": "7_1861325481834168320",
+              "start": 86,
+              "url": "https://t.co/8NhGpN6NFJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861326470603513879",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 407,
+          "impression_count": 98027,
+          "like_count": 2447,
+          "quote_count": 14,
+          "reply_count": 8,
+          "retweet_count": 602
+        },
+        "reply_settings": "everyone",
+        "text": "VRChat向け『ドリフトヘイロー』販売開始しました！\n頭の上でドリフトし続けるヘイローです。\n追走もできます。　\n掴んで遊ぶこともできます。\n今後車の種類は更新予定!! https://t.co/8NhGpN6NFJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain📷膠片攝影/相机维修🚬大烟鬼🔪刃物收藏⌚️入门表匠⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "_kagenone"
+              },
+              {
+                "end": 137,
+                "start": 132,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7326,
+          "following_count": 4273,
+          "like_count": 11791,
+          "listed_count": 18,
+          "tweet_count": 14109
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-06T13:45:24.000Z",
+        "description": "#ジト目集会 主催 @jitome_vrc \nhttps://t.co/1ZhEvMwe6G\n\n私立VRC学園14期6組\n\n#jitomeShop\nhttps://t.co/X7q99Wn07c\n\n#たろ屋さん\nhttps://t.co/rmCKtqeVtW",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "ジト目集会"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "tag": "jitomeShop"
+              },
+              {
+                "end": 105,
+                "start": 99,
+                "tag": "たろ屋さん"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "jitome_vrc"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vrc.group/JITOME.1910",
+                "end": 46,
+                "expanded_url": "https://vrc.group/JITOME.1910",
+                "start": 23,
+                "url": "https://t.co/1ZhEvMwe6G"
+              },
+              {
+                "display_url": "jitomeshop.booth.pm",
+                "end": 97,
+                "expanded_url": "https://jitomeshop.booth.pm",
+                "start": 74,
+                "url": "https://t.co/X7q99Wn07c"
+              },
+              {
+                "display_url": "taroyasan.booth.pm",
+                "end": 129,
+                "expanded_url": "https://taroyasan.booth.pm/",
+                "start": 106,
+                "url": "https://t.co/rmCKtqeVtW"
+              }
+            ]
+          }
+        },
+        "id": "1533807231258742784",
+        "name": "たろさん @ジト目集会やってますVRC",
+        "pinned_tweet_id": "1861326470603513879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772557586346508288/gHByr8C3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 231,
+          "like_count": 7034,
+          "listed_count": 1,
+          "tweet_count": 1706
+        },
+        "username": "taro_san_x",
+        "verified": false
+      }
+    ]
+  }
+}

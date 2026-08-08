@@ -1,0 +1,718 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026738409",
+          "name": "Sony"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026738409",
+          "name": "Sony"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237004504219828224",
+          "name": "Computer hardware"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10042890459",
+          "name": "NVIDIA GeForce"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1918299153920315704",
+    "created_at": "2025-05-02T13:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T14:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918299153920315704"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/obsoletesony/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/obsoletesony/status/1918289385004630073",
+          "start": 6,
+          "url": "https://t.co/lmY90OGXmk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918299153920315704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918289385004630073",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "扫地机器人 https://t.co/lmY90OGXmk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1918136353344069633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp6W2cPWIAE3bWx.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10042890459",
+              "name": "NVIDIA GeForce"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1918299153920315704",
+        "created_at": "2025-05-02T13:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T14:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918299153920315704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/obsoletesony/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/obsoletesony/status/1918289385004630073",
+              "start": 6,
+              "url": "https://t.co/lmY90OGXmk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918299153920315704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918289385004630073",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "扫地机器人 https://t.co/lmY90OGXmk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918136353344069633"
+          ]
+        },
+        "author_id": "1647428363965935617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10042890459",
+              "name": "NVIDIA GeForce"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1918289385004630073",
+        "created_at": "2025-05-02T13:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T14:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918289385004630073"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "Sony",
+              "probability": 0.989,
+              "start": 9,
+              "type": "Organization"
+            },
+            {
+              "end": 46,
+              "normalized_text": "VAIO TP1",
+              "probability": 0.6334,
+              "start": 39,
+              "type": "Other"
+            },
+            {
+              "end": 66,
+              "normalized_text": "2",
+              "probability": 0.3578,
+              "start": 66,
+              "type": "Other"
+            },
+            {
+              "end": 74,
+              "normalized_text": "CPU",
+              "probability": 0.3509,
+              "start": 72,
+              "type": "Product"
+            },
+            {
+              "end": 101,
+              "normalized_text": "GeForce",
+              "probability": 0.5268,
+              "start": 95,
+              "type": "Product"
+            },
+            {
+              "end": 114,
+              "normalized_text": "GPU",
+              "probability": 0.3295,
+              "start": 112,
+              "type": "Product"
+            },
+            {
+              "end": 164,
+              "normalized_text": "Windows Vista Home Premium",
+              "probability": 0.7744,
+              "start": 139,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aCHWyoATUe",
+              "end": 190,
+              "expanded_url": "https://x.com/ObsoleteSony/status/1918289385004630073/photo/1",
+              "media_key": "3_1918136353344069633",
+              "start": 167,
+              "url": "https://t.co/aCHWyoATUe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918289385004630073",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 3323,
+          "like_count": 111,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "In 2007, Sony released the cylindrical VAIO TP1, featuring a Core 2 Duo CPU, 2GB RAM, 1TB HDD, GeForce 8400M GT GPU, and BD drive, running Windows Vista Home Premium. https://t.co/aCHWyoATUe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠📢siren爱好者⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "_kagenone"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7602,
+          "following_count": 4593,
+          "like_count": 12504,
+          "listed_count": 20,
+          "media_count": 2203,
+          "tweet_count": 15432
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-16T02:35:35.000Z",
+        "description": "Embark on a journey through the obscure world of forgotten, odd, and obsolete Sony devices.\nhttps://t.co/pBgVhb98yK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/ObsoleteSony",
+                "end": 115,
+                "expanded_url": "https://www.patreon.com/ObsoleteSony",
+                "start": 92,
+                "url": "https://t.co/pBgVhb98yK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "obsoletesony.com",
+                "end": 23,
+                "expanded_url": "https://www.obsoletesony.com/",
+                "start": 0,
+                "url": "https://t.co/c8KpRtInN1"
+              }
+            ]
+          }
+        },
+        "id": "1647428363965935617",
+        "name": "Obsolete Sony",
+        "pinned_tweet_id": "1917066879333527847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828847927948713984/ByMWXBYs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132052,
+          "following_count": 962,
+          "like_count": 40504,
+          "listed_count": 515,
+          "media_count": 5553,
+          "tweet_count": 8573
+        },
+        "url": "https://t.co/c8KpRtInN1",
+        "username": "ObsoleteSony",
+        "verified": true
+      }
+    ]
+  }
+}

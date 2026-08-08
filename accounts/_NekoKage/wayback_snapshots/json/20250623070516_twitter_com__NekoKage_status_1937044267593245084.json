@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1936842466725896192"
+      ],
+      "media_source_tweet_id": [
+        "1936842483494981767"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1937044267593245084",
+    "created_at": "2025-06-23T07:05:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T08:05:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937044267593245084"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "Slugcat Breakcore",
+          "probability": 0.7937,
+          "start": 14,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1678178499390066688",
+          "start": 3,
+          "username": "Soarfloh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S4cMf4CPg8",
+          "end": 76,
+          "expanded_url": "https://x.com/Soarfloh/status/1936842483494981767/video/1",
+          "media_key": "7_1936842466725896192",
+          "start": 53,
+          "url": "https://t.co/S4cMf4CPg8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937044267593245084",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 585
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936842483494981767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Soarfloh: Slugcat Breakcore I think \nSong doodle https://t.co/S4cMf4CPg8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26719,
+        "height": 720,
+        "media_key": "7_1936842466725896192",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1936842466725896192/pu/img/35jEvviI9_LoAj_w.jpg",
+        "public_metrics": {
+          "view_count": 22172
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1936842466725896192/pu/vid/avc1/320x320/FZ0HreU_-NbJumZO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1936842466725896192/pu/vid/avc1/540x540/Ze1OuYyvhnDMPN6v.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1936842466725896192/pu/vid/avc1/720x720/Rh4FGYBfxnzRM4YB.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1936842466725896192/pu/pl/e3KMJgh02mj_HXsp.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1936842466725896192"
+          ],
+          "media_source_tweet_id": [
+            "1936842483494981767"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1937044267593245084",
+        "created_at": "2025-06-23T07:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T08:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937044267593245084"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "Slugcat Breakcore",
+              "probability": 0.7937,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1678178499390066688",
+              "start": 3,
+              "username": "Soarfloh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S4cMf4CPg8",
+              "end": 76,
+              "expanded_url": "https://x.com/Soarfloh/status/1936842483494981767/video/1",
+              "media_key": "7_1936842466725896192",
+              "start": 53,
+              "url": "https://t.co/S4cMf4CPg8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937044267593245084",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 585
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936842483494981767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Soarfloh: Slugcat Breakcore I think \nSong doodle https://t.co/S4cMf4CPg8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1936842466725896192"
+          ]
+        },
+        "author_id": "1678178499390066688",
+        "conversation_id": "1936842483494981767",
+        "created_at": "2025-06-22T17:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T18:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936842483494981767"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "Slugcat Breakcore",
+              "probability": 0.7214,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S4cMf4CPg8",
+              "end": 62,
+              "expanded_url": "https://x.com/Soarfloh/status/1936842483494981767/video/1",
+              "media_key": "7_1936842466725896192",
+              "start": 39,
+              "url": "https://t.co/S4cMf4CPg8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936842483494981767",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1183,
+          "impression_count": 26959,
+          "like_count": 3951,
+          "quote_count": 8,
+          "reply_count": 24,
+          "retweet_count": 585
+        },
+        "reply_settings": "everyone",
+        "text": "Slugcat Breakcore I think \nSong doodle https://t.co/S4cMf4CPg8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🐈#RainWorld⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 107,
+                "tag": "RainWorld"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "_kagenone"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7657,
+          "following_count": 4716,
+          "like_count": 12783,
+          "listed_count": 19,
+          "media_count": 2259,
+          "tweet_count": 16006
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T23:05:25.000Z",
+        "description": "20 year old Artist and Digital Music maker.\n\nmy youtube: https://t.co/WUMUK8uhIN\nbanner by: @hirochanu0807",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 92,
+                "username": "hirochanu0807"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@soarfloh?si=l…",
+                "end": 80,
+                "expanded_url": "https://youtube.com/@soarfloh?si=l-JJFwdlkIBw4kK6",
+                "start": 57,
+                "url": "https://t.co/WUMUK8uhIN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "syloh.straw.page",
+                "end": 23,
+                "expanded_url": "https://syloh.straw.page/",
+                "start": 0,
+                "url": "https://t.co/kI0StmcDQJ"
+              }
+            ]
+          }
+        },
+        "id": "1678178499390066688",
+        "location": "Black Hispanic (any/all)",
+        "name": "Syloh",
+        "pinned_tweet_id": "1936842483494981767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929031659044655104/ZArq34X4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10954,
+          "following_count": 185,
+          "like_count": 52711,
+          "listed_count": 18,
+          "media_count": 640,
+          "tweet_count": 4440
+        },
+        "url": "https://t.co/kI0StmcDQJ",
+        "username": "Soarfloh",
+        "verified": false
+      }
+    ]
+  }
+}

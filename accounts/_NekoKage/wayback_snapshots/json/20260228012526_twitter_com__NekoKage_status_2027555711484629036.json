@@ -1,0 +1,494 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      }
+    ],
+    "conversation_id": "2027555711484629036",
+    "created_at": "2026-02-28T01:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T02:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027555711484629036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1483257173279145988",
+          "start": 3,
+          "username": "TOKYOINFILM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027555711484629036",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027251055877382374",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TOKYOINFILM: CP+でキヤノンがウエストレベルカメラのコンセプトモデルを発表したそうですね。\nニコン派の僕としては、レンジファインダーのSシリーズのフューチャーモデルを妄想しちゃいます。。\nZレンズでは口径が大き過ぎるので、備え付けレンズでも構わない。… h…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027251047509700609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCI-Fj1asAESdlU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "2027555711484629036",
+        "created_at": "2026-02-28T01:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T02:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027555711484629036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1483257173279145988",
+              "start": 3,
+              "username": "TOKYOINFILM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027555711484629036",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027251055877382374",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TOKYOINFILM: CP+でキヤノンがウエストレベルカメラのコンセプトモデルを発表したそうですね。\nニコン派の僕としては、レンジファインダーのSシリーズのフューチャーモデルを妄想しちゃいます。。\nZレンズでは口径が大き過ぎるので、備え付けレンズでも構わない。… h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027251047509700609"
+          ]
+        },
+        "author_id": "1483257173279145988",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "2027251055877382374",
+        "created_at": "2026-02-27T05:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T06:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027251055877382374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jk3kVrwjmA",
+              "end": 143,
+              "expanded_url": "https://x.com/TOKYOINFILM/status/2027251055877382374/photo/1",
+              "media_key": "3_2027251047509700609",
+              "start": 120,
+              "url": "https://t.co/jk3kVrwjmA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027251055877382374",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "CP+でキヤノンがウエストレベルカメラのコンセプトモデルを発表したそうですね。\nニコン派の僕としては、レンジファインダーのSシリーズのフューチャーモデルを妄想しちゃいます。。\nZレンズでは口径が大き過ぎるので、備え付けレンズでも構わない。\nボディが大きくなっちゃうならAPS-Cでもイイけど、フジのX100に負けないように開放1.4で！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4893,
+          "like_count": 114,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "CP+でキヤノンがウエストレベルカメラのコンセプトモデルを発表したそうですね。\nニコン派の僕としては、レンジファインダーのSシリーズのフューチャーモデルを妄想しちゃいます。。\nZレンズでは口径が大き過ぎるので、備え付けレンズでも構わない。 https://t.co/jk3kVrwjmA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 118,
+                "start": 113,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2026735481388675507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8047,
+          "following_count": 5855,
+          "like_count": 13979,
+          "listed_count": 17,
+          "media_count": 2630,
+          "tweet_count": 19411
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-18T01:57:36.000Z",
+        "description": "「トーキョー写真の人」 報道→広告。 風景よりも情景。 フィルム中心、時々デジタル。| Street photographer in Tokyo, Japan | Digital & Film Photography | Self Development|",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/tokyoshashinno…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/tokyoshashinnohito/",
+                "start": 0,
+                "url": "https://t.co/GhvJkqDtIC"
+              }
+            ]
+          }
+        },
+        "id": "1483257173279145988",
+        "location": "Tokyo",
+        "name": "トーキョー写真の人",
+        "pinned_tweet_id": "1983291473660654009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641260008175452160/4bPHwjU0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1768,
+          "following_count": 1706,
+          "like_count": 191860,
+          "listed_count": 20,
+          "media_count": 3381,
+          "tweet_count": 4125
+        },
+        "url": "https://t.co/GhvJkqDtIC",
+        "username": "TOKYOINFILM",
+        "verified": true
+      }
+    ]
+  }
+}

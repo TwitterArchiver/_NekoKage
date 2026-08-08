@@ -1,0 +1,466 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1803533030281080833"
+      ],
+      "media_source_tweet_id": [
+        "1803533034915835944"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1575775931846709248",
+          "name": "ぼっち・ざ・ろっく!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      }
+    ],
+    "conversation_id": "1804127269851664409",
+    "created_at": "2024-06-21T12:20:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-21T13:20:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804127269851664409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3331362597",
+          "start": 3,
+          "username": "GifsAnime_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/FzviAA4RKN",
+          "end": 57,
+          "expanded_url": "https://twitter.com/GifsAnime_/status/1803533034915835944/photo/1",
+          "media_key": "3_1803533030281080833",
+          "start": 34,
+          "url": "https://t.co/FzviAA4RKN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804127269851664409",
+    "lang": "it",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1044
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803533034915835944",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GifsAnime_: Bocchi the Rock 🎸 https://t.co/FzviAA4RKN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_1803533030281080833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQdvvEqWcAEo6Io.jpg",
+        "width": 1143
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803533030281080833"
+          ],
+          "media_source_tweet_id": [
+            "1803533034915835944"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1804127269851664409",
+        "created_at": "2024-06-21T12:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T13:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804127269851664409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3331362597",
+              "start": 3,
+              "username": "GifsAnime_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/FzviAA4RKN",
+              "end": 57,
+              "expanded_url": "https://twitter.com/GifsAnime_/status/1803533034915835944/photo/1",
+              "media_key": "3_1803533030281080833",
+              "start": 34,
+              "url": "https://t.co/FzviAA4RKN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804127269851664409",
+        "lang": "it",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1044
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803533034915835944",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GifsAnime_: Bocchi the Rock 🎸 https://t.co/FzviAA4RKN"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803533030281080833"
+          ]
+        },
+        "author_id": "3331362597",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1803533034915835944",
+        "created_at": "2024-06-19T20:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T21:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803533034915835944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/FzviAA4RKN",
+              "end": 41,
+              "expanded_url": "https://twitter.com/GifsAnime_/status/1803533034915835944/photo/1",
+              "media_key": "3_1803533030281080833",
+              "start": 18,
+              "url": "https://t.co/FzviAA4RKN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803533034915835944",
+        "lang": "it",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 569,
+          "impression_count": 186693,
+          "like_count": 10341,
+          "quote_count": 16,
+          "reply_count": 11,
+          "retweet_count": 1044
+        },
+        "reply_settings": "everyone",
+        "text": "Bocchi the Rock 🎸 https://t.co/FzviAA4RKN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏是個瘋子🩸自傷🦿biid🎸聚乙烯乐队主音及主唱🎧HiFi糊烧🚬大烟鬼🔪刃物收藏⌚️入门表匠🚗JDM📷黑白摄影🚪88⚠️@_kagenone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 131,
+                "username": "_kagenone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6930,
+          "following_count": 3873,
+          "like_count": 9335,
+          "listed_count": 20,
+          "tweet_count": 11933
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-17T15:13:11.000Z",
+        "description": "🇯🇵🏯 𝕏 Anime page about japanese culture🎏 and animation. Featured Gifs,videos,pictures,fan art,studio ghibli,culture threads,old school everyday. DM open ✍️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pinterest.fr/ludo_chan/",
+                "end": 23,
+                "expanded_url": "https://www.pinterest.fr/ludo_chan/",
+                "start": 0,
+                "url": "https://t.co/CDwTccEoXu"
+              }
+            ]
+          }
+        },
+        "id": "3331362597",
+        "location": "Kyoto",
+        "name": "Anime Pics & Gifs ツ",
+        "pinned_tweet_id": "1589746589266227201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/659338631744761856/kksklplx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365110,
+          "following_count": 5791,
+          "like_count": 156717,
+          "listed_count": 923,
+          "tweet_count": 69083
+        },
+        "url": "https://t.co/CDwTccEoXu",
+        "username": "GifsAnime_",
+        "verified": true
+      }
+    ]
+  }
+}

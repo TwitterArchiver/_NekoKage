@@ -1,0 +1,558 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      }
+    ],
+    "conversation_id": "1977190072027169140",
+    "created_at": "2025-10-12T01:50:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T02:50:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977190072027169140"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 48,
+          "normalized_text": "GN auto nikkor 45mm f2.8",
+          "probability": 0.2163,
+          "start": 25,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1683284941516451841",
+          "start": 3,
+          "username": "kai_photo2525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977190072027169140",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976851274344940017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kai_photo2525: スナップ用にGN auto nikkor 45mm f2.8を購入\n超コンパクトなパンケーキレンズやけど金属筐体でカッコよ♪\nZfのSEレンズで使ってたnikon旧ロゴ金属フードも良く似合う！\nZfのSEレンズのフィルター径が52mmなのは…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1976851257932627969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G28vvsrbwAE8TID.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1976851257894879233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G28vvsibwAECtdN.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "1977190072027169140",
+        "created_at": "2025-10-12T01:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T02:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977190072027169140"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "GN auto nikkor 45mm f2.8",
+              "probability": 0.2163,
+              "start": 25,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1683284941516451841",
+              "start": 3,
+              "username": "kai_photo2525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977190072027169140",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976851274344940017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kai_photo2525: スナップ用にGN auto nikkor 45mm f2.8を購入\n超コンパクトなパンケーキレンズやけど金属筐体でカッコよ♪\nZfのSEレンズで使ってたnikon旧ロゴ金属フードも良く似合う！\nZfのSEレンズのフィルター径が52mmなのは…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976851257932627969",
+            "3_1976851257894879233"
+          ]
+        },
+        "author_id": "1683284941516451841",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "1976851274344940017",
+        "created_at": "2025-10-11T03:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T04:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976851274344940017"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "GN auto nikkor 45mm f2.8",
+              "probability": 0.3024,
+              "start": 6,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hlLhSRX1x5",
+              "end": 168,
+              "expanded_url": "https://x.com/kai_photo2525/status/1976851274344940017/photo/1",
+              "media_key": "3_1976851257932627969",
+              "start": 145,
+              "url": "https://t.co/hlLhSRX1x5"
+            },
+            {
+              "display_url": "pic.x.com/hlLhSRX1x5",
+              "end": 168,
+              "expanded_url": "https://x.com/kai_photo2525/status/1976851274344940017/photo/1",
+              "media_key": "3_1976851257894879233",
+              "start": 145,
+              "url": "https://t.co/hlLhSRX1x5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976851274344940017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4272,
+          "like_count": 152,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "スナップ用にGN auto nikkor 45mm f2.8を購入\n超コンパクトなパンケーキレンズやけど金属筐体でカッコよ♪\nZfのSEレンズで使ってたnikon旧ロゴ金属フードも良く似合う！\nZfのSEレンズのフィルター径が52mmなのはそうゆうとこまでもオマージュされてたのかと再認識 https://t.co/hlLhSRX1x5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7907,
+          "following_count": 5132,
+          "like_count": 13330,
+          "listed_count": 17,
+          "media_count": 2437,
+          "tweet_count": 17496
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T01:16:40.000Z",
+        "description": "写真撮るのも見るのも好きなので良かったら仲良くしてくださいませー！ 📷 𝙉𝙞𝙠𝙤𝙣 ℤ𝟴 LEICA M-P FUJIfilm X-E5 ゼンザブロニカS2 pentax67 pentax17 konica pearlⅣ nikon F2 フォトミックS",
+        "id": "1683284941516451841",
+        "name": "ナラカメラ",
+        "pinned_tweet_id": "1848664665691459902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865327076490063872/P83RZQt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2611,
+          "following_count": 2311,
+          "like_count": 36632,
+          "listed_count": 16,
+          "media_count": 1315,
+          "tweet_count": 4214
+        },
+        "username": "kai_photo2525",
+        "verified": true
+      }
+    ]
+  }
+}

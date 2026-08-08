@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047689509354237952"
+      ],
+      "media_source_tweet_id": [
+        "2047689522247508154"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "2047963304371671480",
+    "created_at": "2026-04-25T08:57:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T09:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047963304371671480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1115809099482980353",
+          "start": 3,
+          "username": "DKR_World"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EQyPdiob5x",
+          "end": 38,
+          "expanded_url": "https://x.com/DKR_World/status/2047689522247508154/photo/1",
+          "media_key": "3_2047689509354237952",
+          "start": 15,
+          "url": "https://t.co/EQyPdiob5x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047963304371671480",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047689522247508154",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DKR_World: https://t.co/EQyPdiob5x"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2047963304371671480].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2047963304371671480",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2047963304371671480"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047689509354237952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrawndacAAGkUT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047689509354237952"
+          ]
+        },
+        "author_id": "1115809099482980353",
+        "conversation_id": "2047689522247508154",
+        "created_at": "2026-04-24T14:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047689522247508154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EQyPdiob5x",
+              "end": 23,
+              "expanded_url": "https://x.com/DKR_World/status/2047689522247508154/photo/1",
+              "media_key": "3_2047689509354237952",
+              "start": 0,
+              "url": "https://t.co/EQyPdiob5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047689522247508154",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 5619,
+          "like_count": 1249,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EQyPdiob5x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8457,
+          "following_count": 6471,
+          "like_count": 14830,
+          "listed_count": 17,
+          "media_count": 2839,
+          "tweet_count": 20795
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-10T02:49:54.000Z",
+        "description": "最後の指令：すべてと一緒に滅びろ。無盡革命資金募集中！我需要錢◆🚪52/101/188 @Noelle1914",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "Noelle1914"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dkr71262",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dkr71262",
+                "start": 0,
+                "url": "https://t.co/mvmC2vTXvo"
+              }
+            ]
+          }
+        },
+        "id": "1115809099482980353",
+        "location": "東京精神暴動支部",
+        "name": "◎東アジア躁鬱革委會",
+        "pinned_tweet_id": "2020846049972326673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047587912305520641/Y47NxZbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2342,
+          "following_count": 745,
+          "like_count": 44920,
+          "listed_count": 9,
+          "media_count": 569,
+          "tweet_count": 6300
+        },
+        "url": "https://t.co/mvmC2vTXvo",
+        "username": "DKR_World",
+        "verified": false
+      }
+    ]
+  }
+}

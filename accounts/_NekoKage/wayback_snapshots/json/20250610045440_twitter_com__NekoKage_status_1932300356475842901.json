@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932248172136747008"
+      ],
+      "media_source_tweet_id": [
+        "1932248175127195869"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "1932300356475842901",
+    "created_at": "2025-06-10T04:54:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T05:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932300356475842901"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "Apple",
+          "probability": 0.8619,
+          "start": 12,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1677294776641798146",
+          "start": 3,
+          "username": "haro7z"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R4twvsyGCR",
+          "end": 51,
+          "expanded_url": "https://x.com/haro7z/status/1932248175127195869/photo/1",
+          "media_key": "3_1932248172136747008",
+          "start": 28,
+          "url": "https://t.co/R4twvsyGCR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932300356475842901",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932248175127195869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @haro7z: Apple's new UI: https://t.co/R4twvsyGCR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1932248172136747008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtC5eZ4b0AAZM9b.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932248172136747008"
+          ],
+          "media_source_tweet_id": [
+            "1932248175127195869"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "conversation_id": "1932300356475842901",
+        "created_at": "2025-06-10T04:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T05:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932300356475842901"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "Apple",
+              "probability": 0.8619,
+              "start": 12,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1677294776641798146",
+              "start": 3,
+              "username": "haro7z"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R4twvsyGCR",
+              "end": 51,
+              "expanded_url": "https://x.com/haro7z/status/1932248175127195869/photo/1",
+              "media_key": "3_1932248172136747008",
+              "start": 28,
+              "url": "https://t.co/R4twvsyGCR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932300356475842901",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932248175127195869",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @haro7z: Apple's new UI: https://t.co/R4twvsyGCR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932248172136747008"
+          ]
+        },
+        "author_id": "1677294776641798146",
+        "conversation_id": "1932248175127195869",
+        "created_at": "2025-06-10T01:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T02:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932248175127195869"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "Apple",
+              "probability": 0.9312,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R4twvsyGCR",
+              "end": 39,
+              "expanded_url": "https://x.com/haro7z/status/1932248175127195869/photo/1",
+              "media_key": "3_1932248172136747008",
+              "start": 16,
+              "url": "https://t.co/R4twvsyGCR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932248175127195869",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 181,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "Apple's new UI: https://t.co/R4twvsyGCR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠📢siren爱好者⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "_kagenone"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7629,
+          "following_count": 4687,
+          "like_count": 12720,
+          "listed_count": 19,
+          "media_count": 2239,
+          "tweet_count": 15893
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T12:33:41.000Z",
+        "description": "Development and Hacking",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/EsanChannels",
+                "end": 23,
+                "expanded_url": "https://t.me/EsanChannels",
+                "start": 0,
+                "url": "https://t.co/cvMa4YfAiS"
+              }
+            ]
+          }
+        },
+        "id": "1677294776641798146",
+        "location": "中国",
+        "name": "haro.7z",
+        "pinned_tweet_id": "1925514830297153879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884269313827430403/FcF1_1Xr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 38,
+          "like_count": 96,
+          "listed_count": 4,
+          "media_count": 95,
+          "tweet_count": 214
+        },
+        "url": "https://t.co/cvMa4YfAiS",
+        "username": "haro7z",
+        "verified": false
+      }
+    ]
+  }
+}

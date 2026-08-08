@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "conversation_id": "1999272839556530506",
+    "created_at": "2025-12-12T00:19:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T01:19:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999272839556530506"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "Nikon F",
+          "probability": 0.4529,
+          "start": 32,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1164739205844488192",
+          "start": 3,
+          "username": "matsuzakayainfo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999272839556530506",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999062994404417985",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @matsuzakayainfo: 検品中ですが久しぶりにNikon Fで巻き戻しクランクに Tの刻印があるものを見ました。\n確か旅行者免税品だったかの刻印だったと記憶しているのですが。\nこの”T”ってなんのTなのでしょう？\n旅行者の”Tourist” か”Travele…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2144,
+        "media_key": "3_1999062479322873856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G74Yu8PaAAAF4hH.jpg",
+        "width": 2859
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "conversation_id": "1999272839556530506",
+        "created_at": "2025-12-12T00:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T01:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999272839556530506"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "Nikon F",
+              "probability": 0.4529,
+              "start": 32,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1164739205844488192",
+              "start": 3,
+              "username": "matsuzakayainfo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999272839556530506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999062994404417985",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @matsuzakayainfo: 検品中ですが久しぶりにNikon Fで巻き戻しクランクに Tの刻印があるものを見ました。\n確か旅行者免税品だったかの刻印だったと記憶しているのですが。\nこの”T”ってなんのTなのでしょう？\n旅行者の”Tourist” か”Travele…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999062479322873856"
+          ]
+        },
+        "author_id": "1164739205844488192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "1999062994404417985",
+        "created_at": "2025-12-11T10:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T11:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999062994404417985"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "Nikon F",
+              "probability": 0.4773,
+              "start": 11,
+              "type": "Product"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 159,
+              "start": 152,
+              "tag": "松坂屋カメラ"
+            },
+            {
+              "end": 166,
+              "start": 160,
+              "tag": "Nikon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vdCaWq2f81",
+              "end": 190,
+              "expanded_url": "https://x.com/matsuzakayainfo/status/1999062994404417985/photo/1",
+              "media_key": "3_1999062479322873856",
+              "start": 167,
+              "url": "https://t.co/vdCaWq2f81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999062994404417985",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3983,
+          "like_count": 57,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "検品中ですが久しぶりにNikon Fで巻き戻しクランクに Tの刻印があるものを見ました。\n確か旅行者免税品だったかの刻印だったと記憶しているのですが。\nこの”T”ってなんのTなのでしょう？\n旅行者の”Tourist” か”Traveler” ?はたまた免税の”Taxfree”?\nこのあたりでしょうか？\n＃松坂屋カメラ　＃Nikon https://t.co/vdCaWq2f81"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989746234408701952/CGIjbFWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7964,
+          "following_count": 5522,
+          "like_count": 13733,
+          "listed_count": 17,
+          "media_count": 2537,
+          "tweet_count": 18473
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-23T03:25:04.000Z",
+        "description": "中古カメラ店　「松坂屋カメラ」です！\n★カメラ・レンズ・デジ一眼、\nいつでも高く買います。お気軽にお問合せ下さい。\n★商品の量が多いお客様のために、出張買取も致します。\nこのアカウントは商品の紹介と新米店員である私の心の声を呟いていきます！\n【インスタ】→https://t.co/CLd2ZprG6T",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/matsuzakayainf…",
+                "end": 151,
+                "expanded_url": "http://instagram.com/matsuzakayainfo/",
+                "start": 128,
+                "url": "https://t.co/CLd2ZprG6T"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "matsuzakayacamera.com",
+                "end": 23,
+                "expanded_url": "http://www.matsuzakayacamera.com/",
+                "start": 0,
+                "url": "https://t.co/mhwa60DwtH"
+              }
+            ]
+          }
+        },
+        "id": "1164739205844488192",
+        "location": "〒140-0001　北品川1-14-1 クルーズ八ツ山4F",
+        "name": "松坂屋カメラ",
+        "pinned_tweet_id": "1953616681798185082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1164748090915446784/Nrc-2fmF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4344,
+          "following_count": 4150,
+          "like_count": 2036,
+          "listed_count": 73,
+          "media_count": 4338,
+          "tweet_count": 6977
+        },
+        "url": "https://t.co/mhwa60DwtH",
+        "username": "matsuzakayainfo",
+        "verified": false
+      }
+    ]
+  }
+}

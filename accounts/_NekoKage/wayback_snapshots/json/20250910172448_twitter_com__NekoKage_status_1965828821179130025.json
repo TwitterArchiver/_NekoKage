@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Car culture",
+          "id": "847528391163092993",
+          "name": "Automotive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Trucks",
+          "id": "847529278178705409",
+          "name": "Trucks"
+        }
+      }
+    ],
+    "conversation_id": "1965828821179130025",
+    "created_at": "2025-09-10T17:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T18:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965828821179130025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1219883091025481729",
+          "start": 3,
+          "username": "VESSEL1916"
+        }
+      ],
+      "urls": [
+        {
+          "description": "ドライバー、ビット・ソケット、エアーツールなどの締めつけ工具から、工場内での静電気対策品まで幅広い商品群情報を満載",
+          "display_url": "vessel.co.jp/product/screwd…",
+          "end": 137,
+          "expanded_url": "https://www.vessel.co.jp/product/screwdriver/121571/",
+          "images": [
+            {
+              "height": 200,
+              "url": "https://pbs.twimg.com/news_img/1965686740426870784/UP11H1Ct?format=jpg&name=orig",
+              "width": 200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1965686740426870784/UP11H1Ct?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 114,
+          "status": 200,
+          "title": "株式会社ベッセル｜VESSEL こたえる かなえる",
+          "unwound_url": "https://www.vessel.co.jp/product/screwdriver/121571/",
+          "url": "https://t.co/6p7LHTyq79"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965828821179130025",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965686683304661030",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VESSEL1916: バッテリーメンテナンスの必需品\nℹ️バッテリードライバー No.5700BD\n「コイン型ドライバー」と「スパナ」が1つになった🪛\nトラックの荷台下など、せまい場所でも使いやすいコンパクトサイズ！\nhttps://t.co/6p7LHTyq79\n#…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1965630607645704198",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0dSn5BbgAYSPwp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Trucks",
+              "id": "847529278178705409",
+              "name": "Trucks"
+            }
+          }
+        ],
+        "conversation_id": "1965828821179130025",
+        "created_at": "2025-09-10T17:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T18:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965828821179130025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1219883091025481729",
+              "start": 3,
+              "username": "VESSEL1916"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ドライバー、ビット・ソケット、エアーツールなどの締めつけ工具から、工場内での静電気対策品まで幅広い商品群情報を満載",
+              "display_url": "vessel.co.jp/product/screwd…",
+              "end": 137,
+              "expanded_url": "https://www.vessel.co.jp/product/screwdriver/121571/",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/1965686740426870784/UP11H1Ct?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1965686740426870784/UP11H1Ct?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 114,
+              "status": 200,
+              "title": "株式会社ベッセル｜VESSEL こたえる かなえる",
+              "unwound_url": "https://www.vessel.co.jp/product/screwdriver/121571/",
+              "url": "https://t.co/6p7LHTyq79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965828821179130025",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965686683304661030",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VESSEL1916: バッテリーメンテナンスの必需品\nℹ️バッテリードライバー No.5700BD\n「コイン型ドライバー」と「スパナ」が1つになった🪛\nトラックの荷台下など、せまい場所でも使いやすいコンパクトサイズ！\nhttps://t.co/6p7LHTyq79\n#…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965630607645704198"
+          ]
+        },
+        "author_id": "1219883091025481729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Trucks",
+              "id": "847529278178705409",
+              "name": "Trucks"
+            }
+          }
+        ],
+        "conversation_id": "1965686683304661030",
+        "created_at": "2025-09-10T08:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T09:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965686683304661030"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 122,
+              "tag": "ベッセル"
+            },
+            {
+              "end": 135,
+              "start": 128,
+              "tag": "VESSEL"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ドライバー、ビット・ソケット、エアーツールなどの締めつけ工具から、工場内での静電気対策品まで幅広い商品群情報を満載",
+              "display_url": "vessel.co.jp/product/screwd…",
+              "end": 121,
+              "expanded_url": "https://www.vessel.co.jp/product/screwdriver/121571/",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/1965686740426870784/UP11H1Ct?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1965686740426870784/UP11H1Ct?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 98,
+              "status": 200,
+              "title": "株式会社ベッセル｜VESSEL こたえる かなえる",
+              "unwound_url": "https://www.vessel.co.jp/product/screwdriver/121571/",
+              "url": "https://t.co/6p7LHTyq79"
+            },
+            {
+              "display_url": "pic.x.com/rijKVGhTnh",
+              "end": 159,
+              "expanded_url": "https://x.com/VESSEL1916/status/1965686683304661030/photo/1",
+              "media_key": "3_1965630607645704198",
+              "start": 136,
+              "url": "https://t.co/rijKVGhTnh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965686683304661030",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 23082,
+          "like_count": 470,
+          "quote_count": 13,
+          "reply_count": 2,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "バッテリーメンテナンスの必需品\nℹ️バッテリードライバー No.5700BD\n「コイン型ドライバー」と「スパナ」が1つになった🪛\nトラックの荷台下など、せまい場所でも使いやすいコンパクトサイズ！\nhttps://t.co/6p7LHTyq79\n#ベッセル #VESSEL https://t.co/rijKVGhTnh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7878,
+          "following_count": 5031,
+          "like_count": 13156,
+          "listed_count": 17,
+          "media_count": 2399,
+          "tweet_count": 17118
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-22T07:22:56.000Z",
+        "description": "ベッセルの公式アカウントです。日本で初めてドライバーを製造しました！\n困ってる方をお見かけしたら、直接お声がけさせていただく場合があります。\nまた、リプなどにはなるべくお返事いたしますが、できない場合もあります。\n■製品に関するご質問は↓\nhttps://t.co/fn7DCQ6xbd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vessel.co.jp/support/qa/",
+                "end": 143,
+                "expanded_url": "https://www.vessel.co.jp/support/qa/",
+                "start": 120,
+                "url": "https://t.co/fn7DCQ6xbd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vessel.co.jp",
+                "end": 23,
+                "expanded_url": "https://www.vessel.co.jp",
+                "start": 0,
+                "url": "https://t.co/92nuhoZFvn"
+              }
+            ]
+          }
+        },
+        "id": "1219883091025481729",
+        "location": "大阪市東成区深江北2-17-25",
+        "name": "VESSEL (ベッセル)公式",
+        "pinned_tweet_id": "1960250870903210206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1219883744229675008/6ZQkjOIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12202,
+          "following_count": 103,
+          "like_count": 35261,
+          "listed_count": 81,
+          "media_count": 1552,
+          "tweet_count": 7445
+        },
+        "url": "https://t.co/92nuhoZFvn",
+        "username": "VESSEL1916",
+        "verified": true
+      }
+    ]
+  }
+}

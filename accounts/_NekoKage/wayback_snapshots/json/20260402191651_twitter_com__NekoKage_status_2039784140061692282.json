@@ -1,0 +1,540 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "839543390668673024",
+          "name": "Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Fashion",
+          "id": "845285930994872322",
+          "name": "Handbags"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Accessories",
+          "id": "846447164880433152",
+          "name": "Fashion accessories"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fashion",
+          "id": "845285930994872322",
+          "name": "Handbags"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Fashion",
+          "id": "845285930994872322",
+          "name": "Handbags"
+        }
+      }
+    ],
+    "conversation_id": "2039784140061692282",
+    "created_at": "2026-04-02T19:16:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T20:16:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039784140061692282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "927139228277923840",
+          "start": 3,
+          "username": "nikora060"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039784140061692282",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039569863119896724",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nikora060: フィルム平面性にこだわったRTSIIIを作った会社とはと思えないよね、広角レンズのフローティングフォーカス機構とか無視されるわけで……（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "845285930994872322",
+              "name": "Handbags"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Accessories",
+              "id": "846447164880433152",
+              "name": "Fashion accessories"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "845285930994872322",
+              "name": "Handbags"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "845285930994872322",
+              "name": "Handbags"
+            }
+          }
+        ],
+        "conversation_id": "2039784140061692282",
+        "created_at": "2026-04-02T19:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T20:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039784140061692282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "927139228277923840",
+              "start": 3,
+              "username": "nikora060"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039784140061692282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039569863119896724",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nikora060: フィルム平面性にこだわったRTSIIIを作った会社とはと思えないよね、広角レンズのフローティングフォーカス機構とか無視されるわけで……（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "927139228277923840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "845285930994872322",
+              "name": "Handbags"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Accessories",
+              "id": "846447164880433152",
+              "name": "Fashion accessories"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "845285930994872322",
+              "name": "Handbags"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "845285930994872322",
+              "name": "Handbags"
+            }
+          }
+        ],
+        "conversation_id": "2039569863119896724",
+        "created_at": "2026-04-02T05:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T06:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039569863119896724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/F_r_a_m_a/stat…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/F_r_a_m_a/status/2039477671034560772",
+              "start": 70,
+              "url": "https://t.co/rY4EywZxA6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039569863119896724",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 10319,
+          "like_count": 111,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039477671034560772",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "フィルム平面性にこだわったRTSIIIを作った会社とはと思えないよね、広角レンズのフローティングフォーカス機構とか無視されるわけで……（） https://t.co/rY4EywZxA6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8199,
+          "following_count": 6115,
+          "like_count": 14261,
+          "listed_count": 17,
+          "media_count": 2736,
+          "tweet_count": 19971
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-05T11:43:12.000Z",
+        "description": "国産カメラ/舶来カメラ問わずカメラ修理屋？\nカメラ成分以外→@nikora070\nインスタ→https://t.co/ooZpM6mcL1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "nikora070"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/nikora060/foll…",
+                "end": 69,
+                "expanded_url": "https://www.instagram.com/nikora060/followers/",
+                "start": 46,
+                "url": "https://t.co/ooZpM6mcL1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nikora060.hatenablog.com",
+                "end": 23,
+                "expanded_url": "https://nikora060.hatenablog.com/",
+                "start": 0,
+                "url": "https://t.co/WTFZFkECBH"
+              }
+            ]
+          }
+        },
+        "id": "927139228277923840",
+        "location": "東京",
+        "name": "にこら",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1499218265700122625/WuxGiaTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2415,
+          "following_count": 1529,
+          "like_count": 136510,
+          "listed_count": 27,
+          "media_count": 9380,
+          "tweet_count": 87160
+        },
+        "url": "https://t.co/WTFZFkECBH",
+        "username": "nikora060",
+        "verified": false
+      }
+    ]
+  }
+}

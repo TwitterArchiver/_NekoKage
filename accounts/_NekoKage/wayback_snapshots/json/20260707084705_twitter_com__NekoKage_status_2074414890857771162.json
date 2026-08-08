@@ -1,0 +1,585 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Personal finance",
+          "id": "847888632711061504",
+          "name": "Personal finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Crowdfunding",
+          "id": "1046568685018595328",
+          "name": "Crowdfunding"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Investing",
+          "id": "847894353708068864",
+          "name": "Investing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Crowdfunding",
+          "id": "1046568685018595328",
+          "name": "Crowdfunding"
+        }
+      }
+    ],
+    "conversation_id": "2074414890857771162",
+    "created_at": "2026-07-07T08:47:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T09:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074414890857771162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2061322417763676160",
+          "start": 3,
+          "username": "Lain_pr7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/xizeh5",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/xizeh5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074414890857771162",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074328973140803861",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lain_pr7: 『lain : Protocol 7』公式サイトを更新しました。\nCAMPFIREでクラウドファンディングも実施中です。\n作品を少しでも気になってくれた方は、ぜひ覗いて、応援・拡散していただけたら嬉しいです。\n\nhttps://t.co/xizeh5…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2074328941981249536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMl_LrYasAA3A4O.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Crowdfunding",
+              "id": "1046568685018595328",
+              "name": "Crowdfunding"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Investing",
+              "id": "847894353708068864",
+              "name": "Investing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Crowdfunding",
+              "id": "1046568685018595328",
+              "name": "Crowdfunding"
+            }
+          }
+        ],
+        "conversation_id": "2074414890857771162",
+        "created_at": "2026-07-07T08:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074414890857771162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2061322417763676160",
+              "start": 3,
+              "username": "Lain_pr7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/xizeh5",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/xizeh5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074414890857771162",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074328973140803861",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lain_pr7: 『lain : Protocol 7』公式サイトを更新しました。\nCAMPFIREでクラウドファンディングも実施中です。\n作品を少しでも気になってくれた方は、ぜひ覗いて、応援・拡散していただけたら嬉しいです。\n\nhttps://t.co/xizeh5…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074328941981249536"
+          ]
+        },
+        "author_id": "2061322417763676160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Crowdfunding",
+              "id": "1046568685018595328",
+              "name": "Crowdfunding"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Investing",
+              "id": "847894353708068864",
+              "name": "Investing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Crowdfunding",
+              "id": "1046568685018595328",
+              "name": "Crowdfunding"
+            }
+          }
+        ],
+        "conversation_id": "2074328973140803861",
+        "created_at": "2026-07-07T03:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074328973140803861"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 164,
+              "start": 156,
+              "tag": "lain_p7"
+            }
+          ],
+          "urls": [
+            {
+              "description": "記録が本人より先に返事をする時代へ。約60分の自主制作OVA企画『lain : Protocol 7』",
+              "display_url": "lainpt7.netlify.app",
+              "end": 129,
+              "expanded_url": "https://lainpt7.netlify.app/",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2072115154117103616/NnT_PSza?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2072115154117103616/NnT_PSza?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 106,
+              "status": 200,
+              "title": "lain : Protocol 7 | not as data",
+              "unwound_url": "https://lainpt7.netlify.app/",
+              "url": "https://t.co/xizeh52Ia5"
+            },
+            {
+              "description": "【『serial experiments lain』二次創作90年代リブート】“本当の自分”を探すOVA『Protocol 7』60分プロジェクト",
+              "display_url": "camp-fire.jp/projects/95833…",
+              "end": 154,
+              "expanded_url": "https://camp-fire.jp/projects/958338/",
+              "images": [
+                {
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/news_img/2072157439001235456/ySpTsbkF?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2072157439001235456/ySpTsbkF?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 131,
+              "status": 200,
+              "title": "AI時代のWiredへ。長編OVA『lain : Protocol 7』",
+              "unwound_url": "https://camp-fire.jp/projects/958338/view",
+              "url": "https://t.co/yniJkYBFis"
+            },
+            {
+              "display_url": "pic.x.com/c914CeSfOc",
+              "end": 188,
+              "expanded_url": "https://x.com/Lain_pr7/status/2074328973140803861/photo/1",
+              "media_key": "3_2074328941981249536",
+              "start": 165,
+              "url": "https://t.co/c914CeSfOc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074328973140803861",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1776,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "『lain : Protocol 7』公式サイトを更新しました。\nCAMPFIREでクラウドファンディングも実施中です。\n作品を少しでも気になってくれた方は、ぜひ覗いて、応援・拡散していただけたら嬉しいです。\n\nhttps://t.co/xizeh52Ia5\n\nhttps://t.co/yniJkYBFis\n\n#lain_p7 https://t.co/c914CeSfOc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病多病病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "_kagenone"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8714,
+          "following_count": 6690,
+          "like_count": 15885,
+          "listed_count": 17,
+          "media_count": 3021,
+          "tweet_count": 22182
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T05:43:31.000Z",
+        "description": "『serial experiments lain : Protocol 7』制作告知アカウント。\nTTLガイドラインに基づくファン制作OVA企画。\n公式作品・公式続編・公式監修作品ではありません。\nハッシュタグ #lain_p7",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 114,
+                "start": 106,
+                "tag": "lain_p7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lainpt7.netlify.app",
+                "end": 23,
+                "expanded_url": "https://lainpt7.netlify.app/",
+                "start": 0,
+                "url": "https://t.co/N71DeIwZCN"
+              }
+            ]
+          }
+        },
+        "id": "2061322417763676160",
+        "name": "Lain: Protocol 7【TTLアニメ企画】",
+        "pinned_tweet_id": "2072116666411212936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062941069491519488/68Uw-LGc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 81,
+          "like_count": 179,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 49
+        },
+        "url": "https://t.co/N71DeIwZCN",
+        "username": "Lain_pr7",
+        "verified": false
+      }
+    ]
+  }
+}

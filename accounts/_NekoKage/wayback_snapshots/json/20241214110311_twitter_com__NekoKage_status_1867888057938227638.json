@@ -1,0 +1,517 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1867529618506625024"
+      ],
+      "media_source_tweet_id": [
+        "1867529769434460497"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Advertising",
+          "id": "857878521472888832",
+          "name": "Advertising"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Advertising",
+          "id": "857878521472888832",
+          "name": "Advertising"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272636957504356352",
+          "name": "Business professions"
+        }
+      }
+    ],
+    "conversation_id": "1867888057938227638",
+    "created_at": "2024-12-14T11:03:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-14T12:03:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867888057938227638"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "コパルスクエア初代",
+          "probability": 0.332,
+          "start": 15,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "927139228277923840",
+          "start": 3,
+          "username": "nikora060"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qTTifhW7eL",
+          "end": 79,
+          "expanded_url": "https://x.com/nikora060/status/1867529769434460497/photo/1",
+          "media_key": "3_1867529618506625024",
+          "start": 56,
+          "url": "https://t.co/qTTifhW7eL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867888057938227638",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867529769434460497",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nikora060: コパルスクエア初代の広告\nこの時代にはすでに70%もシェアを持ってたって方に驚く https://t.co/qTTifhW7eL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1948,
+        "media_key": "3_1867529618506625024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GerMSx6bsAAP5n3.jpg",
+        "width": 1382
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867529618506625024"
+          ],
+          "media_source_tweet_id": [
+            "1867529769434460497"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Advertising",
+              "id": "857878521472888832",
+              "name": "Advertising"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Advertising",
+              "id": "857878521472888832",
+              "name": "Advertising"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272636957504356352",
+              "name": "Business professions"
+            }
+          }
+        ],
+        "conversation_id": "1867888057938227638",
+        "created_at": "2024-12-14T11:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T12:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867888057938227638"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "コパルスクエア初代",
+              "probability": 0.332,
+              "start": 15,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "927139228277923840",
+              "start": 3,
+              "username": "nikora060"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qTTifhW7eL",
+              "end": 79,
+              "expanded_url": "https://x.com/nikora060/status/1867529769434460497/photo/1",
+              "media_key": "3_1867529618506625024",
+              "start": 56,
+              "url": "https://t.co/qTTifhW7eL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867888057938227638",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867529769434460497",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nikora060: コパルスクエア初代の広告\nこの時代にはすでに70%もシェアを持ってたって方に驚く https://t.co/qTTifhW7eL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867529618506625024"
+          ]
+        },
+        "author_id": "927139228277923840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Advertising",
+              "id": "857878521472888832",
+              "name": "Advertising"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Advertising",
+              "id": "857878521472888832",
+              "name": "Advertising"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272636957504356352",
+              "name": "Business professions"
+            }
+          }
+        ],
+        "conversation_id": "1867529769434460497",
+        "created_at": "2024-12-13T11:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T12:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867529769434460497"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "コパルスクエア初代",
+              "probability": 0.2863,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qTTifhW7eL",
+              "end": 64,
+              "expanded_url": "https://x.com/nikora060/status/1867529769434460497/photo/1",
+              "media_key": "3_1867529618506625024",
+              "start": 41,
+              "url": "https://t.co/qTTifhW7eL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867529769434460497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2303,
+          "like_count": 93,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "コパルスクエア初代の広告\nこの時代にはすでに70%もシェアを持ってたって方に驚く https://t.co/qTTifhW7eL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain📷膠片攝影/相机维修🚬大烟鬼🔪刃物收藏⌚️入门表匠⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "_kagenone"
+              },
+              {
+                "end": 137,
+                "start": 132,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7375,
+          "following_count": 4326,
+          "like_count": 11926,
+          "listed_count": 19,
+          "media_count": 2025,
+          "tweet_count": 14301
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-05T11:43:12.000Z",
+        "description": "カメラ修理と国産カメラ好き\nカメラと雑誌類でそろそろ床が抜けそう\nNikon S S2 F F2 Canon IVSb F-1\nBronica S2 EC ToyoView 45Gなどなど",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nikora060.hatenablog.com",
+                "end": 23,
+                "expanded_url": "https://nikora060.hatenablog.com/",
+                "start": 0,
+                "url": "https://t.co/WTFZFkECBH"
+              }
+            ]
+          }
+        },
+        "id": "927139228277923840",
+        "location": "東京",
+        "name": "にこら",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1499218265700122625/WuxGiaTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1970,
+          "following_count": 1274,
+          "like_count": 113959,
+          "listed_count": 22,
+          "media_count": 7753,
+          "tweet_count": 78913
+        },
+        "url": "https://t.co/WTFZFkECBH",
+        "username": "nikora060",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,758 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2019073943357845504"
+      ],
+      "media_source_tweet_id": [
+        "2019074149570822289"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "American actor",
+          "id": "1070726524490342400",
+          "name": "Charles Martinet"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026713294",
+          "name": "Nintendo"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "American actor",
+          "id": "1070726524490342400",
+          "name": "Charles Martinet"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "id": "10026713294",
+          "name": "Nintendo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026713294",
+          "name": "Nintendo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "American actor",
+          "id": "1070726524490342400",
+          "name": "Charles Martinet"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      }
+    ],
+    "conversation_id": "2019318165713613273",
+    "created_at": "2026-02-05T07:52:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T08:52:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019318165713613273"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "Charles Martinet",
+          "probability": 0.9845,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "32677236",
+          "start": 3,
+          "username": "AndreSegers"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eCmCym9hZw",
+          "end": 125,
+          "expanded_url": "https://x.com/AndreSegers/status/2019074149570822289/video/1",
+          "media_key": "13_2019073943357845504",
+          "start": 102,
+          "url": "https://t.co/eCmCym9hZw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019318165713613273",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 447
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019074149570822289",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AndreSegers: Charles Martinet still has it! Why'd they let this amazing talent get away again?! 😭 https://t.co/eCmCym9hZw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32166,
+        "height": 3840,
+        "media_key": "13_2019073943357845504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2019073943357845504/img/n19875jaWo13FhHq.jpg",
+        "public_metrics": {
+          "view_count": 54073
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019073943357845504/vid/avc1/320x568/4s5jaGmu4PzSjxSe.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019073943357845504/vid/avc1/480x852/Ix-IPAmOQHVTBaDW.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019073943357845504/vid/avc1/720x1280/qaLddq8LVFSgDn5j.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2019073943357845504/pl/WQgAGNNjgxDd5wWf.m3u8?tag=14&v=9ba"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2019073943357845504"
+          ],
+          "media_source_tweet_id": [
+            "2019074149570822289"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "American actor",
+              "id": "1070726524490342400",
+              "name": "Charles Martinet"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "American actor",
+              "id": "1070726524490342400",
+              "name": "Charles Martinet"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "American actor",
+              "id": "1070726524490342400",
+              "name": "Charles Martinet"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "2019318165713613273",
+        "created_at": "2026-02-05T07:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T08:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019318165713613273"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "Charles Martinet",
+              "probability": 0.9845,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "32677236",
+              "start": 3,
+              "username": "AndreSegers"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eCmCym9hZw",
+              "end": 125,
+              "expanded_url": "https://x.com/AndreSegers/status/2019074149570822289/video/1",
+              "media_key": "13_2019073943357845504",
+              "start": 102,
+              "url": "https://t.co/eCmCym9hZw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019318165713613273",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 447
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019074149570822289",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AndreSegers: Charles Martinet still has it! Why'd they let this amazing talent get away again?! 😭 https://t.co/eCmCym9hZw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2019073943357845504"
+          ]
+        },
+        "author_id": "32677236",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "American actor",
+              "id": "1070726524490342400",
+              "name": "Charles Martinet"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "American actor",
+              "id": "1070726524490342400",
+              "name": "Charles Martinet"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "American actor",
+              "id": "1070726524490342400",
+              "name": "Charles Martinet"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "2019074149570822289",
+        "created_at": "2026-02-04T15:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T16:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019074149570822289"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "Charles Martinet",
+              "probability": 0.9834,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eCmCym9hZw",
+              "end": 108,
+              "expanded_url": "https://x.com/AndreSegers/status/2019074149570822289/video/1",
+              "media_key": "13_2019073943357845504",
+              "start": 85,
+              "url": "https://t.co/eCmCym9hZw"
+            },
+            {
+              "display_url": "x.com/AndreSegers/st…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/AndreSegers/status/2019072673201172656",
+              "start": 109,
+              "url": "https://t.co/Uv9xInGjls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019074149570822289",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 858,
+          "impression_count": 217937,
+          "like_count": 4606,
+          "quote_count": 30,
+          "reply_count": 76,
+          "retweet_count": 447
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019072673201172656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Charles Martinet still has it! Why'd they let this amazing talent get away again?! 😭 https://t.co/eCmCym9hZw https://t.co/Uv9xInGjls"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7964,
+          "following_count": 5704,
+          "like_count": 13795,
+          "listed_count": 17,
+          "media_count": 2580,
+          "tweet_count": 18958
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-18T00:11:10.000Z",
+        "description": "(੭｡╹▿╹｡)੭  Founder of GameXplain",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/gamexplain",
+                "end": 23,
+                "expanded_url": "http://youtube.com/gamexplain",
+                "start": 0,
+                "url": "https://t.co/cTcanu1f7V"
+              }
+            ]
+          }
+        },
+        "id": "32677236",
+        "name": "André",
+        "pinned_tweet_id": "1917604792156971051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975633908113772544/8-hLQ-Si_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34846,
+          "following_count": 1057,
+          "like_count": 129238,
+          "listed_count": 143,
+          "media_count": 10151,
+          "tweet_count": 58348
+        },
+        "url": "https://t.co/cTcanu1f7V",
+        "username": "AndreSegers",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,490 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1273386679273807873",
+          "name": "3D animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1192082698568814592",
+          "name": "Animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1273386679273807873",
+          "name": "3D animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1273386679273807873",
+          "name": "3D animation"
+        }
+      }
+    ],
+    "conversation_id": "1914399172687716778",
+    "created_at": "2025-04-21T19:21:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T20:21:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914399172687716778"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/twinewss/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/twinewss/status/1914242293886030162",
+          "start": 9,
+          "url": "https://t.co/lEBiRbX65n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914399172687716778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914242293886030162",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是这样的一点没错 https://t.co/lEBiRbX65n"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43630,
+        "height": 720,
+        "media_key": "7_1791434123502084096",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1791434123502084096/pu/img/u6kFrdp3eiuEOoCX.jpg",
+        "public_metrics": {
+          "view_count": 4105556
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1791434123502084096/pu/vid/avc1/480x270/wMhDEXsbj0klzWTa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1791434123502084096/pu/vid/avc1/640x360/5ZR2pe1yw-yISx8k.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1791434123502084096/pu/vid/avc1/1280x720/X4i1iwHd9j8ShEjO.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1791434123502084096/pu/pl/WcegMA3YM9elTcTP.m3u8?tag=12&v=5c2"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          }
+        ],
+        "conversation_id": "1914399172687716778",
+        "created_at": "2025-04-21T19:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T20:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914399172687716778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/twinewss/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/twinewss/status/1914242293886030162",
+              "start": 9,
+              "url": "https://t.co/lEBiRbX65n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914399172687716778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914242293886030162",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是这样的一点没错 https://t.co/lEBiRbX65n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1791434123502084096"
+          ],
+          "media_source_tweet_id": [
+            "1791434239504003534"
+          ]
+        },
+        "author_id": "1619666446719807488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          }
+        ],
+        "conversation_id": "1914242293886030162",
+        "created_at": "2025-04-21T08:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T09:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914242293886030162"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "中国",
+              "probability": 0.7445,
+              "start": 1,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pPnreP5nO9",
+              "end": 58,
+              "expanded_url": "https://x.com/YamayaT/status/1791434239504003534/video/1",
+              "media_key": "7_1791434123502084096",
+              "start": 35,
+              "url": "https://t.co/pPnreP5nO9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914242293886030162",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 1252868,
+          "like_count": 568,
+          "quote_count": 13,
+          "reply_count": 34,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "【中国】「こんな民度は嫌だ」が詰まった中国地下鉄乗車啓蒙CG動画\n\n https://t.co/pPnreP5nO9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠📢siren爱好者⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "_kagenone"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7589,
+          "following_count": 4559,
+          "like_count": 12471,
+          "listed_count": 20,
+          "media_count": 2185,
+          "tweet_count": 15320
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-29T11:59:20.000Z",
+        "description": "日本が大好きです☀️メディア・世論・時事世界のニュースからネタまで話題になっている出来事を引用元を明記してツイートしています📣📣※ポスト内容は過去の出来事もポストする事があります",
+        "id": "1619666446719807488",
+        "location": "ご用件のある方はお手数ですがDMまで✉️",
+        "name": "報道Japan🇯🇵",
+        "pinned_tweet_id": "1872968068466618649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758410246090084352/9CDhp80k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131746,
+          "following_count": 12010,
+          "like_count": 1104,
+          "listed_count": 279,
+          "media_count": 50,
+          "tweet_count": 76
+        },
+        "username": "twinewss",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1827590034914197504"
+      ],
+      "media_source_tweet_id": [
+        "1827590042933719471"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Google Pixel",
+          "id": "1045759094756323328",
+          "name": "Google Pixel"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "1827673771576340832",
+    "created_at": "2024-08-25T11:45:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-25T12:45:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827673771576340832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1749645857337880576",
+          "start": 3,
+          "username": "wuweimal"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9eio35onwp",
+          "end": 89,
+          "expanded_url": "https://twitter.com/wuweimal/status/1827590042933719471/photo/1",
+          "media_key": "3_1827590034914197504",
+          "start": 66,
+          "url": "https://t.co/9eIo35ONWP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827673771576340832",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827590042933719471",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wuweimal: 应欧盟的要求，Google Pixel 9 系列边框上都要刻上大大的 Made in China 字样 https://t.co/9eIo35ONWP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1770,
+        "media_key": "3_1827590034914197504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVzndCoawAAVFg7.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827590034914197504"
+          ],
+          "media_source_tweet_id": [
+            "1827590042933719471"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Pixel",
+              "id": "1045759094756323328",
+              "name": "Google Pixel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1827673771576340832",
+        "created_at": "2024-08-25T11:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T12:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827673771576340832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1749645857337880576",
+              "start": 3,
+              "username": "wuweimal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9eio35onwp",
+              "end": 89,
+              "expanded_url": "https://twitter.com/wuweimal/status/1827590042933719471/photo/1",
+              "media_key": "3_1827590034914197504",
+              "start": 66,
+              "url": "https://t.co/9eIo35ONWP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827673771576340832",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827590042933719471",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wuweimal: 应欧盟的要求，Google Pixel 9 系列边框上都要刻上大大的 Made in China 字样 https://t.co/9eIo35ONWP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827590034914197504"
+          ]
+        },
+        "author_id": "1749645857337880576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Pixel",
+              "id": "1045759094756323328",
+              "name": "Google Pixel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1827590042933719471",
+        "created_at": "2024-08-25T06:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T07:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827590042933719471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9eio35onwp",
+              "end": 75,
+              "expanded_url": "https://twitter.com/wuweimal/status/1827590042933719471/photo/1",
+              "media_key": "3_1827590034914197504",
+              "start": 52,
+              "url": "https://t.co/9eIo35ONWP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827590042933719471",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 87236,
+          "like_count": 166,
+          "quote_count": 5,
+          "reply_count": 28,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "应欧盟的要求，Google Pixel 9 系列边框上都要刻上大大的 Made in China 字样 https://t.co/9eIo35ONWP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain📷膠片攝影/相机维修🎧HiFi糊烧🚬大烟鬼🔪刃物收藏⌚️入门表匠🚪88⚠️里推:@_kagenone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 131,
+                "username": "_kagenone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7148,
+          "following_count": 4158,
+          "like_count": 10658,
+          "listed_count": 18,
+          "tweet_count": 13066
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T04:11:10.000Z",
+        "description": "这人啥也没有",
+        "id": "1749645857337880576",
+        "location": "中华人民共和国",
+        "name": "马靓水",
+        "pinned_tweet_id": "1749703801265893403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808371372739252227/Xgi31-FO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3801,
+          "following_count": 754,
+          "like_count": 21529,
+          "listed_count": 18,
+          "tweet_count": 12058
+        },
+        "username": "wuweimal",
+        "verified": true
+      }
+    ]
+  }
+}

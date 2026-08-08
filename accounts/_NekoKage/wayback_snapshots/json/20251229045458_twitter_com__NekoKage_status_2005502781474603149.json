@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2005309322004164608"
+      ],
+      "media_source_tweet_id": [
+        "2005309398110060989"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2005502781474603149",
+    "created_at": "2025-12-29T04:54:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T05:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005502781474603149"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 42,
+          "normalized_text": "autism",
+          "probability": 0.5805,
+          "start": 37,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1215077597798916102",
+          "start": 3,
+          "username": "uncledoomer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/inr0owBY8f",
+          "end": 78,
+          "expanded_url": "https://x.com/uncledoomer/status/2005309398110060989/video/1",
+          "media_key": "13_2005309322004164608",
+          "start": 55,
+          "url": "https://t.co/inr0owBY8f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005502781474603149",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 441
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005309398110060989",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uncledoomer: this is what actual autism looks like https://t.co/inr0owBY8f"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19058,
+        "height": 2268,
+        "media_key": "13_2005309322004164608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2005309322004164608/img/-M9Q4ng_Awl6e2AZ.jpg",
+        "public_metrics": {
+          "view_count": 60911
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005309322004164608/vid/avc1/320x548/S9yLAEfjB6llNIoo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2005309322004164608/pl/E766s9_FcdOcSkdA.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005309322004164608/vid/avc1/720x1236/6wA7fK4EU4BD4ZRW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005309322004164608/vid/avc1/480x824/aRvHmpw6tyzN8uxs.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005309322004164608/vid/avc1/1320x2268/Cq48-WglEE_BW1jO.mp4"
+          }
+        ],
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2005309322004164608"
+          ],
+          "media_source_tweet_id": [
+            "2005309398110060989"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2005502781474603149",
+        "created_at": "2025-12-29T04:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T05:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005502781474603149"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "autism",
+              "probability": 0.5805,
+              "start": 37,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1215077597798916102",
+              "start": 3,
+              "username": "uncledoomer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/inr0owBY8f",
+              "end": 78,
+              "expanded_url": "https://x.com/uncledoomer/status/2005309398110060989/video/1",
+              "media_key": "13_2005309322004164608",
+              "start": 55,
+              "url": "https://t.co/inr0owBY8f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005502781474603149",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 441
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005309398110060989",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uncledoomer: this is what actual autism looks like https://t.co/inr0owBY8f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2005309322004164608"
+          ]
+        },
+        "author_id": "1215077597798916102",
+        "conversation_id": "2005309398110060989",
+        "created_at": "2025-12-28T16:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T17:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005309398110060989"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "autism",
+              "probability": 0.5519,
+              "start": 20,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/inr0owBY8f",
+              "end": 61,
+              "expanded_url": "https://x.com/uncledoomer/status/2005309398110060989/video/1",
+              "media_key": "13_2005309322004164608",
+              "start": 38,
+              "url": "https://t.co/inr0owBY8f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005309398110060989",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1340,
+          "impression_count": 105003,
+          "like_count": 6072,
+          "quote_count": 54,
+          "reply_count": 95,
+          "retweet_count": 441
+        },
+        "reply_settings": "everyone",
+        "text": "this is what actual autism looks like https://t.co/inr0owBY8f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7963,
+          "following_count": 5575,
+          "like_count": 13767,
+          "listed_count": 17,
+          "media_count": 2552,
+          "tweet_count": 18619
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-09T01:07:33.000Z",
+        "description": "what we post in life echoes in eternity",
+        "id": "1215077597798916102",
+        "location": "the fishing hole",
+        "name": "doomer",
+        "pinned_tweet_id": "2003898740797853935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988615358249398272/lju5FLQ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129206,
+          "following_count": 1621,
+          "like_count": 377007,
+          "listed_count": 406,
+          "media_count": 9718,
+          "tweet_count": 41193
+        },
+        "username": "uncledoomer",
+        "verified": true
+      }
+    ]
+  }
+}

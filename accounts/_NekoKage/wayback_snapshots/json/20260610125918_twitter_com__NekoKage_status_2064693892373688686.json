@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064554712486289408"
+      ],
+      "media_source_tweet_id": [
+        "2064554714969366544"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597570732032",
+          "name": "Multi-Purpose Department - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "AEON (イオン)",
+          "id": "1038136899364212736",
+          "name": "AEON (イオン)"
+        }
+      }
+    ],
+    "conversation_id": "2064693892373688686",
+    "created_at": "2026-06-10T12:59:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:59:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064693892373688686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2547162960",
+          "start": 3,
+          "username": "OpheliaKlain2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yGfetlm2x9",
+          "end": 76,
+          "expanded_url": "https://x.com/OpheliaKlain2/status/2064554714969366544/photo/1",
+          "media_key": "3_2064554712486289408",
+          "start": 53,
+          "url": "https://t.co/yGfetlm2x9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064693892373688686",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 223
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064554714969366544",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OpheliaKlain2: 地方の田舎のイオンモールで稀に見かけるこういう格好の男性ホント好き https://t.co/yGfetlm2x9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2064554712486289408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbFkpEaoAAjJ2R.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064554712486289408"
+          ],
+          "media_source_tweet_id": [
+            "2064554714969366544"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597570732032",
+              "name": "Multi-Purpose Department - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "AEON (イオン)",
+              "id": "1038136899364212736",
+              "name": "AEON (イオン)"
+            }
+          }
+        ],
+        "conversation_id": "2064693892373688686",
+        "created_at": "2026-06-10T12:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064693892373688686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2547162960",
+              "start": 3,
+              "username": "OpheliaKlain2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yGfetlm2x9",
+              "end": 76,
+              "expanded_url": "https://x.com/OpheliaKlain2/status/2064554714969366544/photo/1",
+              "media_key": "3_2064554712486289408",
+              "start": 53,
+              "url": "https://t.co/yGfetlm2x9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064693892373688686",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 223
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064554714969366544",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OpheliaKlain2: 地方の田舎のイオンモールで稀に見かけるこういう格好の男性ホント好き https://t.co/yGfetlm2x9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064554712486289408"
+          ]
+        },
+        "author_id": "2547162960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597570732032",
+              "name": "Multi-Purpose Department - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "AEON (イオン)",
+              "id": "1038136899364212736",
+              "name": "AEON (イオン)"
+            }
+          }
+        ],
+        "conversation_id": "2064554714969366544",
+        "created_at": "2026-06-10T03:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064554714969366544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yGfetlm2x9",
+              "end": 57,
+              "expanded_url": "https://x.com/OpheliaKlain2/status/2064554714969366544/photo/1",
+              "media_key": "3_2064554712486289408",
+              "start": 34,
+              "url": "https://t.co/yGfetlm2x9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064554714969366544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 486,
+          "impression_count": 127599,
+          "like_count": 4041,
+          "quote_count": 79,
+          "reply_count": 19,
+          "retweet_count": 223
+        },
+        "reply_settings": "everyone",
+        "text": "地方の田舎のイオンモールで稀に見かけるこういう格好の男性ホント好き https://t.co/yGfetlm2x9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病多病病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "_kagenone"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8640,
+          "following_count": 6587,
+          "like_count": 15362,
+          "listed_count": 17,
+          "media_count": 2946,
+          "tweet_count": 21436
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-05T02:10:59.000Z",
+        "description": "ポイ活やフリマしながら気楽に生きてます。\nhttps://t.co/6YwYYndJPWアソシエイト",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Amazon.co.jp",
+                "end": 44,
+                "expanded_url": "http://Amazon.co.jp",
+                "start": 21,
+                "url": "https://t.co/6YwYYndJPW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "otokonoko.work",
+                "end": 23,
+                "expanded_url": "https://www.otokonoko.work/",
+                "start": 0,
+                "url": "https://t.co/vzhn0c7hRA"
+              }
+            ]
+          }
+        },
+        "id": "2547162960",
+        "location": "日本",
+        "name": "ロクサーヌ",
+        "pinned_tweet_id": "2064637009487122839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007842662460858368/mxiP_OH8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3384,
+          "following_count": 3360,
+          "like_count": 34775,
+          "listed_count": 19,
+          "media_count": 17245,
+          "tweet_count": 87274
+        },
+        "url": "https://t.co/vzhn0c7hRA",
+        "username": "OpheliaKlain2",
+        "verified": false
+      }
+    ]
+  }
+}

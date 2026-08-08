@@ -1,0 +1,517 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drink Experience",
+          "id": "1006278636842782720",
+          "name": "Drink Experience"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Beer",
+          "id": "850142258871418880",
+          "name": "Beer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Beer",
+          "id": "850142258871418880",
+          "name": "Beer"
+        }
+      }
+    ],
+    "conversation_id": "1937898894408515895",
+    "created_at": "2025-06-25T15:41:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T16:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937898894408515895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1761425005177438209",
+          "start": 3,
+          "username": "elfinpsyop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937898894408515895",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937736003021885671",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @elfinpsyop: khhhhh I LOVE DRINKING RAHHH I FUCKEN LOVE BEER AND BEING UNCONTROLLABLE !!! RAHHHHH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drink Experience",
+              "id": "1006278636842782720",
+              "name": "Drink Experience"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Beer",
+              "id": "850142258871418880",
+              "name": "Beer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Beer",
+              "id": "850142258871418880",
+              "name": "Beer"
+            }
+          }
+        ],
+        "conversation_id": "1937898894408515895",
+        "created_at": "2025-06-25T15:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T16:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937898894408515895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1761425005177438209",
+              "start": 3,
+              "username": "elfinpsyop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937898894408515895",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937736003021885671",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @elfinpsyop: khhhhh I LOVE DRINKING RAHHH I FUCKEN LOVE BEER AND BEING UNCONTROLLABLE !!! RAHHHHH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761425005177438209",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drink Experience",
+              "id": "1006278636842782720",
+              "name": "Drink Experience"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Beer",
+              "id": "850142258871418880",
+              "name": "Beer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Beer",
+              "id": "850142258871418880",
+              "name": "Beer"
+            }
+          }
+        ],
+        "conversation_id": "1937736003021885671",
+        "created_at": "2025-06-25T04:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T05:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937736003021885671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/makinanagumo/s…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/makinanagumo/status/1937646392547377575",
+              "start": 85,
+              "url": "https://t.co/DQsncls0c8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937736003021885671",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 12097,
+          "like_count": 779,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937646392547377575",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "khhhhh I LOVE DRINKING RAHHH I FUCKEN LOVE BEER AND BEING UNCONTROLLABLE !!! RAHHHHH https://t.co/DQsncls0c8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🐈#RainWorld⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 107,
+                "tag": "RainWorld"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "_kagenone"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7650,
+          "following_count": 4724,
+          "like_count": 12808,
+          "listed_count": 20,
+          "media_count": 2262,
+          "tweet_count": 16058
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T16:17:13.000Z",
+        "description": "federal agent doomcoded vtuber 🪪🍺 i am the epitome of grotesqueness ✉: elfinpsyop@gmail.com #elfpsyart https://t.co/kPrswkY2VB",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 102,
+                "start": 92,
+                "tag": "elfpsyart"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "elfinpsyop.carrd.co",
+                "end": 126,
+                "expanded_url": "https://elfinpsyop.carrd.co",
+                "start": 103,
+                "url": "https://t.co/kPrswkY2VB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@elfinpsyop",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@elfinpsyop",
+                "start": 0,
+                "url": "https://t.co/TdKijppm5I"
+              }
+            ]
+          }
+        },
+        "id": "1761425005177438209",
+        "name": "elfinpsyop PLUSHIE OUT YAY",
+        "pinned_tweet_id": "1932133646154321939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899391883807264768/jYidzVpz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86220,
+          "following_count": 806,
+          "like_count": 30530,
+          "listed_count": 117,
+          "media_count": 2605,
+          "tweet_count": 9459
+        },
+        "url": "https://t.co/TdKijppm5I",
+        "username": "elfinpsyop",
+        "verified": true
+      }
+    ]
+  }
+}

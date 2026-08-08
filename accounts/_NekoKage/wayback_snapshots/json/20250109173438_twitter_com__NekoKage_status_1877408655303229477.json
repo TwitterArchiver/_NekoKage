@@ -1,0 +1,651 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1877349719242158080",
+        "3_1877349719242059780",
+        "3_1877349719246254085",
+        "3_1877349719246270464"
+      ],
+      "media_source_tweet_id": [
+        "1877349737751355542",
+        "1877349737751355542",
+        "1877349737751355542",
+        "1877349737751355542"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      }
+    ],
+    "conversation_id": "1877408655303229477",
+    "created_at": "2025-01-09T17:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T18:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877408655303229477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1450484442225528834",
+          "start": 3,
+          "username": "_Sugar_photo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aeYKyGTvIz",
+          "end": 84,
+          "expanded_url": "https://x.com/_Sugar_photo/status/1877349737751355542/photo/1",
+          "media_key": "3_1877349719242158080",
+          "start": 61,
+          "url": "https://t.co/aeYKyGTvIz"
+        },
+        {
+          "display_url": "pic.x.com/aeYKyGTvIz",
+          "end": 84,
+          "expanded_url": "https://x.com/_Sugar_photo/status/1877349737751355542/photo/1",
+          "media_key": "3_1877349719242059780",
+          "start": 61,
+          "url": "https://t.co/aeYKyGTvIz"
+        },
+        {
+          "display_url": "pic.x.com/aeYKyGTvIz",
+          "end": 84,
+          "expanded_url": "https://x.com/_Sugar_photo/status/1877349737751355542/photo/1",
+          "media_key": "3_1877349719246254085",
+          "start": 61,
+          "url": "https://t.co/aeYKyGTvIz"
+        },
+        {
+          "display_url": "pic.x.com/aeYKyGTvIz",
+          "end": 84,
+          "expanded_url": "https://x.com/_Sugar_photo/status/1877349737751355542/photo/1",
+          "media_key": "3_1877349719246270464",
+          "start": 61,
+          "url": "https://t.co/aeYKyGTvIz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877408655303229477",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877349737751355542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Sugar_photo: 因みにBRIKK LUX NIKON DFなる\n本物のゴールドエディションもあります https://t.co/aeYKyGTvIz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 331,
+        "media_key": "3_1877349719242158080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg2vn36bsAAL2CE.jpg",
+        "width": 442
+      },
+      {
+        "height": 342,
+        "media_key": "3_1877349719242059780",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg2vn36aMAQxSCx.jpg",
+        "width": 456
+      },
+      {
+        "height": 416,
+        "media_key": "3_1877349719246254085",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg2vn37aMAUWN_g.jpg",
+        "width": 682
+      },
+      {
+        "height": 623,
+        "media_key": "3_1877349719246270464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg2vn37acAAUD9z.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877349719242158080",
+            "3_1877349719242059780",
+            "3_1877349719246254085",
+            "3_1877349719246270464"
+          ],
+          "media_source_tweet_id": [
+            "1877349737751355542",
+            "1877349737751355542",
+            "1877349737751355542",
+            "1877349737751355542"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "1877408655303229477",
+        "created_at": "2025-01-09T17:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T18:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877408655303229477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1450484442225528834",
+              "start": 3,
+              "username": "_Sugar_photo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aeYKyGTvIz",
+              "end": 84,
+              "expanded_url": "https://x.com/_Sugar_photo/status/1877349737751355542/photo/1",
+              "media_key": "3_1877349719242158080",
+              "start": 61,
+              "url": "https://t.co/aeYKyGTvIz"
+            },
+            {
+              "display_url": "pic.x.com/aeYKyGTvIz",
+              "end": 84,
+              "expanded_url": "https://x.com/_Sugar_photo/status/1877349737751355542/photo/1",
+              "media_key": "3_1877349719242059780",
+              "start": 61,
+              "url": "https://t.co/aeYKyGTvIz"
+            },
+            {
+              "display_url": "pic.x.com/aeYKyGTvIz",
+              "end": 84,
+              "expanded_url": "https://x.com/_Sugar_photo/status/1877349737751355542/photo/1",
+              "media_key": "3_1877349719246254085",
+              "start": 61,
+              "url": "https://t.co/aeYKyGTvIz"
+            },
+            {
+              "display_url": "pic.x.com/aeYKyGTvIz",
+              "end": 84,
+              "expanded_url": "https://x.com/_Sugar_photo/status/1877349737751355542/photo/1",
+              "media_key": "3_1877349719246270464",
+              "start": 61,
+              "url": "https://t.co/aeYKyGTvIz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877408655303229477",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877349737751355542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Sugar_photo: 因みにBRIKK LUX NIKON DFなる\n本物のゴールドエディションもあります https://t.co/aeYKyGTvIz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877349719242158080",
+            "3_1877349719242059780",
+            "3_1877349719246254085",
+            "3_1877349719246270464"
+          ]
+        },
+        "author_id": "1450484442225528834",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "1877349737751355542",
+        "created_at": "2025-01-09T13:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T14:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877349737751355542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aeYKyGTvIz",
+              "end": 66,
+              "expanded_url": "https://x.com/_Sugar_photo/status/1877349737751355542/photo/1",
+              "media_key": "3_1877349719242158080",
+              "start": 43,
+              "url": "https://t.co/aeYKyGTvIz"
+            },
+            {
+              "display_url": "pic.x.com/aeYKyGTvIz",
+              "end": 66,
+              "expanded_url": "https://x.com/_Sugar_photo/status/1877349737751355542/photo/1",
+              "media_key": "3_1877349719242059780",
+              "start": 43,
+              "url": "https://t.co/aeYKyGTvIz"
+            },
+            {
+              "display_url": "pic.x.com/aeYKyGTvIz",
+              "end": 66,
+              "expanded_url": "https://x.com/_Sugar_photo/status/1877349737751355542/photo/1",
+              "media_key": "3_1877349719246254085",
+              "start": 43,
+              "url": "https://t.co/aeYKyGTvIz"
+            },
+            {
+              "display_url": "pic.x.com/aeYKyGTvIz",
+              "end": 66,
+              "expanded_url": "https://x.com/_Sugar_photo/status/1877349737751355542/photo/1",
+              "media_key": "3_1877349719246270464",
+              "start": 43,
+              "url": "https://t.co/aeYKyGTvIz"
+            },
+            {
+              "display_url": "x.com/_sugar_photo/s…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/_sugar_photo/status/1877311557668893104",
+              "start": 67,
+              "url": "https://t.co/Zh51YByHiA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877349737751355542",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1113,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877311557668893104",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因みにBRIKK LUX NIKON DFなる\n本物のゴールドエディションもあります https://t.co/aeYKyGTvIz https://t.co/Zh51YByHiA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain📷膠片攝影/相机维修🚬大烟鬼🔪刃物收藏⌚️入门表匠⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "_kagenone"
+              },
+              {
+                "end": 137,
+                "start": 132,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7451,
+          "following_count": 4448,
+          "like_count": 12218,
+          "listed_count": 19,
+          "media_count": 2097,
+          "tweet_count": 14702
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-19T15:30:24.000Z",
+        "description": "aichi.29. Kodak dcsシリーズ集めてる人。 料理の写真は機材名書かれてない時はiPhoneで撮影してます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/_sugar_camera_…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/_sugar_camera_?igshid=OGQ5ZDc2ODk2ZA==",
+                "start": 0,
+                "url": "https://t.co/0Lb3exilR4"
+              }
+            ]
+          }
+        },
+        "id": "1450484442225528834",
+        "location": "Nagoya",
+        "name": "しゅがー",
+        "pinned_tweet_id": "1840410212270035242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788931219763376128/f416gF4y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1643,
+          "following_count": 758,
+          "like_count": 29545,
+          "listed_count": 22,
+          "media_count": 3475,
+          "tweet_count": 18436
+        },
+        "url": "https://t.co/0Lb3exilR4",
+        "username": "_Sugar_photo",
+        "verified": false
+      }
+    ]
+  }
+}

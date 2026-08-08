@@ -1,0 +1,493 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1814198066368679936"
+      ],
+      "media_source_tweet_id": [
+        "1814198139970290103"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1624943334295842816",
+          "name": "Crowdstrike"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "S&P 500",
+          "id": "864154902926196737",
+          "name": "S&P 500"
+        }
+      }
+    ],
+    "conversation_id": "1814372921588195655",
+    "created_at": "2024-07-19T18:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-19T19:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814372921588195655"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 17,
+          "tag": "Microsoft"
+        },
+        {
+          "end": 40,
+          "start": 28,
+          "tag": "Crowdstrike"
+        },
+        {
+          "end": 48,
+          "start": 41,
+          "tag": "outage"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1447313298525806597",
+          "start": 3,
+          "username": "acdengineer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/sjNo6zRclK",
+          "end": 72,
+          "expanded_url": "https://twitter.com/acdengineer/status/1814198139970290103/video/1",
+          "media_key": "7_1814198066368679936",
+          "start": 49,
+          "url": "https://t.co/sjNo6zRclK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814372921588195655",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5102
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814198139970290103",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @acdengineer: #Microsoft #Crowdstrike #outage https://t.co/sjNo6zRclK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16972,
+        "height": 1280,
+        "media_key": "7_1814198066368679936",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1814198066368679936/pu/img/Rsa32K7aDtAV66js.jpg",
+        "public_metrics": {
+          "view_count": 466673
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1814198066368679936/pu/vid/avc1/320x568/frXZeA7bcmi3Ur2J.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1814198066368679936/pu/vid/avc1/480x852/IYgxXWc6x-VOk23b.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1814198066368679936/pu/vid/avc1/720x1280/coFGhB7KqOufYyiH.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1814198066368679936/pu/pl/OdDdnpz_QN5Zevc9.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1814198066368679936"
+          ],
+          "media_source_tweet_id": [
+            "1814198139970290103"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1624943334295842816",
+              "name": "Crowdstrike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "S&P 500",
+              "id": "864154902926196737",
+              "name": "S&P 500"
+            }
+          }
+        ],
+        "conversation_id": "1814372921588195655",
+        "created_at": "2024-07-19T18:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T19:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814372921588195655"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 17,
+              "tag": "Microsoft"
+            },
+            {
+              "end": 40,
+              "start": 28,
+              "tag": "Crowdstrike"
+            },
+            {
+              "end": 48,
+              "start": 41,
+              "tag": "outage"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1447313298525806597",
+              "start": 3,
+              "username": "acdengineer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/sjNo6zRclK",
+              "end": 72,
+              "expanded_url": "https://twitter.com/acdengineer/status/1814198139970290103/video/1",
+              "media_key": "7_1814198066368679936",
+              "start": 49,
+              "url": "https://t.co/sjNo6zRclK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814372921588195655",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5102
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814198139970290103",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @acdengineer: #Microsoft #Crowdstrike #outage https://t.co/sjNo6zRclK"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1814198066368679936"
+          ]
+        },
+        "author_id": "1447313298525806597",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1624943334295842816",
+              "name": "Crowdstrike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "S&P 500",
+              "id": "864154902926196737",
+              "name": "S&P 500"
+            }
+          }
+        ],
+        "conversation_id": "1814198139970290103",
+        "created_at": "2024-07-19T07:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T08:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1814198139970290103"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "Microsoft"
+            },
+            {
+              "end": 23,
+              "start": 11,
+              "tag": "Crowdstrike"
+            },
+            {
+              "end": 31,
+              "start": 24,
+              "tag": "outage"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/sjNo6zRclK",
+              "end": 55,
+              "expanded_url": "https://twitter.com/acdengineer/status/1814198139970290103/video/1",
+              "media_key": "7_1814198066368679936",
+              "start": 32,
+              "url": "https://t.co/sjNo6zRclK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814198139970290103",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2677,
+          "impression_count": 882710,
+          "like_count": 20215,
+          "quote_count": 367,
+          "reply_count": 99,
+          "retweet_count": 5102
+        },
+        "reply_settings": "everyone",
+        "text": "#Microsoft #Crowdstrike #outage https://t.co/sjNo6zRclK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain🎧HiFi糊烧🚬大烟鬼🔪刃物收藏⌚️入门表匠🚪88⚠️@_kagenone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 118,
+                "username": "_kagenone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7017,
+          "following_count": 3982,
+          "like_count": 9845,
+          "listed_count": 19,
+          "tweet_count": 12356
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-10T21:29:25.000Z",
+        "description": "",
+        "id": "1447313298525806597",
+        "location": "New Delhi, India",
+        "name": "Accidental Enginner",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565108650586214400/bMCKywfY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 1003,
+          "like_count": 6177,
+          "listed_count": 1,
+          "tweet_count": 1082
+        },
+        "username": "acdengineer",
+        "verified": false
+      }
+    ]
+  }
+}

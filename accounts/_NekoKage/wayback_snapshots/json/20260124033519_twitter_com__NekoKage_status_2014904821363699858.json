@@ -1,0 +1,618 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1557773577243336705",
+          "name": "Houshou Marine"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1557773577243336705",
+          "name": "Houshou Marine"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1557773577243336705",
+          "name": "Houshou Marine"
+        }
+      }
+    ],
+    "conversation_id": "2014904821363699858",
+    "created_at": "2026-01-24T03:35:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T04:35:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014904821363699858"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 65,
+          "normalized_text": "マリン船長",
+          "probability": 0.2766,
+          "start": 61,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 114,
+          "start": 108,
+          "tag": "ホロライブ"
+        },
+        {
+          "end": 121,
+          "start": 115,
+          "tag": "マリン船長"
+        },
+        {
+          "end": 129,
+          "start": 122,
+          "tag": "マリンのお宝"
+        },
+        {
+          "end": 136,
+          "start": 130,
+          "tag": "宝鐘マリン"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1368459109293465602",
+          "start": 3,
+          "username": "portalgraph"
+        },
+        {
+          "end": 105,
+          "id": "1153192638645821440",
+          "start": 91,
+          "username": "houshoumarine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014904821363699858",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014660310775587009",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @portalgraph: ついに7つの液晶でPortalgraphを実現！！\n\nもはや箱型ではなくなった液晶の中でマリン船長に美少女無罪♡パイレーツを踊ってもらいました！\n\n@houshoumarine \n\n#ホロライブ #マリン船長 #マリンのお宝 #宝鐘マリン #ホ…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2014904821363699858].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2014904821363699858",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2014904821363699858"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 83093,
+        "height": 3840,
+        "media_key": "13_2014659212564168710",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2014659212564168710/img/b9lTGzveS6m5FHgi.jpg",
+        "public_metrics": {
+          "view_count": 50997
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014659212564168710/vid/avc1/480x852/iNlaIsKMEdbS-vNk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014659212564168710/vid/avc1/720x1280/81r3ibaJVztzTKLG.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014659212564168710/vid/avc1/1080x1920/UFQ4mTsqrydHaB2q.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2014659212564168710/pl/xLlHpnd6fI_nv9Ky.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014659212564168710/vid/avc1/320x568/j5bn1kH5r1wThvBN.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014659212564168710/vid/avc1/2160x3840/HjKbknuvkBzEpEzy.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2014659212564168710"
+          ]
+        },
+        "author_id": "1368459109293465602",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1557773577243336705",
+              "name": "Houshou Marine"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1557773577243336705",
+              "name": "Houshou Marine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1557773577243336705",
+              "name": "Houshou Marine"
+            }
+          }
+        ],
+        "conversation_id": "2014660310775587009",
+        "created_at": "2026-01-23T11:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T12:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014660310775587009"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 97,
+              "start": 91,
+              "tag": "ホロライブ"
+            },
+            {
+              "end": 104,
+              "start": 98,
+              "tag": "マリン船長"
+            },
+            {
+              "end": 112,
+              "start": 105,
+              "tag": "マリンのお宝"
+            },
+            {
+              "end": 119,
+              "start": 113,
+              "tag": "宝鐘マリン"
+            },
+            {
+              "end": 134,
+              "start": 120,
+              "tag": "ホロライブ好きと繋がりたい"
+            },
+            {
+              "end": 147,
+              "start": 135,
+              "tag": "Portalgraph"
+            },
+            {
+              "end": 155,
+              "start": 148,
+              "tag": "Vtuber"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 88,
+              "id": "1153192638645821440",
+              "start": 74,
+              "username": "houshoumarine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yDTKpdP8pk",
+              "end": 179,
+              "expanded_url": "https://x.com/portalgraph/status/2014660310775587009/video/1",
+              "media_key": "13_2014659212564168710",
+              "start": 156,
+              "url": "https://t.co/yDTKpdP8pk"
+            },
+            {
+              "display_url": "x.com/portalgraph/st…",
+              "end": 203,
+              "expanded_url": "https://twitter.com/portalgraph/status/1895642035803345029",
+              "start": 180,
+              "url": "https://t.co/IvRotWW8Vd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014660310775587009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 145,
+          "impression_count": 11532,
+          "like_count": 906,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895642035803345029",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ついに7つの液晶でPortalgraphを実現！！\n\nもはや箱型ではなくなった液晶の中でマリン船長に美少女無罪♡パイレーツを踊ってもらいました！\n\n@houshoumarine \n\n#ホロライブ #マリン船長 #マリンのお宝 #宝鐘マリン #ホロライブ好きと繋がりたい #Portalgraph #Vtuber https://t.co/yDTKpdP8pk https://t.co/IvRotWW8Vd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7952,
+          "following_count": 5620,
+          "like_count": 13768,
+          "listed_count": 17,
+          "media_count": 2566,
+          "tweet_count": 18842
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-07T07:11:05.000Z",
+        "description": "VR空間投影技術Portalgraphを開発する株式会社Portalgraph公式アカウント｜東京ゲームショウ2023 SOWNグランプリ、XRクリエイティブアワード企業部門賞受賞🏆｜ご依頼・ご相談はHP(https://t.co/ijjdUTkbhJ)のお問い合わせからお願いします✉️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "portalgraph.com",
+                "end": 126,
+                "expanded_url": "https://www.portalgraph.com/",
+                "start": 103,
+                "url": "https://t.co/ijjdUTkbhJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "portalgraph.booth.pm",
+                "end": 23,
+                "expanded_url": "https://portalgraph.booth.pm/",
+                "start": 0,
+                "url": "https://t.co/4Cyg0hlAes"
+              }
+            ]
+          }
+        },
+        "id": "1368459109293465602",
+        "location": "Tokyo-to, Japan",
+        "name": "Portalgraph",
+        "pinned_tweet_id": "1589499127813255168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888153727720435712/iFZEPLRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13450,
+          "following_count": 113,
+          "like_count": 1729,
+          "listed_count": 90,
+          "media_count": 402,
+          "tweet_count": 1637
+        },
+        "url": "https://t.co/4Cyg0hlAes",
+        "username": "portalgraph",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-22T06:38:45.000Z",
+        "description": "hololive houshou marine/【ファンネーム】宝鐘の一味/【生放送タグ】#マリン航海記/【切り抜き動画タグ】#わかるマリン/【ファンアート】#マリンのお宝/おかあさん💘 @AkasaAi /【TikTok】https://t.co/nK67k0inNe",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 45,
+                "tag": "マリン航海記"
+              },
+              {
+                "end": 70,
+                "start": 63,
+                "tag": "わかるマリン"
+              },
+              {
+                "end": 86,
+                "start": 79,
+                "tag": "マリンのお宝"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 102,
+                "start": 94,
+                "username": "AkasaAi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "onl.tw/77s8tJX",
+                "end": 135,
+                "expanded_url": "https://onl.tw/77s8tJX",
+                "start": 112,
+                "url": "https://t.co/nK67k0inNe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCCzUf…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/fGejv71W3k"
+              }
+            ]
+          }
+        },
+        "id": "1153192638645821440",
+        "location": "ホロライブファンタジー",
+        "name": "宝鐘マリン🏴‍☠️＠Kアリーナ横浜🎤3期生ライブ開催!!【2026.1/17-18】",
+        "pinned_tweet_id": "1950526538446737716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835492753289220096/rpWSQdrd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1976523,
+          "following_count": 1331,
+          "like_count": 91661,
+          "listed_count": 16514,
+          "media_count": 2977,
+          "tweet_count": 26857
+        },
+        "url": "https://t.co/fGejv71W3k",
+        "username": "houshoumarine",
+        "verified": true
+      }
+    ]
+  }
+}

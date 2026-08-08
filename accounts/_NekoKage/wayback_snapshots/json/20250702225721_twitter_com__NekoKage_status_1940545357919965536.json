@@ -1,0 +1,503 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1879271241242341376"
+      ],
+      "media_source_tweet_id": [
+        "1879271419298873480"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899469046054924",
+          "name": "Virtual reality games"
+        }
+      }
+    ],
+    "conversation_id": "1940545357919965536",
+    "created_at": "2025-07-02T22:57:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T23:57:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940545357919965536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1729942310551744512",
+          "start": 3,
+          "username": "watashicast"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y3VCmJdAM4",
+          "end": 72,
+          "expanded_url": "https://x.com/watashicast/status/1879271419298873480/video/1",
+          "media_key": "7_1879271241242341376",
+          "start": 49,
+          "url": "https://t.co/y3VCmJdAM4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940545357919965536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879271419298873480",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @watashicast: VRChatの歩行モーションに使うためのアニメーションを作成中 https://t.co/y3VCmJdAM4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2733,
+        "height": 1280,
+        "media_key": "7_1879271241242341376",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1879271241242341376/pu/img/HuyNUSm-JG5DqriH.jpg",
+        "public_metrics": {
+          "view_count": 1601
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1879271241242341376/pu/vid/avc1/320x568/6kQgJhszd8ghoBat.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1879271241242341376/pu/vid/avc1/480x852/t7enGGaUBgEpB54W.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1879271241242341376/pu/vid/avc1/720x1280/fsMC-9xah0h6zlv6.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1879271241242341376/pu/pl/1Mj8ZO4f5TFFGlg1.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1879271241242341376"
+          ],
+          "media_source_tweet_id": [
+            "1879271419298873480"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "1940545357919965536",
+        "created_at": "2025-07-02T22:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T23:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940545357919965536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1729942310551744512",
+              "start": 3,
+              "username": "watashicast"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y3VCmJdAM4",
+              "end": 72,
+              "expanded_url": "https://x.com/watashicast/status/1879271419298873480/video/1",
+              "media_key": "7_1879271241242341376",
+              "start": 49,
+              "url": "https://t.co/y3VCmJdAM4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940545357919965536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879271419298873480",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @watashicast: VRChatの歩行モーションに使うためのアニメーションを作成中 https://t.co/y3VCmJdAM4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1879271241242341376"
+          ]
+        },
+        "author_id": "1729942310551744512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "1879271419298873480",
+        "created_at": "2025-01-14T20:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T21:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879271419298873480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y3VCmJdAM4",
+              "end": 55,
+              "expanded_url": "https://x.com/watashicast/status/1879271419298873480/video/1",
+              "media_key": "7_1879271241242341376",
+              "start": 32,
+              "url": "https://t.co/y3VCmJdAM4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879271419298873480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 5060,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "VRChatの歩行モーションに使うためのアニメーションを作成中 https://t.co/y3VCmJdAM4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🐈#RainWorld⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 107,
+                "tag": "RainWorld"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "_kagenone"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7674,
+          "following_count": 4762,
+          "like_count": 12877,
+          "listed_count": 20,
+          "media_count": 2276,
+          "tweet_count": 16188
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T19:16:41.000Z",
+        "description": "ギプスフェチ垢です (骨折/ギプス/三角巾/松葉杖/眼帯 ときどき欠損)",
+        "id": "1729942310551744512",
+        "name": "わたし",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729947945628528641/GfdLdIwN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 59,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 56
+        },
+        "username": "watashicast",
+        "verified": false
+      }
+    ]
+  }
+}

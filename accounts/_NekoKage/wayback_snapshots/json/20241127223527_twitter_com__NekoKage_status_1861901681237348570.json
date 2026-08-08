@@ -1,0 +1,499 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861766479559163905"
+      ],
+      "media_source_tweet_id": [
+        "1861766486458802369"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Drums",
+          "id": "898269950124490756",
+          "name": "Drums"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drums",
+          "id": "898269950124490756",
+          "name": "Drums"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      }
+    ],
+    "conversation_id": "1861901681237348570",
+    "created_at": "2024-11-27T22:35:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T23:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861901681237348570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1594187010373455872",
+          "start": 3,
+          "username": "retina3c_xenon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/18P9AtqCrr",
+          "end": 90,
+          "expanded_url": "https://x.com/retina3c_xenon/status/1861766486458802369/photo/1",
+          "media_key": "3_1861766479559163905",
+          "start": 67,
+          "url": "https://t.co/18P9AtqCrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861901681237348570",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861766486458802369",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @retina3c_xenon: SR-1で採用されたドラム式カウンターは10数年の時を経て向きを変えてXEで復活する事になる https://t.co/18P9AtqCrr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1861766479559163905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdZSv8TagAER0--.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861766479559163905"
+          ],
+          "media_source_tweet_id": [
+            "1861766486458802369"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Drums",
+              "id": "898269950124490756",
+              "name": "Drums"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drums",
+              "id": "898269950124490756",
+              "name": "Drums"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          }
+        ],
+        "conversation_id": "1861901681237348570",
+        "created_at": "2024-11-27T22:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T23:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861901681237348570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1594187010373455872",
+              "start": 3,
+              "username": "retina3c_xenon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/18P9AtqCrr",
+              "end": 90,
+              "expanded_url": "https://x.com/retina3c_xenon/status/1861766486458802369/photo/1",
+              "media_key": "3_1861766479559163905",
+              "start": 67,
+              "url": "https://t.co/18P9AtqCrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861901681237348570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861766486458802369",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @retina3c_xenon: SR-1で採用されたドラム式カウンターは10数年の時を経て向きを変えてXEで復活する事になる https://t.co/18P9AtqCrr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861766479559163905"
+          ]
+        },
+        "author_id": "1594187010373455872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Drums",
+              "id": "898269950124490756",
+              "name": "Drums"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drums",
+              "id": "898269950124490756",
+              "name": "Drums"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          }
+        ],
+        "conversation_id": "1861766486458802369",
+        "created_at": "2024-11-27T13:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T14:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861766486458802369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/18P9AtqCrr",
+              "end": 70,
+              "expanded_url": "https://x.com/retina3c_xenon/status/1861766486458802369/photo/1",
+              "media_key": "3_1861766479559163905",
+              "start": 47,
+              "url": "https://t.co/18P9AtqCrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861766486458802369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 339,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "SR-1で採用されたドラム式カウンターは10数年の時を経て向きを変えてXEで復活する事になる https://t.co/18P9AtqCrr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain📷膠片攝影/相机维修🚬大烟鬼🔪刃物收藏⌚️入门表匠⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "_kagenone"
+              },
+              {
+                "end": 137,
+                "start": 132,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7342,
+          "following_count": 4291,
+          "like_count": 11818,
+          "listed_count": 18,
+          "media_count": 2002,
+          "tweet_count": 14145
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T04:33:17.000Z",
+        "description": "個人でフィルムカメラ(主に機械式)のメンテナンスを行なっております。一台でも多く使えるカメラを世の中に戻すべく頑張っております(^^)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jp.mercari.com/user/profile/7…",
+                "end": 23,
+                "expanded_url": "https://jp.mercari.com/user/profile/769756698?utm_medium=share&utm_source=ios",
+                "start": 0,
+                "url": "https://t.co/Z4uoYeVbHy"
+              }
+            ]
+          }
+        },
+        "id": "1594187010373455872",
+        "name": "レチナ(六甲堂)",
+        "pinned_tweet_id": "1851391287506976991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700811695676116992/oFDIfCzy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 858,
+          "like_count": 36816,
+          "listed_count": 14,
+          "media_count": 3680,
+          "tweet_count": 16342
+        },
+        "url": "https://t.co/Z4uoYeVbHy",
+        "username": "retina3c_xenon",
+        "verified": false
+      }
+    ]
+  }
+}

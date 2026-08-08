@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2032095119063633920"
+      ],
+      "media_source_tweet_id": [
+        "2032132010140189099"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cigars",
+          "id": "847869198579646464",
+          "name": "Cigars"
+        }
+      }
+    ],
+    "conversation_id": "2032153986548318573",
+    "created_at": "2026-03-12T17:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T18:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032153986548318573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1679606045461577728",
+          "start": 3,
+          "username": "Mericamemed"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/COjdiFw1jg",
+          "end": 101,
+          "expanded_url": "https://x.com/Mericamemed/status/2032132010140189099/video/1",
+          "media_key": "13_2032095119063633920",
+          "start": 78,
+          "url": "https://t.co/COjdiFw1jg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032153986548318573",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032132010140189099",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mericamemed: The boss is so badass that his jacket has pockets for cigars https://t.co/COjdiFw1jg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 99567,
+        "height": 1920,
+        "media_key": "13_2032095119063633920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032095119063633920/img/ZB1ff0P9u_hhEL9P.jpg",
+        "public_metrics": {
+          "view_count": 5511
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032095119063633920/vid/avc1/480x852/U_K2A6hRwEzhI6Jh.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032095119063633920/vid/avc1/320x568/nKI81UAr0FIlsw6i.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032095119063633920/pl/w8kYbdT26inc_hGP.m3u8?v=175"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032095119063633920/vid/avc1/1080x1920/30RkBeP0gvsqqVpM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032095119063633920/vid/avc1/720x1280/BLgnDQVO22GjODmq.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032095119063633920"
+          ],
+          "media_source_tweet_id": [
+            "2032132010140189099"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cigars",
+              "id": "847869198579646464",
+              "name": "Cigars"
+            }
+          }
+        ],
+        "conversation_id": "2032153986548318573",
+        "created_at": "2026-03-12T17:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T18:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032153986548318573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1679606045461577728",
+              "start": 3,
+              "username": "Mericamemed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/COjdiFw1jg",
+              "end": 101,
+              "expanded_url": "https://x.com/Mericamemed/status/2032132010140189099/video/1",
+              "media_key": "13_2032095119063633920",
+              "start": 78,
+              "url": "https://t.co/COjdiFw1jg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032153986548318573",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032132010140189099",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mericamemed: The boss is so badass that his jacket has pockets for cigars https://t.co/COjdiFw1jg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032095119063633920"
+          ]
+        },
+        "author_id": "1679606045461577728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cigars",
+              "id": "847869198579646464",
+              "name": "Cigars"
+            }
+          }
+        ],
+        "conversation_id": "2032132010140189099",
+        "created_at": "2026-03-12T16:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T17:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032132010140189099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/COjdiFw1jg",
+              "end": 84,
+              "expanded_url": "https://x.com/Mericamemed/status/2032132010140189099/video/1",
+              "media_key": "13_2032095119063633920",
+              "start": 61,
+              "url": "https://t.co/COjdiFw1jg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032132010140189099",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 9542,
+          "like_count": 105,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "The boss is so badass that his jacket has pockets for cigars https://t.co/COjdiFw1jg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 118,
+                "start": 113,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8150,
+          "following_count": 5910,
+          "like_count": 14080,
+          "listed_count": 17,
+          "media_count": 2668,
+          "tweet_count": 19629
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T21:37:53.000Z",
+        "description": "Meme Overlord with American swagger. Battling commies one meme at a time. Champion of liberty. MERICA! 🦅🇺🇸",
+        "id": "1679606045461577728",
+        "location": "Richmond, Virginia",
+        "name": "MERICA MEMED",
+        "pinned_tweet_id": "2028553428444540999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710485897563566081/mWy3bWZo_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325273,
+          "following_count": 807,
+          "like_count": 18526,
+          "listed_count": 253,
+          "media_count": 6286,
+          "tweet_count": 7645
+        },
+        "username": "Mericamemed",
+        "verified": true
+      }
+    ]
+  }
+}

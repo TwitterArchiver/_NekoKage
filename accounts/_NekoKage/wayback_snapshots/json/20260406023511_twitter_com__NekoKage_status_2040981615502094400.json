@@ -1,0 +1,733 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040754756621316096",
+        "3_2040754817983987712",
+        "3_2040754851328430080",
+        "3_2040754875366051840"
+      ],
+      "media_source_tweet_id": [
+        "2040754936049225911",
+        "2040754936049225911",
+        "2040754936049225911",
+        "2040754936049225911"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      }
+    ],
+    "conversation_id": "2040981615502094400",
+    "created_at": "2026-04-06T02:35:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T03:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040981615502094400"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 18,
+          "tag": "日本光学"
+        },
+        {
+          "end": 29,
+          "start": 25,
+          "tag": "ニコン"
+        },
+        {
+          "end": 44,
+          "start": 31,
+          "tag": "NipponKogaku"
+        },
+        {
+          "end": 53,
+          "start": 46,
+          "tag": "日本光学工業"
+        },
+        {
+          "end": 68,
+          "start": 57,
+          "tag": "NikonWorld"
+        },
+        {
+          "end": 78,
+          "start": 70,
+          "tag": "推しNikon"
+        },
+        {
+          "end": 86,
+          "start": 80,
+          "tag": "ニッコール"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "323105200",
+          "start": 3,
+          "username": "art_in_nikko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KUR2kLuEM0",
+          "end": 138,
+          "expanded_url": "https://x.com/art_in_nikko/status/2040754936049225911/photo/1",
+          "media_key": "3_2040754756621316096",
+          "start": 115,
+          "url": "https://t.co/KUR2kLuEM0"
+        },
+        {
+          "display_url": "pic.x.com/KUR2kLuEM0",
+          "end": 138,
+          "expanded_url": "https://x.com/art_in_nikko/status/2040754936049225911/photo/1",
+          "media_key": "3_2040754817983987712",
+          "start": 115,
+          "url": "https://t.co/KUR2kLuEM0"
+        },
+        {
+          "display_url": "pic.x.com/KUR2kLuEM0",
+          "end": 138,
+          "expanded_url": "https://x.com/art_in_nikko/status/2040754936049225911/photo/1",
+          "media_key": "3_2040754851328430080",
+          "start": 115,
+          "url": "https://t.co/KUR2kLuEM0"
+        },
+        {
+          "display_url": "pic.x.com/KUR2kLuEM0",
+          "end": 138,
+          "expanded_url": "https://x.com/art_in_nikko/status/2040754936049225911/photo/1",
+          "media_key": "3_2040754875366051840",
+          "start": 115,
+          "url": "https://t.co/KUR2kLuEM0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040981615502094400",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040754936049225911",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @art_in_nikko: #日本光学, #ニコン, #NipponKogaku, #日本光学工業,   #NikonWorld, #推しNikon, #ニッコール, Nikon Flat precision glass https://t.co/KUR2kLuEM0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2040754756621316096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFI3o4YaMAA6SIM.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_2040754817983987712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFI3sc-aQAA55Yq.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_2040754851328430080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFI3uZMWEAAlZSP.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_2040754875366051840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFI3vyvXEAAMyJF.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040754756621316096",
+            "3_2040754817983987712",
+            "3_2040754851328430080",
+            "3_2040754875366051840"
+          ],
+          "media_source_tweet_id": [
+            "2040754936049225911",
+            "2040754936049225911",
+            "2040754936049225911",
+            "2040754936049225911"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "2040981615502094400",
+        "created_at": "2026-04-06T02:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040981615502094400"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "日本光学"
+            },
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "ニコン"
+            },
+            {
+              "end": 44,
+              "start": 31,
+              "tag": "NipponKogaku"
+            },
+            {
+              "end": 53,
+              "start": 46,
+              "tag": "日本光学工業"
+            },
+            {
+              "end": 68,
+              "start": 57,
+              "tag": "NikonWorld"
+            },
+            {
+              "end": 78,
+              "start": 70,
+              "tag": "推しNikon"
+            },
+            {
+              "end": 86,
+              "start": 80,
+              "tag": "ニッコール"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "323105200",
+              "start": 3,
+              "username": "art_in_nikko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KUR2kLuEM0",
+              "end": 138,
+              "expanded_url": "https://x.com/art_in_nikko/status/2040754936049225911/photo/1",
+              "media_key": "3_2040754756621316096",
+              "start": 115,
+              "url": "https://t.co/KUR2kLuEM0"
+            },
+            {
+              "display_url": "pic.x.com/KUR2kLuEM0",
+              "end": 138,
+              "expanded_url": "https://x.com/art_in_nikko/status/2040754936049225911/photo/1",
+              "media_key": "3_2040754817983987712",
+              "start": 115,
+              "url": "https://t.co/KUR2kLuEM0"
+            },
+            {
+              "display_url": "pic.x.com/KUR2kLuEM0",
+              "end": 138,
+              "expanded_url": "https://x.com/art_in_nikko/status/2040754936049225911/photo/1",
+              "media_key": "3_2040754851328430080",
+              "start": 115,
+              "url": "https://t.co/KUR2kLuEM0"
+            },
+            {
+              "display_url": "pic.x.com/KUR2kLuEM0",
+              "end": 138,
+              "expanded_url": "https://x.com/art_in_nikko/status/2040754936049225911/photo/1",
+              "media_key": "3_2040754875366051840",
+              "start": 115,
+              "url": "https://t.co/KUR2kLuEM0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040981615502094400",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040754936049225911",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @art_in_nikko: #日本光学, #ニコン, #NipponKogaku, #日本光学工業,   #NikonWorld, #推しNikon, #ニッコール, Nikon Flat precision glass https://t.co/KUR2kLuEM0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040754756621316096",
+            "3_2040754817983987712",
+            "3_2040754851328430080",
+            "3_2040754875366051840"
+          ]
+        },
+        "author_id": "323105200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "2040754936049225911",
+        "created_at": "2026-04-05T11:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040754936049225911"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "日本光学"
+            },
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "ニコン"
+            },
+            {
+              "end": 26,
+              "start": 13,
+              "tag": "NipponKogaku"
+            },
+            {
+              "end": 35,
+              "start": 28,
+              "tag": "日本光学工業"
+            },
+            {
+              "end": 50,
+              "start": 39,
+              "tag": "NikonWorld"
+            },
+            {
+              "end": 60,
+              "start": 52,
+              "tag": "推しNikon"
+            },
+            {
+              "end": 68,
+              "start": 62,
+              "tag": "ニッコール"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KUR2kLuEM0",
+              "end": 120,
+              "expanded_url": "https://x.com/art_in_nikko/status/2040754936049225911/photo/1",
+              "media_key": "3_2040754756621316096",
+              "start": 97,
+              "url": "https://t.co/KUR2kLuEM0"
+            },
+            {
+              "display_url": "pic.x.com/KUR2kLuEM0",
+              "end": 120,
+              "expanded_url": "https://x.com/art_in_nikko/status/2040754936049225911/photo/1",
+              "media_key": "3_2040754817983987712",
+              "start": 97,
+              "url": "https://t.co/KUR2kLuEM0"
+            },
+            {
+              "display_url": "pic.x.com/KUR2kLuEM0",
+              "end": 120,
+              "expanded_url": "https://x.com/art_in_nikko/status/2040754936049225911/photo/1",
+              "media_key": "3_2040754851328430080",
+              "start": 97,
+              "url": "https://t.co/KUR2kLuEM0"
+            },
+            {
+              "display_url": "pic.x.com/KUR2kLuEM0",
+              "end": 120,
+              "expanded_url": "https://x.com/art_in_nikko/status/2040754936049225911/photo/1",
+              "media_key": "3_2040754875366051840",
+              "start": 97,
+              "url": "https://t.co/KUR2kLuEM0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040754936049225911",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 204,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#日本光学, #ニコン, #NipponKogaku, #日本光学工業,   #NikonWorld, #推しNikon, #ニッコール, Nikon Flat precision glass https://t.co/KUR2kLuEM0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8183,
+          "following_count": 6145,
+          "like_count": 14289,
+          "listed_count": 17,
+          "media_count": 2747,
+          "tweet_count": 20066
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-24T07:58:40.000Z",
+        "description": "",
+        "id": "323105200",
+        "name": "Martin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/743869587863781376/IJGtnlpQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 4589,
+          "like_count": 70683,
+          "listed_count": 18,
+          "media_count": 3068,
+          "tweet_count": 5556
+        },
+        "username": "art_in_nikko",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cell phones",
+          "id": "848920700073123840",
+          "name": "Cell Phones"
+        }
+      }
+    ],
+    "conversation_id": "2083125824417673250",
+    "created_at": "2026-07-31T09:41:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T10:41:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083125824417673250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "51707360",
+          "start": 3,
+          "username": "rolling_u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083125824417673250",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083030027487351063",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rolling_u: 荷物の整理中、懐かしいのが出てきた！\n\n’90年代初頭に発売されたインテリジェントダイヤラー（IDS-110）。\n\n固定電話の受話器に裏面のスピーカーをあて、ピポパ音を聴かせて自動発信する仕組み。\n\n携帯電話が広まるまえの時代、外出先でポケットから…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3591,
+        "media_key": "3_2083029929936257024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhor1ZbgAAccDT.jpg",
+        "width": 2779
+      },
+      {
+        "height": 3669,
+        "media_key": "3_2083029937838338048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhosS1bsAAmxKS.jpg",
+        "width": 2619
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          }
+        ],
+        "conversation_id": "2083125824417673250",
+        "created_at": "2026-07-31T09:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083125824417673250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "51707360",
+              "start": 3,
+              "username": "rolling_u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083125824417673250",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083030027487351063",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rolling_u: 荷物の整理中、懐かしいのが出てきた！\n\n’90年代初頭に発売されたインテリジェントダイヤラー（IDS-110）。\n\n固定電話の受話器に裏面のスピーカーをあて、ピポパ音を聴かせて自動発信する仕組み。\n\n携帯電話が広まるまえの時代、外出先でポケットから…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083029929936257024",
+            "3_2083029937838338048"
+          ]
+        },
+        "author_id": "51707360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          }
+        ],
+        "conversation_id": "2083030027487351063",
+        "created_at": "2026-07-31T03:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083030027487351063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zENoJ1yl80",
+              "end": 171,
+              "expanded_url": "https://x.com/rolling_u/status/2083030027487351063/photo/1",
+              "media_key": "3_2083029929936257024",
+              "start": 148,
+              "url": "https://t.co/zENoJ1yl80"
+            },
+            {
+              "display_url": "pic.x.com/zENoJ1yl80",
+              "end": 171,
+              "expanded_url": "https://x.com/rolling_u/status/2083030027487351063/photo/1",
+              "media_key": "3_2083029937838338048",
+              "start": 148,
+              "url": "https://t.co/zENoJ1yl80"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083030027487351063",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 989,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "荷物の整理中、懐かしいのが出てきた！\n\n’90年代初頭に発売されたインテリジェントダイヤラー（IDS-110）。\n\n固定電話の受話器に裏面のスピーカーをあて、ピポパ音を聴かせて自動発信する仕組み。\n\n携帯電話が広まるまえの時代、外出先でポケットから取り出して発信をサポートする面白いプロダクト。 https://t.co/zENoJ1yl80"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病多病病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "_kagenone"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8734,
+          "following_count": 6712,
+          "like_count": 16021,
+          "listed_count": 17,
+          "media_count": 3056,
+          "tweet_count": 22462
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-28T11:23:50.000Z",
+        "description": "編集者・ライター。ゲーム業界歴30年以上。インタビュー、ゲーム＆カルチャー系記事、社内報などの編集・テキスト監修および最終チェックを担当。メディアの立ち上げ・ディレクションを中心に活動。『週刊ファミ通』クロスレビュアー。編集・執筆・監修・企画のご相談はDMにて。詳細：https://t.co/mbLT35kpTf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/45vRq3B",
+                "end": 157,
+                "expanded_url": "https://bit.ly/45vRq3B",
+                "start": 134,
+                "url": "https://t.co/mbLT35kpTf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rolling-web.com",
+                "end": 23,
+                "expanded_url": "http://rolling-web.com/",
+                "start": 0,
+                "url": "https://t.co/DQGGHFQhaw"
+              }
+            ]
+          }
+        },
+        "id": "51707360",
+        "location": "TOKYO/JPN",
+        "name": "ローリング内沢｜編集者・ライター",
+        "pinned_tweet_id": "1714579573227360331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756883192794243072/nQTa97sV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8353,
+          "following_count": 1616,
+          "like_count": 23810,
+          "listed_count": 548,
+          "media_count": 3521,
+          "tweet_count": 32482
+        },
+        "url": "https://t.co/DQGGHFQhaw",
+        "username": "rolling_u",
+        "verified": false
+      }
+    ]
+  }
+}

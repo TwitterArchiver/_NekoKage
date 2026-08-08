@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1148689566112477184",
+          "name": "Wi-Fi"
+        }
+      }
+    ],
+    "conversation_id": "2021663074508591207",
+    "created_at": "2026-02-11T19:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T20:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021663074508591207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1998006140286935041",
+          "start": 3,
+          "username": "QingQ77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021663074508591207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021587586028867740",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QingQ77: 这怕是有点屌哦，几十元就可以拥有自己的 OpenClaw\n\nMimiClaw 把一块小小的 ESP32-S3 开发板变成你的私人 AI 助理。插上 USB 供电，连上 WiFi，通过 Telegram 跟它对话\n\n它能处理你丢给它的任何任务，还会随时间…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24433,
+        "height": 1440,
+        "media_key": "13_2021586386034491392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021586386034491392/img/tqEGGTQ75JtEceQ1.jpg",
+        "public_metrics": {
+          "view_count": 15691
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021586386034491392/pl/v6aa97LrLpeV0OxB.m3u8?v=6cf"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021586386034491392/vid/avc1/480x640/RzjJK3vb0Bl9DoBH.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021586386034491392/vid/avc1/1080x1440/fKfAl5W0W7fT4YrP.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021586386034491392/vid/avc1/320x426/d4TXheF0jixzmhc0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021586386034491392/vid/avc1/720x960/egxqbb3RsLVHkG8H.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2021663074508591207",
+        "created_at": "2026-02-11T19:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T20:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021663074508591207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1998006140286935041",
+              "start": 3,
+              "username": "QingQ77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021663074508591207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021587586028867740",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QingQ77: 这怕是有点屌哦，几十元就可以拥有自己的 OpenClaw\n\nMimiClaw 把一块小小的 ESP32-S3 开发板变成你的私人 AI 助理。插上 USB 供电，连上 WiFi，通过 Telegram 跟它对话\n\n它能处理你丢给它的任何任务，还会随时间…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021586386034491392"
+          ]
+        },
+        "author_id": "1998006140286935041",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2021587586028867740",
+        "created_at": "2026-02-11T14:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T15:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021587586028867740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "MimiClaw: Run OpenClaw on a $5 chip. Local-first memory. Shareable. Privacy-first. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗 - memovai/mimiclaw",
+              "display_url": "github.com/memovai/mimicl…",
+              "end": 177,
+              "expanded_url": "https://github.com/memovai/mimiclaw",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2020141960799936512/JDOVQU_H?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2020141960799936512/JDOVQU_H?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 154,
+              "status": 200,
+              "title": "GitHub - memovai/mimiclaw: MimiClaw: Run OpenClaw on a $5 chip. Local-first memory. Shareable. Privacy-first. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗",
+              "unwound_url": "https://github.com/memovai/mimiclaw",
+              "url": "https://t.co/RRIWJcvOD3"
+            },
+            {
+              "display_url": "pic.x.com/FiU1b6VhhH",
+              "end": 201,
+              "expanded_url": "https://x.com/QingQ77/status/2021587586028867740/video/1",
+              "media_key": "13_2021586386034491392",
+              "start": 178,
+              "url": "https://t.co/FiU1b6VhhH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021587586028867740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 370,
+          "impression_count": 35257,
+          "like_count": 356,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "这怕是有点屌哦，几十元就可以拥有自己的 OpenClaw\n\nMimiClaw 把一块小小的 ESP32-S3 开发板变成你的私人 AI 助理。插上 USB 供电，连上 WiFi，通过 Telegram 跟它对话\n\n它能处理你丢给它的任何任务，还会随时间积累本地记忆不断进化，全部跑在一颗拇指大小的芯片上。\n\nhttps://t.co/RRIWJcvOD3 https://t.co/FiU1b6VhhH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7965,
+          "following_count": 5759,
+          "like_count": 13854,
+          "listed_count": 17,
+          "media_count": 2592,
+          "tweet_count": 19102
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T12:26:15.000Z",
+        "description": "✨不要等待 | 🌱持续创作 | 👨‍💻分享互动 | 🔋快版Geek |",
+        "id": "1998006140286935041",
+        "name": "Geek Lite",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5364,
+          "following_count": 490,
+          "like_count": 331,
+          "listed_count": 43,
+          "media_count": 505,
+          "tweet_count": 792
+        },
+        "username": "QingQ77",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993598606197272576"
+      ],
+      "media_source_tweet_id": [
+        "1993598615118610545"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "1993726043044389057",
+    "created_at": "2025-11-26T16:58:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T17:58:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993726043044389057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "Cldeop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ykfeOfyMlp",
+          "end": 45,
+          "expanded_url": "https://x.com/Cldeop/status/1993598615118610545/photo/1",
+          "media_key": "3_1993598606197272576",
+          "start": 22,
+          "url": "https://t.co/ykfeOfyMlp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993726043044389057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993598615118610545",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cldeop: 我要发大尺度图片了 https://t.co/ykfeOfyMlp"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1993726043044389057].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1993726043044389057",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1993726043044389057"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1793,
+        "media_key": "3_1993598606197272576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6qvXqsaMAA0RZP.jpg",
+        "width": 1800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993598606197272576"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1993598615118610545",
+        "created_at": "2025-11-26T08:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T09:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993598615118610545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ykfeOfyMlp",
+              "end": 33,
+              "expanded_url": "https://x.com/Cldeop/status/1993598615118610545/photo/1",
+              "media_key": "3_1993598606197272576",
+              "start": 10,
+              "url": "https://t.co/ykfeOfyMlp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993598615118610545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 269340,
+          "like_count": 1037,
+          "quote_count": 6,
+          "reply_count": 95,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "我要发大尺度图片了 https://t.co/ykfeOfyMlp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989746234408701952/CGIjbFWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7959,
+          "following_count": 5338,
+          "like_count": 13587,
+          "listed_count": 17,
+          "media_count": 2497,
+          "tweet_count": 18109
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976306297789370368/tQr5aNJl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91199,
+          "following_count": 664,
+          "like_count": 32181,
+          "listed_count": 268,
+          "media_count": 13634,
+          "tweet_count": 19589
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

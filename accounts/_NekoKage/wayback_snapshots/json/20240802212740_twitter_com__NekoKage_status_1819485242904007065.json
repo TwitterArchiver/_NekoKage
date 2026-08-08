@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1819122508429496320"
+      ],
+      "media_source_tweet_id": [
+        "1819122583494971815"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1819485242904007065",
+    "created_at": "2024-08-02T21:27:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-02T22:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819485242904007065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "30047334",
+          "start": 3,
+          "username": "stevensongs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/oU8Ls6D4Z8",
+          "end": 90,
+          "expanded_url": "https://twitter.com/stevensongs/status/1819122583494971815/video/1",
+          "media_key": "13_1819122508429496320",
+          "start": 67,
+          "url": "https://t.co/oU8Ls6D4Z8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819485242904007065",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3636
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819122583494971815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stevensongs: Therapist: \"All dreams have meaning.\"\n\nMy dreams: https://t.co/oU8Ls6D4Z8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41400,
+        "height": 1920,
+        "media_key": "13_1819122508429496320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1819122508429496320/img/kntNGoYEXdZ0FmTW.jpg",
+        "public_metrics": {
+          "view_count": 1064019
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1819122508429496320/pl/jLZ2GVJ4fKYmNsap.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1819122508429496320/vid/avc1/320x568/ZnBCLhV_-vAbRxZC.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1819122508429496320/vid/avc1/480x852/an5TY72vAzrCrqym.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1819122508429496320/vid/avc1/1080x1920/XdxyxcQH8z2U85qv.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1819122508429496320/vid/avc1/720x1280/HwFwYa4Savv2M61I.mp4?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1819122508429496320"
+          ],
+          "media_source_tweet_id": [
+            "1819122583494971815"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1819485242904007065",
+        "created_at": "2024-08-02T21:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T22:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819485242904007065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "30047334",
+              "start": 3,
+              "username": "stevensongs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/oU8Ls6D4Z8",
+              "end": 90,
+              "expanded_url": "https://twitter.com/stevensongs/status/1819122583494971815/video/1",
+              "media_key": "13_1819122508429496320",
+              "start": 67,
+              "url": "https://t.co/oU8Ls6D4Z8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819485242904007065",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3636
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819122583494971815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stevensongs: Therapist: \"All dreams have meaning.\"\n\nMy dreams: https://t.co/oU8Ls6D4Z8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1819122508429496320"
+          ]
+        },
+        "author_id": "30047334",
+        "conversation_id": "1819122583494971815",
+        "created_at": "2024-08-01T21:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T22:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819122583494971815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/oU8Ls6D4Z8",
+              "end": 73,
+              "expanded_url": "https://twitter.com/stevensongs/status/1819122583494971815/video/1",
+              "media_key": "13_1819122508429496320",
+              "start": 50,
+              "url": "https://t.co/oU8Ls6D4Z8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819122583494971815",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6146,
+          "impression_count": 1367400,
+          "like_count": 26131,
+          "quote_count": 377,
+          "reply_count": 398,
+          "retweet_count": 3636
+        },
+        "reply_settings": "everyone",
+        "text": "Therapist: \"All dreams have meaning.\"\n\nMy dreams: https://t.co/oU8Ls6D4Z8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain🎧HiFi糊烧🚬大烟鬼🔪刃物收藏⌚️入门表匠🚪88⚠️里推:@_kagenone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "_kagenone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7038,
+          "following_count": 4051,
+          "like_count": 10174,
+          "listed_count": 18,
+          "tweet_count": 12629
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-09T19:23:43.000Z",
+        "description": "What I don’t know, I make up. Couple skills. Seen things. Done stuff. Friend not foe. Here for laughs. Not adding days to my life, but life to my days.",
+        "id": "30047334",
+        "location": "Los Angeles",
+        "name": "G",
+        "pinned_tweet_id": "1694884473056452937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1185138657407070208/hb2-HAqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17332,
+          "following_count": 5842,
+          "like_count": 366367,
+          "listed_count": 49,
+          "tweet_count": 117538
+        },
+        "username": "stevensongs",
+        "verified": true
+      }
+    ]
+  }
+}

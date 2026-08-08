@@ -1,0 +1,514 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1284106872924991488",
+          "name": "Pentax"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1284106872924991488",
+          "name": "Pentax"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2022543044516680047",
+    "created_at": "2026-02-14T05:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T06:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022543044516680047"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "東京メトロ",
+          "probability": 0.3214,
+          "start": 28,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "893377539460046849",
+          "start": 3,
+          "username": "karuahaudy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022543044516680047",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022532382520402420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @karuahaudy: 部室\n今日は回送表記\n\n東京メトロ×PENTAXのコラボストラップは\n触り心地が(当たり前ですが)あの座席のまま！\n\n裏地も表地も手触りが良くて\n適度な柔らかさなので\n使い勝手も良さそうです😌\n\n67Ⅱの61Limitedに合わせてるのも\nなかな…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2022532365327962116",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBF6eG4akAQlPtO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022532365332205568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBF6eG5bUAAx2rt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022532365395070976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBF6eHIakAA9dHY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1284106872924991488",
+              "name": "Pentax"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284106872924991488",
+              "name": "Pentax"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2022543044516680047",
+        "created_at": "2026-02-14T05:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T06:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022543044516680047"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "東京メトロ",
+              "probability": 0.3214,
+              "start": 28,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "893377539460046849",
+              "start": 3,
+              "username": "karuahaudy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022543044516680047",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022532382520402420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @karuahaudy: 部室\n今日は回送表記\n\n東京メトロ×PENTAXのコラボストラップは\n触り心地が(当たり前ですが)あの座席のまま！\n\n裏地も表地も手触りが良くて\n適度な柔らかさなので\n使い勝手も良さそうです😌\n\n67Ⅱの61Limitedに合わせてるのも\nなかな…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022532365327962116",
+            "3_2022532365332205568",
+            "3_2022532365395070976"
+          ]
+        },
+        "author_id": "893377539460046849",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1284106872924991488",
+              "name": "Pentax"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284106872924991488",
+              "name": "Pentax"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2022532382520402420",
+        "created_at": "2026-02-14T04:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T05:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022532382520402420"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "東京メトロ",
+              "probability": 0.3249,
+              "start": 12,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xljTX9KDf3",
+              "end": 179,
+              "expanded_url": "https://x.com/karuahaudy/status/2022532382520402420/photo/1",
+              "media_key": "3_2022532365327962116",
+              "start": 156,
+              "url": "https://t.co/xljTX9KDf3"
+            },
+            {
+              "display_url": "pic.x.com/xljTX9KDf3",
+              "end": 179,
+              "expanded_url": "https://x.com/karuahaudy/status/2022532382520402420/photo/1",
+              "media_key": "3_2022532365332205568",
+              "start": 156,
+              "url": "https://t.co/xljTX9KDf3"
+            },
+            {
+              "display_url": "pic.x.com/xljTX9KDf3",
+              "end": 179,
+              "expanded_url": "https://x.com/karuahaudy/status/2022532382520402420/photo/1",
+              "media_key": "3_2022532365395070976",
+              "start": 156,
+              "url": "https://t.co/xljTX9KDf3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022532382520402420",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "部室\n今日は回送表記\n\n東京メトロ×PENTAXのコラボストラップは\n触り心地が(当たり前ですが)あの座席のまま！\n\n裏地も表地も手触りが良くて\n適度な柔らかさなので\n使い勝手も良さそうです😌\n\n67Ⅱの61Limitedに合わせてるのも\nなかなかにくい\n\nもちろん買いました！\n\n赤はもうすぐなくなりそうです https://t.co/xljTX9KDf3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7966,
+          "following_count": 5773,
+          "like_count": 13868,
+          "listed_count": 17,
+          "media_count": 2597,
+          "tweet_count": 19144
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-04T07:46:18.000Z",
+        "description": "カメラはPENTAXとRICOHとライカ（とOLYMPUSとRolleiと…）。 最近は中判までのフィルムカメラとGR・LEICA M-E（Typ220）・M10-R主体。 のんびりしたい。写真の話ばかりしたい。争いごとは苦手。ハッセルとLEICAは沼から抜けられたはず！",
+        "id": "893377539460046849",
+        "name": "なゆた",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1529133149913219072/PlqX_vr2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 673,
+          "like_count": 128476,
+          "listed_count": 10,
+          "media_count": 1703,
+          "tweet_count": 5487
+        },
+        "username": "karuahaudy",
+        "verified": false
+      }
+    ]
+  }
+}

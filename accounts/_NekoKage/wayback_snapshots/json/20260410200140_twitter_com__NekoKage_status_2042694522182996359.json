@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2042394042156400641"
+      ],
+      "media_source_tweet_id": [
+        "2042394259077373987"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2042694522182996359",
+    "created_at": "2026-04-10T20:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T21:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042694522182996359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1439914544977965056",
+          "start": 3,
+          "username": "NeribeiPt2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wHwI0DFq3k",
+          "end": 60,
+          "expanded_url": "https://x.com/NeribeiPt2/status/2042394259077373987/video/1",
+          "media_key": "7_2042394042156400641",
+          "start": 37,
+          "url": "https://t.co/wHwI0DFq3k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042694522182996359",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 384
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042394259077373987",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NeribeiPt2: 黒竜江省樺南林業局鉄路を走る「鉄路バス」 https://t.co/wHwI0DFq3k"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 140132,
+        "height": 720,
+        "media_key": "7_2042394042156400641",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2042394042156400641/pu/img/2hmjoT0ekGhvknWD.jpg",
+        "public_metrics": {
+          "view_count": 52363
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042394042156400641/pu/vid/avc1/480x270/uNkDsrvhuCVMq-ho.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042394042156400641/pu/vid/avc1/640x360/dPQHeDStZ3viwUzv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042394042156400641/pu/vid/avc1/1280x720/0chvSjsjUjmSaBjR.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2042394042156400641/pu/pl/5mNFF1VXTUs61T-j.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2042394042156400641"
+          ],
+          "media_source_tweet_id": [
+            "2042394259077373987"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042694522182996359",
+        "created_at": "2026-04-10T20:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T21:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042694522182996359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1439914544977965056",
+              "start": 3,
+              "username": "NeribeiPt2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wHwI0DFq3k",
+              "end": 60,
+              "expanded_url": "https://x.com/NeribeiPt2/status/2042394259077373987/video/1",
+              "media_key": "7_2042394042156400641",
+              "start": 37,
+              "url": "https://t.co/wHwI0DFq3k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042694522182996359",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 384
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042394259077373987",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NeribeiPt2: 黒竜江省樺南林業局鉄路を走る「鉄路バス」 https://t.co/wHwI0DFq3k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2042394042156400641"
+          ]
+        },
+        "author_id": "1439914544977965056",
+        "conversation_id": "2042394259077373987",
+        "created_at": "2026-04-10T00:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T01:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042394259077373987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wHwI0DFq3k",
+              "end": 44,
+              "expanded_url": "https://x.com/NeribeiPt2/status/2042394259077373987/video/1",
+              "media_key": "7_2042394042156400641",
+              "start": 21,
+              "url": "https://t.co/wHwI0DFq3k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042394259077373987",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 414,
+          "impression_count": 120699,
+          "like_count": 2194,
+          "quote_count": 43,
+          "reply_count": 13,
+          "retweet_count": 384
+        },
+        "reply_settings": "everyone",
+        "text": "黒竜江省樺南林業局鉄路を走る「鉄路バス」 https://t.co/wHwI0DFq3k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8298,
+          "following_count": 6200,
+          "like_count": 14428,
+          "listed_count": 17,
+          "media_count": 2763,
+          "tweet_count": 20206
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-20T11:29:48.000Z",
+        "description": "こちらは練塀☆荒覇吐【江南浪人】@kounanroninの緊急避難アカウントです",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "kounanronin"
+              }
+            ]
+          }
+        },
+        "id": "1439914544977965056",
+        "name": "練塀8世",
+        "pinned_tweet_id": "2033495307200463338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1439914898687868929/LT6WXcOB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 719,
+          "like_count": 5248,
+          "listed_count": 3,
+          "media_count": 219,
+          "tweet_count": 969
+        },
+        "username": "NeribeiPt2",
+        "verified": false
+      }
+    ]
+  }
+}

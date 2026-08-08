@@ -1,0 +1,630 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917045450412331010",
+        "3_1917045450416525313"
+      ],
+      "media_source_tweet_id": [
+        "1917045465616683145",
+        "1917045465616683145"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781972125179518977",
+          "name": "Auto Manufacturer - Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026377943",
+          "name": "Subaru"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10045564608",
+          "name": "Subaru - Legacy"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Car culture",
+          "id": "847528391163092993",
+          "name": "Automotive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Sedans",
+          "id": "847529130018996224",
+          "name": "Sedans"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026377943",
+          "name": "Subaru"
+        }
+      }
+    ],
+    "conversation_id": "2026346488432033848",
+    "created_at": "2026-02-24T17:20:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T18:20:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026346488432033848"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 44,
+          "normalized_text": "SUBARU LEGACY",
+          "probability": 0.6746,
+          "start": 32,
+          "type": "Other"
+        },
+        {
+          "end": 57,
+          "normalized_text": "Graflex",
+          "probability": 0.5084,
+          "start": 51,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 18,
+          "tag": "私のクルマとカメラ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "315244570",
+          "start": 3,
+          "username": "atto_syuu_JP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CFY5RLu917",
+          "end": 96,
+          "expanded_url": "https://x.com/atto_syuu_JP/status/1917045465616683145/photo/1",
+          "media_key": "3_1917045450412331010",
+          "start": 73,
+          "url": "https://t.co/CFY5RLu917"
+        },
+        {
+          "display_url": "pic.x.com/CFY5RLu917",
+          "end": 96,
+          "expanded_url": "https://x.com/atto_syuu_JP/status/1917045465616683145/photo/1",
+          "media_key": "3_1917045450416525313",
+          "start": 73,
+          "url": "https://t.co/CFY5RLu917"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026346488432033848",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917045465616683145",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @atto_syuu_JP: #私のクルマとカメラ\n\n🚙 SUBARU LEGACY B4\n📸 Graflex Speed Graphic https://t.co/CFY5RLu917"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3144,
+        "media_key": "3_1917045450412331010",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpq2riIbEAID20i.jpg",
+        "width": 3899
+      },
+      {
+        "height": 4032,
+        "media_key": "3_1917045450416525313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpq2riJbEAEef4D.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917045450412331010",
+            "3_1917045450416525313"
+          ],
+          "media_source_tweet_id": [
+            "1917045465616683145",
+            "1917045465616683145"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026377943",
+              "name": "Subaru"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10045564608",
+              "name": "Subaru - Legacy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Sedans",
+              "id": "847529130018996224",
+              "name": "Sedans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026377943",
+              "name": "Subaru"
+            }
+          }
+        ],
+        "conversation_id": "2026346488432033848",
+        "created_at": "2026-02-24T17:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T18:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026346488432033848"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "SUBARU LEGACY",
+              "probability": 0.6746,
+              "start": 32,
+              "type": "Other"
+            },
+            {
+              "end": 57,
+              "normalized_text": "Graflex",
+              "probability": 0.5084,
+              "start": 51,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 18,
+              "tag": "私のクルマとカメラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "315244570",
+              "start": 3,
+              "username": "atto_syuu_JP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CFY5RLu917",
+              "end": 96,
+              "expanded_url": "https://x.com/atto_syuu_JP/status/1917045465616683145/photo/1",
+              "media_key": "3_1917045450412331010",
+              "start": 73,
+              "url": "https://t.co/CFY5RLu917"
+            },
+            {
+              "display_url": "pic.x.com/CFY5RLu917",
+              "end": 96,
+              "expanded_url": "https://x.com/atto_syuu_JP/status/1917045465616683145/photo/1",
+              "media_key": "3_1917045450416525313",
+              "start": 73,
+              "url": "https://t.co/CFY5RLu917"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026346488432033848",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917045465616683145",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @atto_syuu_JP: #私のクルマとカメラ\n\n🚙 SUBARU LEGACY B4\n📸 Graflex Speed Graphic https://t.co/CFY5RLu917"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917045450412331010",
+            "3_1917045450416525313"
+          ]
+        },
+        "author_id": "315244570",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026377943",
+              "name": "Subaru"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10045564608",
+              "name": "Subaru - Legacy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Sedans",
+              "id": "847529130018996224",
+              "name": "Sedans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026377943",
+              "name": "Subaru"
+            }
+          }
+        ],
+        "conversation_id": "1917045465616683145",
+        "created_at": "2025-04-29T02:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T03:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917045465616683145"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "SUBARU LEGACY",
+              "probability": 0.5555,
+              "start": 14,
+              "type": "Other"
+            },
+            {
+              "end": 39,
+              "normalized_text": "Graflex",
+              "probability": 0.5165,
+              "start": 33,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "私のクルマとカメラ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CFY5RLu917",
+              "end": 78,
+              "expanded_url": "https://x.com/atto_syuu_JP/status/1917045465616683145/photo/1",
+              "media_key": "3_1917045450412331010",
+              "start": 55,
+              "url": "https://t.co/CFY5RLu917"
+            },
+            {
+              "display_url": "pic.x.com/CFY5RLu917",
+              "end": 78,
+              "expanded_url": "https://x.com/atto_syuu_JP/status/1917045465616683145/photo/1",
+              "media_key": "3_1917045450416525313",
+              "start": 55,
+              "url": "https://t.co/CFY5RLu917"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917045465616683145",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3199,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "#私のクルマとカメラ\n\n🚙 SUBARU LEGACY B4\n📸 Graflex Speed Graphic https://t.co/CFY5RLu917"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7980,
+          "following_count": 5817,
+          "like_count": 13934,
+          "listed_count": 17,
+          "media_count": 2619,
+          "tweet_count": 19351
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-11T15:01:38.000Z",
+        "description": "写真とカメラと車の雑多垢。趣味は『そこそこ以上、まぁまぁ未満』を目標に。フイルムとデジを嗜む程度に遊んでます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "attosyuu.myportfolio.com",
+                "end": 23,
+                "expanded_url": "https://attosyuu.myportfolio.com/",
+                "start": 0,
+                "url": "https://t.co/KShGXilgAB"
+              }
+            ]
+          }
+        },
+        "id": "315244570",
+        "location": "ハルケギニア トリステイン魔法学院第3魔法実習準備室",
+        "name": "しゅー",
+        "pinned_tweet_id": "1902986479522951381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871367493316759552/XoHqBGRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1874,
+          "following_count": 1893,
+          "like_count": 32114,
+          "listed_count": 18,
+          "media_count": 4159,
+          "tweet_count": 30898
+        },
+        "url": "https://t.co/KShGXilgAB",
+        "username": "atto_syuu_JP",
+        "verified": false
+      }
+    ]
+  }
+}

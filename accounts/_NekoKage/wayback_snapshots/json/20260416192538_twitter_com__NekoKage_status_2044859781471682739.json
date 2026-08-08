@@ -1,0 +1,500 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1242509106230878208",
+          "name": "Filmmaking"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1242509106230878208",
+          "name": "Filmmaking"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2044859781471682739",
+    "created_at": "2026-04-16T19:25:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T20:25:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044859781471682739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "59136384",
+          "start": 3,
+          "username": "ILFORDPhoto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044859781471682739",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044792960810647650",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ILFORDPhoto: A first look behind the scenes at some of the most exciting upgrades to 35mm film production in decades. Two brand-new, st…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 88066,
+        "height": 1280,
+        "media_key": "7_2044791778939686912",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2044791778939686912/pu/img/10xRW_0dqvRZf1Od.jpg",
+        "public_metrics": {
+          "view_count": 2446
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044791778939686912/pu/vid/avc1/320x568/uMz1Tjv-7KPaWeF7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044791778939686912/pu/vid/avc1/480x852/qvtYi6cKUoO0XweZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044791778939686912/pu/vid/avc1/720x1280/QqRHulkuhIMFa5ce.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2044791778939686912/pu/pl/SNF95TPIvkN60viU.m3u8?tag=12&v=502"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1242509106230878208",
+              "name": "Filmmaking"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1242509106230878208",
+              "name": "Filmmaking"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2044859781471682739",
+        "created_at": "2026-04-16T19:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T20:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044859781471682739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "59136384",
+              "start": 3,
+              "username": "ILFORDPhoto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044859781471682739",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044792960810647650",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ILFORDPhoto: A first look behind the scenes at some of the most exciting upgrades to 35mm film production in decades. Two brand-new, st…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2044791778939686912"
+          ]
+        },
+        "author_id": "59136384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1242509106230878208",
+              "name": "Filmmaking"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1242509106230878208",
+              "name": "Filmmaking"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1301495654007545863",
+              "name": "Analog photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2044792960810647650",
+        "created_at": "2026-04-16T15:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044792960810647650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pqimGQGzw6",
+              "end": 302,
+              "expanded_url": "https://x.com/ILFORDPhoto/status/2044792960810647650/video/1",
+              "media_key": "7_2044791778939686912",
+              "start": 279,
+              "url": "https://t.co/pqimGQGzw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044792960810647650",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 531,
+                "start": 519,
+                "tag": "ilfordphoto"
+              },
+              {
+                "end": 548,
+                "start": 532,
+                "tag": "filmphotography"
+              },
+              {
+                "end": 565,
+                "start": 549,
+                "tag": "behindthescenes"
+              },
+              {
+                "end": 575,
+                "start": 566,
+                "tag": "35mmfilm"
+              },
+              {
+                "end": 592,
+                "start": 576,
+                "tag": "analogueforever"
+              }
+            ]
+          },
+          "text": "A first look behind the scenes at some of the most exciting upgrades to 35mm film production in decades. Two brand-new, state-of-the-art converting machines.\n\nFilm photography has always been about more than just taking pictures. It’s about slowing down, learning the craft, and enjoying the process, and that’s something more and more people are discovering (or rediscovering) every day. But the reality is, much of the industry has been relying on ageing equipment for years. This investment is about changing that.\n\n#ilfordphoto #filmphotography #behindthescenes #35mmfilm #analogueforever"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 7786,
+          "like_count": 171,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "A first look behind the scenes at some of the most exciting upgrades to 35mm film production in decades. Two brand-new, state-of-the-art converting machines.\n\nFilm photography has always been about more than just taking pictures. It’s about slowing down, learning the craft, and https://t.co/pqimGQGzw6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8398,
+          "following_count": 6348,
+          "like_count": 14597,
+          "listed_count": 17,
+          "media_count": 2799,
+          "tweet_count": 20472
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-22T14:16:26.000Z",
+        "description": "The official stream for ILFORD PHOTO black & white photography products.  #filmphotographyforeveryone #ilfordphoto #ilfordhp5",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 74,
+                "tag": "filmphotographyforeveryone"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "tag": "ilfordphoto"
+              },
+              {
+                "end": 125,
+                "start": 115,
+                "tag": "ilfordhp5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ilfordphoto.com",
+                "end": 23,
+                "expanded_url": "http://www.ilfordphoto.com",
+                "start": 0,
+                "url": "https://t.co/eIO1v2dCiH"
+              }
+            ]
+          }
+        },
+        "id": "59136384",
+        "location": "Mobberley, Cheshire",
+        "name": "ILFORD PHOTO",
+        "pinned_tweet_id": "1999147715360432581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1214512446616064002/1JMm9bMk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53358,
+          "following_count": 600,
+          "like_count": 8972,
+          "listed_count": 900,
+          "media_count": 2198,
+          "tweet_count": 19938
+        },
+        "url": "https://t.co/eIO1v2dCiH",
+        "username": "ILFORDPhoto",
+        "verified": true
+      }
+    ]
+  }
+}

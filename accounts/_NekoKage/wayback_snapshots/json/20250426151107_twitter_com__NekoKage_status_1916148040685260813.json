@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to household durables and non-durables, home remodeling, interior design, furniture",
+          "id": "1557696986668707842",
+          "name": "Household Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "930481874400526336",
+          "name": "Home improvement"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "930481874400526336",
+          "name": "Home improvement"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278016095144665089",
+          "name": "At home"
+        }
+      }
+    ],
+    "conversation_id": "1916148040685260813",
+    "created_at": "2025-04-26T15:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T16:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916148040685260813"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/firearmvideos/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/firearmvideos/status/1915504602889200051",
+          "start": 4,
+          "url": "https://t.co/8U0EPxIBCh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916148040685260813",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915504602889200051",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好玩😋 https://t.co/8U0EPxIBCh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60000,
+        "height": 1276,
+        "media_key": "13_1915504484903489536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1915504484903489536/img/V4KJJ0_0f3rLDvpq.jpg",
+        "public_metrics": {
+          "view_count": 1216219
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1915504484903489536/vid/avc1/320x568/-uswZIx77JgZnyLT.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1915504484903489536/vid/avc1/480x852/5vztAx2rau3t7Qkb.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1915504484903489536/vid/avc1/718x1276/gu9ng1SQ_NsrCUg8.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1915504484903489536/pl/38MKpIazXCLcp8mu.m3u8?tag=16&v=97d"
+          }
+        ],
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to household durables and non-durables, home remodeling, interior design, furniture",
+              "id": "1557696986668707842",
+              "name": "Household Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "930481874400526336",
+              "name": "Home improvement"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "930481874400526336",
+              "name": "Home improvement"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278016095144665089",
+              "name": "At home"
+            }
+          }
+        ],
+        "conversation_id": "1916148040685260813",
+        "created_at": "2025-04-26T15:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T16:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916148040685260813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/firearmvideos/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/firearmvideos/status/1915504602889200051",
+              "start": 4,
+              "url": "https://t.co/8U0EPxIBCh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916148040685260813",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915504602889200051",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好玩😋 https://t.co/8U0EPxIBCh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1915504484903489536"
+          ]
+        },
+        "author_id": "1801491532790235136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to household durables and non-durables, home remodeling, interior design, furniture",
+              "id": "1557696986668707842",
+              "name": "Household Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "930481874400526336",
+              "name": "Home improvement"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "930481874400526336",
+              "name": "Home improvement"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278016095144665089",
+              "name": "At home"
+            }
+          }
+        ],
+        "conversation_id": "1915504602889200051",
+        "created_at": "2025-04-24T20:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T21:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915504602889200051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lj43mZF3Qp",
+              "end": 54,
+              "expanded_url": "https://x.com/firearmvideos/status/1915504602889200051/video/1",
+              "media_key": "13_1915504484903489536",
+              "start": 31,
+              "url": "https://t.co/lj43mZF3Qp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915504602889200051",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1068,
+          "impression_count": 593716,
+          "like_count": 4170,
+          "quote_count": 10,
+          "reply_count": 22,
+          "retweet_count": 196
+        },
+        "reply_settings": "everyone",
+        "text": "Everyone loves a diy project 🔥 https://t.co/lj43mZF3Qp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠📢siren爱好者⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "_kagenone"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7592,
+          "following_count": 4577,
+          "like_count": 12452,
+          "listed_count": 20,
+          "media_count": 2190,
+          "tweet_count": 15346
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T05:47:22.000Z",
+        "description": "Daily Firearm Videos",
+        "id": "1801491532790235136",
+        "name": "Firearm Videos",
+        "pinned_tweet_id": "1914189125382463583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841344743034241024/LJeGin3j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190536,
+          "following_count": 145,
+          "like_count": 939,
+          "listed_count": 120,
+          "media_count": 2896,
+          "tweet_count": 4561
+        },
+        "username": "firearmvideos",
+        "verified": true
+      }
+    ]
+  }
+}

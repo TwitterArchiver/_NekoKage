@@ -1,0 +1,517 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069758890410115072",
+        "3_2069758890393456640",
+        "3_2069758890384961536",
+        "3_2069758890426990592"
+      ],
+      "media_source_tweet_id": [
+        "2069758897167249532",
+        "2069758897167249532",
+        "2069758897167249532",
+        "2069758897167249532"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2070074886647873563",
+    "created_at": "2026-06-25T09:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T10:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070074886647873563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1763227919009353728",
+          "start": 3,
+          "username": "000Amaurot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XVKoqqAKGJ",
+          "end": 82,
+          "expanded_url": "https://x.com/000Amaurot/status/2069758897167249532/photo/1",
+          "media_key": "3_2069758890410115072",
+          "start": 59,
+          "url": "https://t.co/XVKoqqAKGJ"
+        },
+        {
+          "display_url": "pic.x.com/XVKoqqAKGJ",
+          "end": 82,
+          "expanded_url": "https://x.com/000Amaurot/status/2069758897167249532/photo/1",
+          "media_key": "3_2069758890393456640",
+          "start": 59,
+          "url": "https://t.co/XVKoqqAKGJ"
+        },
+        {
+          "display_url": "pic.x.com/XVKoqqAKGJ",
+          "end": 82,
+          "expanded_url": "https://x.com/000Amaurot/status/2069758897167249532/photo/1",
+          "media_key": "3_2069758890384961536",
+          "start": 59,
+          "url": "https://t.co/XVKoqqAKGJ"
+        },
+        {
+          "display_url": "pic.x.com/XVKoqqAKGJ",
+          "end": 82,
+          "expanded_url": "https://x.com/000Amaurot/status/2069758897167249532/photo/1",
+          "media_key": "3_2069758890426990592",
+          "start": 59,
+          "url": "https://t.co/XVKoqqAKGJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070074886647873563",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 102
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069758897167249532",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @000Amaurot: アニメコラボタバコは、タバコ税に加えてオタク税が加算され一箱2000円くらいになる。 https://t.co/XVKoqqAKGJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 393,
+        "media_key": "3_2069758890410115072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLlCvqmaAAAiVsZ.jpg",
+        "width": 700
+      },
+      {
+        "height": 810,
+        "media_key": "3_2069758890393456640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLlCvqib0AAuMGb.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1153,
+        "media_key": "3_2069758890384961536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLlCvqgaMAANldK.jpg",
+        "width": 2048
+      },
+      {
+        "height": 421,
+        "media_key": "3_2069758890426990592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLlCvqqbgAAXCZm.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069758890410115072",
+            "3_2069758890393456640",
+            "3_2069758890384961536",
+            "3_2069758890426990592"
+          ],
+          "media_source_tweet_id": [
+            "2069758897167249532",
+            "2069758897167249532",
+            "2069758897167249532",
+            "2069758897167249532"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2070074886647873563",
+        "created_at": "2026-06-25T09:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T10:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070074886647873563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1763227919009353728",
+              "start": 3,
+              "username": "000Amaurot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XVKoqqAKGJ",
+              "end": 82,
+              "expanded_url": "https://x.com/000Amaurot/status/2069758897167249532/photo/1",
+              "media_key": "3_2069758890410115072",
+              "start": 59,
+              "url": "https://t.co/XVKoqqAKGJ"
+            },
+            {
+              "display_url": "pic.x.com/XVKoqqAKGJ",
+              "end": 82,
+              "expanded_url": "https://x.com/000Amaurot/status/2069758897167249532/photo/1",
+              "media_key": "3_2069758890393456640",
+              "start": 59,
+              "url": "https://t.co/XVKoqqAKGJ"
+            },
+            {
+              "display_url": "pic.x.com/XVKoqqAKGJ",
+              "end": 82,
+              "expanded_url": "https://x.com/000Amaurot/status/2069758897167249532/photo/1",
+              "media_key": "3_2069758890384961536",
+              "start": 59,
+              "url": "https://t.co/XVKoqqAKGJ"
+            },
+            {
+              "display_url": "pic.x.com/XVKoqqAKGJ",
+              "end": 82,
+              "expanded_url": "https://x.com/000Amaurot/status/2069758897167249532/photo/1",
+              "media_key": "3_2069758890426990592",
+              "start": 59,
+              "url": "https://t.co/XVKoqqAKGJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070074886647873563",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 102
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069758897167249532",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @000Amaurot: アニメコラボタバコは、タバコ税に加えてオタク税が加算され一箱2000円くらいになる。 https://t.co/XVKoqqAKGJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069758890410115072",
+            "3_2069758890393456640",
+            "3_2069758890384961536",
+            "3_2069758890426990592"
+          ]
+        },
+        "author_id": "1763227919009353728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2069758897167249532",
+        "created_at": "2026-06-24T12:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T13:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069758897167249532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XVKoqqAKGJ",
+              "end": 66,
+              "expanded_url": "https://x.com/000Amaurot/status/2069758897167249532/photo/1",
+              "media_key": "3_2069758890410115072",
+              "start": 43,
+              "url": "https://t.co/XVKoqqAKGJ"
+            },
+            {
+              "display_url": "pic.x.com/XVKoqqAKGJ",
+              "end": 66,
+              "expanded_url": "https://x.com/000Amaurot/status/2069758897167249532/photo/1",
+              "media_key": "3_2069758890393456640",
+              "start": 43,
+              "url": "https://t.co/XVKoqqAKGJ"
+            },
+            {
+              "display_url": "pic.x.com/XVKoqqAKGJ",
+              "end": 66,
+              "expanded_url": "https://x.com/000Amaurot/status/2069758897167249532/photo/1",
+              "media_key": "3_2069758890384961536",
+              "start": 43,
+              "url": "https://t.co/XVKoqqAKGJ"
+            },
+            {
+              "display_url": "pic.x.com/XVKoqqAKGJ",
+              "end": 66,
+              "expanded_url": "https://x.com/000Amaurot/status/2069758897167249532/photo/1",
+              "media_key": "3_2069758890426990592",
+              "start": 43,
+              "url": "https://t.co/XVKoqqAKGJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069758897167249532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 79325,
+          "like_count": 1260,
+          "quote_count": 16,
+          "reply_count": 2,
+          "retweet_count": 102
+        },
+        "reply_settings": "everyone",
+        "text": "アニメコラボタバコは、タバコ税に加えてオタク税が加算され一箱2000円くらいになる。 https://t.co/XVKoqqAKGJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病多病病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "_kagenone"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8678,
+          "following_count": 6627,
+          "like_count": 15621,
+          "listed_count": 17,
+          "media_count": 2992,
+          "tweet_count": 21777
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-29T15:41:26.000Z",
+        "description": "ガガガよいつまでも僕らの「青」であれ",
+        "id": "1763227919009353728",
+        "location": "第九圏",
+        "name": "ふぇむ(せかんど！)",
+        "pinned_tweet_id": "1865395881559925023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908758518599122944/3-oqUW5e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4221,
+          "following_count": 914,
+          "like_count": 152657,
+          "listed_count": 33,
+          "media_count": 4075,
+          "tweet_count": 23222
+        },
+        "url": "",
+        "username": "000Amaurot",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1805441031540031489"
+      ],
+      "media_source_tweet_id": [
+        "1805441046140403821"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Osaka",
+          "id": "859408738544791552",
+          "name": "Osaka"
+        }
+      }
+    ],
+    "conversation_id": "1805447178170909178",
+    "created_at": "2024-06-25T03:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T04:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805447178170909178"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 40,
+          "normalized_text": "大阪",
+          "probability": 0.4382,
+          "start": 39,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1679841149526380548",
+          "start": 3,
+          "username": "OsakaDailyAzu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/B4v6vT8qNN",
+          "end": 72,
+          "expanded_url": "https://twitter.com/OsakaDailyAzu/status/1805441046140403821/video/1",
+          "media_key": "7_1805441031540031489",
+          "start": 49,
+          "url": "https://t.co/B4v6vT8qNN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805447178170909178",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805441046140403821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OsakaDailyAzu: Daily Osaka 347\nデイリー大阪 347\n\n🫵 https://t.co/B4v6vT8qNN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4249,
+        "height": 720,
+        "media_key": "7_1805441031540031489",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1805441031540031489/pu/img/Zkb_G-Vgbbp8OC_v.jpg",
+        "public_metrics": {
+          "view_count": 191
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1805441031540031489/pu/vid/avc1/360x270/XTUvPb9CvZN5seb6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1805441031540031489/pu/vid/avc1/480x360/kN33FXk3Azn_xSf_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1805441031540031489/pu/vid/avc1/960x720/tErvw_syqopBHNlJ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1805441031540031489/pu/pl/hqwIHfFa_wWRY4Ou.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1805441031540031489"
+          ],
+          "media_source_tweet_id": [
+            "1805441046140403821"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1805447178170909178",
+        "created_at": "2024-06-25T03:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T04:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805447178170909178"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "大阪",
+              "probability": 0.4382,
+              "start": 39,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1679841149526380548",
+              "start": 3,
+              "username": "OsakaDailyAzu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/B4v6vT8qNN",
+              "end": 72,
+              "expanded_url": "https://twitter.com/OsakaDailyAzu/status/1805441046140403821/video/1",
+              "media_key": "7_1805441031540031489",
+              "start": 49,
+              "url": "https://t.co/B4v6vT8qNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805447178170909178",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805441046140403821",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OsakaDailyAzu: Daily Osaka 347\nデイリー大阪 347\n\n🫵 https://t.co/B4v6vT8qNN"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1805441031540031489"
+          ]
+        },
+        "author_id": "1679841149526380548",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1805441046140403821",
+        "created_at": "2024-06-25T03:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T04:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805441046140403821"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "大阪",
+              "probability": 0.4659,
+              "start": 20,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/B4v6vT8qNN",
+              "end": 53,
+              "expanded_url": "https://twitter.com/OsakaDailyAzu/status/1805441046140403821/video/1",
+              "media_key": "7_1805441031540031489",
+              "start": 30,
+              "url": "https://t.co/B4v6vT8qNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805441046140403821",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 530,
+          "like_count": 81,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "Daily Osaka 347\nデイリー大阪 347\n\n🫵 https://t.co/B4v6vT8qNN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid🎸聚乙烯乐队🎧HiFi糊烧🚬大烟鬼🔪刃物收藏⌚️入门表匠🚗JDM📷黑白摄影🚪88⚠️@_kagenone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "_kagenone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6928,
+          "following_count": 3901,
+          "like_count": 9453,
+          "listed_count": 20,
+          "tweet_count": 12018
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T13:12:10.000Z",
+        "description": "ah post Video or Picture of Ayumu Kasuga (Osaka) from Azumanga Daioh Daily around 10 AM GMT+8!\n\nFollow @DailyOsakaPics for more Osaka!!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 103,
+                "username": "DailyOsakaPics"
+              }
+            ]
+          }
+        },
+        "id": "1679841149526380548",
+        "location": "Osaka",
+        "name": "Daily Osaka",
+        "pinned_tweet_id": "1729323277334847973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787115883074347008/kVS3LyMo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19747,
+          "following_count": 111,
+          "like_count": 2861,
+          "listed_count": 11,
+          "tweet_count": 1532
+        },
+        "username": "OsakaDailyAzu",
+        "verified": false
+      }
+    ]
+  }
+}

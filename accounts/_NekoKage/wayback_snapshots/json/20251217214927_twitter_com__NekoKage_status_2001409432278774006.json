@@ -1,0 +1,578 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2000836775556866048"
+      ],
+      "media_source_tweet_id": [
+        "2001147844032680096"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596614361089",
+          "name": "Home - CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783337567798169600",
+          "name": "Products - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169338462161387525",
+          "name": "Magiclean"
+        }
+      }
+    ],
+    "conversation_id": "2001409432278774006",
+    "created_at": "2025-12-17T21:49:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T22:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001409432278774006"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 18,
+          "tag": "ゴシゴシはしません"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "978514615716888576",
+          "start": 3,
+          "username": "magiclean_jp"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "display_url": "youtu.be/rxVb5kw20G0",
+          "end": 83,
+          "expanded_url": "https://youtu.be/rxVb5kw20G0",
+          "start": 60,
+          "status": 200,
+          "title": "- YouTube",
+          "unwound_url": "https://www.youtube.com/watch?v=rxVb5kw20G0&feature=youtu.be",
+          "url": "https://t.co/YC3b7L6Mg0"
+        },
+        {
+          "display_url": "pic.x.com/rWqaDj6MuG",
+          "end": 107,
+          "expanded_url": "https://x.com/magiclean_jp/status/2001147844032680096/video/1",
+          "media_key": "13_2000836775556866048",
+          "start": 84,
+          "url": "https://t.co/rWqaDj6MuG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001409432278774006",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3023
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001147844032680096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @magiclean_jp: #ゴシゴシはしません、\nシューーーーーーーーーーーーーーッ！　\n\n本編はこちら▼　\nhttps://t.co/YC3b7L6Mg0 https://t.co/rWqaDj6MuG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24557,
+        "height": 1080,
+        "media_key": "13_2000836775556866048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000836775556866048/img/d-VYznBj37guTOzH.jpg",
+        "public_metrics": {
+          "view_count": 162499
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000836775556866048/vid/avc1/1280x720/ci1JOG0Jqb_-oFFy.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000836775556866048/vid/avc1/1920x1080/bWqPSwxboqJQ-IHB.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000836775556866048/vid/avc1/640x360/gM89C2q_NEAFjb9T.mp4?tag=16"
+          },
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000836775556866048/vid/avc1/480x270/IhIDX8k356r8ODX-.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000836775556866048/pl/yXK0ICSb_pZmW546.m3u8?tag=16&v=9ba"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000836775556866048"
+          ],
+          "media_source_tweet_id": [
+            "2001147844032680096"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596614361089",
+              "name": "Home - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783337567798169600",
+              "name": "Products - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169338462161387525",
+              "name": "Magiclean"
+            }
+          }
+        ],
+        "conversation_id": "2001409432278774006",
+        "created_at": "2025-12-17T21:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T22:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001409432278774006"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 18,
+              "tag": "ゴシゴシはしません"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "978514615716888576",
+              "start": 3,
+              "username": "magiclean_jp"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtu.be/rxVb5kw20G0",
+              "end": 83,
+              "expanded_url": "https://youtu.be/rxVb5kw20G0",
+              "start": 60,
+              "status": 200,
+              "title": "- YouTube",
+              "unwound_url": "https://www.youtube.com/watch?v=rxVb5kw20G0&feature=youtu.be",
+              "url": "https://t.co/YC3b7L6Mg0"
+            },
+            {
+              "display_url": "pic.x.com/rWqaDj6MuG",
+              "end": 107,
+              "expanded_url": "https://x.com/magiclean_jp/status/2001147844032680096/video/1",
+              "media_key": "13_2000836775556866048",
+              "start": 84,
+              "url": "https://t.co/rWqaDj6MuG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001409432278774006",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3023
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001147844032680096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @magiclean_jp: #ゴシゴシはしません、\nシューーーーーーーーーーーーーーッ！　\n\n本編はこちら▼　\nhttps://t.co/YC3b7L6Mg0 https://t.co/rWqaDj6MuG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000836775556866048"
+          ]
+        },
+        "author_id": "978514615716888576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596614361089",
+              "name": "Home - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783337567798169600",
+              "name": "Products - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169338462161387525",
+              "name": "Magiclean"
+            }
+          }
+        ],
+        "conversation_id": "2001147844032680096",
+        "created_at": "2025-12-17T04:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T05:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001147844032680096"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "ゴシゴシはしません"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtu.be/rxVb5kw20G0",
+              "end": 65,
+              "expanded_url": "https://youtu.be/rxVb5kw20G0",
+              "start": 42,
+              "status": 200,
+              "title": "- YouTube",
+              "unwound_url": "https://www.youtube.com/watch?v=rxVb5kw20G0&feature=youtu.be",
+              "url": "https://t.co/YC3b7L6Mg0"
+            },
+            {
+              "display_url": "pic.x.com/rWqaDj6MuG",
+              "end": 89,
+              "expanded_url": "https://x.com/magiclean_jp/status/2001147844032680096/video/1",
+              "media_key": "13_2000836775556866048",
+              "start": 66,
+              "url": "https://t.co/rWqaDj6MuG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001147844032680096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1257,
+          "impression_count": 1203356,
+          "like_count": 7551,
+          "quote_count": 837,
+          "reply_count": 50,
+          "retweet_count": 3023
+        },
+        "reply_settings": "everyone",
+        "text": "#ゴシゴシはしません、\nシューーーーーーーーーーーーーーッ！　\n\n本編はこちら▼　\nhttps://t.co/YC3b7L6Mg0 https://t.co/rWqaDj6MuG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7971,
+          "following_count": 5559,
+          "like_count": 13782,
+          "listed_count": 17,
+          "media_count": 2547,
+          "tweet_count": 18585
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-27T06:10:39.000Z",
+        "description": "花王のおそうじまわり公式アカウントです。\n商品やおそうじに関するアレコレをお届けしていきます。\n※リプライ・ダイレクトメッセージへのご返信、フォローバックはいたしませんのでご了承ください。\n商品に関するお問い合わせはこちらまで。\nhttps://t.co/7HAA5y2sIi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kao.com/jp/soudan/",
+                "end": 138,
+                "expanded_url": "http://kao.com/jp/soudan/",
+                "start": 115,
+                "url": "https://t.co/7HAA5y2sIi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kao.co.jp/magiclean",
+                "end": 23,
+                "expanded_url": "http://www.kao.co.jp/magiclean",
+                "start": 0,
+                "url": "https://t.co/ou5oJ1m7c7"
+              }
+            ]
+          }
+        },
+        "id": "978514615716888576",
+        "name": "花王 マジックリン（お掃除全般）",
+        "pinned_tweet_id": "2001147844032680096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/978575617158299648/e_xOF_Yv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148742,
+          "following_count": 19,
+          "like_count": 684,
+          "listed_count": 248,
+          "media_count": 234278,
+          "tweet_count": 247551
+        },
+        "url": "https://t.co/ou5oJ1m7c7",
+        "username": "magiclean_jp",
+        "verified": true
+      }
+    ]
+  }
+}

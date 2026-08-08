@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1829358366340325376"
+      ],
+      "media_source_tweet_id": [
+        "1829358373109940601"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "1829440490011570247",
+    "created_at": "2024-08-30T08:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-30T09:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829440490011570247"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 35,
+          "tag": "ed"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1782354031266107392",
+          "start": 3,
+          "username": "T1arpE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qrk40yy59e",
+          "end": 62,
+          "expanded_url": "https://twitter.com/T1arpE/status/1829358373109940601/photo/1",
+          "media_key": "3_1829358366340325376",
+          "start": 39,
+          "url": "https://t.co/Qrk40yY59e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829440490011570247",
+    "lang": "fr",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829358373109940601",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @T1arpE: ॱ𓈒✰𝔇𝔢𝔳𝔦𝔩𝔰 𝔰𝔨𝔢𝔩𝔢𝔱𝔬𝔫♰. ˚\n#ed https://t.co/Qrk40yY59e"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1829440490011570247].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1829440490011570247",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1829440490011570247"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1829358366340325376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWMvveiaoAAExQA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1829358366340325376"
+          ]
+        },
+        "author_id": "1782354031266107392",
+        "conversation_id": "1829358373109940601",
+        "created_at": "2024-08-30T03:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T04:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829358373109940601"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "ed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qrk40yy59e",
+              "end": 50,
+              "expanded_url": "https://twitter.com/T1arpE/status/1829358373109940601/photo/1",
+              "media_key": "3_1829358366340325376",
+              "start": 27,
+              "url": "https://t.co/Qrk40yY59e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829358373109940601",
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 778,
+          "like_count": 131,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "ॱ𓈒✰𝔇𝔢𝔳𝔦𝔩𝔰 𝔰𝔨𝔢𝔩𝔢𝔱𝔬𝔫♰. ˚\n#ed https://t.co/Qrk40yY59e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain📷膠片攝影/相机维修🎧HiFi糊烧🚬大烟鬼🔪刃物收藏⌚️入门表匠🚪88⚠️里推:@_kagenone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 131,
+                "username": "_kagenone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7149,
+          "following_count": 4159,
+          "like_count": 10727,
+          "listed_count": 18,
+          "tweet_count": 13139
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T10:21:41.000Z",
+        "description": "我平等的討厭每一個人⌯ᕑᗢᓫ⌯ 厭食症小女孩記錄日常 審美 雕刻過程 ⌯ᵔ⩊ᵔ⌯ಣ  #edtwt 🚪/128 女孩子不用",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "edtwt"
+              }
+            ]
+          }
+        },
+        "id": "1782354031266107392",
+        "location": "⑅.:*♡",
+        "name": "澡堂碎屍案",
+        "pinned_tweet_id": "1815904002586169416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782355554234687488/oMf4037f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3853,
+          "following_count": 32,
+          "like_count": 312,
+          "listed_count": 9,
+          "tweet_count": 92
+        },
+        "username": "T1arpE",
+        "verified": false
+      }
+    ]
+  }
+}

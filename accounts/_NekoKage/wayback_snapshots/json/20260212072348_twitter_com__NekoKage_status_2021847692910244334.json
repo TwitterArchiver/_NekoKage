@@ -1,0 +1,564 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021748393606098948"
+      ],
+      "media_source_tweet_id": [
+        "2021748401726271651"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      }
+    ],
+    "conversation_id": "2021847692910244334",
+    "created_at": "2026-02-12T07:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T08:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021847692910244334"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "Nikon Z5",
+          "probability": 0.5909,
+          "start": 26,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1013290070227349504",
+          "start": 3,
+          "username": "alibi5753"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M4evNpVDCE",
+          "end": 91,
+          "expanded_url": "https://x.com/alibi5753/status/2021748401726271651/photo/1",
+          "media_key": "3_2021748393606098948",
+          "start": 68,
+          "url": "https://t.co/M4evNpVDCE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021847692910244334",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021748401726271651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @alibi5753: で… 今日はコレ！\n\nNikon Z5  + Planar 85mmf1.4\n\n久々のヤシコン強化週間w https://t.co/M4evNpVDCE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2021748393606098948",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA6xc8obsAQClSe.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021748393606098948"
+          ],
+          "media_source_tweet_id": [
+            "2021748401726271651"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "2021847692910244334",
+        "created_at": "2026-02-12T07:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T08:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021847692910244334"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "Nikon Z5",
+              "probability": 0.5909,
+              "start": 26,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1013290070227349504",
+              "start": 3,
+              "username": "alibi5753"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M4evNpVDCE",
+              "end": 91,
+              "expanded_url": "https://x.com/alibi5753/status/2021748401726271651/photo/1",
+              "media_key": "3_2021748393606098948",
+              "start": 68,
+              "url": "https://t.co/M4evNpVDCE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021847692910244334",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021748401726271651",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @alibi5753: で… 今日はコレ！\n\nNikon Z5  + Planar 85mmf1.4\n\n久々のヤシコン強化週間w https://t.co/M4evNpVDCE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021748393606098948"
+          ]
+        },
+        "author_id": "1013290070227349504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "2021748401726271651",
+        "created_at": "2026-02-12T00:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T01:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021748401726271651"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "Nikon Z5",
+              "probability": 0.5699,
+              "start": 11,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M4evNpVDCE",
+              "end": 76,
+              "expanded_url": "https://x.com/alibi5753/status/2021748401726271651/photo/1",
+              "media_key": "3_2021748393606098948",
+              "start": 53,
+              "url": "https://t.co/M4evNpVDCE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021748401726271651",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1552,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "で… 今日はコレ！\n\nNikon Z5  + Planar 85mmf1.4\n\n久々のヤシコン強化週間w https://t.co/M4evNpVDCE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7967,
+          "following_count": 5765,
+          "like_count": 13858,
+          "listed_count": 17,
+          "media_count": 2592,
+          "tweet_count": 19117
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-01T05:15:53.000Z",
+        "description": "『人生試し撮り』をモットーに、難しいことを考えずカメラで遊んでいます!\nフィルムもデジタルも全力で楽しむ！\n一緒に楽しめる人たちは皆仲間です。\n\nhttps://t.co/SNgujS6XyV\n\n写人集団「breath」所属",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/alibi5753/",
+                "end": 96,
+                "expanded_url": "http://instagram.com/alibi5753/",
+                "start": 73,
+                "url": "https://t.co/SNgujS6XyV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "alibi5753.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://alibi5753.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/BZlE16QWN3"
+              }
+            ]
+          }
+        },
+        "id": "1013290070227349504",
+        "name": "アリ",
+        "pinned_tweet_id": "2020472089132609835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851992257983049728/DWhz-rml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5607,
+          "following_count": 2577,
+          "like_count": 769244,
+          "listed_count": 59,
+          "media_count": 11090,
+          "tweet_count": 44642
+        },
+        "url": "https://t.co/BZlE16QWN3",
+        "username": "alibi5753",
+        "verified": false
+      }
+    ]
+  }
+}

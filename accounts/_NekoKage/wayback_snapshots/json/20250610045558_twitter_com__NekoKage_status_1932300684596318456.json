@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932090333061672960"
+      ],
+      "media_source_tweet_id": [
+        "1932090335817314797"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596144599042",
+          "name": "Snacks - CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Yukimi Daifuku (雪見だいふく)",
+          "id": "1123644826186964993",
+          "name": "Yukimi Daifuku (雪見だいふく)"
+        }
+      }
+    ],
+    "conversation_id": "1932300684596318456",
+    "created_at": "2025-06-10T04:55:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T05:55:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932300684596318456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "778610585499934720",
+          "start": 3,
+          "username": "M1_tsu_CZ4A"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7IxFinSrfR",
+          "end": 40,
+          "expanded_url": "https://x.com/M1_tsu_CZ4A/status/1932090335817314797/photo/1",
+          "media_key": "3_1932090333061672960",
+          "start": 17,
+          "url": "https://t.co/7IxFinSrfR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932300684596318456",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 324
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932090335817314797",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @M1_tsu_CZ4A: https://t.co/7IxFinSrfR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1932090333061672960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtAp69gbcAAiaGQ.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932090333061672960"
+          ],
+          "media_source_tweet_id": [
+            "1932090335817314797"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144599042",
+              "name": "Snacks - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Yukimi Daifuku (雪見だいふく)",
+              "id": "1123644826186964993",
+              "name": "Yukimi Daifuku (雪見だいふく)"
+            }
+          }
+        ],
+        "conversation_id": "1932300684596318456",
+        "created_at": "2025-06-10T04:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T05:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932300684596318456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "778610585499934720",
+              "start": 3,
+              "username": "M1_tsu_CZ4A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7IxFinSrfR",
+              "end": 40,
+              "expanded_url": "https://x.com/M1_tsu_CZ4A/status/1932090335817314797/photo/1",
+              "media_key": "3_1932090333061672960",
+              "start": 17,
+              "url": "https://t.co/7IxFinSrfR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932300684596318456",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 324
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932090335817314797",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @M1_tsu_CZ4A: https://t.co/7IxFinSrfR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932090333061672960"
+          ]
+        },
+        "author_id": "778610585499934720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144599042",
+              "name": "Snacks - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Yukimi Daifuku (雪見だいふく)",
+              "id": "1123644826186964993",
+              "name": "Yukimi Daifuku (雪見だいふく)"
+            }
+          }
+        ],
+        "conversation_id": "1932090335817314797",
+        "created_at": "2025-06-09T15:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T16:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932090335817314797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7IxFinSrfR",
+              "end": 23,
+              "expanded_url": "https://x.com/M1_tsu_CZ4A/status/1932090335817314797/photo/1",
+              "media_key": "3_1932090333061672960",
+              "start": 0,
+              "url": "https://t.co/7IxFinSrfR"
+            },
+            {
+              "display_url": "x.com/yukimi_lotte/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/yukimi_lotte/status/1931929277777510853",
+              "start": 24,
+              "url": "https://t.co/CpwrRc7vAw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932090335817314797",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 62920,
+          "like_count": 2089,
+          "quote_count": 7,
+          "reply_count": 1,
+          "retweet_count": 324
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931929277777510853",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/7IxFinSrfR https://t.co/CpwrRc7vAw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠📢siren爱好者⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "_kagenone"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7629,
+          "following_count": 4687,
+          "like_count": 12720,
+          "listed_count": 19,
+          "media_count": 2239,
+          "tweet_count": 15894
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-21T15:03:24.000Z",
+        "description": "実車もレースゲームも楽しんだ者勝ち\n\n 🚗BP5→CZ4A",
+        "id": "778610585499934720",
+        "location": "車/車レースゲーム/TYPE-MOON作品/遠野秋葉",
+        "name": "みーつ",
+        "pinned_tweet_id": "1903741847530598560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890378815991607298/j6sJVLH5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4254,
+          "following_count": 3580,
+          "like_count": 393370,
+          "listed_count": 31,
+          "media_count": 21392,
+          "tweet_count": 129615
+        },
+        "username": "M1_tsu_CZ4A",
+        "verified": false
+      }
+    ]
+  }
+}

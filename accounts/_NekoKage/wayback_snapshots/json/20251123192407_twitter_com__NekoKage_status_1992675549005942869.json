@@ -1,0 +1,542 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992417531722874880"
+      ],
+      "media_source_tweet_id": [
+        "1992418398966579645"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1284106964167884800",
+          "name": "Leica"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1284106964167884800",
+          "name": "Leica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      }
+    ],
+    "conversation_id": "1992675549005942869",
+    "created_at": "2025-11-23T19:24:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T20:24:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992675549005942869"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "Leica SL",
+          "probability": 0.3975,
+          "start": 11,
+          "type": "Product"
+        },
+        {
+          "end": 91,
+          "normalized_text": "Leica SL2",
+          "probability": 0.4162,
+          "start": 83,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1069541014732398592",
+          "start": 3,
+          "username": "4x3ch"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XpM5Qtlhlk",
+          "end": 119,
+          "expanded_url": "https://x.com/4x3ch/status/1992418398966579645/photo/1",
+          "media_key": "3_1992417531722874880",
+          "start": 96,
+          "url": "https://t.co/XpM5Qtlhlk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992675549005942869",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992418398966579645",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4x3ch: Leica SL系って基本的には2ピース構造なので、ファインダー分解するのに外装のほぼ全てのネジを外す必要があるので大変なんですよね…\n(写真はLeica SL2-S) https://t.co/XpM5Qtlhlk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1992417531722874880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Z9MFaaQAA0GEW.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992417531722874880"
+          ],
+          "media_source_tweet_id": [
+            "1992418398966579645"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1284106964167884800",
+              "name": "Leica"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284106964167884800",
+              "name": "Leica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "1992675549005942869",
+        "created_at": "2025-11-23T19:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T20:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992675549005942869"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "Leica SL",
+              "probability": 0.3975,
+              "start": 11,
+              "type": "Product"
+            },
+            {
+              "end": 91,
+              "normalized_text": "Leica SL2",
+              "probability": 0.4162,
+              "start": 83,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1069541014732398592",
+              "start": 3,
+              "username": "4x3ch"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XpM5Qtlhlk",
+              "end": 119,
+              "expanded_url": "https://x.com/4x3ch/status/1992418398966579645/photo/1",
+              "media_key": "3_1992417531722874880",
+              "start": 96,
+              "url": "https://t.co/XpM5Qtlhlk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992675549005942869",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992418398966579645",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4x3ch: Leica SL系って基本的には2ピース構造なので、ファインダー分解するのに外装のほぼ全てのネジを外す必要があるので大変なんですよね…\n(写真はLeica SL2-S) https://t.co/XpM5Qtlhlk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992417531722874880"
+          ]
+        },
+        "author_id": "1069541014732398592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1284106964167884800",
+              "name": "Leica"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284106964167884800",
+              "name": "Leica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "1992418398966579645",
+        "created_at": "2025-11-23T02:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T03:18:54.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992417543798370445",
+          "1992418398966579645"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "Leica SL",
+              "probability": 0.3939,
+              "start": 0,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XpM5Qtlhlk",
+              "end": 108,
+              "expanded_url": "https://x.com/4x3ch/status/1992418398966579645/photo/1",
+              "media_key": "3_1992417531722874880",
+              "start": 85,
+              "url": "https://t.co/XpM5Qtlhlk"
+            },
+            {
+              "display_url": "x.com/urbansoul_00/s…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/urbansoul_00/status/1991876558567653572",
+              "start": 109,
+              "url": "https://t.co/1BOOAblXdz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992418398966579645",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 26324,
+          "like_count": 149,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991876558567653572",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Leica SL系って基本的には2ピース構造なので、ファインダー分解するのに外装のほぼ全てのネジを外す必要があるので大変なんですよね…\n(写真はLeica SL2-S) https://t.co/XpM5Qtlhlk https://t.co/1BOOAblXdz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989746234408701952/CGIjbFWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7959,
+          "following_count": 5307,
+          "like_count": 13560,
+          "listed_count": 17,
+          "media_count": 2494,
+          "tweet_count": 18051
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-03T10:37:03.000Z",
+        "description": "写真初心者です。ハイライトに写真はまとめてあります。(4Kで読み込んでみてください)手持ちのライカは大体元ジャンク。収益化していません。",
+        "id": "1069541014732398592",
+        "location": "Toshima-ku, Tokyo",
+        "name": "四葉三丁目",
+        "pinned_tweet_id": "1731828699668889764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1531303894449803264/2yNO6TaA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 1285,
+          "like_count": 61142,
+          "listed_count": 15,
+          "media_count": 3619,
+          "tweet_count": 23133
+        },
+        "username": "4x3ch",
+        "verified": true
+      }
+    ]
+  }
+}

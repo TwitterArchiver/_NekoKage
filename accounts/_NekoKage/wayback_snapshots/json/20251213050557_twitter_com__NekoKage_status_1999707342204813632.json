@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1999544793953951744"
+      ],
+      "media_source_tweet_id": [
+        "1999544821447262394"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1999707342204813632",
+    "created_at": "2025-12-13T05:05:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T06:05:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999707342204813632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1329990373020553216",
+          "start": 3,
+          "username": "FalconryFinance"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O1eqpQOUWK",
+          "end": 69,
+          "expanded_url": "https://x.com/FalconryFinance/status/1999544821447262394/video/1",
+          "media_key": "7_1999544793953951744",
+          "start": 46,
+          "url": "https://t.co/O1eqpQOUWK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999707342204813632",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999544821447262394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FalconryFinance: Can someone explain this https://t.co/O1eqpQOUWK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21524,
+        "height": 1024,
+        "media_key": "7_1999544793953951744",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1999544793953951744/pu/img/aFRkDQn2yriyi6DP.jpg",
+        "public_metrics": {
+          "view_count": 131871
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1999544793953951744/pu/vid/avc1/320x568/Bvo0AT56dGb9vPJ4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1999544793953951744/pu/vid/avc1/480x852/CvvXHEn2MgA4obQr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1999544793953951744/pu/vid/avc1/576x1024/m0n7SVRVR72wQruh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1999544793953951744/pu/pl/17iEaCDJT3p0fE0i.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1999544793953951744"
+          ],
+          "media_source_tweet_id": [
+            "1999544821447262394"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1999707342204813632",
+        "created_at": "2025-12-13T05:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T06:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999707342204813632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1329990373020553216",
+              "start": 3,
+              "username": "FalconryFinance"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O1eqpQOUWK",
+              "end": 69,
+              "expanded_url": "https://x.com/FalconryFinance/status/1999544821447262394/video/1",
+              "media_key": "7_1999544793953951744",
+              "start": 46,
+              "url": "https://t.co/O1eqpQOUWK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999707342204813632",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999544821447262394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FalconryFinance: Can someone explain this https://t.co/O1eqpQOUWK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1999544793953951744"
+          ]
+        },
+        "author_id": "1329990373020553216",
+        "conversation_id": "1999544821447262394",
+        "created_at": "2025-12-12T18:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T19:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999544821447262394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O1eqpQOUWK",
+              "end": 48,
+              "expanded_url": "https://x.com/FalconryFinance/status/1999544821447262394/video/1",
+              "media_key": "7_1999544793953951744",
+              "start": 25,
+              "url": "https://t.co/O1eqpQOUWK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999544821447262394",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 149996,
+          "like_count": 147,
+          "quote_count": 2,
+          "reply_count": 46,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "Can someone explain this https://t.co/O1eqpQOUWK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7961,
+          "following_count": 5541,
+          "like_count": 13751,
+          "listed_count": 17,
+          "media_count": 2541,
+          "tweet_count": 18513
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-21T03:30:06.000Z",
+        "description": "The Falcon Club is a membership-directed mutual benefit society and social club with local chapters throughout the United States and Canada.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@falconryfinan…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@falconryfinance",
+                "start": 0,
+                "url": "https://t.co/zFDUvToGqz"
+              }
+            ]
+          }
+        },
+        "id": "1329990373020553216",
+        "location": "Dubai, United Arab Emirates",
+        "name": "𓅃",
+        "pinned_tweet_id": "1998855250309165103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946563535238283264/Egv7o0UZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108153,
+          "following_count": 3279,
+          "like_count": 397254,
+          "listed_count": 276,
+          "media_count": 32640,
+          "tweet_count": 144402
+        },
+        "url": "https://t.co/zFDUvToGqz",
+        "username": "FalconryFinance",
+        "verified": true
+      }
+    ]
+  }
+}

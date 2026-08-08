@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "conversation_id": "2045852223125807531",
+    "created_at": "2026-04-19T13:09:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T14:09:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045852223125807531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2024195400442531841",
+          "start": 3,
+          "username": "zhngy228309"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045852223125807531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045740108515803197",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhngy228309: 我操这条怎么火了我吓哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "conversation_id": "2045852223125807531",
+        "created_at": "2026-04-19T13:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045852223125807531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2024195400442531841",
+              "start": 3,
+              "username": "zhngy228309"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045852223125807531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045740108515803197",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhngy228309: 我操这条怎么火了我吓哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024195400442531841",
+        "conversation_id": "2045740108515803197",
+        "created_at": "2026-04-19T05:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T06:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045740108515803197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhngy228309/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/zhngy228309/status/2045432424860119448",
+              "start": 13,
+              "url": "https://t.co/mWLHPrihm2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045740108515803197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3852,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045432424860119448",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操这条怎么火了我吓哭了 https://t.co/mWLHPrihm2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8420,
+          "following_count": 6387,
+          "like_count": 14632,
+          "listed_count": 17,
+          "media_count": 2815,
+          "tweet_count": 20596
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T18:53:04.000Z",
+        "description": "🩸痂痂 请多夸我(•̀ϖ•́ ) \n同类互fo 直fo就是喜歡你 \n我爱发啥发啥\nod｜自残｜抽烟\n10年｜162cm｜40kg 可以叫我小予喵🥺\n互fo我爱你们w 回fo私信 查成分\n第二人格@zyuyuouo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "zyuyuouo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%97%82",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%97%82",
+                "start": 0,
+                "url": "https://t.co/FgU3Ypa1us"
+              }
+            ]
+          }
+        },
+        "id": "2024195400442531841",
+        "location": "🚪70好友位 纯绿",
+        "name": "痂",
+        "pinned_tweet_id": "2042223647331582256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044364789103935488/__gBwnPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 449,
+          "like_count": 5106,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1949
+        },
+        "url": "https://t.co/FgU3Ypa1us",
+        "username": "zhngy228309",
+        "verified": false
+      }
+    ]
+  }
+}

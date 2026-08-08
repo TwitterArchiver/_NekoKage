@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "MacOS",
+          "id": "848959509653356544",
+          "name": "MacOS"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "MacOS",
+          "id": "848959509653356544",
+          "name": "MacOS"
+        }
+      }
+    ],
+    "conversation_id": "1856722160733364685",
+    "created_at": "2024-11-13T15:33:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-13T16:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1856722160733364685"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1998_lain_en/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/1998_lain_en/status/1856432145725829170",
+          "start": 9,
+          "url": "https://t.co/YjJlGiGsfE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856722160733364685",
+    "lang": "cy",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856432145725829170",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Mac OS 8 https://t.co/YjJlGiGsfE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "MacOS",
+              "id": "848959509653356544",
+              "name": "MacOS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "MacOS",
+              "id": "848959509653356544",
+              "name": "MacOS"
+            }
+          }
+        ],
+        "conversation_id": "1856722160733364685",
+        "created_at": "2024-11-13T15:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T16:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856722160733364685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1998_lain_en/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/1998_lain_en/status/1856432145725829170",
+              "start": 9,
+              "url": "https://t.co/YjJlGiGsfE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856722160733364685",
+        "lang": "cy",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856432145725829170",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Mac OS 8 https://t.co/YjJlGiGsfE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1856432116927541248"
+          ]
+        },
+        "author_id": "1842030050373468160",
+        "conversation_id": "1856432145725829170",
+        "created_at": "2024-11-12T20:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T21:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856432145725829170"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 85,
+              "normalized_text": "serialexperimentslain",
+              "probability": 0.7453,
+              "start": 65,
+              "type": "Other"
+            },
+            {
+              "end": 102,
+              "normalized_text": "letsalllovelain",
+              "probability": 0.7372,
+              "start": 88,
+              "type": "Other"
+            },
+            {
+              "end": 112,
+              "normalized_text": "anime90s",
+              "probability": 0.7675,
+              "start": 105,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 86,
+              "start": 64,
+              "tag": "serialexperimentslain"
+            },
+            {
+              "end": 103,
+              "start": 87,
+              "tag": "letsalllovelain"
+            },
+            {
+              "end": 113,
+              "start": 104,
+              "tag": "anime90s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pNfzZxz6CA",
+              "end": 137,
+              "expanded_url": "https://x.com/1998_lain_en/status/1856432145725829170/video/1",
+              "media_key": "7_1856432116927541248",
+              "start": 114,
+              "url": "https://t.co/pNfzZxz6CA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856432145725829170",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 13546,
+          "like_count": 602,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "He thinks it’s that simple. But connections aren’t always real.\n#serialexperimentslain #letsalllovelain #anime90s https://t.co/pNfzZxz6CA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain📷膠片攝影/相机维修🚬大烟鬼🔪刃物收藏⌚️入门表匠⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "_kagenone"
+              },
+              {
+                "end": 137,
+                "start": 132,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7278,
+          "following_count": 4255,
+          "like_count": 11652,
+          "listed_count": 18,
+          "tweet_count": 13932
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T02:33:09.000Z",
+        "description": "official english account for serial experiments lain - 1998. present day, present time. we are all connected",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shorturl.at/XWv0P",
+                "end": 23,
+                "expanded_url": "https://shorturl.at/XWv0P",
+                "start": 0,
+                "url": "https://t.co/CuON6ePOov"
+              }
+            ]
+          }
+        },
+        "id": "1842030050373468160",
+        "location": "the wired",
+        "name": "serial experiments lain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854695237282938882/hVUuSDor_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 7,
+          "like_count": 18,
+          "listed_count": 0,
+          "tweet_count": 8
+        },
+        "url": "https://t.co/CuON6ePOov",
+        "username": "1998_lain_en",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,440 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1807240215163236352"
+      ],
+      "media_source_tweet_id": [
+        "1807240295760928772"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783335558466506752",
+          "name": "Online - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026792024",
+          "name": "Amazon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10040695083",
+          "name": "Amazon Web Services (AWS)"
+        }
+      }
+    ],
+    "conversation_id": "1807855587092582805",
+    "created_at": "2024-07-01T19:15:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-01T20:15:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807855587092582805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1693450364341948416",
+          "start": 3,
+          "username": "igeekbb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/rpZ0WL0Hj2",
+          "end": 56,
+          "expanded_url": "https://twitter.com/igeekbb/status/1807240295760928772/video/1",
+          "media_key": "7_1807240215163236352",
+          "start": 33,
+          "url": "https://t.co/rpZ0WL0Hj2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807855587092582805",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 465
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807240295760928772",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @igeekbb: 使用 AI 以零知识通过 AWS 面试 https://t.co/rpZ0WL0Hj2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 65794,
+        "height": 1920,
+        "media_key": "7_1807240215163236352",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1807240215163236352/pu/img/giWkrVdsg5nT7Q8F.jpg",
+        "public_metrics": {
+          "view_count": 315316
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1807240215163236352/pu/vid/avc1/320x568/SqdWQo3tQt-3Ejne.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1807240215163236352/pu/vid/avc1/480x852/igIGHL8br63FVYcW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1807240215163236352/pu/vid/avc1/720x1280/sCsiHTtKfg6e8V4h.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1807240215163236352/pu/pl/OOpjsNv7EHIeRbPk.m3u8?tag=12"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1807240215163236352"
+          ],
+          "media_source_tweet_id": [
+            "1807240295760928772"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026792024",
+              "name": "Amazon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040695083",
+              "name": "Amazon Web Services (AWS)"
+            }
+          }
+        ],
+        "conversation_id": "1807855587092582805",
+        "created_at": "2024-07-01T19:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T20:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807855587092582805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1693450364341948416",
+              "start": 3,
+              "username": "igeekbb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/rpZ0WL0Hj2",
+              "end": 56,
+              "expanded_url": "https://twitter.com/igeekbb/status/1807240295760928772/video/1",
+              "media_key": "7_1807240215163236352",
+              "start": 33,
+              "url": "https://t.co/rpZ0WL0Hj2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807855587092582805",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 465
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807240295760928772",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @igeekbb: 使用 AI 以零知识通过 AWS 面试 https://t.co/rpZ0WL0Hj2"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1807240215163236352"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026792024",
+              "name": "Amazon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040695083",
+              "name": "Amazon Web Services (AWS)"
+            }
+          }
+        ],
+        "conversation_id": "1807240295760928772",
+        "created_at": "2024-06-30T02:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T03:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807240295760928772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/rpZ0WL0Hj2",
+              "end": 43,
+              "expanded_url": "https://twitter.com/igeekbb/status/1807240295760928772/video/1",
+              "media_key": "7_1807240215163236352",
+              "start": 20,
+              "url": "https://t.co/rpZ0WL0Hj2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807240295760928772",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1281,
+          "impression_count": 624840,
+          "like_count": 2851,
+          "quote_count": 38,
+          "reply_count": 70,
+          "retweet_count": 465
+        },
+        "reply_settings": "everyone",
+        "text": "使用 AI 以零知识通过 AWS 面试 https://t.co/rpZ0WL0Hj2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain🎧HiFi糊烧🚬大烟鬼🔪刃物收藏⌚️入门表匠🚪88⚠️@_kagenone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 118,
+                "username": "_kagenone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6953,
+          "following_count": 3943,
+          "like_count": 9668,
+          "listed_count": 20,
+          "tweet_count": 12165
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️@geekbb 小号，发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "geekbb"
+              }
+            ]
+          }
+        },
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6814,
+          "following_count": 1,
+          "like_count": 595,
+          "listed_count": 56,
+          "tweet_count": 1741
+        },
+        "username": "igeekbb",
+        "verified": false
+      }
+    ]
+  }
+}

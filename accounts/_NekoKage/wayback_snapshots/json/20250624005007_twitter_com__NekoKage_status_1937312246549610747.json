@@ -1,0 +1,506 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937201712063754242",
+        "3_1937201712088993792",
+        "3_1937201712051171328",
+        "3_1937201712046993409"
+      ],
+      "media_source_tweet_id": [
+        "1937201715800912290",
+        "1937201715800912290",
+        "1937201715800912290",
+        "1937201715800912290"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "California",
+          "id": "856860158428798977",
+          "name": "California"
+        }
+      }
+    ],
+    "conversation_id": "1937312246549610747",
+    "created_at": "2025-06-24T00:50:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T01:50:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937312246549610747"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "Tattered Designed",
+          "probability": 0.8614,
+          "start": 17,
+          "type": "Other"
+        },
+        {
+          "end": 42,
+          "normalized_text": "Apple",
+          "probability": 0.8111,
+          "start": 38,
+          "type": "Organization"
+        },
+        {
+          "end": 56,
+          "normalized_text": "California",
+          "probability": 0.9664,
+          "start": 47,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "909083448278646785",
+          "start": 3,
+          "username": "AppleDemoYT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TbjxQ8ZVg4",
+          "end": 81,
+          "expanded_url": "https://x.com/AppleDemoYT/status/1937201715800912290/photo/1",
+          "media_key": "3_1937201712063754242",
+          "start": 58,
+          "url": "https://t.co/TbjxQ8ZVg4"
+        },
+        {
+          "display_url": "pic.x.com/TbjxQ8ZVg4",
+          "end": 81,
+          "expanded_url": "https://x.com/AppleDemoYT/status/1937201715800912290/photo/1",
+          "media_key": "3_1937201712088993792",
+          "start": 58,
+          "url": "https://t.co/TbjxQ8ZVg4"
+        },
+        {
+          "display_url": "pic.x.com/TbjxQ8ZVg4",
+          "end": 81,
+          "expanded_url": "https://x.com/AppleDemoYT/status/1937201715800912290/photo/1",
+          "media_key": "3_1937201712051171328",
+          "start": 58,
+          "url": "https://t.co/TbjxQ8ZVg4"
+        },
+        {
+          "display_url": "pic.x.com/TbjxQ8ZVg4",
+          "end": 81,
+          "expanded_url": "https://x.com/AppleDemoYT/status/1937201715800912290/photo/1",
+          "media_key": "3_1937201712046993409",
+          "start": 58,
+          "url": "https://t.co/TbjxQ8ZVg4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937312246549610747",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937201715800912290",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AppleDemoYT: Tattered Designed by Apple in California https://t.co/TbjxQ8ZVg4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1376,
+        "media_key": "3_1937201712063754242",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuJSsYHWsAIKR_y.jpg",
+        "width": 1166
+      },
+      {
+        "height": 1296,
+        "media_key": "3_1937201712088993792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuJSsYNX0AAHREz.jpg",
+        "width": 1121
+      },
+      {
+        "height": 546,
+        "media_key": "3_1937201712051171328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuJSsYEWsAAOQ5P.jpg",
+        "width": 1136
+      },
+      {
+        "height": 761,
+        "media_key": "3_1937201712046993409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuJSsYDW8AE6uWW.jpg",
+        "width": 1075
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937201712063754242",
+            "3_1937201712088993792",
+            "3_1937201712051171328",
+            "3_1937201712046993409"
+          ],
+          "media_source_tweet_id": [
+            "1937201715800912290",
+            "1937201715800912290",
+            "1937201715800912290",
+            "1937201715800912290"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "California",
+              "id": "856860158428798977",
+              "name": "California"
+            }
+          }
+        ],
+        "conversation_id": "1937312246549610747",
+        "created_at": "2025-06-24T00:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T01:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937312246549610747"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "Tattered Designed",
+              "probability": 0.8614,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 42,
+              "normalized_text": "Apple",
+              "probability": 0.8111,
+              "start": 38,
+              "type": "Organization"
+            },
+            {
+              "end": 56,
+              "normalized_text": "California",
+              "probability": 0.9664,
+              "start": 47,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "909083448278646785",
+              "start": 3,
+              "username": "AppleDemoYT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TbjxQ8ZVg4",
+              "end": 81,
+              "expanded_url": "https://x.com/AppleDemoYT/status/1937201715800912290/photo/1",
+              "media_key": "3_1937201712063754242",
+              "start": 58,
+              "url": "https://t.co/TbjxQ8ZVg4"
+            },
+            {
+              "display_url": "pic.x.com/TbjxQ8ZVg4",
+              "end": 81,
+              "expanded_url": "https://x.com/AppleDemoYT/status/1937201715800912290/photo/1",
+              "media_key": "3_1937201712088993792",
+              "start": 58,
+              "url": "https://t.co/TbjxQ8ZVg4"
+            },
+            {
+              "display_url": "pic.x.com/TbjxQ8ZVg4",
+              "end": 81,
+              "expanded_url": "https://x.com/AppleDemoYT/status/1937201715800912290/photo/1",
+              "media_key": "3_1937201712051171328",
+              "start": 58,
+              "url": "https://t.co/TbjxQ8ZVg4"
+            },
+            {
+              "display_url": "pic.x.com/TbjxQ8ZVg4",
+              "end": 81,
+              "expanded_url": "https://x.com/AppleDemoYT/status/1937201715800912290/photo/1",
+              "media_key": "3_1937201712046993409",
+              "start": 58,
+              "url": "https://t.co/TbjxQ8ZVg4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937312246549610747",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937201715800912290",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AppleDemoYT: Tattered Designed by Apple in California https://t.co/TbjxQ8ZVg4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937201712063754242",
+            "3_1937201712088993792",
+            "3_1937201712051171328",
+            "3_1937201712046993409"
+          ]
+        },
+        "author_id": "909083448278646785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "California",
+              "id": "856860158428798977",
+              "name": "California"
+            }
+          }
+        ],
+        "conversation_id": "1937201715800912290",
+        "created_at": "2025-06-23T17:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T18:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937201715800912290"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "Tattered Designed",
+              "probability": 0.6335,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 25,
+              "normalized_text": "Apple",
+              "probability": 0.7796,
+              "start": 21,
+              "type": "Organization"
+            },
+            {
+              "end": 39,
+              "normalized_text": "California",
+              "probability": 0.976,
+              "start": 30,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TbjxQ8ZVg4",
+              "end": 64,
+              "expanded_url": "https://x.com/AppleDemoYT/status/1937201715800912290/photo/1",
+              "media_key": "3_1937201712063754242",
+              "start": 41,
+              "url": "https://t.co/TbjxQ8ZVg4"
+            },
+            {
+              "display_url": "pic.x.com/TbjxQ8ZVg4",
+              "end": 64,
+              "expanded_url": "https://x.com/AppleDemoYT/status/1937201715800912290/photo/1",
+              "media_key": "3_1937201712088993792",
+              "start": 41,
+              "url": "https://t.co/TbjxQ8ZVg4"
+            },
+            {
+              "display_url": "pic.x.com/TbjxQ8ZVg4",
+              "end": 64,
+              "expanded_url": "https://x.com/AppleDemoYT/status/1937201715800912290/photo/1",
+              "media_key": "3_1937201712051171328",
+              "start": 41,
+              "url": "https://t.co/TbjxQ8ZVg4"
+            },
+            {
+              "display_url": "pic.x.com/TbjxQ8ZVg4",
+              "end": 64,
+              "expanded_url": "https://x.com/AppleDemoYT/status/1937201715800912290/photo/1",
+              "media_key": "3_1937201712046993409",
+              "start": 41,
+              "url": "https://t.co/TbjxQ8ZVg4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937201715800912290",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 7735,
+          "like_count": 226,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Tattered Designed by Apple in California https://t.co/TbjxQ8ZVg4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🐈#RainWorld⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 107,
+                "tag": "RainWorld"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "_kagenone"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7660,
+          "following_count": 4717,
+          "like_count": 12788,
+          "listed_count": 19,
+          "media_count": 2261,
+          "tweet_count": 16021
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-16T15:55:58.000Z",
+        "description": "just an idiot who knows how to turn on a computer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@AppleDemo",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@AppleDemo",
+                "start": 0,
+                "url": "https://t.co/Gq9NZCDVYV"
+              }
+            ]
+          }
+        },
+        "id": "909083448278646785",
+        "name": "Apple Demo",
+        "pinned_tweet_id": "1879635795616927801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1304598371227906048/96sQSX6E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15979,
+          "following_count": 0,
+          "like_count": 6387,
+          "listed_count": 75,
+          "media_count": 1184,
+          "tweet_count": 1349
+        },
+        "url": "https://t.co/Gq9NZCDVYV",
+        "username": "AppleDemoYT",
+        "verified": false
+      }
+    ]
+  }
+}

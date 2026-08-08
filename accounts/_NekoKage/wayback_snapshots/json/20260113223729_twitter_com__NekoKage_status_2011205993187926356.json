@@ -1,0 +1,785 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10044903039",
+          "name": "Apple - iOS"
+        }
+      }
+    ],
+    "conversation_id": "2011205993187926356",
+    "created_at": "2026-01-13T22:37:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T23:37:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011205993187926356"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "SparseBox",
+          "probability": 0.8375,
+          "start": 19,
+          "type": "Other"
+        },
+        {
+          "end": 58,
+          "normalized_text": "iOS",
+          "probability": 0.9711,
+          "start": 56,
+          "type": "Other"
+        },
+        {
+          "end": 138,
+          "normalized_text": "SparseB",
+          "probability": 0.7088,
+          "start": 132,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1798210440574754816",
+          "start": 3,
+          "username": "lunginspector"
+        },
+        {
+          "end": 129,
+          "id": "846493629342396416",
+          "start": 115,
+          "username": "khanhduytran0"
+        }
+      ],
+      "urls": [
+        {
+          "description": "WarningThis tool has the potential to break or bootloop your device! Please create a backup before any further usage. IMPORTANT DISCLAIMER: You will need the app store version (or v2.3.5 and belo...",
+          "display_url": "github.com/jailbreakdotpa…",
+          "end": 106,
+          "expanded_url": "https://github.com/jailbreakdotparty/SparseBoxPlus/releases/tag/0.1",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2010894170014302209/1Dr3oiQD?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2010894170014302209/1Dr3oiQD?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 83,
+          "status": 200,
+          "title": "Release SparseBox+ v0.1 · jailbreakdotparty/SparseBoxPlus",
+          "unwound_url": "https://github.com/jailbreakdotparty/SparseBoxPlus/releases/tag/0.1",
+          "url": "https://t.co/HakrSkPyB0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011205993187926356",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010894165983514877",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lunginspector: SparseBox+ v0.1 is out now! Only for iOS 16.0 - 26.1.\nDownload: https://t.co/HakrSkPyB0\n\nI took @khanhduytran0's SparseB…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34592,
+        "height": 2796,
+        "media_key": "13_2010893636498489344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2010893636498489344/img/cVhH1aXZA277kf85.jpg",
+        "public_metrics": {
+          "view_count": 9063
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010893636498489344/vid/avc1/320x692/TNlHB5g0NWZ5dhcW.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010893636498489344/vid/avc1/480x1040/vwwa4eyjPjgU4qdm.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010893636498489344/vid/avc1/720x1560/G5laIn1IQOAvUYTM.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2010893636498489344/pl/igDSjKC_nANIam7Y.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2011205993187926356",
+        "created_at": "2026-01-13T22:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T23:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011205993187926356"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "SparseBox",
+              "probability": 0.8375,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 58,
+              "normalized_text": "iOS",
+              "probability": 0.9711,
+              "start": 56,
+              "type": "Other"
+            },
+            {
+              "end": 138,
+              "normalized_text": "SparseB",
+              "probability": 0.7088,
+              "start": 132,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1798210440574754816",
+              "start": 3,
+              "username": "lunginspector"
+            },
+            {
+              "end": 129,
+              "id": "846493629342396416",
+              "start": 115,
+              "username": "khanhduytran0"
+            }
+          ],
+          "urls": [
+            {
+              "description": "WarningThis tool has the potential to break or bootloop your device! Please create a backup before any further usage. IMPORTANT DISCLAIMER: You will need the app store version (or v2.3.5 and belo...",
+              "display_url": "github.com/jailbreakdotpa…",
+              "end": 106,
+              "expanded_url": "https://github.com/jailbreakdotparty/SparseBoxPlus/releases/tag/0.1",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2010894170014302209/1Dr3oiQD?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2010894170014302209/1Dr3oiQD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 83,
+              "status": 200,
+              "title": "Release SparseBox+ v0.1 · jailbreakdotparty/SparseBoxPlus",
+              "unwound_url": "https://github.com/jailbreakdotparty/SparseBoxPlus/releases/tag/0.1",
+              "url": "https://t.co/HakrSkPyB0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011205993187926356",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010894165983514877",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lunginspector: SparseBox+ v0.1 is out now! Only for iOS 16.0 - 26.1.\nDownload: https://t.co/HakrSkPyB0\n\nI took @khanhduytran0's SparseB…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2010893636498489344"
+          ]
+        },
+        "author_id": "1798210440574754816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2010894165983514877",
+        "created_at": "2026-01-13T01:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T02:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010894165983514877"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "SparseBox",
+              "probability": 0.7651,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 14,
+              "normalized_text": ".1",
+              "probability": 0.5202,
+              "start": 13,
+              "type": "Other"
+            },
+            {
+              "end": 39,
+              "normalized_text": "iOS",
+              "probability": 0.9831,
+              "start": 37,
+              "type": "Other"
+            },
+            {
+              "end": 121,
+              "normalized_text": "SparseBox",
+              "probability": 0.8283,
+              "start": 113,
+              "type": "Other"
+            },
+            {
+              "end": 195,
+              "normalized_text": "QoL",
+              "probability": 0.5746,
+              "start": 193,
+              "type": "Other"
+            },
+            {
+              "end": 276,
+              "normalized_text": "StikDebug",
+              "probability": 0.9201,
+              "start": 268,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 110,
+              "id": "846493629342396416",
+              "start": 96,
+              "username": "khanhduytran0"
+            }
+          ],
+          "urls": [
+            {
+              "description": "WarningThis tool has the potential to break or bootloop your device! Please create a backup before any further usage. IMPORTANT DISCLAIMER: You will need the app store version (or v2.3.5 and belo...",
+              "display_url": "github.com/jailbreakdotpa…",
+              "end": 87,
+              "expanded_url": "https://github.com/jailbreakdotparty/SparseBoxPlus/releases/tag/0.1",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2010894170014302209/1Dr3oiQD?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2010894170014302209/1Dr3oiQD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 64,
+              "status": 200,
+              "title": "Release SparseBox+ v0.1 · jailbreakdotparty/SparseBoxPlus",
+              "unwound_url": "https://github.com/jailbreakdotparty/SparseBoxPlus/releases/tag/0.1",
+              "url": "https://t.co/HakrSkPyB0"
+            },
+            {
+              "display_url": "pic.x.com/wLNlrekSUL",
+              "end": 302,
+              "expanded_url": "https://x.com/lunginspector/status/2010894165983514877/video/1",
+              "media_key": "13_2010893636498489344",
+              "start": 279,
+              "url": "https://t.co/wLNlrekSUL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010894165983514877",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 206,
+          "impression_count": 25926,
+          "like_count": 298,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "SparseBox+ v0.1 is out now! Only for iOS 16.0 - 26.1.\nDownload: https://t.co/HakrSkPyB0\n\nI took @khanhduytran0's SparseBox and wrapped it in a much more proper UI! Also included are some extra QoL features. Please read the readme for an important disclaimer regarding StikDebug! https://t.co/wLNlrekSUL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7964,
+          "following_count": 5591,
+          "like_count": 13755,
+          "listed_count": 17,
+          "media_count": 2559,
+          "tweet_count": 18732
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T04:29:22.000Z",
+        "description": "Making iDevices do things they probably shouldn’t be doing. Manager, Shortcuts Researcher, and Developer at https://t.co/Lci7Wi0aFu.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jailbreak.party",
+                "end": 131,
+                "expanded_url": "http://jailbreak.party",
+                "start": 108,
+                "url": "https://t.co/Lci7Wi0aFu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jailbreak.party/discord",
+                "end": 23,
+                "expanded_url": "https://jailbreak.party/discord",
+                "start": 0,
+                "url": "https://t.co/f7PF8sVQz4"
+              }
+            ]
+          }
+        },
+        "id": "1798210440574754816",
+        "name": "lunginspector",
+        "pinned_tweet_id": "2010894165983514877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885589123756679168/5ApL92T__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1690,
+          "following_count": 115,
+          "like_count": 3291,
+          "listed_count": 6,
+          "media_count": 123,
+          "tweet_count": 1518
+        },
+        "url": "https://t.co/f7PF8sVQz4",
+        "username": "lunginspector",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-27T22:46:23.000Z",
+        "description": "@PLaunchTeam(ex), LiveContainer, TrollPad; iOS internal explorer JB repo: https://t.co/2ytwlbwGIx khanhduy032@procursus.social https://t.co/6W1ngT0prC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "PLaunchTeam"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "khanhduytran0.github.io/repo",
+                "end": 97,
+                "expanded_url": "http://khanhduytran0.github.io/repo",
+                "start": 74,
+                "url": "https://t.co/2ytwlbwGIx"
+              },
+              {
+                "display_url": "khanhduytran0.bsky.social",
+                "end": 150,
+                "expanded_url": "http://khanhduytran0.bsky.social",
+                "start": 127,
+                "url": "https://t.co/6W1ngT0prC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/khanhduytran0",
+                "end": 23,
+                "expanded_url": "https://github.com/khanhduytran0",
+                "start": 0,
+                "url": "https://t.co/2xsI9qXFYz"
+              }
+            ]
+          }
+        },
+        "id": "846493629342396416",
+        "location": "Việt Nam",
+        "name": "Duy Tran",
+        "pinned_tweet_id": "1954724636727587237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1151848838526750722/zsms0Tx3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11025,
+          "following_count": 245,
+          "like_count": 2649,
+          "listed_count": 41,
+          "media_count": 286,
+          "tweet_count": 1762
+        },
+        "url": "https://t.co/2xsI9qXFYz",
+        "username": "khanhduytran0",
+        "verified": true
+      }
+    ]
+  }
+}

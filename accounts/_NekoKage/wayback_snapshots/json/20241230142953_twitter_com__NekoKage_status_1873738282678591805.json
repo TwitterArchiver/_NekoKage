@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1873040239020675072"
+      ],
+      "media_source_tweet_id": [
+        "1873040288526287066"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "1873738282678591805",
+    "created_at": "2024-12-30T14:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-30T15:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873738282678591805"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "Fumo Friday",
+          "probability": 0.7343,
+          "start": 26,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1585804818139971585",
+          "start": 3,
+          "username": "CirnoIsDumb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0PBon72Z1I",
+          "end": 61,
+          "expanded_url": "https://x.com/CirnoIsDumb/status/1873040288526287066/video/1",
+          "media_key": "7_1873040239020675072",
+          "start": 38,
+          "url": "https://t.co/0PBon72Z1I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873738282678591805",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 154
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873040288526287066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CirnoIsDumb: Yay it’s Fumo Friday https://t.co/0PBon72Z1I"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7006,
+        "height": 1280,
+        "media_key": "7_1873040239020675072",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1873040239020675072/pu/img/-GSHrDLxAGa6hMTP.jpg",
+        "public_metrics": {
+          "view_count": 4386
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1873040239020675072/pu/vid/avc1/320x568/KKo_GCbs1uCUg8Vf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1873040239020675072/pu/vid/avc1/480x852/WGU_en-9Y7HCbJ68.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1873040239020675072/pu/vid/avc1/720x1280/G-mblrQNsvsslwEZ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1873040239020675072/pu/pl/71CjXYOZiWHXhv18.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1873040239020675072"
+          ],
+          "media_source_tweet_id": [
+            "1873040288526287066"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "conversation_id": "1873738282678591805",
+        "created_at": "2024-12-30T14:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T15:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873738282678591805"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "Fumo Friday",
+              "probability": 0.7343,
+              "start": 26,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1585804818139971585",
+              "start": 3,
+              "username": "CirnoIsDumb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0PBon72Z1I",
+              "end": 61,
+              "expanded_url": "https://x.com/CirnoIsDumb/status/1873040288526287066/video/1",
+              "media_key": "7_1873040239020675072",
+              "start": 38,
+              "url": "https://t.co/0PBon72Z1I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873738282678591805",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 154
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873040288526287066",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CirnoIsDumb: Yay it’s Fumo Friday https://t.co/0PBon72Z1I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1873040239020675072"
+          ]
+        },
+        "author_id": "1585804818139971585",
+        "conversation_id": "1873040288526287066",
+        "created_at": "2024-12-28T16:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T17:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873040288526287066"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Fumo Friday",
+              "probability": 0.7558,
+              "start": 9,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0PBon72Z1I",
+              "end": 44,
+              "expanded_url": "https://x.com/CirnoIsDumb/status/1873040288526287066/video/1",
+              "media_key": "7_1873040239020675072",
+              "start": 21,
+              "url": "https://t.co/0PBon72Z1I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873040288526287066",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 7505,
+          "like_count": 1462,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 154
+        },
+        "reply_settings": "everyone",
+        "text": "Yay it’s Fumo Friday https://t.co/0PBon72Z1I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain📷膠片攝影/相机维修🚬大烟鬼🔪刃物收藏⌚️入门表匠⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "_kagenone"
+              },
+              {
+                "end": 137,
+                "start": 132,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7426,
+          "following_count": 4413,
+          "like_count": 12076,
+          "listed_count": 19,
+          "media_count": 2054,
+          "tweet_count": 14551
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-28T01:25:16.000Z",
+        "description": "2+2=5 ummm am I mathing? (no stolen fumos, just my own content)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/Ekvz3kzPru",
+                "end": 23,
+                "expanded_url": "https://discord.gg/Ekvz3kzPru",
+                "start": 0,
+                "url": "https://t.co/Z1o7k2Y4rB"
+              }
+            ]
+          }
+        },
+        "id": "1585804818139971585",
+        "location": "In the fridge",
+        "name": "Cirno Daily Struggle",
+        "pinned_tweet_id": "1824192431094661331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585804981063540736/P2XAs8-E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8882,
+          "following_count": 152,
+          "like_count": 7061,
+          "listed_count": 13,
+          "media_count": 670,
+          "tweet_count": 1552
+        },
+        "url": "https://t.co/Z1o7k2Y4rB",
+        "username": "CirnoIsDumb",
+        "verified": false
+      }
+    ]
+  }
+}

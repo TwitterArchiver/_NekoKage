@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993303536474767372"
+      ],
+      "media_source_tweet_id": [
+        "1993303664271015989"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "1993378239356846088",
+    "created_at": "2025-11-25T17:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T18:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993378239356846088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1832001430032617472",
+          "start": 3,
+          "username": "limblessfucker"
+        }
+      ],
+      "urls": [
+        {
+          "description": "人棍预警喵",
+          "display_url": "poipiku.com/8654777/935459…",
+          "end": 75,
+          "expanded_url": "https://poipiku.com/8654777/9354595.html",
+          "images": [
+            {
+              "height": 512,
+              "url": "https://pbs.twimg.com/news_img/1993303665478893569/phiuZgNC?format=png&name=orig",
+              "width": 512
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1993303665478893569/phiuZgNC?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 52,
+          "status": 200,
+          "title": "[塗鴉] (1 圖像) - 4/；。刃 的 Poipiku",
+          "unwound_url": "https://poipiku.com/8654777/9354595.html",
+          "url": "https://t.co/71glCUhdVX"
+        },
+        {
+          "display_url": "pic.x.com/WMmqfgNxmQ",
+          "end": 99,
+          "expanded_url": "https://x.com/limblessfucker/status/1993303664271015989/photo/1",
+          "media_key": "3_1993303536474767372",
+          "start": 76,
+          "url": "https://t.co/WMmqfgNxmQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993378239356846088",
+    "lang": "et",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993303664271015989",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @limblessfucker: artist: 4/；。刃 (poipiku)\nsource: https://t.co/71glCUhdVX https://t.co/WMmqfgNxmQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1993378239356846088].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1993378239356846088",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1993378239356846088"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_1993303536474767372",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6mjAWUbwAwPHdv.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993303536474767372"
+          ]
+        },
+        "author_id": "1832001430032617472",
+        "conversation_id": "1993303664271015989",
+        "created_at": "2025-11-25T13:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993303664271015989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "人棍预警喵",
+              "display_url": "poipiku.com/8654777/935459…",
+              "end": 55,
+              "expanded_url": "https://poipiku.com/8654777/9354595.html",
+              "images": [
+                {
+                  "height": 512,
+                  "url": "https://pbs.twimg.com/news_img/1993303665478893569/phiuZgNC?format=png&name=orig",
+                  "width": 512
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1993303665478893569/phiuZgNC?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 32,
+              "status": 200,
+              "title": "[塗鴉] (1 圖像) - 4/；。刃 的 Poipiku",
+              "unwound_url": "https://poipiku.com/8654777/9354595.html",
+              "url": "https://t.co/71glCUhdVX"
+            },
+            {
+              "display_url": "pic.x.com/WMmqfgNxmQ",
+              "end": 79,
+              "expanded_url": "https://x.com/limblessfucker/status/1993303664271015989/photo/1",
+              "media_key": "3_1993303536474767372",
+              "start": 56,
+              "url": "https://t.co/WMmqfgNxmQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993303664271015989",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 96,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "artist: 4/；。刃 (poipiku)\nsource: https://t.co/71glCUhdVX https://t.co/WMmqfgNxmQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989746234408701952/CGIjbFWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7962,
+          "following_count": 5324,
+          "like_count": 13575,
+          "listed_count": 17,
+          "media_count": 2495,
+          "tweet_count": 18085
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T10:22:49.000Z",
+        "description": "i am 20 years  old",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nugget-porn.urbanup.com",
+                "end": 23,
+                "expanded_url": "http://nugget-porn.urbanup.com",
+                "start": 0,
+                "url": "https://t.co/Q0ergncNHE"
+              }
+            ]
+          }
+        },
+        "id": "1832001430032617472",
+        "location": "in bed with a nugget",
+        "name": "quadruple amputee fucker",
+        "pinned_tweet_id": "1832007199285285031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832383070261108736/vT0uplNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 1520,
+          "like_count": 25755,
+          "listed_count": 1,
+          "media_count": 263,
+          "tweet_count": 8182
+        },
+        "url": "https://t.co/Q0ergncNHE",
+        "username": "limblessfucker",
+        "verified": false
+      }
+    ]
+  }
+}

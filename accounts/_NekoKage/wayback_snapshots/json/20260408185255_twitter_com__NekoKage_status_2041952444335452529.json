@@ -1,0 +1,697 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041879415001640961",
+        "3_2041879415723057152"
+      ],
+      "media_source_tweet_id": [
+        "2041879424539488707",
+        "2041879424539488707"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1347257866864873473",
+          "name": "Apple Mac"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237004504219828224",
+          "name": "Computer hardware"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2041952444335452529",
+    "created_at": "2026-04-08T18:52:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T19:52:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041952444335452529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1396429621113999364",
+          "start": 3,
+          "username": "yuuki_ans"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G6oyWHf2SN",
+          "end": 96,
+          "expanded_url": "https://x.com/yuuki_ans/status/2041879424539488707/photo/1",
+          "media_key": "3_2041879415001640961",
+          "start": 73,
+          "url": "https://t.co/G6oyWHf2SN"
+        },
+        {
+          "display_url": "pic.x.com/G6oyWHf2SN",
+          "end": 96,
+          "expanded_url": "https://x.com/yuuki_ans/status/2041879424539488707/photo/1",
+          "media_key": "3_2041879415723057152",
+          "start": 73,
+          "url": "https://t.co/G6oyWHf2SN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041952444335452529",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041879424539488707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuuki_ans: 🤔🤔🤔\nThere's even an old Mac logo on the Apple PCC Server. https://t.co/G6oyWHf2SN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1005,
+        "media_key": "3_2041879415001640961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFY2gnVa8AEuxbo.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1209,
+        "media_key": "3_2041879415723057152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFY2gqBa4AAbIXS.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041879415001640961",
+            "3_2041879415723057152"
+          ],
+          "media_source_tweet_id": [
+            "2041879424539488707",
+            "2041879424539488707"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347257866864873473",
+              "name": "Apple Mac"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2041952444335452529",
+        "created_at": "2026-04-08T18:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T19:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041952444335452529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1396429621113999364",
+              "start": 3,
+              "username": "yuuki_ans"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G6oyWHf2SN",
+              "end": 96,
+              "expanded_url": "https://x.com/yuuki_ans/status/2041879424539488707/photo/1",
+              "media_key": "3_2041879415001640961",
+              "start": 73,
+              "url": "https://t.co/G6oyWHf2SN"
+            },
+            {
+              "display_url": "pic.x.com/G6oyWHf2SN",
+              "end": 96,
+              "expanded_url": "https://x.com/yuuki_ans/status/2041879424539488707/photo/1",
+              "media_key": "3_2041879415723057152",
+              "start": 73,
+              "url": "https://t.co/G6oyWHf2SN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041952444335452529",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041879424539488707",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuuki_ans: 🤔🤔🤔\nThere's even an old Mac logo on the Apple PCC Server. https://t.co/G6oyWHf2SN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041879415001640961",
+            "3_2041879415723057152"
+          ]
+        },
+        "author_id": "1396429621113999364",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347257866864873473",
+              "name": "Apple Mac"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2041879424539488707",
+        "created_at": "2026-04-08T14:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T15:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041879424539488707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G6oyWHf2SN",
+              "end": 81,
+              "expanded_url": "https://x.com/yuuki_ans/status/2041879424539488707/photo/1",
+              "media_key": "3_2041879415001640961",
+              "start": 58,
+              "url": "https://t.co/G6oyWHf2SN"
+            },
+            {
+              "display_url": "pic.x.com/G6oyWHf2SN",
+              "end": 81,
+              "expanded_url": "https://x.com/yuuki_ans/status/2041879424539488707/photo/1",
+              "media_key": "3_2041879415723057152",
+              "start": 58,
+              "url": "https://t.co/G6oyWHf2SN"
+            },
+            {
+              "display_url": "x.com/yuuki_ans/stat…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/yuuki_ans/status/2037413624927662178",
+              "start": 82,
+              "url": "https://t.co/44qRqFcodh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041879424539488707",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 3832,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037413624927662178",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤔🤔🤔\nThere's even an old Mac logo on the Apple PCC Server. https://t.co/G6oyWHf2SN https://t.co/44qRqFcodh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8176,
+          "following_count": 6185,
+          "like_count": 14415,
+          "listed_count": 17,
+          "media_count": 2759,
+          "tweet_count": 20177
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-23T11:35:53.000Z",
+        "description": "Maybe one day in the future, you will see another me ...",
+        "id": "1396429621113999364",
+        "location": "Polaris",
+        "name": "结城安穗-YuuKi_AnS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736811338348011520/Jyv2iFg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4047,
+          "following_count": 644,
+          "like_count": 196981,
+          "listed_count": 34,
+          "media_count": 1472,
+          "tweet_count": 7762
+        },
+        "username": "yuuki_ans",
+        "verified": true
+      }
+    ]
+  }
+}

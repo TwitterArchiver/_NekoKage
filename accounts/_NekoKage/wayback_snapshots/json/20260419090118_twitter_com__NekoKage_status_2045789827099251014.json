@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2045746899500896256"
+      ],
+      "media_source_tweet_id": [
+        "2045746926533173535"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1273386679273807873",
+          "name": "3D animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1192082698568814592",
+          "name": "Animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1273386679273807873",
+          "name": "3D animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1273386679273807873",
+          "name": "3D animation"
+        }
+      }
+    ],
+    "conversation_id": "2045789827099251014",
+    "created_at": "2026-04-19T09:01:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T10:01:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045789827099251014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1254418891150774275",
+          "start": 3,
+          "username": "mujo_kun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/15J3qapoUz",
+          "end": 126,
+          "expanded_url": "https://x.com/mujo_kun/status/2045746926533173535/video/1",
+          "media_key": "7_2045746899500896256",
+          "start": 103,
+          "url": "https://t.co/15J3qapoUz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045789827099251014",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045746926533173535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mujo_kun: 厦門の仏具展覧会で凄いものを発見した。露光装置（半導体作るための装置）で作った超絶3Dシール。この動画じゃ全然伝わらないんだけど、飛び出し方が前代未聞。これは流行るぞ……！！！ https://t.co/15J3qapoUz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045789827099251014].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045789827099251014",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045789827099251014"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14219,
+        "height": 1280,
+        "media_key": "7_2045746899500896256",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2045746899500896256/pu/img/P8G9MnI05dzwlNCz.jpg",
+        "public_metrics": {
+          "view_count": 40
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045746899500896256/pu/vid/avc1/320x568/y5Qp5aQrSLpGhxnX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045746899500896256/pu/vid/avc1/480x852/wB1sPUaD1ff54HUg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045746899500896256/pu/vid/avc1/720x1280/_qL6XNGyhsOfuYGU.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2045746899500896256/pu/pl/LiGvbbcbllVu1n0M.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2045746899500896256"
+          ]
+        },
+        "author_id": "1254418891150774275",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          }
+        ],
+        "conversation_id": "2045746926533173535",
+        "created_at": "2026-04-19T06:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T07:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045746926533173535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/15J3qapoUz",
+              "end": 112,
+              "expanded_url": "https://x.com/mujo_kun/status/2045746926533173535/video/1",
+              "media_key": "7_2045746899500896256",
+              "start": 89,
+              "url": "https://t.co/15J3qapoUz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045746926533173535",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 6548,
+          "like_count": 237,
+          "quote_count": 6,
+          "reply_count": 3,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "厦門の仏具展覧会で凄いものを発見した。露光装置（半導体作るための装置）で作った超絶3Dシール。この動画じゃ全然伝わらないんだけど、飛び出し方が前代未聞。これは流行るぞ……！！！ https://t.co/15J3qapoUz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8419,
+          "following_count": 6384,
+          "like_count": 14619,
+          "listed_count": 17,
+          "media_count": 2814,
+          "tweet_count": 20576
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-26T14:35:57.000Z",
+        "description": "無常党党員募集中（フォロー＝入党とみなすっ💞）!!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/mj_fukushoki",
+                "end": 23,
+                "expanded_url": "https://note.com/mj_fukushoki",
+                "start": 0,
+                "url": "https://t.co/RAaz01o7gY"
+              }
+            ]
+          }
+        },
+        "id": "1254418891150774275",
+        "location": "Fujian",
+        "name": "無常くん（副書記）",
+        "pinned_tweet_id": "1991438348377026943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761017466141237248/vSXWXLkb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16572,
+          "following_count": 982,
+          "like_count": 38042,
+          "listed_count": 212,
+          "media_count": 8998,
+          "tweet_count": 30380
+        },
+        "url": "https://t.co/RAaz01o7gY",
+        "username": "mujo_kun",
+        "verified": false
+      }
+    ]
+  }
+}

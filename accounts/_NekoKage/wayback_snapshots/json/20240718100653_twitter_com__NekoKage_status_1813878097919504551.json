@@ -1,0 +1,355 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "conversation_id": "1813851317690876039",
+    "created_at": "2024-07-18T10:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-18T11:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813878097919504551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1727822486488911872",
+          "start": 0,
+          "username": "HINAMI1846455"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813878097919504551",
+    "in_reply_to_user_id": "1727822486488911872",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813870288343560386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HINAMI1846455 最喜欢Asahi了😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "conversation_id": "1813851317690876039",
+        "created_at": "2024-07-18T10:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T11:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813878097919504551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1727822486488911872",
+              "start": 0,
+              "username": "HINAMI1846455"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813878097919504551",
+        "in_reply_to_user_id": "1727822486488911872",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813870288343560386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HINAMI1846455 最喜欢Asahi了😋"
+      },
+      {
+        "attachments": {},
+        "author_id": "1727822486488911872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596153057282",
+              "name": "Alcohol - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "スーパードライ",
+              "id": "10049021570",
+              "name": "スーパードライ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Beer",
+              "id": "850142258871418880",
+              "name": "Beer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596153057282",
+              "name": "Alcohol - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "アサヒビール (Asahi Beer)",
+              "id": "10049008257",
+              "name": "アサヒビール (Asahi Beer)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "スーパードライ",
+              "id": "10049021570",
+              "name": "スーパードライ"
+            }
+          }
+        ],
+        "conversation_id": "1813851317690876039",
+        "created_at": "2024-07-18T09:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T10:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813870288343560386"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "日本",
+              "probability": 0.828,
+              "start": 11,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "878794367103676416",
+              "start": 0,
+              "username": "_NekoKage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813870288343560386",
+        "in_reply_to_user_id": "878794367103676416",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813851317690876039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_NekoKage 日本のアサヒ スーパードライ があるんだ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain🎧HiFi糊烧🚬大烟鬼🔪刃物收藏⌚️入门表匠🚪88⚠️@_kagenone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 118,
+                "username": "_kagenone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7027,
+          "following_count": 3978,
+          "like_count": 9836,
+          "listed_count": 19,
+          "tweet_count": 12334
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-23T22:53:02.000Z",
+        "description": "始めたのは2023.5.28から\n\nほとんど返信ばかりやってます\nそして、海外のフォロワーさんが多いのが特長\n\n10月末日で終了、閉鎖\nhttps://t.co/N4NloqnD1f\n\n尚、エ〇垢や投資とか宗教や倫理染みたものは、通報の上排除！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "engawa.kakaku.com/userbbs/1351/T…",
+                "end": 91,
+                "expanded_url": "https://engawa.kakaku.com/userbbs/1351/ThreadID=1351-14804/",
+                "start": 68,
+                "url": "https://t.co/N4NloqnD1f"
+              }
+            ]
+          }
+        },
+        "id": "1727822486488911872",
+        "name": "Hinami",
+        "pinned_tweet_id": "1737168182568497485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806434409626906624/Xh1fB9nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 487,
+          "like_count": 51497,
+          "listed_count": 7,
+          "tweet_count": 21523
+        },
+        "username": "HINAMI1846455",
+        "verified": false
+      }
+    ]
+  }
+}

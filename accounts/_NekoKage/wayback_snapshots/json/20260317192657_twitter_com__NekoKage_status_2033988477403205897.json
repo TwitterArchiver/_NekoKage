@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033983103371513858",
+        "3_2033983216043114496"
+      ],
+      "media_source_tweet_id": [
+        "2033983240265208024",
+        "2033983240265208024"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2033988477403205897",
+    "created_at": "2026-03-17T19:26:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T20:26:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033988477403205897"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 46,
+          "normalized_text": "東京光学",
+          "probability": 0.2778,
+          "start": 43,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1256959468975190017",
+          "start": 3,
+          "username": "kusa_gomi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yO9QIleEST",
+          "end": 81,
+          "expanded_url": "https://x.com/kusa_gomi/status/2033983240265208024/photo/1",
+          "media_key": "3_2033983103371513858",
+          "start": 58,
+          "url": "https://t.co/yO9QIleEST"
+        },
+        {
+          "display_url": "pic.x.com/yO9QIleEST",
+          "end": 81,
+          "expanded_url": "https://x.com/kusa_gomi/status/2033983240265208024/photo/1",
+          "media_key": "3_2033983216043114496",
+          "start": 58,
+          "url": "https://t.co/yO9QIleEST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033988477403205897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033983240265208024",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kusa_gomi: わーーーお……トップナンバー……？\n\nまいにゃ〜ぎぁ…\n東京光学、ローレルフレックス https://t.co/yO9QIleEST"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 596,
+        "media_key": "3_2033983103371513858",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDoo2yObEAI0D3W.jpg",
+        "width": 596
+      },
+      {
+        "height": 2399,
+        "media_key": "3_2033983216043114496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDoo9V9bQAAjM8J.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033983103371513858",
+            "3_2033983216043114496"
+          ],
+          "media_source_tweet_id": [
+            "2033983240265208024",
+            "2033983240265208024"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2033988477403205897",
+        "created_at": "2026-03-17T19:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T20:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033988477403205897"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "東京光学",
+              "probability": 0.2778,
+              "start": 43,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1256959468975190017",
+              "start": 3,
+              "username": "kusa_gomi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yO9QIleEST",
+              "end": 81,
+              "expanded_url": "https://x.com/kusa_gomi/status/2033983240265208024/photo/1",
+              "media_key": "3_2033983103371513858",
+              "start": 58,
+              "url": "https://t.co/yO9QIleEST"
+            },
+            {
+              "display_url": "pic.x.com/yO9QIleEST",
+              "end": 81,
+              "expanded_url": "https://x.com/kusa_gomi/status/2033983240265208024/photo/1",
+              "media_key": "3_2033983216043114496",
+              "start": 58,
+              "url": "https://t.co/yO9QIleEST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033988477403205897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033983240265208024",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kusa_gomi: わーーーお……トップナンバー……？\n\nまいにゃ〜ぎぁ…\n東京光学、ローレルフレックス https://t.co/yO9QIleEST"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033983103371513858",
+            "3_2033983216043114496"
+          ]
+        },
+        "author_id": "1256959468975190017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2033983240265208024",
+        "created_at": "2026-03-17T19:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T20:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033983240265208024"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "東京光学",
+              "probability": 0.2851,
+              "start": 28,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yO9QIleEST",
+              "end": 66,
+              "expanded_url": "https://x.com/kusa_gomi/status/2033983240265208024/photo/1",
+              "media_key": "3_2033983103371513858",
+              "start": 43,
+              "url": "https://t.co/yO9QIleEST"
+            },
+            {
+              "display_url": "pic.x.com/yO9QIleEST",
+              "end": 66,
+              "expanded_url": "https://x.com/kusa_gomi/status/2033983240265208024/photo/1",
+              "media_key": "3_2033983216043114496",
+              "start": 43,
+              "url": "https://t.co/yO9QIleEST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033983240265208024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "わーーーお……トップナンバー……？\n\nまいにゃ〜ぎぁ…\n東京光学、ローレルフレックス https://t.co/yO9QIleEST"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 118,
+                "start": 113,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8163,
+          "following_count": 5960,
+          "like_count": 14121,
+          "listed_count": 17,
+          "media_count": 2692,
+          "tweet_count": 19735
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-03T14:51:18.000Z",
+        "description": "草塗塵袋買占太郎（くさまみれ　ごみぶくろかいしめたろう）\n担当：美希/加蓮/広/薫/冬優子/愛夏\n\n#学術アイドルマスター 合同準備会主宰\n↓🍈にてVol.1、Vol.2好評頒布中！\nhttps://t.co/91RfwG8KCh",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 50,
+                "tag": "学術アイドルマスター"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "melonbooks.co.jp/circle/index.p…",
+                "end": 115,
+                "expanded_url": "https://www.melonbooks.co.jp/circle/index.php?circle_id=133018",
+                "start": 92,
+                "url": "https://t.co/91RfwG8KCh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "melonbooks.co.jp/circle/index.p…",
+                "end": 23,
+                "expanded_url": "https://www.melonbooks.co.jp/circle/index.php?circle_id=133018",
+                "start": 0,
+                "url": "https://t.co/91RfwG8KCh"
+              }
+            ]
+          }
+        },
+        "id": "1256959468975190017",
+        "location": "東京都大田区矢口2丁目1番765号 たるき亭ビル2F",
+        "name": "🌿学術アイマス合同",
+        "pinned_tweet_id": "2027350139464261634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662903745251016704/lWv6ehNd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4317,
+          "following_count": 2822,
+          "like_count": 237130,
+          "listed_count": 33,
+          "media_count": 15140,
+          "tweet_count": 166692
+        },
+        "url": "https://t.co/91RfwG8KCh",
+        "username": "kusa_gomi",
+        "verified": true
+      }
+    ]
+  }
+}

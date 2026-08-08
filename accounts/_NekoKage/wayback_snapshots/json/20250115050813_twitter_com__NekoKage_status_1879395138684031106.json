@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "conversation_id": "1879161792246780167",
+    "created_at": "2025-01-15T05:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-15T06:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879395138684031106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1689066564166057984",
+          "start": 0,
+          "username": "sakura_LSD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879395138684031106",
+    "in_reply_to_user_id": "1689066564166057984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879262554687754334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakura_LSD 呜呜"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1879262554687754334].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1879262554687754334",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1879262554687754334"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "conversation_id": "1879161792246780167",
+        "created_at": "2025-01-15T05:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T06:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879395138684031106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1689066564166057984",
+              "start": 0,
+              "username": "sakura_LSD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879395138684031106",
+        "in_reply_to_user_id": "1689066564166057984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879262554687754334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura_LSD 呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠📢siren爱好者⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "_kagenone"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7464,
+          "following_count": 4470,
+          "like_count": 12249,
+          "listed_count": 19,
+          "media_count": 2106,
+          "tweet_count": 14764
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T00:10:50.000Z",
+        "description": "寂静弥漫进我的呼吸,回忆失去的受伤的总让我窒息",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "supermemo.guru/wiki/SuperMemo…",
+                "end": 23,
+                "expanded_url": "https://supermemo.guru/wiki/SuperMemo_Guru",
+                "start": 0,
+                "url": "https://t.co/Q0Z2r7EhI6"
+              }
+            ]
+          }
+        },
+        "id": "1689066564166057984",
+        "location": "天国的边缘,地狱的中心",
+        "name": "九条泷樱岛✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877919886401556480/5uL8Fhhv_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 873,
+          "like_count": 1781,
+          "listed_count": 3,
+          "media_count": 349,
+          "tweet_count": 9978
+        },
+        "url": "https://t.co/Q0Z2r7EhI6",
+        "username": "sakura_LSD",
+        "verified": false
+      }
+    ]
+  }
+}

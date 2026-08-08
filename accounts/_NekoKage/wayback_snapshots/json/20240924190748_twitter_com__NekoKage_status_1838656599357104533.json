@@ -1,0 +1,632 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t\n\nNOTE: Stopped annotating in the Video Game domain (71) on 11/15/19. Moving forward, this entity will annotate to Multimedia Franchise domain (130) only.",
+          "id": "993952643209773057",
+          "name": "Sonic the Hedgehog"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t\n\nNOTE: Stopped annotating in the Video Game domain (71) on 11/15/19. Moving forward, this entity will annotate to Multimedia Franchise domain (130) only.",
+          "id": "993952643209773057",
+          "name": "Sonic the Hedgehog"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1369639427002175488",
+          "name": "The 90s"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1385646142147289091",
+          "name": "On this day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1410504549006135296",
+          "name": "Cultural history"
+        }
+      }
+    ],
+    "conversation_id": "1838656599357104533",
+    "created_at": "2024-09-24T19:07:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T20:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838656599357104533"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "Sonic the Hedgehog CD",
+          "probability": 0.7721,
+          "start": 18,
+          "type": "Other"
+        },
+        {
+          "end": 60,
+          "normalized_text": "Japan",
+          "probability": 0.9349,
+          "start": 56,
+          "type": "Place"
+        },
+        {
+          "end": 98,
+          "normalized_text": "-",
+          "probability": 0.4912,
+          "start": 98,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 72,
+          "start": 62,
+          "tag": "OnThisDay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "71219689",
+          "start": 3,
+          "username": "kingmonkey25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838656599357104533",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838262728907198743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kingmonkey25: Sonic the Hedgehog CD was released in Japan #OnThisDay in 1993.\n\nDue to the Mega-CD being way out of my price range as a…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t\n\nNOTE: Stopped annotating in the Video Game domain (71) on 11/15/19. Moving forward, this entity will annotate to Multimedia Franchise domain (130) only.",
+              "id": "993952643209773057",
+              "name": "Sonic the Hedgehog"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t\n\nNOTE: Stopped annotating in the Video Game domain (71) on 11/15/19. Moving forward, this entity will annotate to Multimedia Franchise domain (130) only.",
+              "id": "993952643209773057",
+              "name": "Sonic the Hedgehog"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1369639427002175488",
+              "name": "The 90s"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1385646142147289091",
+              "name": "On this day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1410504549006135296",
+              "name": "Cultural history"
+            }
+          }
+        ],
+        "conversation_id": "1838656599357104533",
+        "created_at": "2024-09-24T19:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T20:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838656599357104533"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "Sonic the Hedgehog CD",
+              "probability": 0.7721,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 60,
+              "normalized_text": "Japan",
+              "probability": 0.9349,
+              "start": 56,
+              "type": "Place"
+            },
+            {
+              "end": 98,
+              "normalized_text": "-",
+              "probability": 0.4912,
+              "start": 98,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 62,
+              "tag": "OnThisDay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "71219689",
+              "start": 3,
+              "username": "kingmonkey25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838656599357104533",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838262728907198743",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kingmonkey25: Sonic the Hedgehog CD was released in Japan #OnThisDay in 1993.\n\nDue to the Mega-CD being way out of my price range as a…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838262723135574016"
+          ]
+        },
+        "author_id": "71219689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t\n\nNOTE: Stopped annotating in the Video Game domain (71) on 11/15/19. Moving forward, this entity will annotate to Multimedia Franchise domain (130) only.",
+              "id": "993952643209773057",
+              "name": "Sonic the Hedgehog"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t\n\nNOTE: Stopped annotating in the Video Game domain (71) on 11/15/19. Moving forward, this entity will annotate to Multimedia Franchise domain (130) only.",
+              "id": "993952643209773057",
+              "name": "Sonic the Hedgehog"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1369639427002175488",
+              "name": "The 90s"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1385646142147289091",
+              "name": "On this day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1410504549006135296",
+              "name": "Cultural history"
+            }
+          }
+        ],
+        "conversation_id": "1838262728907198743",
+        "created_at": "2024-09-23T17:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T18:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838262728907198743"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Sonic the Hedgehog CD",
+              "probability": 0.7878,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 42,
+              "normalized_text": "Japan",
+              "probability": 0.9312,
+              "start": 38,
+              "type": "Place"
+            },
+            {
+              "end": 82,
+              "normalized_text": "Mega-CD",
+              "probability": 0.4857,
+              "start": 76,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 44,
+              "tag": "OnThisDay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gpbvp8yflx",
+              "end": 208,
+              "expanded_url": "https://twitter.com/kingmonkey25/status/1838262728907198743/photo/1",
+              "media_key": "3_1838262723135574016",
+              "start": 185,
+              "url": "https://t.co/GPBvp8YFLx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838262728907198743",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 5109,
+          "like_count": 203,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "Sonic the Hedgehog CD was released in Japan #OnThisDay in 1993.\n\nDue to the Mega-CD being way out of my price range as a kid, I wouldn't get a chance to play it until many years later! https://t.co/GPBvp8YFLx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain💐omori📷膠片攝影/相机维修🚬大烟鬼🔪刃物收藏⌚️入门表匠🚪88⚠️里推:@_kagenone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 130,
+                "username": "_kagenone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7225,
+          "following_count": 4191,
+          "like_count": 11047,
+          "listed_count": 18,
+          "tweet_count": 13389
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-03T10:10:20.000Z",
+        "description": "Just a man with a man's courage...\nPR & Marketing Manager @NumskullDesigns\nOpinions my own. Peace among worlds.\n\nhttps://t.co/TZ5fbnXjSC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 58,
+                "username": "NumskullDesigns"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/kingmonkey25",
+                "end": 136,
+                "expanded_url": "http://linktr.ee/kingmonkey25",
+                "start": 113,
+                "url": "https://t.co/TZ5fbnXjSC"
+              }
+            ]
+          }
+        },
+        "id": "71219689",
+        "location": "Hertfordshire ",
+        "name": "ᴋɪɴɢᴍᴏɴᴋᴇʏ",
+        "pinned_tweet_id": "1764939020813935065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742517807986720768/Jl-YeXvl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22240,
+          "following_count": 12320,
+          "like_count": 106412,
+          "listed_count": 179,
+          "tweet_count": 33545
+        },
+        "username": "kingmonkey25",
+        "verified": false
+      }
+    ]
+  }
+}

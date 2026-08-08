@@ -1,0 +1,440 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026738409",
+          "name": "Sony"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026738409",
+          "name": "Sony"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1369635434196725763",
+          "name": "The 80s"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1410504549006135296",
+          "name": "Cultural history"
+        }
+      }
+    ],
+    "conversation_id": "1960798488629010630",
+    "created_at": "2025-08-27T20:16:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T21:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960798488629010630"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "Sony",
+          "probability": 0.9911,
+          "start": 27,
+          "type": "Organization"
+        },
+        {
+          "end": 76,
+          "normalized_text": "Studiolabo Personal Playing Room",
+          "probability": 0.8815,
+          "start": 45,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1647428363965935617",
+          "start": 3,
+          "username": "ObsoleteSony"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960798488629010630",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960658563610685743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ObsoleteSony: In 1982, Sony released the Studiolabo Personal Playing Room, a soundproof home studio that could be assembled in about an…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1960602153677918208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzV1RWPWkAAXoG1.jpg",
+        "width": 679
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1369635434196725763",
+              "name": "The 80s"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1410504549006135296",
+              "name": "Cultural history"
+            }
+          }
+        ],
+        "conversation_id": "1960798488629010630",
+        "created_at": "2025-08-27T20:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T21:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960798488629010630"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "Sony",
+              "probability": 0.9911,
+              "start": 27,
+              "type": "Organization"
+            },
+            {
+              "end": 76,
+              "normalized_text": "Studiolabo Personal Playing Room",
+              "probability": 0.8815,
+              "start": 45,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647428363965935617",
+              "start": 3,
+              "username": "ObsoleteSony"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960798488629010630",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960658563610685743",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ObsoleteSony: In 1982, Sony released the Studiolabo Personal Playing Room, a soundproof home studio that could be assembled in about an…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960602153677918208"
+          ]
+        },
+        "author_id": "1647428363965935617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1369635434196725763",
+              "name": "The 80s"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1410504549006135296",
+              "name": "Cultural history"
+            }
+          }
+        ],
+        "conversation_id": "1960658563610685743",
+        "created_at": "2025-08-27T11:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T12:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960658563610685743"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "Sony",
+              "probability": 0.9959,
+              "start": 9,
+              "type": "Organization"
+            },
+            {
+              "end": 58,
+              "normalized_text": "Studiolabo Personal Playing Room",
+              "probability": 0.8134,
+              "start": 27,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XchddUKgR2",
+              "end": 165,
+              "expanded_url": "https://x.com/ObsoleteSony/status/1960658563610685743/photo/1",
+              "media_key": "3_1960602153677918208",
+              "start": 142,
+              "url": "https://t.co/XchddUKgR2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960658563610685743",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 19522,
+          "like_count": 442,
+          "quote_count": 13,
+          "reply_count": 12,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "In 1982, Sony released the Studiolabo Personal Playing Room, a soundproof home studio that could be assembled in about an hour by two people. https://t.co/XchddUKgR2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7874,
+          "following_count": 5013,
+          "like_count": 13129,
+          "listed_count": 17,
+          "media_count": 2385,
+          "tweet_count": 17019
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-16T02:35:35.000Z",
+        "description": "Embark on a journey through the obscure world of forgotten, odd, and obsolete Sony devices.\nhttps://t.co/pBgVhb98yK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/ObsoleteSony",
+                "end": 115,
+                "expanded_url": "https://www.patreon.com/ObsoleteSony",
+                "start": 92,
+                "url": "https://t.co/pBgVhb98yK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "obsoletesony.com",
+                "end": 23,
+                "expanded_url": "https://www.obsoletesony.com/",
+                "start": 0,
+                "url": "https://t.co/c8KpRtInN1"
+              }
+            ]
+          }
+        },
+        "id": "1647428363965935617",
+        "name": "Obsolete Sony",
+        "pinned_tweet_id": "1960170566557855786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828847927948713984/ByMWXBYs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165590,
+          "following_count": 1006,
+          "like_count": 41280,
+          "listed_count": 616,
+          "media_count": 6412,
+          "tweet_count": 9847
+        },
+        "url": "https://t.co/c8KpRtInN1",
+        "username": "ObsoleteSony",
+        "verified": true
+      }
+    ]
+  }
+}

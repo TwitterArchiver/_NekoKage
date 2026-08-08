@@ -1,0 +1,494 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1997576329567645696"
+      ],
+      "media_source_tweet_id": [
+        "1997576387641901239"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1273377348398661633",
+          "name": "2D animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1192082698568814592",
+          "name": "Animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1273377348398661633",
+          "name": "2D animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1273377348398661633",
+          "name": "2D animation"
+        }
+      }
+    ],
+    "conversation_id": "1997807115935903983",
+    "created_at": "2025-12-07T23:15:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T00:15:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997807115935903983"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 59,
+          "normalized_text": "instagram",
+          "probability": 0.8889,
+          "start": 51,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843810159489167361",
+          "start": 3,
+          "username": "8venturesIsHere"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hPHVD1psfS",
+          "end": 92,
+          "expanded_url": "https://x.com/8venturesIsHere/status/1997576387641901239/video/1",
+          "media_key": "13_1997576329567645696",
+          "start": 69,
+          "url": "https://t.co/hPHVD1psfS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997807115935903983",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2057
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997576387641901239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8venturesIsHere: rotoscoping a random video on instagram was fun https://t.co/hPHVD1psfS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9200,
+        "height": 574,
+        "media_key": "13_1997576329567645696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1997576329567645696/img/C9SUhZhwQYDPSXgV.jpg",
+        "public_metrics": {
+          "view_count": 54474
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997576329567645696/vid/avc1/362x270/Z_bYe4VTn6zF9jHP.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997576329567645696/vid/avc1/484x360/pYHGPwBSG3v5MgkD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997576329567645696/vid/avc1/772x574/Yb4BIZff4Y89GfNH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1997576329567645696/pl/F8gFUKle7MaA5In-.m3u8"
+          }
+        ],
+        "width": 772
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1997576329567645696"
+          ],
+          "media_source_tweet_id": [
+            "1997576387641901239"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1273377348398661633",
+              "name": "2D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273377348398661633",
+              "name": "2D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1273377348398661633",
+              "name": "2D animation"
+            }
+          }
+        ],
+        "conversation_id": "1997807115935903983",
+        "created_at": "2025-12-07T23:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T00:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997807115935903983"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 59,
+              "normalized_text": "instagram",
+              "probability": 0.8889,
+              "start": 51,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843810159489167361",
+              "start": 3,
+              "username": "8venturesIsHere"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hPHVD1psfS",
+              "end": 92,
+              "expanded_url": "https://x.com/8venturesIsHere/status/1997576387641901239/video/1",
+              "media_key": "13_1997576329567645696",
+              "start": 69,
+              "url": "https://t.co/hPHVD1psfS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997807115935903983",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2057
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997576387641901239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8venturesIsHere: rotoscoping a random video on instagram was fun https://t.co/hPHVD1psfS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1997576329567645696"
+          ]
+        },
+        "author_id": "1843810159489167361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1273377348398661633",
+              "name": "2D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273377348398661633",
+              "name": "2D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1273377348398661633",
+              "name": "2D animation"
+            }
+          }
+        ],
+        "conversation_id": "1997576387641901239",
+        "created_at": "2025-12-07T07:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T08:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997576387641901239"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "instagram",
+              "probability": 0.9429,
+              "start": 30,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hPHVD1psfS",
+              "end": 71,
+              "expanded_url": "https://x.com/8venturesIsHere/status/1997576387641901239/video/1",
+              "media_key": "13_1997576329567645696",
+              "start": 48,
+              "url": "https://t.co/hPHVD1psfS"
+            },
+            {
+              "display_url": "x.com/txvdr/status/1…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/txvdr/status/1991091016175104046",
+              "start": 72,
+              "url": "https://t.co/2fxGsDHDjo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997576387641901239",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1802,
+          "impression_count": 136060,
+          "like_count": 17028,
+          "quote_count": 9,
+          "reply_count": 14,
+          "retweet_count": 2057
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991091016175104046",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "rotoscoping a random video on instagram was fun https://t.co/hPHVD1psfS https://t.co/2fxGsDHDjo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989746234408701952/CGIjbFWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7970,
+          "following_count": 5457,
+          "like_count": 13669,
+          "listed_count": 17,
+          "media_count": 2522,
+          "tweet_count": 18347
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T00:26:22.000Z",
+        "description": "2D animator, meh-ish sfw artist, dumb & loves SDLunacia a LOT 🇸🇬(dumb/ass) \n\ni like geometry dash, battle cats & miku!\n\nalts: @8vntursIsntHere @8ventures_Prot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 126,
+                "username": "8vntursIsntHere"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "8ventures_Prot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8ventures.straw.page",
+                "end": 23,
+                "expanded_url": "https://8ventures.straw.page",
+                "start": 0,
+                "url": "https://t.co/AEKOLwwedh"
+              }
+            ]
+          }
+        },
+        "id": "1843810159489167361",
+        "location": "behind you :)",
+        "name": "8ventures",
+        "pinned_tweet_id": "1942932623795302698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984411162071744512/JwcpnYfX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 154,
+          "like_count": 1322,
+          "listed_count": 0,
+          "media_count": 582,
+          "tweet_count": 992
+        },
+        "url": "https://t.co/AEKOLwwedh",
+        "username": "8venturesIsHere",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046602314350489600",
+        "3_2046602314325385216"
+      ],
+      "media_source_tweet_id": [
+        "2046602319815676081",
+        "2046602319815676081"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "2046802745567703542",
+    "created_at": "2026-04-22T04:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T05:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046802745567703542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1693112190306557953",
+          "start": 3,
+          "username": "hobby_0711"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qss1R4Juwh",
+          "end": 60,
+          "expanded_url": "https://x.com/hobby_0711/status/2046602319815676081/photo/1",
+          "media_key": "3_2046602314350489600",
+          "start": 37,
+          "url": "https://t.co/Qss1R4Juwh"
+        },
+        {
+          "display_url": "pic.x.com/Qss1R4Juwh",
+          "end": 60,
+          "expanded_url": "https://x.com/hobby_0711/status/2046602319815676081/photo/1",
+          "media_key": "3_2046602314325385216",
+          "start": 37,
+          "url": "https://t.co/Qss1R4Juwh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046802745567703542",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 186
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046602319815676081",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hobby_0711: アオツキのえっちな絵（当社比）\n※微グロ https://t.co/Qss1R4Juwh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2046802745567703542].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2046802745567703542",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2046802745567703542"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046602314350489600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGb99idacAA5MsR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046602314325385216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGb99iXbYAAAZYM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046602314350489600",
+            "3_2046602314325385216"
+          ]
+        },
+        "author_id": "1693112190306557953",
+        "conversation_id": "2046602319815676081",
+        "created_at": "2026-04-21T14:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046602319815676081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qss1R4Juwh",
+              "end": 44,
+              "expanded_url": "https://x.com/hobby_0711/status/2046602319815676081/photo/1",
+              "media_key": "3_2046602314350489600",
+              "start": 21,
+              "url": "https://t.co/Qss1R4Juwh"
+            },
+            {
+              "display_url": "pic.x.com/Qss1R4Juwh",
+              "end": 44,
+              "expanded_url": "https://x.com/hobby_0711/status/2046602319815676081/photo/1",
+              "media_key": "3_2046602314325385216",
+              "start": 21,
+              "url": "https://t.co/Qss1R4Juwh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046602319815676081",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 333,
+          "impression_count": 49185,
+          "like_count": 2580,
+          "quote_count": 9,
+          "reply_count": 1,
+          "retweet_count": 186
+        },
+        "reply_settings": "everyone",
+        "text": "アオツキのえっちな絵（当社比）\n※微グロ https://t.co/Qss1R4Juwh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️对猫@Kuroneko450430",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8430,
+          "following_count": 6445,
+          "like_count": 14759,
+          "listed_count": 17,
+          "media_count": 2827,
+          "tweet_count": 20711
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-20T04:07:34.000Z",
+        "description": "18↑ 高卒済//はかな と読みます。アオツキ･エイトさんのことが好きです。//イラストの無断転載･AI学習禁止//何かあれば▷▶ https://t.co/uzLP1p5wuZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/lc54hm9toyckve…",
+                "end": 89,
+                "expanded_url": "https://marshmallow-qa.com/lc54hm9toyckvep?t=pYdgaC&utm_medium=url_text&utm_source=promotion",
+                "start": 66,
+                "url": "https://t.co/uzLP1p5wuZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/96159988",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/96159988",
+                "start": 0,
+                "url": "https://t.co/LfUmSCPwjq"
+              }
+            ]
+          }
+        },
+        "id": "1693112190306557953",
+        "location": " FRMご自由に/無言フォロー失礼します",
+        "name": "Hakana",
+        "pinned_tweet_id": "2034940425031835768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004526551245975552/uac6DDw-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 151,
+          "like_count": 12844,
+          "listed_count": 4,
+          "media_count": 265,
+          "tweet_count": 11819
+        },
+        "url": "https://t.co/LfUmSCPwjq",
+        "username": "hobby_0711",
+        "verified": false
+      }
+    ]
+  }
+}

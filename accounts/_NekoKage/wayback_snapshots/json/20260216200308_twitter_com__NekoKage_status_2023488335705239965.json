@@ -1,0 +1,669 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925816262866669569",
+        "3_1925816262900269056",
+        "3_1925816262870888448"
+      ],
+      "media_source_tweet_id": [
+        "1925816274929500468",
+        "1925816274929500468",
+        "1925816274929500468"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1347246523172573184",
+          "name": "Apple Pencil"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2023488335705239965",
+    "created_at": "2026-02-16T20:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T21:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023488335705239965"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "Apple Pencil",
+          "probability": 0.6022,
+          "start": 16,
+          "type": "Other"
+        },
+        {
+          "end": 58,
+          "normalized_text": "Apple",
+          "probability": 0.653,
+          "start": 54,
+          "type": "Organization"
+        },
+        {
+          "end": 65,
+          "normalized_text": "Apple",
+          "probability": 0.4122,
+          "start": 61,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 53,
+          "tag": "Apple"
+        },
+        {
+          "end": 66,
+          "start": 60,
+          "tag": "Apple"
+        },
+        {
+          "end": 84,
+          "start": 74,
+          "tag": "prototype"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1359775778804805632",
+          "start": 3,
+          "username": "hsuchingpo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rBkZX34XFV",
+          "end": 108,
+          "expanded_url": "https://x.com/hsuchingpo/status/1925816274929500468/photo/1",
+          "media_key": "3_1925816262866669569",
+          "start": 85,
+          "url": "https://t.co/rBkZX34XFV"
+        },
+        {
+          "display_url": "pic.x.com/rBkZX34XFV",
+          "end": 108,
+          "expanded_url": "https://x.com/hsuchingpo/status/1925816274929500468/photo/1",
+          "media_key": "3_1925816262900269056",
+          "start": 85,
+          "url": "https://t.co/rBkZX34XFV"
+        },
+        {
+          "display_url": "pic.x.com/rBkZX34XFV",
+          "end": 108,
+          "expanded_url": "https://x.com/hsuchingpo/status/1925816274929500468/photo/1",
+          "media_key": "3_1925816262870888448",
+          "start": 85,
+          "url": "https://t.co/rBkZX34XFV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023488335705239965",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925816274929500468",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsuchingpo: Apple Pencil Prototype\na poor model…\n#Apple #Apple Pencil #prototype https://t.co/rBkZX34XFV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1925816262866669569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrnfsArWkAEAF-b.jpg",
+        "width": 1086
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1925816262900269056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrnfsAzXQAAIPgO.jpg",
+        "width": 1092
+      },
+      {
+        "height": 1731,
+        "media_key": "3_1925816262870888448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrnfsAsW8AAEZx8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925816262866669569",
+            "3_1925816262900269056",
+            "3_1925816262870888448"
+          ],
+          "media_source_tweet_id": [
+            "1925816274929500468",
+            "1925816274929500468",
+            "1925816274929500468"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347246523172573184",
+              "name": "Apple Pencil"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2023488335705239965",
+        "created_at": "2026-02-16T20:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T21:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023488335705239965"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "Apple Pencil",
+              "probability": 0.6022,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 58,
+              "normalized_text": "Apple",
+              "probability": 0.653,
+              "start": 54,
+              "type": "Organization"
+            },
+            {
+              "end": 65,
+              "normalized_text": "Apple",
+              "probability": 0.4122,
+              "start": 61,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 53,
+              "tag": "Apple"
+            },
+            {
+              "end": 66,
+              "start": 60,
+              "tag": "Apple"
+            },
+            {
+              "end": 84,
+              "start": 74,
+              "tag": "prototype"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1359775778804805632",
+              "start": 3,
+              "username": "hsuchingpo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rBkZX34XFV",
+              "end": 108,
+              "expanded_url": "https://x.com/hsuchingpo/status/1925816274929500468/photo/1",
+              "media_key": "3_1925816262866669569",
+              "start": 85,
+              "url": "https://t.co/rBkZX34XFV"
+            },
+            {
+              "display_url": "pic.x.com/rBkZX34XFV",
+              "end": 108,
+              "expanded_url": "https://x.com/hsuchingpo/status/1925816274929500468/photo/1",
+              "media_key": "3_1925816262900269056",
+              "start": 85,
+              "url": "https://t.co/rBkZX34XFV"
+            },
+            {
+              "display_url": "pic.x.com/rBkZX34XFV",
+              "end": 108,
+              "expanded_url": "https://x.com/hsuchingpo/status/1925816274929500468/photo/1",
+              "media_key": "3_1925816262870888448",
+              "start": 85,
+              "url": "https://t.co/rBkZX34XFV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023488335705239965",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925816274929500468",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsuchingpo: Apple Pencil Prototype\na poor model…\n#Apple #Apple Pencil #prototype https://t.co/rBkZX34XFV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925816262866669569",
+            "3_1925816262900269056",
+            "3_1925816262870888448"
+          ]
+        },
+        "author_id": "1359775778804805632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347246523172573184",
+              "name": "Apple Pencil"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1925816274929500468",
+        "created_at": "2025-05-23T07:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T08:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925816274929500468"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "Apple Pencil",
+              "probability": 0.6383,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 42,
+              "normalized_text": "Apple",
+              "probability": 0.7478,
+              "start": 38,
+              "type": "Organization"
+            },
+            {
+              "end": 49,
+              "normalized_text": "Apple",
+              "probability": 0.433,
+              "start": 45,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 37,
+              "tag": "Apple"
+            },
+            {
+              "end": 50,
+              "start": 44,
+              "tag": "Apple"
+            },
+            {
+              "end": 68,
+              "start": 58,
+              "tag": "prototype"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rBkZX34XFV",
+              "end": 92,
+              "expanded_url": "https://x.com/hsuchingpo/status/1925816274929500468/photo/1",
+              "media_key": "3_1925816262866669569",
+              "start": 69,
+              "url": "https://t.co/rBkZX34XFV"
+            },
+            {
+              "display_url": "pic.x.com/rBkZX34XFV",
+              "end": 92,
+              "expanded_url": "https://x.com/hsuchingpo/status/1925816274929500468/photo/1",
+              "media_key": "3_1925816262900269056",
+              "start": 69,
+              "url": "https://t.co/rBkZX34XFV"
+            },
+            {
+              "display_url": "pic.x.com/rBkZX34XFV",
+              "end": 92,
+              "expanded_url": "https://x.com/hsuchingpo/status/1925816274929500468/photo/1",
+              "media_key": "3_1925816262870888448",
+              "start": 69,
+              "url": "https://t.co/rBkZX34XFV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925816274929500468",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 278,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Apple Pencil Prototype\na poor model…\n#Apple #Apple Pencil #prototype https://t.co/rBkZX34XFV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7971,
+          "following_count": 5772,
+          "like_count": 13868,
+          "listed_count": 17,
+          "media_count": 2600,
+          "tweet_count": 19152
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-11T08:06:34.000Z",
+        "description": "hsuchingpo@icloud.com",
+        "id": "1359775778804805632",
+        "name": "徐静环境",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021473530131644417/hGI3bAA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 91,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 110
+        },
+        "username": "hsuchingpo",
+        "verified": false
+      }
+    ]
+  }
+}

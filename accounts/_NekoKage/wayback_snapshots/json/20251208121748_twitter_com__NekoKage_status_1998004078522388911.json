@@ -1,0 +1,596 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1997811683608100864"
+      ],
+      "media_source_tweet_id": [
+        "1997822180432752904"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Hayao Miyazaki (宮崎駿)",
+          "id": "1062385593777192960",
+          "name": "Hayao Miyazaki"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Hayao Miyazaki (宮崎駿)",
+          "id": "1062385593777192960",
+          "name": "Hayao Miyazaki"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1192082698568814592",
+          "name": "Animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1339352442350125056",
+          "name": "Animation directors, producers, & writers"
+        }
+      }
+    ],
+    "conversation_id": "1998004078522388911",
+    "created_at": "2025-12-08T12:17:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T13:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998004078522388911"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "宮崎駿",
+          "probability": 0.9191,
+          "start": 20,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "15043826",
+          "start": 3,
+          "username": "AluminiumMania"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qZlOqERsvZ",
+          "end": 69,
+          "expanded_url": "https://x.com/PhotoGhibli/status/1997822180432752904/video/1",
+          "media_key": "13_1997811683608100864",
+          "start": 46,
+          "url": "https://t.co/qZlOqERsvZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998004078522388911",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997948626996437325",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AluminiumMania: 宮崎駿くらいだろな、こんなのアニメ化できるのは\n\n https://t.co/qZlOqERsvZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42353,
+        "height": 606,
+        "media_key": "13_1997811683608100864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1997811683608100864/img/S_NI0P06VBN-ksYO.jpg",
+        "public_metrics": {
+          "view_count": 238315
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997811683608100864/vid/avc1/480x270/og457EdYrFWC7J46.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997811683608100864/vid/avc1/640x360/np3U7iFaeL5UTA8a.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997811683608100864/vid/avc1/1080x606/VA17Onuc3C1FhBLo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1997811683608100864/pl/oLq9Z-9t92FRjfA0.m3u8?v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1997811683608100864"
+          ],
+          "media_source_tweet_id": [
+            "1997822180432752904"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Hayao Miyazaki (宮崎駿)",
+              "id": "1062385593777192960",
+              "name": "Hayao Miyazaki"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hayao Miyazaki (宮崎駿)",
+              "id": "1062385593777192960",
+              "name": "Hayao Miyazaki"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352442350125056",
+              "name": "Animation directors, producers, & writers"
+            }
+          }
+        ],
+        "conversation_id": "1998004078522388911",
+        "created_at": "2025-12-08T12:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T13:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998004078522388911"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "宮崎駿",
+              "probability": 0.9191,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "15043826",
+              "start": 3,
+              "username": "AluminiumMania"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qZlOqERsvZ",
+              "end": 69,
+              "expanded_url": "https://x.com/PhotoGhibli/status/1997822180432752904/video/1",
+              "media_key": "13_1997811683608100864",
+              "start": 46,
+              "url": "https://t.co/qZlOqERsvZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998004078522388911",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997948626996437325",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AluminiumMania: 宮崎駿くらいだろな、こんなのアニメ化できるのは\n\n https://t.co/qZlOqERsvZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1997811683608100864"
+          ],
+          "media_source_tweet_id": [
+            "1997822180432752904"
+          ]
+        },
+        "author_id": "15043826",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Hayao Miyazaki (宮崎駿)",
+              "id": "1062385593777192960",
+              "name": "Hayao Miyazaki"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hayao Miyazaki (宮崎駿)",
+              "id": "1062385593777192960",
+              "name": "Hayao Miyazaki"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352442350125056",
+              "name": "Animation directors, producers, & writers"
+            }
+          }
+        ],
+        "conversation_id": "1997948626996437325",
+        "created_at": "2025-12-08T08:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T09:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997948626996437325"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "宮崎駿",
+              "probability": 0.921,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qZlOqERsvZ",
+              "end": 49,
+              "expanded_url": "https://x.com/PhotoGhibli/status/1997822180432752904/video/1",
+              "media_key": "13_1997811683608100864",
+              "start": 26,
+              "url": "https://t.co/qZlOqERsvZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997948626996437325",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 12851,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "宮崎駿くらいだろな、こんなのアニメ化できるのは\n\n https://t.co/qZlOqERsvZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989746234408701952/CGIjbFWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7968,
+          "following_count": 5492,
+          "like_count": 13680,
+          "listed_count": 17,
+          "media_count": 2527,
+          "tweet_count": 18388
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2008-06-08T03:10:04.000Z",
+        "description": "☆非鉄（アルミ）商社営業歴40年|タモリ倶楽部に出演|アルミニウムプロパガンダ|新しいアルミのリーダーズ|たまに鉄分あり|元気を出せ！アルミ業界！金属ものづくり業界！☆",
+        "id": "15043826",
+        "location": "ボーキサイト",
+        "name": "Alunim（アルニムさん）🛠️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/503373126206361600/IVsk95rm_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12126,
+          "following_count": 3483,
+          "like_count": 77459,
+          "listed_count": 96,
+          "media_count": 6446,
+          "tweet_count": 32699
+        },
+        "username": "AluminiumMania",
+        "verified": true
+      }
+    ]
+  }
+}

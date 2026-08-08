@@ -1,0 +1,1297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2020583641194393600"
+      ],
+      "media_source_tweet_id": [
+        "2020583709741883666"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10043803050",
+          "name": "Alphabet Inc."
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1480944075918352385",
+          "name": "Nvidia"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10043803050",
+          "name": "Alphabet Inc."
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Stocks",
+          "id": "847894852779900928",
+          "name": "Stocks & indices"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "S&P 500",
+          "id": "864154902926196737",
+          "name": "S&P 500"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265709836521451520",
+          "name": "NHL players"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265721336841646081",
+          "name": "MLB players"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303029299474100225",
+          "name": "$MSFT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1306713906467885056",
+          "name": "$GOOG"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1313539885362343936",
+          "name": "$NVDA"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1480944075918352385",
+          "name": "Nvidia"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+          "id": "166",
+          "name": "Stocks"
+        },
+        "entity": {
+          "id": "1303029299474100225",
+          "name": "$MSFT"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+          "id": "166",
+          "name": "Stocks"
+        },
+        "entity": {
+          "id": "1306713906467885056",
+          "name": "$GOOG"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+          "id": "166",
+          "name": "Stocks"
+        },
+        "entity": {
+          "id": "1313539885362343936",
+          "name": "$NVDA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10043803050",
+          "name": "Alphabet Inc."
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Personal finance",
+          "id": "847888632711061504",
+          "name": "Personal finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Stocks",
+          "id": "847894852779900928",
+          "name": "Stocks & indices"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Cheddar",
+          "id": "788929372342263808",
+          "name": "Cheddar"
+        }
+      }
+    ],
+    "conversation_id": "2020684759765278969",
+    "created_at": "2026-02-09T02:22:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T03:22:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020684759765278969"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "Will Smith",
+          "probability": 0.8802,
+          "start": 21,
+          "type": "Person"
+        },
+        {
+          "end": 76,
+          "normalized_text": "msft",
+          "probability": 0.4768,
+          "start": 73,
+          "type": "Organization"
+        },
+        {
+          "end": 82,
+          "normalized_text": "goog",
+          "probability": 0.3984,
+          "start": 79,
+          "type": "Other"
+        },
+        {
+          "end": 88,
+          "normalized_text": "meta",
+          "probability": 0.3375,
+          "start": 85,
+          "type": "Other"
+        },
+        {
+          "end": 94,
+          "normalized_text": "nvda",
+          "probability": 0.3937,
+          "start": 91,
+          "type": "Other"
+        }
+      ],
+      "cashtags": [
+        {
+          "end": 77,
+          "start": 72,
+          "tag": "msft"
+        },
+        {
+          "end": 83,
+          "start": 78,
+          "tag": "goog"
+        },
+        {
+          "end": 89,
+          "start": 84,
+          "tag": "meta"
+        },
+        {
+          "end": 95,
+          "start": 90,
+          "tag": "nvda"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1242122660500381696",
+          "start": 3,
+          "username": "SpecialSitsNews"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GM1M0r40Ru",
+          "end": 119,
+          "expanded_url": "https://x.com/SpecialSitsNews/status/2020583709741883666/video/1",
+          "media_key": "13_2020583641194393600",
+          "start": 96,
+          "url": "https://t.co/GM1M0r40Ru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020684759765278969",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 362
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020583709741883666",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SpecialSitsNews: Will Smith eating spaghetti is the true test of AI $msft $goog $meta $nvda https://t.co/GM1M0r40Ru"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54560,
+        "height": 1280,
+        "media_key": "13_2020583641194393600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020583641194393600/img/QCGSEjbhHPCfqmyK.jpg",
+        "public_metrics": {
+          "view_count": 284945
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020583641194393600/vid/avc1/320x568/D-F0HKBrSLpGH9m-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020583641194393600/vid/avc1/480x852/ySzLzvzGdP_dww5N.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020583641194393600/vid/avc1/720x1280/pSLfL-5OKK1Cfwtw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020583641194393600/pl/jCnYTtxmWwDW2hXj.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020583641194393600"
+          ],
+          "media_source_tweet_id": [
+            "2020583709741883666"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10043803050",
+              "name": "Alphabet Inc."
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1480944075918352385",
+              "name": "Nvidia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043803050",
+              "name": "Alphabet Inc."
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "S&P 500",
+              "id": "864154902926196737",
+              "name": "S&P 500"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265709836521451520",
+              "name": "NHL players"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265721336841646081",
+              "name": "MLB players"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303029299474100225",
+              "name": "$MSFT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1306713906467885056",
+              "name": "$GOOG"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1313539885362343936",
+              "name": "$NVDA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1480944075918352385",
+              "name": "Nvidia"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1303029299474100225",
+              "name": "$MSFT"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1306713906467885056",
+              "name": "$GOOG"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1313539885362343936",
+              "name": "$NVDA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10043803050",
+              "name": "Alphabet Inc."
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Cheddar",
+              "id": "788929372342263808",
+              "name": "Cheddar"
+            }
+          }
+        ],
+        "conversation_id": "2020684759765278969",
+        "created_at": "2026-02-09T02:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T03:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020684759765278969"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "Will Smith",
+              "probability": 0.8802,
+              "start": 21,
+              "type": "Person"
+            },
+            {
+              "end": 76,
+              "normalized_text": "msft",
+              "probability": 0.4768,
+              "start": 73,
+              "type": "Organization"
+            },
+            {
+              "end": 82,
+              "normalized_text": "goog",
+              "probability": 0.3984,
+              "start": 79,
+              "type": "Other"
+            },
+            {
+              "end": 88,
+              "normalized_text": "meta",
+              "probability": 0.3375,
+              "start": 85,
+              "type": "Other"
+            },
+            {
+              "end": 94,
+              "normalized_text": "nvda",
+              "probability": 0.3937,
+              "start": 91,
+              "type": "Other"
+            }
+          ],
+          "cashtags": [
+            {
+              "end": 77,
+              "start": 72,
+              "tag": "msft"
+            },
+            {
+              "end": 83,
+              "start": 78,
+              "tag": "goog"
+            },
+            {
+              "end": 89,
+              "start": 84,
+              "tag": "meta"
+            },
+            {
+              "end": 95,
+              "start": 90,
+              "tag": "nvda"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1242122660500381696",
+              "start": 3,
+              "username": "SpecialSitsNews"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GM1M0r40Ru",
+              "end": 119,
+              "expanded_url": "https://x.com/SpecialSitsNews/status/2020583709741883666/video/1",
+              "media_key": "13_2020583641194393600",
+              "start": 96,
+              "url": "https://t.co/GM1M0r40Ru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020684759765278969",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 362
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020583709741883666",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SpecialSitsNews: Will Smith eating spaghetti is the true test of AI $msft $goog $meta $nvda https://t.co/GM1M0r40Ru"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020583641194393600"
+          ]
+        },
+        "author_id": "1242122660500381696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10043803050",
+              "name": "Alphabet Inc."
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1480944075918352385",
+              "name": "Nvidia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043803050",
+              "name": "Alphabet Inc."
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "S&P 500",
+              "id": "864154902926196737",
+              "name": "S&P 500"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265709836521451520",
+              "name": "NHL players"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265721336841646081",
+              "name": "MLB players"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303029299474100225",
+              "name": "$MSFT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1306713906467885056",
+              "name": "$GOOG"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1313539885362343936",
+              "name": "$NVDA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1480944075918352385",
+              "name": "Nvidia"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1303029299474100225",
+              "name": "$MSFT"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1306713906467885056",
+              "name": "$GOOG"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1313539885362343936",
+              "name": "$NVDA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10043803050",
+              "name": "Alphabet Inc."
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Cheddar",
+              "id": "788929372342263808",
+              "name": "Cheddar"
+            }
+          }
+        ],
+        "conversation_id": "2020583709741883666",
+        "created_at": "2026-02-08T19:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T20:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020583709741883666"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Will Smith",
+              "probability": 0.915,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 55,
+              "normalized_text": "msft",
+              "probability": 0.4868,
+              "start": 52,
+              "type": "Organization"
+            },
+            {
+              "end": 61,
+              "normalized_text": "goog",
+              "probability": 0.4248,
+              "start": 58,
+              "type": "Other"
+            },
+            {
+              "end": 67,
+              "normalized_text": "meta",
+              "probability": 0.3284,
+              "start": 64,
+              "type": "Other"
+            },
+            {
+              "end": 73,
+              "normalized_text": "nvda",
+              "probability": 0.4771,
+              "start": 70,
+              "type": "Other"
+            }
+          ],
+          "cashtags": [
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "msft"
+            },
+            {
+              "end": 62,
+              "start": 57,
+              "tag": "goog"
+            },
+            {
+              "end": 68,
+              "start": 63,
+              "tag": "meta"
+            },
+            {
+              "end": 74,
+              "start": 69,
+              "tag": "nvda"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GM1M0r40Ru",
+              "end": 98,
+              "expanded_url": "https://x.com/SpecialSitsNews/status/2020583709741883666/video/1",
+              "media_key": "13_2020583641194393600",
+              "start": 75,
+              "url": "https://t.co/GM1M0r40Ru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020583709741883666",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1668,
+          "impression_count": 677146,
+          "like_count": 5003,
+          "quote_count": 39,
+          "reply_count": 68,
+          "retweet_count": 362
+        },
+        "reply_settings": "everyone",
+        "text": "Will Smith eating spaghetti is the true test of AI $msft $goog $meta $nvda https://t.co/GM1M0r40Ru"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7964,
+          "following_count": 5737,
+          "like_count": 13830,
+          "listed_count": 17,
+          "media_count": 2586,
+          "tweet_count": 19026
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-23T16:15:02.000Z",
+        "description": "Managed $2B+ at Goldman. Education/Ideas: M&A Arb, Value+Catalyst, Growth, CEFs, REITs, Prefs, SPACs, Bonds, BK/Distressed. Discord team: https://t.co/Ix6dovncRx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/XH3EUcqwsW",
+                "end": 161,
+                "expanded_url": "http://discord.gg/XH3EUcqwsW",
+                "start": 138,
+                "url": "https://t.co/Ix6dovncRx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "specialsitsresearch.com",
+                "end": 23,
+                "expanded_url": "http://specialsitsresearch.com",
+                "start": 0,
+                "url": "https://t.co/38ccfN6Sre"
+              }
+            ]
+          }
+        },
+        "id": "1242122660500381696",
+        "location": "Not Financial Advice",
+        "name": "Special Situations 🌐 Research Newsletter (Jay)",
+        "pinned_tweet_id": "1776557200086905241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610807772836233218/HXHJ7Ljx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137600,
+          "following_count": 1416,
+          "like_count": 170049,
+          "listed_count": 2204,
+          "media_count": 19299,
+          "tweet_count": 90094
+        },
+        "url": "https://t.co/38ccfN6Sre",
+        "username": "SpecialSitsNews",
+        "verified": true
+      }
+    ]
+  }
+}

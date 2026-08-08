@@ -1,0 +1,511 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597017083904",
+          "name": "QSR - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Fast food",
+          "id": "847865239886417922",
+          "name": "Fast food Restaurants"
+        }
+      }
+    ],
+    "conversation_id": "1972791623164834249",
+    "created_at": "2025-09-29T22:32:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T23:32:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972791623164834249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3233838112",
+          "start": 3,
+          "username": "KFC_ES"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972791623164834249",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15197
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972668061900489044",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KFC_ES: ꧄𒀰𒁏𒈙꧄ 𒈙꧄𒀰𒀰𒈙𒈙꧄𒈙꧄𒈙꧄𒀰꧄𒀱𒌧𒌧𒀰𒁏𒈙꧄ 𒀰𒁏𒈙꧄ 𒈙꧄𒀰𒀰𒈙𒈙꧄𒈙꧄𒈙꧄𒀰꧄꧄𒀰𒁏𒈙꧄ 𒈙꧄𒀰𒀰𒈙𒈙꧄𒈙꧄𒈙꧄𒀰꧄𒀱𒌧𒌧𒀰𒁏𒈙꧄ 𒀰𒁏𒈙꧄ 𒈙꧄𒀰𒀰𒈙𒈙꧄𒈙꧄𒈙꧄𒀰꧄꧄𒀰𒁏𒈙꧄ 𒈙꧄𒀰𒀰𒈙𒈙꧄𒈙꧄𒈙꧄𒀰꧄𒀱𒌧𒌧𒀰𒁏𒈙꧄ 𒀰𒁏𒈙꧄ 𒈙꧄𒀰𒀰𒈙…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 275,
+        "media_key": "3_1972667322432098304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2BSemWWEAAfny-.jpg",
+        "width": 275
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1972791623164834249",
+        "created_at": "2025-09-29T22:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T23:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972791623164834249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3233838112",
+              "start": 3,
+              "username": "KFC_ES"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972791623164834249",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15197
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972668061900489044",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KFC_ES: ꧄𒀰𒁏𒈙꧄ 𒈙꧄𒀰𒀰𒈙𒈙꧄𒈙꧄𒈙꧄𒀰꧄𒀱𒌧𒌧𒀰𒁏𒈙꧄ 𒀰𒁏𒈙꧄ 𒈙꧄𒀰𒀰𒈙𒈙꧄𒈙꧄𒈙꧄𒀰꧄꧄𒀰𒁏𒈙꧄ 𒈙꧄𒀰𒀰𒈙𒈙꧄𒈙꧄𒈙꧄𒀰꧄𒀱𒌧𒌧𒀰𒁏𒈙꧄ 𒀰𒁏𒈙꧄ 𒈙꧄𒀰𒀰𒈙𒈙꧄𒈙꧄𒈙꧄𒀰꧄꧄𒀰𒁏𒈙꧄ 𒈙꧄𒀰𒀰𒈙𒈙꧄𒈙꧄𒈙꧄𒀰꧄𒀱𒌧𒌧𒀰𒁏𒈙꧄ 𒀰𒁏𒈙꧄ 𒈙꧄𒀰𒀰𒈙…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972667322432098304"
+          ]
+        },
+        "author_id": "3233838112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1972668061900489044",
+        "created_at": "2025-09-29T14:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T15:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972668061900489044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IXKYyKhyag",
+              "end": 164,
+              "expanded_url": "https://x.com/KFC_ES/status/1972668061900489044/photo/1",
+              "media_key": "3_1972667322432098304",
+              "start": 141,
+              "url": "https://t.co/IXKYyKhyag"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972668061900489044",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {},
+          "text": "꧄𒀰𒁏𒈙꧄ 𒈙꧄𒀰𒀰𒈙𒈙꧄𒈙꧄𒈙꧄𒀰꧄𒀱𒌧𒌧𒀰𒁏𒈙꧄ 𒀰𒁏𒈙꧄ 𒈙꧄𒀰𒀰𒈙𒈙꧄𒈙꧄𒈙꧄𒀰꧄꧄𒀰𒁏𒈙꧄ 𒈙꧄𒀰𒀰𒈙𒈙꧄𒈙꧄𒈙꧄𒀰꧄𒀱𒌧𒌧𒀰𒁏𒈙꧄ 𒀰𒁏𒈙꧄ 𒈙꧄𒀰𒀰𒈙𒈙꧄𒈙꧄𒈙꧄𒀰꧄꧄𒀰𒁏𒈙꧄ 𒈙꧄𒀰𒀰𒈙𒈙꧄𒈙꧄𒈙꧄𒀰꧄𒀱𒌧𒌧𒀰𒁏𒈙꧄ 𒀰𒁏𒈙꧄ 𒈙꧄𒀰𒀰𒈙𒈙꧄𒈙꧄𒈙꧄𒀰꧄꧄𒀰𒁏𒈙꧄ 𒈙꧄𒀰𒀰𒈙𒈙꧄𒈙꧄𒈙꧄𒀰꧄𒀱𒌧𒌧𒀰𒁏𒈙꧄ 𒀰𒁏𒈙꧄ 𒈙꧄𒀰𒀰𒈙𒈙꧄𒈙꧄𒈙꧄𒀰꧄꧄𒀰𒁏𒈙꧄ 𒈙꧄𒀰𒀰𒈙𒈙꧄𒈙꧄𒈙꧄𒀰꧄𒀱𒌧𒌧𒀰𒁏𒈙꧄ 𒀰𒁏𒈙꧄ 𒈙꧄𒀰𒀰𒈙𒈙꧄𒈙꧄𒈙꧄𒀰꧄"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15446,
+          "impression_count": 4844421,
+          "like_count": 123487,
+          "quote_count": 2490,
+          "reply_count": 3010,
+          "retweet_count": 15197
+        },
+        "reply_settings": "everyone",
+        "text": "꧄𒀰𒁏𒈙꧄ 𒈙꧄𒀰𒀰𒈙𒈙꧄𒈙꧄𒈙꧄𒀰꧄𒀱𒌧𒌧𒀰𒁏𒈙꧄ 𒀰𒁏𒈙꧄ 𒈙꧄𒀰𒀰𒈙𒈙꧄𒈙꧄𒈙꧄𒀰꧄꧄𒀰𒁏𒈙꧄ 𒈙꧄𒀰𒀰𒈙𒈙꧄𒈙꧄𒈙꧄𒀰꧄𒀱𒌧𒌧𒀰𒁏𒈙꧄ 𒀰𒁏𒈙꧄ 𒈙꧄𒀰𒀰𒈙𒈙꧄𒈙꧄𒈙꧄𒀰꧄꧄𒀰𒁏𒈙꧄ 𒈙꧄𒀰𒀰𒈙𒈙꧄𒈙꧄𒈙꧄𒀰꧄𒀱𒌧𒌧𒀰𒁏𒈙꧄ 𒀰𒁏𒈙꧄ 𒈙꧄𒀰𒀰𒈙𒈙꧄𒈙꧄𒈙꧄𒀰꧄꧄𒀰𒁏𒈙꧄ https://t.co/IXKYyKhyag"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7904,
+          "following_count": 5099,
+          "like_count": 13260,
+          "listed_count": 17,
+          "media_count": 2428,
+          "tweet_count": 17362
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-04T16:49:23.000Z",
+        "description": "Kentucky Fried Chicken. El #PolloPollo 🍗 🍗 se hace en Kentucky.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 38,
+                "start": 27,
+                "tag": "PolloPollo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kfc.es",
+                "end": 23,
+                "expanded_url": "http://kfc.es",
+                "start": 0,
+                "url": "https://t.co/E4UZXk0Zo8"
+              }
+            ]
+          }
+        },
+        "id": "3233838112",
+        "location": "España",
+        "name": "KFC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686729439630016512/lzqes6B8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165099,
+          "following_count": 533,
+          "like_count": 24056,
+          "listed_count": 733,
+          "media_count": 7006,
+          "tweet_count": 19756
+        },
+        "url": "https://t.co/E4UZXk0Zo8",
+        "username": "KFC_ES",
+        "verified": true
+      }
+    ]
+  }
+}

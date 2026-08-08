@@ -1,0 +1,481 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      }
+    ],
+    "conversation_id": "2019096202667782390",
+    "created_at": "2026-02-04T17:10:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T18:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019096202667782390"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 40,
+          "normalized_text": "Microsoft SideWinder",
+          "probability": 0.6771,
+          "start": 21,
+          "type": "Other"
+        },
+        {
+          "end": 51,
+          "normalized_text": "DualStrike",
+          "probability": 0.5361,
+          "start": 42,
+          "type": "Other"
+        },
+        {
+          "end": 84,
+          "normalized_text": "Joypad Tester",
+          "probability": 0.9246,
+          "start": 72,
+          "type": "Other"
+        },
+        {
+          "end": 97,
+          "normalized_text": "HID",
+          "probability": 0.552,
+          "start": 95,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "181426642",
+          "start": 3,
+          "username": "RobertDaleSmith"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019096202667782390",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 223
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018855504592990514",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RobertDaleSmith: Microsoft SideWinder DualStrike fully supported by Joypad Tester.\n\nDirect HID connection reveals a third twist axis. A…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44601,
+        "height": 1920,
+        "media_key": "13_2018855407284789248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2018855407284789248/img/ybk0cEeSbA183WF7.jpg",
+        "public_metrics": {
+          "view_count": 221618
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018855407284789248/vid/avc1/320x568/iHSAAcmMfVGRcmeY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2018855407284789248/pl/2kGDEl4lu61qYFxe.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018855407284789248/vid/avc1/720x1280/3C2838VdC28HplbF.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018855407284789248/vid/avc1/1080x1920/qmAhi_RiauBOuHlJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018855407284789248/vid/avc1/480x852/uhP79lTIJ6B3iTWf.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          }
+        ],
+        "conversation_id": "2019096202667782390",
+        "created_at": "2026-02-04T17:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T18:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019096202667782390"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "Microsoft SideWinder",
+              "probability": 0.6771,
+              "start": 21,
+              "type": "Other"
+            },
+            {
+              "end": 51,
+              "normalized_text": "DualStrike",
+              "probability": 0.5361,
+              "start": 42,
+              "type": "Other"
+            },
+            {
+              "end": 84,
+              "normalized_text": "Joypad Tester",
+              "probability": 0.9246,
+              "start": 72,
+              "type": "Other"
+            },
+            {
+              "end": 97,
+              "normalized_text": "HID",
+              "probability": 0.552,
+              "start": 95,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "181426642",
+              "start": 3,
+              "username": "RobertDaleSmith"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019096202667782390",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 223
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018855504592990514",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RobertDaleSmith: Microsoft SideWinder DualStrike fully supported by Joypad Tester.\n\nDirect HID connection reveals a third twist axis. A…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2018855407284789248"
+          ]
+        },
+        "author_id": "181426642",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          }
+        ],
+        "conversation_id": "2018855504592990514",
+        "created_at": "2026-02-04T01:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T02:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018855504592990514"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Microsoft SideWinder",
+              "probability": 0.6841,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 30,
+              "normalized_text": "DualStrike",
+              "probability": 0.5222,
+              "start": 21,
+              "type": "Other"
+            },
+            {
+              "end": 63,
+              "normalized_text": "Joypad Tester",
+              "probability": 0.894,
+              "start": 51,
+              "type": "Other"
+            },
+            {
+              "end": 76,
+              "normalized_text": "HID",
+              "probability": 0.4727,
+              "start": 74,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9GL9LXS2XM",
+              "end": 219,
+              "expanded_url": "https://x.com/RobertDaleSmith/status/2018855504592990514/video/1",
+              "media_key": "13_2018855407284789248",
+              "start": 196,
+              "url": "https://t.co/9GL9LXS2XM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018855504592990514",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 727,
+          "impression_count": 395042,
+          "like_count": 2276,
+          "quote_count": 36,
+          "reply_count": 45,
+          "retweet_count": 223
+        },
+        "reply_settings": "everyone",
+        "text": "Microsoft SideWinder DualStrike fully supported by Joypad Tester.\n\nDirect HID connection reveals a third twist axis. And a sort of digital button press occurs when the X/Y axes reach their limit. https://t.co/9GL9LXS2XM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7962,
+          "following_count": 5694,
+          "like_count": 13793,
+          "listed_count": 17,
+          "media_count": 2578,
+          "tweet_count": 18939
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-22T04:46:18.000Z",
+        "description": "Embodied AI Engineer @eidon_ai. Controller adapter @joypad_ai. Lover of computers, retro gaming, 3D printing, and embedded systems.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 21,
+                "username": "eidon_ai"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "joypad_ai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "joypad.ai",
+                "end": 23,
+                "expanded_url": "https://joypad.ai",
+                "start": 0,
+                "url": "https://t.co/7MQoBeqwMe"
+              }
+            ]
+          }
+        },
+        "id": "181426642",
+        "location": "Austin, TX",
+        "name": "Robert Dale Smith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964188505741152257/5oThrOux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11726,
+          "following_count": 2563,
+          "like_count": 40352,
+          "listed_count": 217,
+          "media_count": 2360,
+          "tweet_count": 17301
+        },
+        "url": "https://t.co/7MQoBeqwMe",
+        "username": "RobertDaleSmith",
+        "verified": true
+      }
+    ]
+  }
+}

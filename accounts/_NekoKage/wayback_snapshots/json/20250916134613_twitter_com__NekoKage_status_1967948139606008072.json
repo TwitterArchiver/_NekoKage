@@ -1,0 +1,613 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967639413917118464"
+      ],
+      "media_source_tweet_id": [
+        "1967639416727634231"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10044903039",
+          "name": "Apple - iOS"
+        }
+      }
+    ],
+    "conversation_id": "1967948139606008072",
+    "created_at": "2025-09-16T13:46:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T14:46:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967948139606008072"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "iOS 26",
+          "probability": 0.9329,
+          "start": 18,
+          "type": "Other"
+        },
+        {
+          "end": 39,
+          "normalized_text": "macOS Tahoe",
+          "probability": 0.8155,
+          "start": 29,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1525723727941361664",
+          "start": 3,
+          "username": "app_settings"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Eg4l08PKGG",
+          "end": 113,
+          "expanded_url": "https://x.com/app_settings/status/1967639416727634231/photo/1",
+          "media_key": "3_1967639413917118464",
+          "start": 90,
+          "url": "https://t.co/Eg4l08PKGG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967948139606008072",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967639416727634231",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @app_settings: iOS 26 and macOS Tahoe are out!\n\nsay hello to the new System Settings 🥹 https://t.co/Eg4l08PKGG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 935,
+        "media_key": "3_1967639413917118464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G051nziWcAAd-Ij.jpg",
+        "width": 1441
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967639413917118464"
+          ],
+          "media_source_tweet_id": [
+            "1967639416727634231"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "1967948139606008072",
+        "created_at": "2025-09-16T13:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T14:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967948139606008072"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "iOS 26",
+              "probability": 0.9329,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 39,
+              "normalized_text": "macOS Tahoe",
+              "probability": 0.8155,
+              "start": 29,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1525723727941361664",
+              "start": 3,
+              "username": "app_settings"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eg4l08PKGG",
+              "end": 113,
+              "expanded_url": "https://x.com/app_settings/status/1967639416727634231/photo/1",
+              "media_key": "3_1967639413917118464",
+              "start": 90,
+              "url": "https://t.co/Eg4l08PKGG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967948139606008072",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967639416727634231",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @app_settings: iOS 26 and macOS Tahoe are out!\n\nsay hello to the new System Settings 🥹 https://t.co/Eg4l08PKGG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967639413917118464"
+          ]
+        },
+        "author_id": "1525723727941361664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "1967639416727634231",
+        "created_at": "2025-09-15T17:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T18:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967639416727634231"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "iOS 26",
+              "probability": 0.9577,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 21,
+              "normalized_text": "macOS Tahoe",
+              "probability": 0.7646,
+              "start": 11,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eg4l08PKGG",
+              "end": 95,
+              "expanded_url": "https://x.com/app_settings/status/1967639416727634231/photo/1",
+              "media_key": "3_1967639413917118464",
+              "start": 72,
+              "url": "https://t.co/Eg4l08PKGG"
+            },
+            {
+              "display_url": "x.com/app_settings/s…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/app_settings/status/1962148042456613128",
+              "start": 96,
+              "url": "https://t.co/eFXUJmHRAL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967639416727634231",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 196472,
+          "like_count": 2229,
+          "quote_count": 4,
+          "reply_count": 86,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962148042456613128",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "iOS 26 and macOS Tahoe are out!\n\nsay hello to the new System Settings 🥹 https://t.co/Eg4l08PKGG https://t.co/eFXUJmHRAL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7879,
+          "following_count": 5056,
+          "like_count": 13197,
+          "listed_count": 17,
+          "media_count": 2412,
+          "tweet_count": 17200
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-15T06:24:34.000Z",
+        "description": "the settings app from macOS! (irl, i’m an 18 year old ui/ux designer and tech enthusiast) • follow for tech & design!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/thesettingsapp",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/thesettingsapp",
+                "start": 0,
+                "url": "https://t.co/LPIko0hcgi"
+              }
+            ]
+          }
+        },
+        "id": "1525723727941361664",
+        "name": "System Settings",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967639425095176201/1Gt73fOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38281,
+          "following_count": 242,
+          "like_count": 35752,
+          "listed_count": 111,
+          "media_count": 3985,
+          "tweet_count": 25982
+        },
+        "url": "https://t.co/LPIko0hcgi",
+        "username": "app_settings",
+        "verified": true
+      }
+    ]
+  }
+}

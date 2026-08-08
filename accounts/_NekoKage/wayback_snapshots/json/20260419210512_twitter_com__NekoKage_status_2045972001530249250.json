@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038669426640527360",
+        "3_2038669426674053120",
+        "3_2038669426627858432",
+        "3_2038669451558838272"
+      ],
+      "media_source_tweet_id": [
+        "2038669557808988625",
+        "2038669557808988625",
+        "2038669557808988625",
+        "2038669557808988625"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "2045972001530249250",
+    "created_at": "2026-04-19T21:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T22:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045972001530249250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1397821991969718272",
+          "start": 3,
+          "username": "Dizzy4041"
+        }
+      ],
+      "urls": [
+        {
+          "description": "クリエイターの創作活動を支えるファンコミュニティ「pixivFANBOX」",
+          "display_url": "dizzy-cpr.fanbox.cc/posts/11652058",
+          "end": 72,
+          "expanded_url": "https://dizzy-cpr.fanbox.cc/posts/11652058",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2038669563622264832/2FgSSq_t?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2038669563622264832/2FgSSq_t?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 49,
+          "status": 200,
+          "title": "[jpg] Musujime Awaki - CPR｜Dizzy_CPR｜pixivFANBOX",
+          "unwound_url": "https://dizzy-cpr.fanbox.cc/posts/11652058",
+          "url": "https://t.co/qg44TgluxP"
+        },
+        {
+          "description": "クリエイターの創作活動を支えるファンコミュニティ「pixivFANBOX」",
+          "display_url": "dizzy-cpr.fanbox.cc/posts/11652325",
+          "end": 107,
+          "expanded_url": "https://dizzy-cpr.fanbox.cc/posts/11652325",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2038669601425514496/MtP9ijwu?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2038669601425514496/MtP9ijwu?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 84,
+          "status": 200,
+          "title": "[PSD] Musujime Awaki - CPR｜Dizzy_CPR｜pixivFANBOX",
+          "unwound_url": "https://dizzy-cpr.fanbox.cc/posts/11652325",
+          "url": "https://t.co/ftFx2ulzEt"
+        },
+        {
+          "display_url": "pic.x.com/dDsSiQJ6rd",
+          "end": 131,
+          "expanded_url": "https://x.com/Dizzy4041/status/2038669557808988625/photo/1",
+          "media_key": "3_2038669426640527360",
+          "start": 108,
+          "url": "https://t.co/dDsSiQJ6rd"
+        },
+        {
+          "display_url": "pic.x.com/dDsSiQJ6rd",
+          "end": 131,
+          "expanded_url": "https://x.com/Dizzy4041/status/2038669557808988625/photo/1",
+          "media_key": "3_2038669426674053120",
+          "start": 108,
+          "url": "https://t.co/dDsSiQJ6rd"
+        },
+        {
+          "display_url": "pic.x.com/dDsSiQJ6rd",
+          "end": 131,
+          "expanded_url": "https://x.com/Dizzy4041/status/2038669557808988625/photo/1",
+          "media_key": "3_2038669426627858432",
+          "start": 108,
+          "url": "https://t.co/dDsSiQJ6rd"
+        },
+        {
+          "display_url": "pic.x.com/dDsSiQJ6rd",
+          "end": 131,
+          "expanded_url": "https://x.com/Dizzy4041/status/2038669557808988625/photo/1",
+          "media_key": "3_2038669451558838272",
+          "start": 108,
+          "url": "https://t.co/dDsSiQJ6rd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045972001530249250",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038669557808988625",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dizzy4041: Musujime Awaki - CPR\n[jpgs - 11p] https://t.co/qg44TgluxP\n[PSD file] https://t.co/ftFx2ulzEt https://t.co/dDsSiQJ6rd"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045972001530249250].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045972001530249250",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045972001530249250"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2896,
+        "media_key": "3_2038669426640527360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErPCs1boAA6TKU.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2896,
+        "media_key": "3_2038669426674053120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErPCs9bMAAgA_i.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2896,
+        "media_key": "3_2038669426627858432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErPCsyaUAAQA4s.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2896,
+        "media_key": "3_2038669451558838272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErPEJqa4AApLAc.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038669426640527360",
+            "3_2038669426674053120",
+            "3_2038669426627858432",
+            "3_2038669451558838272"
+          ]
+        },
+        "author_id": "1397821991969718272",
+        "conversation_id": "2038669557808988625",
+        "created_at": "2026-03-30T17:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T18:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038669557808988625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "クリエイターの創作活動を支えるファンコミュニティ「pixivFANBOX」",
+              "display_url": "dizzy-cpr.fanbox.cc/posts/11652058",
+              "end": 57,
+              "expanded_url": "https://dizzy-cpr.fanbox.cc/posts/11652058",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2038669563622264832/2FgSSq_t?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2038669563622264832/2FgSSq_t?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 34,
+              "status": 200,
+              "title": "[jpg] Musujime Awaki - CPR｜Dizzy_CPR｜pixivFANBOX",
+              "unwound_url": "https://dizzy-cpr.fanbox.cc/posts/11652058",
+              "url": "https://t.co/qg44TgluxP"
+            },
+            {
+              "description": "クリエイターの創作活動を支えるファンコミュニティ「pixivFANBOX」",
+              "display_url": "dizzy-cpr.fanbox.cc/posts/11652325",
+              "end": 92,
+              "expanded_url": "https://dizzy-cpr.fanbox.cc/posts/11652325",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2038669601425514496/MtP9ijwu?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2038669601425514496/MtP9ijwu?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 69,
+              "status": 200,
+              "title": "[PSD] Musujime Awaki - CPR｜Dizzy_CPR｜pixivFANBOX",
+              "unwound_url": "https://dizzy-cpr.fanbox.cc/posts/11652325",
+              "url": "https://t.co/ftFx2ulzEt"
+            },
+            {
+              "display_url": "pic.x.com/dDsSiQJ6rd",
+              "end": 116,
+              "expanded_url": "https://x.com/Dizzy4041/status/2038669557808988625/photo/1",
+              "media_key": "3_2038669426640527360",
+              "start": 93,
+              "url": "https://t.co/dDsSiQJ6rd"
+            },
+            {
+              "display_url": "pic.x.com/dDsSiQJ6rd",
+              "end": 116,
+              "expanded_url": "https://x.com/Dizzy4041/status/2038669557808988625/photo/1",
+              "media_key": "3_2038669426674053120",
+              "start": 93,
+              "url": "https://t.co/dDsSiQJ6rd"
+            },
+            {
+              "display_url": "pic.x.com/dDsSiQJ6rd",
+              "end": 116,
+              "expanded_url": "https://x.com/Dizzy4041/status/2038669557808988625/photo/1",
+              "media_key": "3_2038669426627858432",
+              "start": 93,
+              "url": "https://t.co/dDsSiQJ6rd"
+            },
+            {
+              "display_url": "pic.x.com/dDsSiQJ6rd",
+              "end": 116,
+              "expanded_url": "https://x.com/Dizzy4041/status/2038669557808988625/photo/1",
+              "media_key": "3_2038669451558838272",
+              "start": 93,
+              "url": "https://t.co/dDsSiQJ6rd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038669557808988625",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 8739,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Musujime Awaki - CPR\n[jpgs - 11p] https://t.co/qg44TgluxP\n[PSD file] https://t.co/ftFx2ulzEt https://t.co/dDsSiQJ6rd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8426,
+          "following_count": 6399,
+          "like_count": 14659,
+          "listed_count": 17,
+          "media_count": 2819,
+          "tweet_count": 20620
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-27T07:48:41.000Z",
+        "description": "Resus fetish, female patient only\nFanbox: https://t.co/s7alIPdoRH\nyoutube: https://t.co/fPKlFG5FS6\npixiv: https://t.co/fzNkBPCcF6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "dizzy-cpr.fanbox.cc",
+                "end": 65,
+                "expanded_url": "https://dizzy-cpr.fanbox.cc/",
+                "start": 42,
+                "url": "https://t.co/s7alIPdoRH"
+              },
+              {
+                "display_url": "youtube.com/c/arthindol",
+                "end": 98,
+                "expanded_url": "http://youtube.com/c/arthindol",
+                "start": 75,
+                "url": "https://t.co/fPKlFG5FS6"
+              },
+              {
+                "display_url": "pixiv.net/users/4035156",
+                "end": 129,
+                "expanded_url": "http://pixiv.net/users/4035156",
+                "start": 106,
+                "url": "https://t.co/fzNkBPCcF6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dizzy-cpr.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://dizzy-cpr.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/s7alIPdoRH"
+              }
+            ]
+          }
+        },
+        "id": "1397821991969718272",
+        "name": "Dizzy404",
+        "pinned_tweet_id": "1903567152336252975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1398928277847220226/-8NfGr-r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1982,
+          "following_count": 137,
+          "like_count": 1051,
+          "listed_count": 5,
+          "media_count": 365,
+          "tweet_count": 526
+        },
+        "url": "https://t.co/s7alIPdoRH",
+        "username": "Dizzy4041",
+        "verified": false
+      }
+    ]
+  }
+}

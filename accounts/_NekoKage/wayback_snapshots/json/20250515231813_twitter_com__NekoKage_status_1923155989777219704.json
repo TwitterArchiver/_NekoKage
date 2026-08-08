@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1922356621969104896"
+      ],
+      "media_source_tweet_id": [
+        "1922356689094803716"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1923155989777219704",
+    "created_at": "2025-05-15T23:18:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T00:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923155989777219704"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "DVD",
+          "probability": 0.7929,
+          "start": 26,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1647428363965935617",
+          "start": 3,
+          "username": "ObsoleteSony"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7EGKDkoc45",
+          "end": 53,
+          "expanded_url": "https://x.com/ObsoleteSony/status/1922356689094803716/video/1",
+          "media_key": "13_1922356621969104896",
+          "start": 30,
+          "url": "https://t.co/7EGKDkoc45"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923155989777219704",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 630
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922356689094803716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ObsoleteSony: This is DVD https://t.co/7EGKDkoc45"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 62016,
+        "height": 720,
+        "media_key": "13_1922356621969104896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1922356621969104896/img/Z201_p-whcYCh8Wf.jpg",
+        "public_metrics": {
+          "view_count": 32168
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922356621969104896/vid/avc1/384x270/ITkeXqPZZE0dyClm.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922356621969104896/vid/avc1/512x360/uDPo8zt2-kBY8RfC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922356621969104896/vid/avc1/1024x720/iovOqtkrkPTUF2hN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1922356621969104896/pl/cX3jPkcJ_aWhlAWp.m3u8?v=6be"
+          }
+        ],
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1922356621969104896"
+          ],
+          "media_source_tweet_id": [
+            "1922356689094803716"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1923155989777219704",
+        "created_at": "2025-05-15T23:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T00:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923155989777219704"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "DVD",
+              "probability": 0.7929,
+              "start": 26,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647428363965935617",
+              "start": 3,
+              "username": "ObsoleteSony"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7EGKDkoc45",
+              "end": 53,
+              "expanded_url": "https://x.com/ObsoleteSony/status/1922356689094803716/video/1",
+              "media_key": "13_1922356621969104896",
+              "start": 30,
+              "url": "https://t.co/7EGKDkoc45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923155989777219704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 630
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922356689094803716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ObsoleteSony: This is DVD https://t.co/7EGKDkoc45"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1922356621969104896"
+          ]
+        },
+        "author_id": "1647428363965935617",
+        "conversation_id": "1922356689094803716",
+        "created_at": "2025-05-13T18:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T19:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922356689094803716"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "DVD",
+              "probability": 0.8708,
+              "start": 8,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7EGKDkoc45",
+              "end": 35,
+              "expanded_url": "https://x.com/ObsoleteSony/status/1922356689094803716/video/1",
+              "media_key": "13_1922356621969104896",
+              "start": 12,
+              "url": "https://t.co/7EGKDkoc45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922356689094803716",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 624,
+          "impression_count": 74908,
+          "like_count": 3819,
+          "quote_count": 53,
+          "reply_count": 42,
+          "retweet_count": 630
+        },
+        "reply_settings": "everyone",
+        "text": "This is DVD https://t.co/7EGKDkoc45"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠📢siren爱好者⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "_kagenone"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7612,
+          "following_count": 4609,
+          "like_count": 12554,
+          "listed_count": 20,
+          "media_count": 2209,
+          "tweet_count": 15514
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-16T02:35:35.000Z",
+        "description": "Embark on a journey through the obscure world of forgotten, odd, and obsolete Sony devices.\nhttps://t.co/pBgVhb98yK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/ObsoleteSony",
+                "end": 115,
+                "expanded_url": "https://www.patreon.com/ObsoleteSony",
+                "start": 92,
+                "url": "https://t.co/pBgVhb98yK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "obsoletesony.com",
+                "end": 23,
+                "expanded_url": "https://www.obsoletesony.com/",
+                "start": 0,
+                "url": "https://t.co/c8KpRtInN1"
+              }
+            ]
+          }
+        },
+        "id": "1647428363965935617",
+        "name": "Obsolete Sony",
+        "pinned_tweet_id": "1923074524511121800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828847927948713984/ByMWXBYs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138258,
+          "following_count": 970,
+          "like_count": 40558,
+          "listed_count": 525,
+          "media_count": 5640,
+          "tweet_count": 8715
+        },
+        "url": "https://t.co/c8KpRtInN1",
+        "username": "ObsoleteSony",
+        "verified": true
+      }
+    ]
+  }
+}

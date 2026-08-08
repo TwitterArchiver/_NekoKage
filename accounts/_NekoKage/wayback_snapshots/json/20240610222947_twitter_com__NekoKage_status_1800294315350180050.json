@@ -1,0 +1,195 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1759015078462996480"
+      ],
+      "media_source_tweet_id": [
+        "1759015083215048745"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "1800294315350180050",
+    "created_at": "2024-06-10T22:29:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T23:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800294315350180050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1463336732032651264",
+          "start": 3,
+          "username": "gorarati"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/rJWxYq24wI",
+          "end": 48,
+          "expanded_url": "https://twitter.com/gorarati/status/1759015083215048745/photo/1",
+          "media_key": "3_1759015078462996480",
+          "start": 25,
+          "url": "https://t.co/rJWxYq24wI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800294315350180050",
+    "lang": "fr",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 462
+    },
+    "referenced_tweets": [
+      {
+        "id": "1759015083215048745",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @gorarati: 😡💢 edition https://t.co/rJWxYq24wI"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1800294315350180050].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1800294315350180050",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1800294315350180050"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1628,
+        "media_key": "3_1759015078462996480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GGlG5OpXwAAMGN5.jpg",
+        "width": 1989
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1759015078462996480"
+          ]
+        },
+        "author_id": "1463336732032651264",
+        "conversation_id": "1759015083215048745",
+        "created_at": "2024-02-18T00:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-02-18T01:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1759015083215048745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/rJWxYq24wI",
+              "end": 34,
+              "expanded_url": "https://twitter.com/gorarati/status/1759015083215048745/photo/1",
+              "media_key": "3_1759015078462996480",
+              "start": 11,
+              "url": "https://t.co/rJWxYq24wI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1759015083215048745",
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 571,
+          "impression_count": 67079,
+          "like_count": 3031,
+          "quote_count": 24,
+          "reply_count": 29,
+          "retweet_count": 462
+        },
+        "reply_settings": "following",
+        "text": "😡💢 edition https://t.co/rJWxYq24wI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏精神病🩸自傷🎸聚乙烯乐队主音及主唱🎧HiFi糊烧🚬大烟鬼🔪刃物收藏⌚️入门表匠🚗JDM📷黑白摄影🚪88可约（迫不得已）⚠️@_kagenone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 133,
+                "username": "_kagenone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6872,
+          "following_count": 3727,
+          "like_count": 8681,
+          "listed_count": 20,
+          "tweet_count": 11603
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-24T02:41:14.000Z",
+        "description": "they/them 🔞🔞🔞 drawing",
+        "id": "1463336732032651264",
+        "location": "credit me or ill injure myself",
+        "name": "ami",
+        "pinned_tweet_id": "1768106166154940855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797523457749504000/JBPf3JuZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24255,
+          "following_count": 214,
+          "like_count": 10891,
+          "listed_count": 97,
+          "tweet_count": 5393
+        },
+        "username": "gorarati",
+        "verified": false
+      }
+    ]
+  }
+}

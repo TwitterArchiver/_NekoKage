@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "conversation_id": "1928197647766028680",
+    "created_at": "2025-05-29T21:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T22:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928197647766028680"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 110,
+          "normalized_text": "AI",
+          "probability": 0.613,
+          "start": 109,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1440511032347168772",
+          "start": 3,
+          "username": "RainworldMC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928197647766028680",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928180288326091020",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RainworldMC: As a reminder, we're always looking for more help! At the moment we need help with creature AI. If you feel confident in M…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "conversation_id": "1928197647766028680",
+        "created_at": "2025-05-29T21:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T22:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928197647766028680"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 110,
+              "normalized_text": "AI",
+              "probability": 0.613,
+              "start": 109,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1440511032347168772",
+              "start": 3,
+              "username": "RainworldMC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928197647766028680",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928180288326091020",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RainworldMC: As a reminder, we're always looking for more help! At the moment we need help with creature AI. If you feel confident in M…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1440511032347168772",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1928180288326091020",
+        "created_at": "2025-05-29T20:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T21:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928180288326091020"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 93,
+              "normalized_text": "AI",
+              "probability": 0.6824,
+              "start": 92,
+              "type": "Organization"
+            },
+            {
+              "end": 129,
+              "normalized_text": "Minecraft",
+              "probability": 0.9512,
+              "start": 121,
+              "type": "Other"
+            },
+            {
+              "end": 155,
+              "normalized_text": "discord",
+              "probability": 0.7882,
+              "start": 149,
+              "type": "Other"
+            },
+            {
+              "end": 199,
+              "normalized_text": "discord",
+              "probability": 0.9017,
+              "start": 193,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Wholesome server about making Rain World in Minecraft. | 3749 members",
+              "display_url": "discord.gg/A9g3ZY3S9R",
+              "end": 225,
+              "expanded_url": "https://discord.gg/A9g3ZY3S9R",
+              "start": 202,
+              "status": 200,
+              "title": "Join the Rain World MC Discord Server!",
+              "unwound_url": "https://discord.com/invite/A9g3ZY3S9R",
+              "url": "https://t.co/viSz9kY1WP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928180288326091020",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 810,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "As a reminder, we're always looking for more help! At the moment we need help with creature AI. If you feel confident in Minecraft modding, join our discord and reach out to @piggykropotkin on discord!\nhttps://t.co/viSz9kY1WP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠📢siren爱好者⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "_kagenone"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7626,
+          "following_count": 4657,
+          "like_count": 12686,
+          "listed_count": 20,
+          "media_count": 2226,
+          "tweet_count": 15776
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-22T02:59:51.000Z",
+        "description": "This is an independent, fan project to recreate Rain World in Minecraft! Rain World is developed by Videocult and published by Akupara Games. Join our discord!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/d4udJgT77x",
+                "end": 23,
+                "expanded_url": "https://discord.gg/d4udJgT77x",
+                "start": 0,
+                "url": "https://t.co/qIoBshEQAC"
+              }
+            ]
+          }
+        },
+        "id": "1440511032347168772",
+        "location": "Outskirts… Again",
+        "name": "RainWorldMC",
+        "pinned_tweet_id": "1928180288326091020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740058601236869120/fvRJXBNK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7138,
+          "following_count": 773,
+          "like_count": 268837,
+          "listed_count": 15,
+          "media_count": 1179,
+          "tweet_count": 9441
+        },
+        "url": "https://t.co/qIoBshEQAC",
+        "username": "RainworldMC",
+        "verified": false
+      }
+    ]
+  }
+}

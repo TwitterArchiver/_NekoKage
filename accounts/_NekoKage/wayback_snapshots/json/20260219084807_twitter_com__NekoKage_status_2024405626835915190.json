@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491833436499107849",
+          "name": "Gaming hardware & accessories"
+        }
+      }
+    ],
+    "conversation_id": "2024405626835915190",
+    "created_at": "2026-02-19T08:48:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T09:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024405626835915190"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 134,
+          "normalized_text": "William Higinbotham",
+          "probability": 0.9854,
+          "start": 116,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "855481986290524160",
+          "start": 3,
+          "username": "historyinmemes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024405626835915190",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 205
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024335886599802970",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @historyinmemes: The world’s first video game, played on its original 1957 hardware.\n\nIn October 1958, physicist William Higinbotham dev…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8200,
+        "height": 528,
+        "media_key": "13_2018827078460694528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2018827078460694528/img/zaJrS894dWgjiqky.jpg",
+        "public_metrics": {
+          "view_count": 27455
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018827078460694528/vid/avc1/316x270/CVO5nEH0NWzKrUjL.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018827078460694528/vid/avc1/420x360/Y3-S9vzfZSPLL5Wb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018827078460694528/vid/avc1/618x528/nl9hStBL-iW7oaHM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2018827078460694528/pl/LHIfwlSMutBf1F56.m3u8"
+          }
+        ],
+        "width": 618
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491833436499107849",
+              "name": "Gaming hardware & accessories"
+            }
+          }
+        ],
+        "conversation_id": "2024405626835915190",
+        "created_at": "2026-02-19T08:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T09:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024405626835915190"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 134,
+              "normalized_text": "William Higinbotham",
+              "probability": 0.9854,
+              "start": 116,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "855481986290524160",
+              "start": 3,
+              "username": "historyinmemes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024405626835915190",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 205
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024335886599802970",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @historyinmemes: The world’s first video game, played on its original 1957 hardware.\n\nIn October 1958, physicist William Higinbotham dev…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2018827078460694528"
+          ]
+        },
+        "author_id": "855481986290524160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tennis",
+              "id": "847903248933502976",
+              "name": "Tennis"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491833436499107849",
+              "name": "Gaming hardware & accessories"
+            }
+          }
+        ],
+        "conversation_id": "2024335886599802970",
+        "created_at": "2026-02-19T04:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T05:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024335886599802970"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 114,
+              "normalized_text": "William Higinbotham",
+              "probability": 0.9545,
+              "start": 96,
+              "type": "Person"
+            },
+            {
+              "end": 270,
+              "normalized_text": "Brookhaven National Laboratory",
+              "probability": 0.6267,
+              "start": 241,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HcMHLVqiH4",
+              "end": 304,
+              "expanded_url": "https://x.com/historyinmemes/status/2024335886599802970/video/1",
+              "media_key": "13_2018827078460694528",
+              "start": 281,
+              "url": "https://t.co/HcMHLVqiH4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024335886599802970",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "The world’s first video game, played on its original 1957 hardware.\n\nIn October 1958, physicist William Higinbotham developed what is widely recognized as the first video game, Tennis for Two, to entertain visitors at a public exhibition at Brookhaven National Laboratory.\n\nUnlike later digital consoles, the game ran on a Donner Model 30 analog computer and displayed graphics on a five-inch oscilloscope. Players controlled the action with custom aluminum controllers featuring a knob to set the ball’s angle and a button to hit it over a simulated net.\n\nWhile earlier electronic creations like the 1947 Cathode-Ray Tube Amusement Device or 1950’s Bertie the Brain existed, Tennis for Two is notable as the first game designed purely for entertainment, rather than research or technical demonstration.\n\nAlthough the original hardware was dismantled in 1959, and no intact version survives, modern replicas have been built to celebrate this groundbreaking moment in gaming history."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 73393,
+          "like_count": 970,
+          "quote_count": 15,
+          "reply_count": 106,
+          "retweet_count": 205
+        },
+        "reply_settings": "everyone",
+        "text": "The world’s first video game, played on its original 1957 hardware.\n\nIn October 1958, physicist William Higinbotham developed what is widely recognized as the first video game, Tennis for Two, to entertain visitors at a public exhibition at Brookhaven National Laboratory.\n\nUnlike https://t.co/HcMHLVqiH4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7967,
+          "following_count": 5784,
+          "like_count": 13883,
+          "listed_count": 16,
+          "media_count": 2603,
+          "tweet_count": 19221
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-21T18:02:54.000Z",
+        "description": "Daily history lessons. Education through memes!",
+        "id": "855481986290524160",
+        "name": "Historic Vids",
+        "pinned_tweet_id": "2024325035498901624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648334723725361152/ev7V1230_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6074503,
+          "following_count": 349,
+          "like_count": 4286,
+          "listed_count": 14230,
+          "media_count": 21203,
+          "tweet_count": 25928
+        },
+        "username": "historyinmemes",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "conversation_id": "1803443545216578021",
+    "created_at": "2024-06-19T15:41:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T16:41:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803453138801934387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1491131025023549444",
+          "start": 0,
+          "username": "tapeIXUS1979"
+        },
+        {
+          "end": 22,
+          "id": "1229811974763974658",
+          "start": 14,
+          "username": "sdjcbhk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803453138801934387",
+    "in_reply_to_user_id": "1491131025023549444",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803443545216578021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tapeIXUS1979 @sdjcbhk 谢谢你"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1803443545216578021].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1803443545216578021",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1803443545216578021"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "conversation_id": "1803443545216578021",
+        "created_at": "2024-06-19T15:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T16:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803453138801934387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1491131025023549444",
+              "start": 0,
+              "username": "tapeIXUS1979"
+            },
+            {
+              "end": 22,
+              "id": "1229811974763974658",
+              "start": 14,
+              "username": "sdjcbhk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803453138801934387",
+        "in_reply_to_user_id": "1491131025023549444",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803443545216578021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tapeIXUS1979 @sdjcbhk 谢谢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏是個瘋子🩸自傷🦿biid🎸聚乙烯乐队主音及主唱🎧HiFi糊烧🚬大烟鬼🔪刃物收藏⌚️入门表匠🚗JDM📷黑白摄影🚪88⚠️@_kagenone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 131,
+                "username": "_kagenone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6916,
+          "following_count": 3833,
+          "like_count": 9139,
+          "listed_count": 20,
+          "tweet_count": 11825
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T19:25:38.000Z",
+        "description": "Pride and Together / 會吞磁帶的SONY WALKMAN",
+        "id": "1491131025023549444",
+        "location": "香港🇭🇰",
+        "name": "Tape.",
+        "pinned_tweet_id": "1791931004317577538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760819297126092801/n0ZPUaRy_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 366,
+          "like_count": 5948,
+          "listed_count": 2,
+          "tweet_count": 2715
+        },
+        "username": "tapeIXUS1979",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-18T16:56:55.000Z",
+        "description": "You jump , I jump.可爱的妹妹雪仙@snowfairy011026 可恨的傻逼男的@tapeIXUS1979",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 25,
+                "username": "snowfairy011026"
+              },
+              {
+                "end": 62,
+                "start": 49,
+                "username": "tapeIXUS1979"
+              }
+            ]
+          }
+        },
+        "id": "1229811974763974658",
+        "location": "Heaven",
+        "name": "机场Sally🏳️‍⚧️",
+        "pinned_tweet_id": "1728070700613702059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777114753544208384/uAigzslA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 1019,
+          "like_count": 5858,
+          "listed_count": 1,
+          "tweet_count": 4648
+        },
+        "username": "sdjcbhk",
+        "verified": false
+      }
+    ]
+  }
+}

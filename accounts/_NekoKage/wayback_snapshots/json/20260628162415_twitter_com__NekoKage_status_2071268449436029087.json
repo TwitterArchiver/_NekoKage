@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1804619425540423680"
+      ],
+      "media_source_tweet_id": [
+        "1804620516642505033"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Fruits",
+          "id": "841969352828112896",
+          "name": "Fruits"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fruits",
+          "id": "841969352828112896",
+          "name": "Fruits"
+        }
+      }
+    ],
+    "conversation_id": "2071268449436029087",
+    "created_at": "2026-06-28T16:24:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T17:24:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071268449436029087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1075997635327143936",
+          "start": 3,
+          "username": "gekibnews"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J2WrdXsBgG",
+          "end": 103,
+          "expanded_url": "https://x.com/hakaima_taka/status/1804620516642505033/video/1",
+          "media_key": "7_1804619425540423680",
+          "start": 80,
+          "url": "https://t.co/J2WrdXsBgG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071268449436029087",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1209
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071100414842614166",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gekibnews: 美輪明宏さんといえば、\n\nスイカを食べるおばさん達をバックにオーソレミオを歌うシーンが印象深いけど、\n\n未だにこの狙いが謎すぎる https://t.co/J2WrdXsBgG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 88216,
+        "height": 1080,
+        "media_key": "7_1804619425540423680",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1804619425540423680/pu/img/bAGxZx9F5CBA2oEe.jpg",
+        "public_metrics": {
+          "view_count": 1167395
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1804619425540423680/pu/vid/avc1/472x360/nhACrG1ZilYeDBSJ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1804619425540423680/pu/vid/avc1/354x270/8QRWEJsCfPXgdwjV.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1804619425540423680/pu/vid/avc1/946x720/XvM3WUqlCak_zd-o.mp4?tag=14"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1804619425540423680/pu/vid/avc1/1420x1080/n9MgH8Qg8tcy11M-.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1804619425540423680/pu/pl/98pNeeES6Ka3nUky.m3u8?tag=14&v=f73"
+          }
+        ],
+        "width": 1420
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1804619425540423680"
+          ],
+          "media_source_tweet_id": [
+            "1804620516642505033"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          }
+        ],
+        "conversation_id": "2071268449436029087",
+        "created_at": "2026-06-28T16:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071268449436029087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1075997635327143936",
+              "start": 3,
+              "username": "gekibnews"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J2WrdXsBgG",
+              "end": 103,
+              "expanded_url": "https://x.com/hakaima_taka/status/1804620516642505033/video/1",
+              "media_key": "7_1804619425540423680",
+              "start": 80,
+              "url": "https://t.co/J2WrdXsBgG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071268449436029087",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1209
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071100414842614166",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gekibnews: 美輪明宏さんといえば、\n\nスイカを食べるおばさん達をバックにオーソレミオを歌うシーンが印象深いけど、\n\n未だにこの狙いが謎すぎる https://t.co/J2WrdXsBgG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1804619425540423680"
+          ],
+          "media_source_tweet_id": [
+            "1804620516642505033"
+          ]
+        },
+        "author_id": "1075997635327143936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          }
+        ],
+        "conversation_id": "2071100414842614166",
+        "created_at": "2026-06-28T05:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T06:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071100414842614166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J2WrdXsBgG",
+              "end": 88,
+              "expanded_url": "https://x.com/hakaima_taka/status/1804620516642505033/video/1",
+              "media_key": "7_1804619425540423680",
+              "start": 65,
+              "url": "https://t.co/J2WrdXsBgG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071100414842614166",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2210,
+          "impression_count": 396347,
+          "like_count": 7491,
+          "quote_count": 144,
+          "reply_count": 68,
+          "retweet_count": 1209
+        },
+        "reply_settings": "everyone",
+        "text": "美輪明宏さんといえば、\n\nスイカを食べるおばさん達をバックにオーソレミオを歌うシーンが印象深いけど、\n\n未だにこの狙いが謎すぎる https://t.co/J2WrdXsBgG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病多病病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "_kagenone"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8693,
+          "following_count": 6667,
+          "like_count": 15784,
+          "listed_count": 17,
+          "media_count": 3010,
+          "tweet_count": 22011
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-21T06:13:22.000Z",
+        "description": "雑学、用語解説、クイズ、豆知識などを発信\n動画の削除依頼は引用元まで。その他お問い合わせはDMまで。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/gekibuzz",
+                "end": 23,
+                "expanded_url": "https://lit.link/gekibuzz",
+                "start": 0,
+                "url": "https://t.co/R29HptK1zo"
+              }
+            ]
+          }
+        },
+        "id": "1075997635327143936",
+        "name": "クロニクル・ラボ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048218297402019840/uQAlCj4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201600,
+          "following_count": 2225,
+          "like_count": 99748,
+          "listed_count": 508,
+          "media_count": 18271,
+          "tweet_count": 253869
+        },
+        "url": "https://t.co/R29HptK1zo",
+        "username": "gekibnews",
+        "verified": true
+      }
+    ]
+  }
+}

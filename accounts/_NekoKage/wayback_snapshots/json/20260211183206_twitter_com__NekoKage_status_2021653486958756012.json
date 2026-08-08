@@ -1,0 +1,649 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021593355868848128",
+        "3_2021593380212662272",
+        "3_2021593387158339585"
+      ],
+      "media_source_tweet_id": [
+        "2021593806752137344",
+        "2021593806752137344",
+        "2021593806752137344"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      }
+    ],
+    "conversation_id": "2021653486958756012",
+    "created_at": "2026-02-11T18:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T19:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021653486958756012"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "Nikon S2",
+          "probability": 0.4561,
+          "start": 18,
+          "type": "Product"
+        },
+        {
+          "end": 69,
+          "normalized_text": "Nikon",
+          "probability": 0.4845,
+          "start": 65,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "315244570",
+          "start": 3,
+          "username": "atto_syuu_JP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y170lMu5UQ",
+          "end": 106,
+          "expanded_url": "https://x.com/atto_syuu_JP/status/2021593806752137344/photo/1",
+          "media_key": "3_2021593355868848128",
+          "start": 83,
+          "url": "https://t.co/y170lMu5UQ"
+        },
+        {
+          "display_url": "pic.x.com/y170lMu5UQ",
+          "end": 106,
+          "expanded_url": "https://x.com/atto_syuu_JP/status/2021593806752137344/photo/1",
+          "media_key": "3_2021593380212662272",
+          "start": 83,
+          "url": "https://t.co/y170lMu5UQ"
+        },
+        {
+          "display_url": "pic.x.com/y170lMu5UQ",
+          "end": 106,
+          "expanded_url": "https://x.com/atto_syuu_JP/status/2021593806752137344/photo/1",
+          "media_key": "3_2021593387158339585",
+          "start": 83,
+          "url": "https://t.co/y170lMu5UQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021653486958756012",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021593806752137344",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @atto_syuu_JP: Nikon S2(前期型)\nNIKKOR-H・C 5cm F2\n\n撮りました。\n見た目だけならNikonで一番好きなカメラです。 https://t.co/y170lMu5UQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2021593355868848128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4kckDaQAAicjI.jpg",
+        "width": 2734
+      },
+      {
+        "height": 2734,
+        "media_key": "3_2021593380212662272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4kd-vbYAARP6Y.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2733,
+        "media_key": "3_2021593387158339585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4keYnaAAEzSmb.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021593355868848128",
+            "3_2021593380212662272",
+            "3_2021593387158339585"
+          ],
+          "media_source_tweet_id": [
+            "2021593806752137344",
+            "2021593806752137344",
+            "2021593806752137344"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "2021653486958756012",
+        "created_at": "2026-02-11T18:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T19:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021653486958756012"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "Nikon S2",
+              "probability": 0.4561,
+              "start": 18,
+              "type": "Product"
+            },
+            {
+              "end": 69,
+              "normalized_text": "Nikon",
+              "probability": 0.4845,
+              "start": 65,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "315244570",
+              "start": 3,
+              "username": "atto_syuu_JP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y170lMu5UQ",
+              "end": 106,
+              "expanded_url": "https://x.com/atto_syuu_JP/status/2021593806752137344/photo/1",
+              "media_key": "3_2021593355868848128",
+              "start": 83,
+              "url": "https://t.co/y170lMu5UQ"
+            },
+            {
+              "display_url": "pic.x.com/y170lMu5UQ",
+              "end": 106,
+              "expanded_url": "https://x.com/atto_syuu_JP/status/2021593806752137344/photo/1",
+              "media_key": "3_2021593380212662272",
+              "start": 83,
+              "url": "https://t.co/y170lMu5UQ"
+            },
+            {
+              "display_url": "pic.x.com/y170lMu5UQ",
+              "end": 106,
+              "expanded_url": "https://x.com/atto_syuu_JP/status/2021593806752137344/photo/1",
+              "media_key": "3_2021593387158339585",
+              "start": 83,
+              "url": "https://t.co/y170lMu5UQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021653486958756012",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021593806752137344",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @atto_syuu_JP: Nikon S2(前期型)\nNIKKOR-H・C 5cm F2\n\n撮りました。\n見た目だけならNikonで一番好きなカメラです。 https://t.co/y170lMu5UQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021593355868848128",
+            "3_2021593380212662272",
+            "3_2021593387158339585"
+          ]
+        },
+        "author_id": "315244570",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "2021593806752137344",
+        "created_at": "2026-02-11T14:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T15:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021593806752137344"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "Nikon S2",
+              "probability": 0.4343,
+              "start": 0,
+              "type": "Product"
+            },
+            {
+              "end": 51,
+              "normalized_text": "Nikon",
+              "probability": 0.4668,
+              "start": 47,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y170lMu5UQ",
+              "end": 88,
+              "expanded_url": "https://x.com/atto_syuu_JP/status/2021593806752137344/photo/1",
+              "media_key": "3_2021593355868848128",
+              "start": 65,
+              "url": "https://t.co/y170lMu5UQ"
+            },
+            {
+              "display_url": "pic.x.com/y170lMu5UQ",
+              "end": 88,
+              "expanded_url": "https://x.com/atto_syuu_JP/status/2021593806752137344/photo/1",
+              "media_key": "3_2021593380212662272",
+              "start": 65,
+              "url": "https://t.co/y170lMu5UQ"
+            },
+            {
+              "display_url": "pic.x.com/y170lMu5UQ",
+              "end": 88,
+              "expanded_url": "https://x.com/atto_syuu_JP/status/2021593806752137344/photo/1",
+              "media_key": "3_2021593387158339585",
+              "start": 65,
+              "url": "https://t.co/y170lMu5UQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021593806752137344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1138,
+          "like_count": 57,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Nikon S2(前期型)\nNIKKOR-H・C 5cm F2\n\n撮りました。\n見た目だけならNikonで一番好きなカメラです。 https://t.co/y170lMu5UQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7965,
+          "following_count": 5750,
+          "like_count": 13845,
+          "listed_count": 17,
+          "media_count": 2589,
+          "tweet_count": 19080
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-11T15:01:38.000Z",
+        "description": "写真とカメラと車の雑多垢。趣味は『そこそこ以上、まぁまぁ未満』を目標に。フイルムとデジを嗜む程度に遊んでます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "attosyuu.myportfolio.com",
+                "end": 23,
+                "expanded_url": "https://attosyuu.myportfolio.com/",
+                "start": 0,
+                "url": "https://t.co/KShGXilgAB"
+              }
+            ]
+          }
+        },
+        "id": "315244570",
+        "location": "ハルケギニア トリステイン魔法学院第3魔法実習準備室",
+        "name": "しゅー",
+        "pinned_tweet_id": "1902986479522951381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871367493316759552/XoHqBGRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1832,
+          "following_count": 1877,
+          "like_count": 31629,
+          "listed_count": 16,
+          "media_count": 4091,
+          "tweet_count": 30491
+        },
+        "url": "https://t.co/KShGXilgAB",
+        "username": "atto_syuu_JP",
+        "verified": false
+      }
+    ]
+  }
+}

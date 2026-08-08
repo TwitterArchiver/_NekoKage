@@ -1,0 +1,674 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1284174028442230785",
+          "name": "Winter Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237760060828213249",
+          "name": "Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1284174028442230785",
+          "name": "Winter Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": "Skiing",
+          "id": "847902877347495936",
+          "name": "Skiing"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": "Cross Country Skiing",
+          "id": "1473337451569508352",
+          "name": "Alpine Skiing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Skiing",
+          "id": "847902877347495936",
+          "name": "Skiing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1260978608199266304",
+          "name": "Winter sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cross Country Skiing",
+          "id": "1473337451569508352",
+          "name": "Alpine Skiing"
+        }
+      }
+    ],
+    "conversation_id": "2020428079034978366",
+    "created_at": "2026-02-08T09:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T10:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020428079034978366"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 43,
+          "normalized_text": "Bode Miller",
+          "probability": 0.9546,
+          "start": 33,
+          "type": "Person"
+        },
+        {
+          "end": 138,
+          "normalized_text": "Alpine Skiing Worl",
+          "probability": 0.7124,
+          "start": 121,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "845703600852623360",
+          "start": 3,
+          "username": "timecaptales"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020428079034978366",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 381
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020290731324371270",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @timecaptales: American skier Bode Miller lost his left ski in one of the wildest skiing moments ever during the 2005 Alpine Skiing Worl…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 90255,
+        "height": 434,
+        "media_key": "13_2020284280325218304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020284280325218304/img/W1AhpP_9KkLfN_Cy.jpg",
+        "public_metrics": {
+          "view_count": 839705
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020284280325218304/vid/avc1/410x270/AaQok_rt3NRbHXjf.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020284280325218304/vid/avc1/662x434/AhY9S6l1dj12KX-6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020284280325218304/pl/48qOw0l_aRJWJikM.m3u8?v=cfc"
+          }
+        ],
+        "width": 662
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1284174028442230785",
+              "name": "Winter Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284174028442230785",
+              "name": "Winter Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Skiing",
+              "id": "847902877347495936",
+              "name": "Skiing"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Cross Country Skiing",
+              "id": "1473337451569508352",
+              "name": "Alpine Skiing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Skiing",
+              "id": "847902877347495936",
+              "name": "Skiing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1260978608199266304",
+              "name": "Winter sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cross Country Skiing",
+              "id": "1473337451569508352",
+              "name": "Alpine Skiing"
+            }
+          }
+        ],
+        "conversation_id": "2020428079034978366",
+        "created_at": "2026-02-08T09:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T10:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020428079034978366"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "Bode Miller",
+              "probability": 0.9546,
+              "start": 33,
+              "type": "Person"
+            },
+            {
+              "end": 138,
+              "normalized_text": "Alpine Skiing Worl",
+              "probability": 0.7124,
+              "start": 121,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "845703600852623360",
+              "start": 3,
+              "username": "timecaptales"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020428079034978366",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 381
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020290731324371270",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @timecaptales: American skier Bode Miller lost his left ski in one of the wildest skiing moments ever during the 2005 Alpine Skiing Worl…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020284280325218304"
+          ]
+        },
+        "author_id": "845703600852623360",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1284174028442230785",
+              "name": "Winter Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284174028442230785",
+              "name": "Winter Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Skiing",
+              "id": "847902877347495936",
+              "name": "Skiing"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Cross Country Skiing",
+              "id": "1473337451569508352",
+              "name": "Alpine Skiing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Skiing",
+              "id": "847902877347495936",
+              "name": "Skiing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1260978608199266304",
+              "name": "Winter sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cross Country Skiing",
+              "id": "1473337451569508352",
+              "name": "Alpine Skiing"
+            }
+          }
+        ],
+        "conversation_id": "2020290731324371270",
+        "created_at": "2026-02-08T00:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T01:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020290731324371270"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "Bode Miller",
+              "probability": 0.9565,
+              "start": 15,
+              "type": "Person"
+            },
+            {
+              "end": 135,
+              "normalized_text": "Alpine Skiing World Championships",
+              "probability": 0.8652,
+              "start": 103,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/itzgXFims6",
+              "end": 160,
+              "expanded_url": "https://x.com/timecaptales/status/2020290731324371270/video/1",
+              "media_key": "13_2020284280325218304",
+              "start": 137,
+              "url": "https://t.co/itzgXFims6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020290731324371270",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1035,
+          "impression_count": 1403675,
+          "like_count": 7660,
+          "quote_count": 38,
+          "reply_count": 70,
+          "retweet_count": 381
+        },
+        "reply_settings": "everyone",
+        "text": "American skier Bode Miller lost his left ski in one of the wildest skiing moments ever during the 2005 Alpine Skiing World Championships https://t.co/itzgXFims6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7965,
+          "following_count": 5724,
+          "like_count": 13824,
+          "listed_count": 17,
+          "media_count": 2584,
+          "tweet_count": 19012
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-25T18:27:05.000Z",
+        "description": "Internet history & curiosity museum",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/timecapsuletal…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/timecapsuletales",
+                "start": 0,
+                "url": "https://t.co/Gsv6BBpKjA"
+              }
+            ]
+          }
+        },
+        "id": "845703600852623360",
+        "location": "Philadelphia, PA",
+        "name": "Time Capsule Tales",
+        "pinned_tweet_id": "2016250534693351765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883226492529725440/VLZYnkz1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692154,
+          "following_count": 92,
+          "like_count": 11095,
+          "listed_count": 1785,
+          "media_count": 13258,
+          "tweet_count": 26532
+        },
+        "url": "https://t.co/Gsv6BBpKjA",
+        "username": "timecaptales",
+        "verified": true
+      }
+    ]
+  }
+}

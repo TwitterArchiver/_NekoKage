@@ -1,0 +1,580 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1938635714171961344"
+      ],
+      "media_source_tweet_id": [
+        "1938636309465350251"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1585397052598497280",
+          "name": "Urusei Yatsura"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585397052598497280",
+          "name": "Urusei Yatsura"
+        }
+      }
+    ],
+    "conversation_id": "1939219259504369672",
+    "created_at": "2025-06-29T07:07:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T08:07:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939219259504369672"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "enacoral",
+          "probability": 0.6224,
+          "start": 27,
+          "type": "Other"
+        },
+        {
+          "end": 43,
+          "normalized_text": "coralena",
+          "probability": 0.6736,
+          "start": 36,
+          "type": "Other"
+        },
+        {
+          "end": 65,
+          "normalized_text": "urusei yatsura",
+          "probability": 0.691,
+          "start": 52,
+          "type": "Other"
+        },
+        {
+          "end": 86,
+          "normalized_text": "enadreambbq",
+          "probability": 0.7346,
+          "start": 76,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 87,
+          "start": 75,
+          "tag": "enadreambbq"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1372460038300692483",
+          "start": 3,
+          "username": "marucastew"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k2DfGXbARx",
+          "end": 111,
+          "expanded_url": "https://x.com/marucastew/status/1938636309465350251/video/1",
+          "media_key": "13_1938635714171961344",
+          "start": 88,
+          "url": "https://t.co/k2DfGXbARx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939219259504369672",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1707
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938636309465350251",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @marucastew: i animated enacoral/coralena to the urusei yatsura opening #enadreambbq https://t.co/k2DfGXbARx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22293,
+        "height": 900,
+        "media_key": "13_1938635714171961344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1938635714171961344/img/5mfujAd1y_8YI7Eh.jpg",
+        "public_metrics": {
+          "view_count": 26849
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938635714171961344/vid/avc1/360x270/bTC2KA0HZYL-fwPC.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938635714171961344/vid/avc1/480x360/uSRHvzEEbsDtObsP.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938635714171961344/vid/avc1/960x720/Nr0sRHia9pKIS3cH.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1938635714171961344/pl/MshvcO5r-mGBzmiK.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1938635714171961344"
+          ],
+          "media_source_tweet_id": [
+            "1938636309465350251"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585397052598497280",
+              "name": "Urusei Yatsura"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585397052598497280",
+              "name": "Urusei Yatsura"
+            }
+          }
+        ],
+        "conversation_id": "1939219259504369672",
+        "created_at": "2025-06-29T07:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T08:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939219259504369672"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "enacoral",
+              "probability": 0.6224,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 43,
+              "normalized_text": "coralena",
+              "probability": 0.6736,
+              "start": 36,
+              "type": "Other"
+            },
+            {
+              "end": 65,
+              "normalized_text": "urusei yatsura",
+              "probability": 0.691,
+              "start": 52,
+              "type": "Other"
+            },
+            {
+              "end": 86,
+              "normalized_text": "enadreambbq",
+              "probability": 0.7346,
+              "start": 76,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 75,
+              "tag": "enadreambbq"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1372460038300692483",
+              "start": 3,
+              "username": "marucastew"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k2DfGXbARx",
+              "end": 111,
+              "expanded_url": "https://x.com/marucastew/status/1938636309465350251/video/1",
+              "media_key": "13_1938635714171961344",
+              "start": 88,
+              "url": "https://t.co/k2DfGXbARx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939219259504369672",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1707
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938636309465350251",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @marucastew: i animated enacoral/coralena to the urusei yatsura opening #enadreambbq https://t.co/k2DfGXbARx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1938635714171961344"
+          ]
+        },
+        "author_id": "1372460038300692483",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585397052598497280",
+              "name": "Urusei Yatsura"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585397052598497280",
+              "name": "Urusei Yatsura"
+            }
+          }
+        ],
+        "conversation_id": "1938636309465350251",
+        "created_at": "2025-06-27T16:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T17:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938636309465350251"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "enacoral",
+              "probability": 0.6118,
+              "start": 11,
+              "type": "Other"
+            },
+            {
+              "end": 27,
+              "normalized_text": "coralena",
+              "probability": 0.6621,
+              "start": 20,
+              "type": "Other"
+            },
+            {
+              "end": 49,
+              "normalized_text": "urusei yatsura",
+              "probability": 0.689,
+              "start": 36,
+              "type": "Other"
+            },
+            {
+              "end": 70,
+              "normalized_text": "enadreambbq",
+              "probability": 0.7372,
+              "start": 60,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 59,
+              "tag": "enadreambbq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k2DfGXbARx",
+              "end": 95,
+              "expanded_url": "https://x.com/marucastew/status/1938636309465350251/video/1",
+              "media_key": "13_1938635714171961344",
+              "start": 72,
+              "url": "https://t.co/k2DfGXbARx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938636309465350251",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1689,
+          "impression_count": 50423,
+          "like_count": 7433,
+          "quote_count": 11,
+          "reply_count": 35,
+          "retweet_count": 1707
+        },
+        "reply_settings": "everyone",
+        "text": "i animated enacoral/coralena to the urusei yatsura opening #enadreambbq https://t.co/k2DfGXbARx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🐈#RainWorld⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 107,
+                "tag": "RainWorld"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "_kagenone"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1938006225230434788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7668,
+          "following_count": 4753,
+          "like_count": 12848,
+          "listed_count": 20,
+          "media_count": 2268,
+          "tweet_count": 16136
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-18T08:09:16.000Z",
+        "description": "maruca/stuart 🇵🇭 im 22 and i like to play and draw 😸 also on tumblr @ marucastew",
+        "id": "1372460038300692483",
+        "location": "they",
+        "name": "maruca",
+        "pinned_tweet_id": "1938636309465350251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915962609901436928/Hun-9LHi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4841,
+          "following_count": 335,
+          "like_count": 13860,
+          "listed_count": 30,
+          "media_count": 238,
+          "tweet_count": 2513
+        },
+        "username": "marucastew",
+        "verified": false
+      }
+    ]
+  }
+}

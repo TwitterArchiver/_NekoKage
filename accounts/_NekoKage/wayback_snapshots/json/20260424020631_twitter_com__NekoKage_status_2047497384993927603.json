@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "conversation_id": "2047385834064937352",
+    "created_at": "2026-04-24T02:06:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T03:06:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047497384993927603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1547097745797685249",
+          "start": 0,
+          "username": "sth_like_human"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047497384993927603",
+    "in_reply_to_user_id": "1547097745797685249",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047481008937918965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sth_like_human 我也是，，"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2047481008937918965].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2047481008937918965",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2047481008937918965"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "conversation_id": "2047385834064937352",
+        "created_at": "2026-04-24T02:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T03:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047497384993927603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1547097745797685249",
+              "start": 0,
+              "username": "sth_like_human"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047497384993927603",
+        "in_reply_to_user_id": "1547097745797685249",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047481008937918965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sth_like_human 我也是，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8438,
+          "following_count": 6466,
+          "like_count": 14812,
+          "listed_count": 17,
+          "media_count": 2834,
+          "tweet_count": 20772
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T05:57:38.000Z",
+        "description": "我也要bot",
+        "id": "1547097745797685249",
+        "name": "Flash flame",
+        "pinned_tweet_id": "1590122678585032705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010312921864343552/Si-AfgEN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1591,
+          "following_count": 4353,
+          "like_count": 200599,
+          "listed_count": 7,
+          "media_count": 2151,
+          "tweet_count": 40994
+        },
+        "username": "sth_like_human",
+        "verified": true
+      }
+    ]
+  }
+}

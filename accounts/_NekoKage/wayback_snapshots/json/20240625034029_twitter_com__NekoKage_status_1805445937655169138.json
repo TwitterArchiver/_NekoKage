@@ -1,0 +1,473 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1805267417347809280"
+      ],
+      "media_source_tweet_id": [
+        "1805268632236384429"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Piano",
+          "id": "1432716806444093440",
+          "name": "Synthesizer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Piano",
+          "id": "1432716806444093440",
+          "name": "Synthesizer"
+        }
+      }
+    ],
+    "conversation_id": "1805445937655169138",
+    "created_at": "2024-06-25T03:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T04:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805445937655169138"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "シュミットトリガー",
+          "probability": 0.2975,
+          "start": 20,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2504922638",
+          "start": 3,
+          "username": "seitokisoukari"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/TbXF4H3eDV",
+          "end": 102,
+          "expanded_url": "https://twitter.com/seitokisoukari/status/1805268632236384429/video/1",
+          "media_key": "7_1805267417347809280",
+          "start": 79,
+          "url": "https://t.co/TbXF4H3eDV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805445937655169138",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805268632236384429",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seitokisoukari: シュミットトリガーの発振回路でシンセを作成した。\n即興で演奏。\nドローンマシーンのつもりだけどノイズシンセになった。 https://t.co/TbXF4H3eDV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 127026,
+        "height": 720,
+        "media_key": "7_1805267417347809280",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1805267417347809280/pu/img/U5_saW5gFPk5yiPs.jpg",
+        "public_metrics": {
+          "view_count": 2177
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1805267417347809280/pu/vid/avc1/480x270/tCwIWucrx_raDppZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1805267417347809280/pu/vid/avc1/640x360/448Fzfa27xGsD7Qh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1805267417347809280/pu/vid/avc1/1280x720/d7QvkBg8d0-zGgL0.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1805267417347809280/pu/pl/DRMigmZJcW6tV5-o.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1805267417347809280"
+          ],
+          "media_source_tweet_id": [
+            "1805268632236384429"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Piano",
+              "id": "1432716806444093440",
+              "name": "Synthesizer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Piano",
+              "id": "1432716806444093440",
+              "name": "Synthesizer"
+            }
+          }
+        ],
+        "conversation_id": "1805445937655169138",
+        "created_at": "2024-06-25T03:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T04:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805445937655169138"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "シュミットトリガー",
+              "probability": 0.2975,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2504922638",
+              "start": 3,
+              "username": "seitokisoukari"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/TbXF4H3eDV",
+              "end": 102,
+              "expanded_url": "https://twitter.com/seitokisoukari/status/1805268632236384429/video/1",
+              "media_key": "7_1805267417347809280",
+              "start": 79,
+              "url": "https://t.co/TbXF4H3eDV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805445937655169138",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805268632236384429",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seitokisoukari: シュミットトリガーの発振回路でシンセを作成した。\n即興で演奏。\nドローンマシーンのつもりだけどノイズシンセになった。 https://t.co/TbXF4H3eDV"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1805267417347809280"
+          ]
+        },
+        "author_id": "2504922638",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Piano",
+              "id": "1432716806444093440",
+              "name": "Synthesizer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Piano",
+              "id": "1432716806444093440",
+              "name": "Synthesizer"
+            }
+          }
+        ],
+        "conversation_id": "1805268632236384429",
+        "created_at": "2024-06-24T15:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T16:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805268632236384429"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "シュミットトリガー",
+              "probability": 0.2458,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/TbXF4H3eDV",
+              "end": 82,
+              "expanded_url": "https://twitter.com/seitokisoukari/status/1805268632236384429/video/1",
+              "media_key": "7_1805267417347809280",
+              "start": 59,
+              "url": "https://t.co/TbXF4H3eDV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805268632236384429",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 5852,
+          "like_count": 132,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "シュミットトリガーの発振回路でシンセを作成した。\n即興で演奏。\nドローンマシーンのつもりだけどノイズシンセになった。 https://t.co/TbXF4H3eDV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid🎸聚乙烯乐队🎧HiFi糊烧🚬大烟鬼🔪刃物收藏⌚️入门表匠🚗JDM📷黑白摄影🚪88⚠️@_kagenone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "_kagenone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6927,
+          "following_count": 3900,
+          "like_count": 9453,
+          "listed_count": 20,
+          "tweet_count": 12017
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-18T16:34:33.000Z",
+        "description": "Max for live : https://t.co/7AUmGIjiTr\n読んだこと 知ったこと なんとなく思ったこと八割くらいの正確さ  fendoap名で音制作：https://t.co/zcoMtbUoNL\nhttps://t.co/5bnG0UUtby",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fendoap.gumroad.com",
+                "end": 38,
+                "expanded_url": "http://fendoap.gumroad.com",
+                "start": 15,
+                "url": "https://t.co/7AUmGIjiTr"
+              },
+              {
+                "display_url": "fendoap.bandcamp.com",
+                "end": 108,
+                "expanded_url": "http://fendoap.bandcamp.com",
+                "start": 85,
+                "url": "https://t.co/zcoMtbUoNL"
+              },
+              {
+                "display_url": "bufferzonerecords.bandcamp.com",
+                "end": 132,
+                "expanded_url": "http://bufferzonerecords.bandcamp.com",
+                "start": 109,
+                "url": "https://t.co/5bnG0UUtby"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/fendoap",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/fendoap",
+                "start": 0,
+                "url": "https://t.co/V9RthIVjfv"
+              }
+            ]
+          }
+        },
+        "id": "2504922638",
+        "location": "日本 ",
+        "name": "Yusuie ao / Fendoap",
+        "pinned_tweet_id": "1565654890537332738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1475858862842744832/4QsNbIe-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6354,
+          "following_count": 4486,
+          "like_count": 20983,
+          "listed_count": 76,
+          "tweet_count": 15815
+        },
+        "url": "https://t.co/V9RthIVjfv",
+        "username": "seitokisoukari",
+        "verified": false
+      }
+    ]
+  }
+}

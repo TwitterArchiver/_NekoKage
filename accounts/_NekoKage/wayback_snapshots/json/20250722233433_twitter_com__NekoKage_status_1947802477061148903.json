@@ -1,0 +1,599 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Ozzy Osbourne",
+          "id": "808386266173607938",
+          "name": "Ozzy Osbourne"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Ozzy Osbourne",
+          "id": "808386266173607938",
+          "name": "Ozzy Osbourne"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Ozzy Osbourne",
+          "id": "808386266173607938",
+          "name": "Ozzy Osbourne"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Metal",
+          "id": "849684649840214020",
+          "name": "Heavy metal"
+        }
+      }
+    ],
+    "conversation_id": "1947802477061148903",
+    "created_at": "2025-07-22T23:34:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T00:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947802477061148903"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 121,
+          "normalized_text": "Ozzy Osbourne",
+          "probability": 0.9711,
+          "start": 109,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "24963961",
+          "start": 3,
+          "username": "OzzyOsbourne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947802477061148903",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 93753
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947731442622206170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OzzyOsbourne: It is with more sadness than mere words can convey that we have to report that our beloved Ozzy Osbourne has passed away…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1758,
+        "media_key": "3_1947731436855037958",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwe7bBubEAYOhGY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Ozzy Osbourne",
+              "id": "808386266173607938",
+              "name": "Ozzy Osbourne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Ozzy Osbourne",
+              "id": "808386266173607938",
+              "name": "Ozzy Osbourne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ozzy Osbourne",
+              "id": "808386266173607938",
+              "name": "Ozzy Osbourne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Metal",
+              "id": "849684649840214020",
+              "name": "Heavy metal"
+            }
+          }
+        ],
+        "conversation_id": "1947802477061148903",
+        "created_at": "2025-07-22T23:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T00:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947802477061148903"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 121,
+              "normalized_text": "Ozzy Osbourne",
+              "probability": 0.9711,
+              "start": 109,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "24963961",
+              "start": 3,
+              "username": "OzzyOsbourne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947802477061148903",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 93753
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947731442622206170",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OzzyOsbourne: It is with more sadness than mere words can convey that we have to report that our beloved Ozzy Osbourne has passed away…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947731436855037958"
+          ]
+        },
+        "author_id": "24963961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Ozzy Osbourne",
+              "id": "808386266173607938",
+              "name": "Ozzy Osbourne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Ozzy Osbourne",
+              "id": "808386266173607938",
+              "name": "Ozzy Osbourne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ozzy Osbourne",
+              "id": "808386266173607938",
+              "name": "Ozzy Osbourne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Metal",
+              "id": "849684649840214020",
+              "name": "Heavy metal"
+            }
+          }
+        ],
+        "conversation_id": "1947731442622206170",
+        "created_at": "2025-07-22T18:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T19:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947731442622206170"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 103,
+              "normalized_text": "Ozzy Osbourne",
+              "probability": 0.8898,
+              "start": 91,
+              "type": "Person"
+            },
+            {
+              "end": 250,
+              "normalized_text": "Sharon",
+              "probability": 0.5137,
+              "start": 245,
+              "type": "Person"
+            },
+            {
+              "end": 256,
+              "normalized_text": "Jack",
+              "probability": 0.5103,
+              "start": 253,
+              "type": "Other"
+            },
+            {
+              "end": 263,
+              "normalized_text": "Kelly",
+              "probability": 0.6351,
+              "start": 259,
+              "type": "Other"
+            },
+            {
+              "end": 270,
+              "normalized_text": "Aimee",
+              "probability": 0.6534,
+              "start": 266,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WLJhOrMsDF",
+              "end": 299,
+              "expanded_url": "https://x.com/OzzyOsbourne/status/1947731442622206170/photo/1",
+              "media_key": "3_1947731436855037958",
+              "start": 276,
+              "url": "https://t.co/WLJhOrMsDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947731442622206170",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "It is with more sadness than mere words can convey that we have to report that our beloved Ozzy Osbourne has passed away this morning. He was with his family and surrounded by love.\n\nWe ask everyone to respect our family privacy at this time.\n \nSharon, Jack, Kelly, Aimee and Louis"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12253,
+          "impression_count": 13922204,
+          "like_count": 496016,
+          "quote_count": 20196,
+          "reply_count": 20275,
+          "retweet_count": 93753
+        },
+        "reply_settings": "everyone",
+        "text": "It is with more sadness than mere words can convey that we have to report that our beloved Ozzy Osbourne has passed away this morning. He was with his family and surrounded by love.\n\nWe ask everyone to respect our family privacy at this time.\n \nSharon, Jack, Kelly, Aimee and https://t.co/WLJhOrMsDF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🐈#RainWorld⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 107,
+                "tag": "RainWorld"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "_kagenone"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7780,
+          "following_count": 4863,
+          "like_count": 13005,
+          "listed_count": 20,
+          "media_count": 2322,
+          "tweet_count": 16506
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-17T21:56:55.000Z",
+        "description": "The Prince of Darkness",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ozzy.com",
+                "end": 23,
+                "expanded_url": "http://www.ozzy.com",
+                "start": 0,
+                "url": "https://t.co/YtKesEyNdW"
+              }
+            ]
+          }
+        },
+        "id": "24963961",
+        "name": "Ozzy Osbourne",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1541912637675405312/GJOEr8cv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5492109,
+          "following_count": 92,
+          "like_count": 5661,
+          "listed_count": 14874,
+          "media_count": 4361,
+          "tweet_count": 8610
+        },
+        "url": "https://t.co/YtKesEyNdW",
+        "username": "OzzyOsbourne",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,508 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "History",
+          "id": "1047111583309029381",
+          "name": "History"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "History",
+          "id": "1047111583309029381",
+          "name": "History"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "2044330143993475484",
+    "created_at": "2026-04-15T08:21:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T09:21:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044330143993475484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "185157259",
+          "start": 3,
+          "username": "oldlens"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044330143993475484",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044201759623786723",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oldlens: 昨日、念願の當麻寺練供養に行くことができました。\n中将姫伝説を具現化した練供養はすでに1000年を超える歴史的行事です。\n當麻寺は奈良から平安時代に建造された双塔が両方とも現存している日本唯一の寺です。\n写真は5枚貼り合わせ2群のレンズGoerz Do…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2044201698080763905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF52nR9asAExaTj.jpg",
+        "width": 2008
+      },
+      {
+        "height": 2286,
+        "media_key": "3_2044201716053401600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF52oU6bYAARnzA.jpg",
+        "width": 3000
+      },
+      {
+        "height": 734,
+        "media_key": "3_2044201737612079105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF52plOasAEUWPf.jpg",
+        "width": 566
+      },
+      {
+        "height": 853,
+        "media_key": "3_2044201753160364032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF52qfJasAAv2uE.jpg",
+        "width": 1142
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2044330143993475484",
+        "created_at": "2026-04-15T08:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T09:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044330143993475484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "185157259",
+              "start": 3,
+              "username": "oldlens"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044330143993475484",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044201759623786723",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oldlens: 昨日、念願の當麻寺練供養に行くことができました。\n中将姫伝説を具現化した練供養はすでに1000年を超える歴史的行事です。\n當麻寺は奈良から平安時代に建造された双塔が両方とも現存している日本唯一の寺です。\n写真は5枚貼り合わせ2群のレンズGoerz Do…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044201698080763905",
+            "3_2044201716053401600",
+            "3_2044201737612079105",
+            "3_2044201753160364032"
+          ]
+        },
+        "author_id": "185157259",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2044201759623786723",
+        "created_at": "2026-04-14T23:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T00:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044201759623786723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hpi09WpxKt",
+              "end": 181,
+              "expanded_url": "https://x.com/oldlens/status/2044201759623786723/photo/1",
+              "media_key": "3_2044201698080763905",
+              "start": 158,
+              "url": "https://t.co/hpi09WpxKt"
+            },
+            {
+              "display_url": "pic.x.com/hpi09WpxKt",
+              "end": 181,
+              "expanded_url": "https://x.com/oldlens/status/2044201759623786723/photo/1",
+              "media_key": "3_2044201716053401600",
+              "start": 158,
+              "url": "https://t.co/hpi09WpxKt"
+            },
+            {
+              "display_url": "pic.x.com/hpi09WpxKt",
+              "end": 181,
+              "expanded_url": "https://x.com/oldlens/status/2044201759623786723/photo/1",
+              "media_key": "3_2044201737612079105",
+              "start": 158,
+              "url": "https://t.co/hpi09WpxKt"
+            },
+            {
+              "display_url": "pic.x.com/hpi09WpxKt",
+              "end": 181,
+              "expanded_url": "https://x.com/oldlens/status/2044201759623786723/photo/1",
+              "media_key": "3_2044201753160364032",
+              "start": 158,
+              "url": "https://t.co/hpi09WpxKt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044201759623786723",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1241,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "昨日、念願の當麻寺練供養に行くことができました。\n中将姫伝説を具現化した練供養はすでに1000年を超える歴史的行事です。\n當麻寺は奈良から平安時代に建造された双塔が両方とも現存している日本唯一の寺です。\n写真は5枚貼り合わせ2群のレンズGoerz Doppel Anastigmat 120mmなどで撮影しました。 https://t.co/hpi09WpxKt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8400,
+          "following_count": 6332,
+          "like_count": 14581,
+          "listed_count": 17,
+          "media_count": 2792,
+          "tweet_count": 20435
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-31T10:56:34.000Z",
+        "description": "古典レンズの研究と、収集、実写を行っています。ホームページはhttps://t.co/M6CEp57Fuf。ツイッターもoldlens＠oldlens です。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "oldlens.com",
+                "end": 53,
+                "expanded_url": "http://www.oldlens.com",
+                "start": 30,
+                "url": "https://t.co/M6CEp57Fuf"
+              }
+            ]
+          }
+        },
+        "id": "185157259",
+        "name": "oldlens",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1397933772004155399/b_qbi344_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5192,
+          "following_count": 2260,
+          "like_count": 1897,
+          "listed_count": 52,
+          "media_count": 1556,
+          "tweet_count": 2886
+        },
+        "username": "oldlens",
+        "verified": false
+      }
+    ]
+  }
+}

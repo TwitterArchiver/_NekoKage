@@ -1,0 +1,845 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999683726847148034"
+      ],
+      "media_source_tweet_id": [
+        "1999683731477659664"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      }
+    ],
+    "conversation_id": "1999811661348438419",
+    "created_at": "2025-12-13T12:00:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T13:00:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999811661348438419"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 33,
+          "tag": "カメラ"
+        },
+        {
+          "end": 52,
+          "start": 38,
+          "tag": "カメラ好きな人と繋がりたい"
+        },
+        {
+          "end": 66,
+          "start": 53,
+          "tag": "写真好きな人と繋がりたい"
+        },
+        {
+          "end": 71,
+          "start": 67,
+          "tag": "レンズ"
+        },
+        {
+          "end": 77,
+          "start": 72,
+          "tag": "レンズ沼"
+        },
+        {
+          "end": 81,
+          "start": 78,
+          "tag": "物欲"
+        },
+        {
+          "end": 86,
+          "start": 82,
+          "tag": "機材沼"
+        },
+        {
+          "end": 92,
+          "start": 87,
+          "tag": "撮影機材"
+        },
+        {
+          "end": 99,
+          "start": 93,
+          "tag": "ミラーレス"
+        },
+        {
+          "end": 108,
+          "start": 100,
+          "tag": "フィルムカメラ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2814334224",
+          "start": 3,
+          "username": "ShotenKobo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PRhWVcK5RJ",
+          "end": 132,
+          "expanded_url": "https://x.com/ShotenKobo/status/1999683731477659664/photo/1",
+          "media_key": "3_1999683726847148034",
+          "start": 109,
+          "url": "https://t.co/PRhWVcK5RJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999811661348438419",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999683731477659664",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShotenKobo: これは…買うしかやつ…🫠🔥⌚️\n\n#カメラ #カメラ好きな人と繋がりたい #写真好きな人と繋がりたい #レンズ #レンズ沼 #物欲 #機材沼 #撮影機材 #ミラーレス #フィルムカメラ https://t.co/PRhWVcK5RJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1999683726847148034",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8BNwTnagAIw27g.jpg",
+        "width": 1392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999683726847148034"
+          ],
+          "media_source_tweet_id": [
+            "1999683731477659664"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          }
+        ],
+        "conversation_id": "1999811661348438419",
+        "created_at": "2025-12-13T12:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T13:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999811661348438419"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "カメラ"
+            },
+            {
+              "end": 52,
+              "start": 38,
+              "tag": "カメラ好きな人と繋がりたい"
+            },
+            {
+              "end": 66,
+              "start": 53,
+              "tag": "写真好きな人と繋がりたい"
+            },
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "レンズ"
+            },
+            {
+              "end": 77,
+              "start": 72,
+              "tag": "レンズ沼"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "物欲"
+            },
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "機材沼"
+            },
+            {
+              "end": 92,
+              "start": 87,
+              "tag": "撮影機材"
+            },
+            {
+              "end": 99,
+              "start": 93,
+              "tag": "ミラーレス"
+            },
+            {
+              "end": 108,
+              "start": 100,
+              "tag": "フィルムカメラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2814334224",
+              "start": 3,
+              "username": "ShotenKobo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PRhWVcK5RJ",
+              "end": 132,
+              "expanded_url": "https://x.com/ShotenKobo/status/1999683731477659664/photo/1",
+              "media_key": "3_1999683726847148034",
+              "start": 109,
+              "url": "https://t.co/PRhWVcK5RJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999811661348438419",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999683731477659664",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShotenKobo: これは…買うしかやつ…🫠🔥⌚️\n\n#カメラ #カメラ好きな人と繋がりたい #写真好きな人と繋がりたい #レンズ #レンズ沼 #物欲 #機材沼 #撮影機材 #ミラーレス #フィルムカメラ https://t.co/PRhWVcK5RJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999683726847148034"
+          ]
+        },
+        "author_id": "2814334224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          }
+        ],
+        "conversation_id": "1999683731477659664",
+        "created_at": "2025-12-13T03:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T04:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999683731477659664"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "カメラ"
+            },
+            {
+              "end": 36,
+              "start": 22,
+              "tag": "カメラ好きな人と繋がりたい"
+            },
+            {
+              "end": 50,
+              "start": 37,
+              "tag": "写真好きな人と繋がりたい"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "レンズ"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "レンズ沼"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "物欲"
+            },
+            {
+              "end": 70,
+              "start": 66,
+              "tag": "機材沼"
+            },
+            {
+              "end": 76,
+              "start": 71,
+              "tag": "撮影機材"
+            },
+            {
+              "end": 83,
+              "start": 77,
+              "tag": "ミラーレス"
+            },
+            {
+              "end": 92,
+              "start": 84,
+              "tag": "フィルムカメラ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PRhWVcK5RJ",
+              "end": 116,
+              "expanded_url": "https://x.com/ShotenKobo/status/1999683731477659664/photo/1",
+              "media_key": "3_1999683726847148034",
+              "start": 93,
+              "url": "https://t.co/PRhWVcK5RJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999683731477659664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3336,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "これは…買うしかやつ…🫠🔥⌚️\n\n#カメラ #カメラ好きな人と繋がりたい #写真好きな人と繋がりたい #レンズ #レンズ沼 #物欲 #機材沼 #撮影機材 #ミラーレス #フィルムカメラ https://t.co/PRhWVcK5RJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7961,
+          "following_count": 5547,
+          "like_count": 13762,
+          "listed_count": 17,
+          "media_count": 2543,
+          "tweet_count": 18536
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-17T06:39:59.000Z",
+        "description": "マウントアダプターやレンズ、アクセサリーなど、カメラ用品の輸入販売を行っています。 新たなマウントアダプター開発への協力も行っており、日本カメラ文化への貢献を目指します。\nセール情報→@ShotenKobo_Sale\n\nYoutube：https://t.co/cdHY9JahFO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 92,
+                "username": "ShotenKobo_Sale"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@shotenkobo1270",
+                "end": 141,
+                "expanded_url": "https://www.youtube.com/@shotenkobo1270",
+                "start": 118,
+                "url": "https://t.co/cdHY9JahFO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stkb.jp",
+                "end": 23,
+                "expanded_url": "http://www.stkb.jp",
+                "start": 0,
+                "url": "https://t.co/GUZZbYLWl4"
+              }
+            ]
+          }
+        },
+        "id": "2814334224",
+        "location": "〒464-0032 愛知県名古屋市千種区猫洞通1丁目5-3",
+        "name": "焦点工房 〜カメラと写真の愉しみ・喜びをもっと身近に〜",
+        "pinned_tweet_id": "1998696449110929457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/512131579125043200/RilkYQ17_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17680,
+          "following_count": 587,
+          "like_count": 4978,
+          "listed_count": 210,
+          "media_count": 3348,
+          "tweet_count": 6400
+        },
+        "url": "https://t.co/GUZZbYLWl4",
+        "username": "ShotenKobo",
+        "verified": true
+      }
+    ]
+  }
+}

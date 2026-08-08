@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "conversation_id": "1971564768726327764",
+    "created_at": "2025-09-26T13:17:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T14:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971564768726327764"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "Apple",
+          "probability": 0.8721,
+          "start": 34,
+          "type": "Organization"
+        },
+        {
+          "end": 68,
+          "normalized_text": "Liquid Glass",
+          "probability": 0.8922,
+          "start": 57,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1254456213527543808",
+          "start": 3,
+          "username": "TheAppleDesign"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/K",
+          "end": 139,
+          "start": 125,
+          "url": "https://t.co/K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971564768726327764",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971465428561236076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheAppleDesign: The fact that Apple actually created Liquid Glass in real life just to make it realistic is mind blowing https://t.co/K…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 470,
+        "media_key": "3_1971465419857752064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1wNWqWWcAAUIpg.jpg",
+        "width": 627
+      },
+      {
+        "height": 407,
+        "media_key": "3_1971465419857793024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1wNWqWXEAAop28.jpg",
+        "width": 750
+      },
+      {
+        "height": 426,
+        "media_key": "3_1971465419807469568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1wNWqKXMAAO98Z.jpg",
+        "width": 750
+      },
+      {
+        "height": 419,
+        "media_key": "3_1971465419841048576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1wNWqSXkAAPKRu.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "conversation_id": "1971564768726327764",
+        "created_at": "2025-09-26T13:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T14:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971564768726327764"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "Apple",
+              "probability": 0.8721,
+              "start": 34,
+              "type": "Organization"
+            },
+            {
+              "end": 68,
+              "normalized_text": "Liquid Glass",
+              "probability": 0.8922,
+              "start": 57,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1254456213527543808",
+              "start": 3,
+              "username": "TheAppleDesign"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/K",
+              "end": 139,
+              "start": 125,
+              "url": "https://t.co/K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971564768726327764",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971465428561236076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheAppleDesign: The fact that Apple actually created Liquid Glass in real life just to make it realistic is mind blowing https://t.co/K…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971465419857752064",
+            "3_1971465419857793024",
+            "3_1971465419807469568",
+            "3_1971465419841048576"
+          ]
+        },
+        "author_id": "1254456213527543808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1971465428561236076",
+        "created_at": "2025-09-26T06:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T07:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971465428561236076"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "Apple",
+              "probability": 0.8717,
+              "start": 14,
+              "type": "Organization"
+            },
+            {
+              "end": 48,
+              "normalized_text": "Liquid Glass",
+              "probability": 0.8835,
+              "start": 37,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KWBE8EwGip",
+              "end": 128,
+              "expanded_url": "https://x.com/TheAppleDesign/status/1971465428561236076/photo/1",
+              "media_key": "3_1971465419857752064",
+              "start": 105,
+              "url": "https://t.co/KWBE8EwGip"
+            },
+            {
+              "display_url": "pic.x.com/KWBE8EwGip",
+              "end": 128,
+              "expanded_url": "https://x.com/TheAppleDesign/status/1971465428561236076/photo/1",
+              "media_key": "3_1971465419857793024",
+              "start": 105,
+              "url": "https://t.co/KWBE8EwGip"
+            },
+            {
+              "display_url": "pic.x.com/KWBE8EwGip",
+              "end": 128,
+              "expanded_url": "https://x.com/TheAppleDesign/status/1971465428561236076/photo/1",
+              "media_key": "3_1971465419807469568",
+              "start": 105,
+              "url": "https://t.co/KWBE8EwGip"
+            },
+            {
+              "display_url": "pic.x.com/KWBE8EwGip",
+              "end": 128,
+              "expanded_url": "https://x.com/TheAppleDesign/status/1971465428561236076/photo/1",
+              "media_key": "3_1971465419841048576",
+              "start": 105,
+              "url": "https://t.co/KWBE8EwGip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971465428561236076",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 289,
+          "impression_count": 136344,
+          "like_count": 2196,
+          "quote_count": 15,
+          "reply_count": 73,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "The fact that Apple actually created Liquid Glass in real life just to make it realistic is mind blowing https://t.co/KWBE8EwGip"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7901,
+          "following_count": 5096,
+          "like_count": 13259,
+          "listed_count": 17,
+          "media_count": 2427,
+          "tweet_count": 17328
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-26T17:04:19.000Z",
+        "description": "Apple Design. Not affiliated with Apple Inc. DM or mail for business.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/TheAppleDesign",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/TheAppleDesign",
+                "start": 0,
+                "url": "https://t.co/BkHuWurYMW"
+              }
+            ]
+          }
+        },
+        "id": "1254456213527543808",
+        "name": "Apple Design",
+        "pinned_tweet_id": "1958938747866947922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806052486417096704/FnBslKp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67715,
+          "following_count": 44,
+          "like_count": 4068,
+          "listed_count": 280,
+          "media_count": 1735,
+          "tweet_count": 6556
+        },
+        "url": "https://t.co/BkHuWurYMW",
+        "username": "TheAppleDesign",
+        "verified": true
+      }
+    ]
+  }
+}

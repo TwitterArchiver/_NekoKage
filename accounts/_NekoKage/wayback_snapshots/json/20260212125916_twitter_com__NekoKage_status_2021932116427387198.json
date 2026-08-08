@@ -1,0 +1,542 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      }
+    ],
+    "conversation_id": "2021932116427387198",
+    "created_at": "2026-02-12T12:59:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T13:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021932116427387198"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 48,
+          "normalized_text": "昭和１００年記念 昭和のカメラ物語",
+          "probability": 0.6841,
+          "start": 32,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "290843483",
+          "start": 3,
+          "username": "duehueiismy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/HwGC",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/HwGC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021932116427387198",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021925487426384031",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @duehueiismy: カメラ博物館 開催中の特別展「昭和１００年記念 昭和のカメラ物語　第二部：1955-1989」\n\n撮影可能なプレスプレビュー日にて、プロ マビカMVC-2000で撮影。電子スチルビデオカメラ が並んでいました https://t.co/HwGC…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1058,
+        "media_key": "3_2021922464826298368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9PxOdakAAKflj.jpg",
+        "width": 1411
+      },
+      {
+        "height": 1053,
+        "media_key": "3_2021922593436315650",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9P4tkbsAIYqLb.jpg",
+        "width": 1404
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          }
+        ],
+        "conversation_id": "2021932116427387198",
+        "created_at": "2026-02-12T12:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T13:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021932116427387198"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "昭和１００年記念 昭和のカメラ物語",
+              "probability": 0.6841,
+              "start": 32,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "290843483",
+              "start": 3,
+              "username": "duehueiismy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/HwGC",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/HwGC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021932116427387198",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021925487426384031",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @duehueiismy: カメラ博物館 開催中の特別展「昭和１００年記念 昭和のカメラ物語　第二部：1955-1989」\n\n撮影可能なプレスプレビュー日にて、プロ マビカMVC-2000で撮影。電子スチルビデオカメラ が並んでいました https://t.co/HwGC…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021922464826298368",
+            "3_2021922593436315650"
+          ]
+        },
+        "author_id": "290843483",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          }
+        ],
+        "conversation_id": "2021925487426384031",
+        "created_at": "2026-02-12T12:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T13:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021925487426384031"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "昭和１００年記念 昭和のカメラ物語",
+              "probability": 0.6872,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HwGCQjnlaS",
+              "end": 128,
+              "expanded_url": "https://x.com/duehueiismy/status/2021925487426384031/photo/1",
+              "media_key": "3_2021922464826298368",
+              "start": 105,
+              "url": "https://t.co/HwGCQjnlaS"
+            },
+            {
+              "display_url": "pic.x.com/HwGCQjnlaS",
+              "end": 128,
+              "expanded_url": "https://x.com/duehueiismy/status/2021925487426384031/photo/1",
+              "media_key": "3_2021922593436315650",
+              "start": 105,
+              "url": "https://t.co/HwGCQjnlaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021925487426384031",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 66,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "カメラ博物館 開催中の特別展「昭和１００年記念 昭和のカメラ物語　第二部：1955-1989」\n\n撮影可能なプレスプレビュー日にて、プロ マビカMVC-2000で撮影。電子スチルビデオカメラ が並んでいました https://t.co/HwGCQjnlaS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7964,
+          "following_count": 5771,
+          "like_count": 13855,
+          "listed_count": 17,
+          "media_count": 2593,
+          "tweet_count": 19124
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-01T01:30:15.000Z",
+        "description": "興味あることや日常の出来事を適当に呟きます。BlackBerry大好き人間。カメラはPENTAX auto110とマビカMavica。ビデオフロッピー収集中。絵を描くことがたぶん好き。",
+        "id": "290843483",
+        "name": " による色相は私マビ💾",
+        "pinned_tweet_id": "1498628391020691458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/501749849167892480/VkEzKBOr_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 522,
+          "like_count": 44485,
+          "listed_count": 5,
+          "media_count": 2249,
+          "tweet_count": 13804
+        },
+        "username": "duehueiismy",
+        "verified": false
+      }
+    ]
+  }
+}

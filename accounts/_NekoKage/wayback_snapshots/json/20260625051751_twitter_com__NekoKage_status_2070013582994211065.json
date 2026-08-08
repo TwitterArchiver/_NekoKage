@@ -1,0 +1,490 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069435684562042880"
+      ],
+      "media_source_tweet_id": [
+        "2069435696259985865"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": "Skiing",
+          "id": "847902877347495936",
+          "name": "Skiing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Skiing",
+          "id": "847902877347495936",
+          "name": "Skiing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1260978608199266304",
+          "name": "Winter sports"
+        }
+      }
+    ],
+    "conversation_id": "2070013582994211065",
+    "created_at": "2026-06-25T05:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T06:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070013582994211065"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 67,
+          "start": 59,
+          "tag": "drugtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2024531646121463810",
+          "start": 3,
+          "username": "Ricko955814"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J0n32Q7VQm",
+          "end": 91,
+          "expanded_url": "https://x.com/Ricko955814/status/2069435696259985865/photo/1",
+          "media_key": "3_2069435684562042880",
+          "start": 68,
+          "url": "https://t.co/J0n32Q7VQm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070013582994211065",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069435696259985865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ricko955814: It’s snow secret how tremendous skiing is #drugtwt https://t.co/J0n32Q7VQm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1454,
+        "media_key": "3_2069435684562042880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgcym_WgAAnFcp.jpg",
+        "width": 1014
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069435684562042880"
+          ],
+          "media_source_tweet_id": [
+            "2069435696259985865"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Skiing",
+              "id": "847902877347495936",
+              "name": "Skiing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Skiing",
+              "id": "847902877347495936",
+              "name": "Skiing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1260978608199266304",
+              "name": "Winter sports"
+            }
+          }
+        ],
+        "conversation_id": "2070013582994211065",
+        "created_at": "2026-06-25T05:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070013582994211065"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 59,
+              "tag": "drugtwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2024531646121463810",
+              "start": 3,
+              "username": "Ricko955814"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J0n32Q7VQm",
+              "end": 91,
+              "expanded_url": "https://x.com/Ricko955814/status/2069435696259985865/photo/1",
+              "media_key": "3_2069435684562042880",
+              "start": 68,
+              "url": "https://t.co/J0n32Q7VQm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070013582994211065",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069435696259985865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ricko955814: It’s snow secret how tremendous skiing is #drugtwt https://t.co/J0n32Q7VQm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069435684562042880"
+          ]
+        },
+        "author_id": "2024531646121463810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Skiing",
+              "id": "847902877347495936",
+              "name": "Skiing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Skiing",
+              "id": "847902877347495936",
+              "name": "Skiing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1260978608199266304",
+              "name": "Winter sports"
+            }
+          }
+        ],
+        "conversation_id": "2069435696259985865",
+        "created_at": "2026-06-23T15:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069435696259985865"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 42,
+              "tag": "drugtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J0n32Q7VQm",
+              "end": 74,
+              "expanded_url": "https://x.com/Ricko955814/status/2069435696259985865/photo/1",
+              "media_key": "3_2069435684562042880",
+              "start": 51,
+              "url": "https://t.co/J0n32Q7VQm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069435696259985865",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2304,
+          "like_count": 195,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "It’s snow secret how tremendous skiing is #drugtwt https://t.co/J0n32Q7VQm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病多病病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "_kagenone"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8675,
+          "following_count": 6621,
+          "like_count": 15608,
+          "listed_count": 17,
+          "media_count": 2991,
+          "tweet_count": 21751
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-19T17:09:05.000Z",
+        "description": "whats the best downer OTC drug in the US. besides DXM or Benadryl. #drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 75,
+                "start": 67,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gramselite.com",
+                "end": 23,
+                "expanded_url": "https://gramselite.com/",
+                "start": 0,
+                "url": "https://t.co/GGC3tRZ1XX"
+              }
+            ]
+          }
+        },
+        "id": "2024531646121463810",
+        "name": "Ricko",
+        "pinned_tweet_id": "2024741306904219913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024531819262017536/gCabz3Mw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 709,
+          "like_count": 309,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 145
+        },
+        "url": "https://t.co/GGC3tRZ1XX",
+        "username": "Ricko955814",
+        "verified": false
+      }
+    ]
+  }
+}

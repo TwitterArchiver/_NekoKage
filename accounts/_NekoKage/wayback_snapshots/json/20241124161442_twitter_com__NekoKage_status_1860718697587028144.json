@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1853264151357145088",
+        "3_1853264151352913920",
+        "3_1853264151373889536"
+      ],
+      "media_source_tweet_id": [
+        "1853264157120123373",
+        "1853264157120123373",
+        "1853264157120123373"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "1860718697587028144",
+    "created_at": "2024-11-24T16:14:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T17:14:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860718697587028144"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 21,
+          "tag": "いいおしりの日"
+        },
+        {
+          "end": 39,
+          "start": 32,
+          "tag": "いい推しの日"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1188412465035411456",
+          "start": 3,
+          "username": "ponponponchan01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g51jq86F49",
+          "end": 80,
+          "expanded_url": "https://x.com/ponponponchan01/status/1853264157120123373/photo/1",
+          "media_key": "3_1853264151357145088",
+          "start": 57,
+          "url": "https://t.co/g51jq86F49"
+        },
+        {
+          "display_url": "pic.x.com/g51jq86F49",
+          "end": 80,
+          "expanded_url": "https://x.com/ponponponchan01/status/1853264157120123373/photo/1",
+          "media_key": "3_1853264151352913920",
+          "start": 57,
+          "url": "https://t.co/g51jq86F49"
+        },
+        {
+          "display_url": "pic.x.com/g51jq86F49",
+          "end": 80,
+          "expanded_url": "https://x.com/ponponponchan01/status/1853264157120123373/photo/1",
+          "media_key": "3_1853264151373889536",
+          "start": 57,
+          "url": "https://t.co/g51jq86F49"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860718697587028144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853264157120123373",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ponponponchan01: #いいおしりの日 \n #いい推しの日\n\n今日は推しのおしりの日って事🍑 https://t.co/g51jq86F49"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1860718697587028144].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1860718697587028144",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1860718697587028144"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2178,
+        "media_key": "3_1853264151357145088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gbgd7TibwAA7h_s.jpg",
+        "width": 1124
+      },
+      {
+        "height": 2894,
+        "media_key": "3_1853264151352913920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gbgd7ThbMAAozVW.jpg",
+        "width": 2039
+      },
+      {
+        "height": 1803,
+        "media_key": "3_1853264151373889536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gbgd7TmbQAAS0Aj.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853264151357145088",
+            "3_1853264151352913920",
+            "3_1853264151373889536"
+          ]
+        },
+        "author_id": "1188412465035411456",
+        "conversation_id": "1853264157120123373",
+        "created_at": "2024-11-04T02:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T03:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853264157120123373"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "いいおしりの日"
+            },
+            {
+              "end": 18,
+              "start": 11,
+              "tag": "いい推しの日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g51jq86F49",
+              "end": 59,
+              "expanded_url": "https://x.com/ponponponchan01/status/1853264157120123373/photo/1",
+              "media_key": "3_1853264151357145088",
+              "start": 36,
+              "url": "https://t.co/g51jq86F49"
+            },
+            {
+              "display_url": "pic.x.com/g51jq86F49",
+              "end": 59,
+              "expanded_url": "https://x.com/ponponponchan01/status/1853264157120123373/photo/1",
+              "media_key": "3_1853264151352913920",
+              "start": 36,
+              "url": "https://t.co/g51jq86F49"
+            },
+            {
+              "display_url": "pic.x.com/g51jq86F49",
+              "end": 59,
+              "expanded_url": "https://x.com/ponponponchan01/status/1853264157120123373/photo/1",
+              "media_key": "3_1853264151373889536",
+              "start": 36,
+              "url": "https://t.co/g51jq86F49"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853264157120123373",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 3060,
+          "like_count": 213,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "#いいおしりの日 \n #いい推しの日\n\n今日は推しのおしりの日って事🍑 https://t.co/g51jq86F49"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain📷膠片攝影/相机维修🚬大烟鬼🔪刃物收藏⌚️入门表匠⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "_kagenone"
+              },
+              {
+                "end": 137,
+                "start": 132,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7323,
+          "following_count": 4268,
+          "like_count": 11755,
+          "listed_count": 18,
+          "tweet_count": 14062
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-27T11:09:59.000Z",
+        "description": "ポンちゃん3度目の転生/大きい×小さい🫰🏻❤️‍🔥/👦の🚰好き🔞ケモショ/おにショ/ #ポン創作⚠️未成年は閲覧禁止です🔞全作品·転載·使用禁止🔞𖠿skeb𖠿→ https://t.co/ZctzZL3Pks",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 43,
+                "tag": "ポン創作"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@ponponponchan…",
+                "end": 104,
+                "expanded_url": "https://skeb.jp/@ponponponchan01",
+                "start": 81,
+                "url": "https://t.co/ZctzZL3Pks"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ponponponchan01",
+                "end": 23,
+                "expanded_url": "https://lit.link/ponponponchan01",
+                "start": 0,
+                "url": "https://t.co/aXAOLhbK4F"
+              }
+            ]
+          }
+        },
+        "id": "1188412465035411456",
+        "name": "ポン🐾新潟コミティア あ-21b🔞",
+        "pinned_tweet_id": "1836396000103272865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789636667361669120/unaNYpKb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1815,
+          "following_count": 64,
+          "like_count": 17190,
+          "listed_count": 7,
+          "tweet_count": 3444
+        },
+        "url": "https://t.co/aXAOLhbK4F",
+        "username": "ponponponchan01",
+        "verified": false
+      }
+    ]
+  }
+}

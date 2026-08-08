@@ -1,0 +1,861 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1697053249440731136",
+          "name": "Apple Event 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1717672666507730944",
+          "name": "Apple Event"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10044419438",
+          "name": "Apple - Watch"
+        }
+      }
+    ],
+    "conversation_id": "1943391345625976971",
+    "created_at": "2025-07-10T19:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T20:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943391345625976971"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 42,
+          "normalized_text": "Apple Watch Demo",
+          "probability": 0.5988,
+          "start": 27,
+          "type": "Product"
+        },
+        {
+          "end": 89,
+          "normalized_text": "Switchboard",
+          "probability": 0.7821,
+          "start": 79,
+          "type": "Product"
+        },
+        {
+          "end": 131,
+          "normalized_text": "Apple",
+          "probability": 0.5125,
+          "start": 127,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "909083448278646785",
+          "start": 3,
+          "username": "AppleDemoYT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943391345625976971",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943349131386184055",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AppleDemoYT: Prototype Apple Watch Demo (A1623) Store Display Unit running Switchboard. Not only is this one of the rarest Apple produc…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1498,
+        "media_key": "3_1943349124402757632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvgpu3qXwAAqK9y.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1474,
+        "media_key": "3_1943349124415315969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvgpu3tXYAE3Oq_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1466,
+        "media_key": "3_1943349124406861836",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvgpu3rWYAwDnNi.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1590,
+        "media_key": "3_1943349124427833347",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvgpu3wWYAMn9FC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1697053249440731136",
+              "name": "Apple Event 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1717672666507730944",
+              "name": "Apple Event"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044419438",
+              "name": "Apple - Watch"
+            }
+          }
+        ],
+        "conversation_id": "1943391345625976971",
+        "created_at": "2025-07-10T19:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T20:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943391345625976971"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "Apple Watch Demo",
+              "probability": 0.5988,
+              "start": 27,
+              "type": "Product"
+            },
+            {
+              "end": 89,
+              "normalized_text": "Switchboard",
+              "probability": 0.7821,
+              "start": 79,
+              "type": "Product"
+            },
+            {
+              "end": 131,
+              "normalized_text": "Apple",
+              "probability": 0.5125,
+              "start": 127,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "909083448278646785",
+              "start": 3,
+              "username": "AppleDemoYT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943391345625976971",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943349131386184055",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AppleDemoYT: Prototype Apple Watch Demo (A1623) Store Display Unit running Switchboard. Not only is this one of the rarest Apple produc…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943349124402757632",
+            "3_1943349124415315969",
+            "3_1943349124406861836",
+            "3_1943349124427833347"
+          ]
+        },
+        "author_id": "909083448278646785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1697053249440731136",
+              "name": "Apple Event 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1717672666507730944",
+              "name": "Apple Event"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044419438",
+              "name": "Apple - Watch"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "1943349131386184055",
+        "created_at": "2025-07-10T16:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T17:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943349131386184055"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "Prototype",
+              "probability": 0.5749,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 25,
+              "normalized_text": "Apple Watch Demo",
+              "probability": 0.6497,
+              "start": 10,
+              "type": "Other"
+            },
+            {
+              "end": 72,
+              "normalized_text": "Switchboard",
+              "probability": 0.8998,
+              "start": 62,
+              "type": "Product"
+            },
+            {
+              "end": 114,
+              "normalized_text": "Apple",
+              "probability": 0.6519,
+              "start": 110,
+              "type": "Organization"
+            },
+            {
+              "end": 192,
+              "normalized_text": "Apple",
+              "probability": 0.3347,
+              "start": 188,
+              "type": "Organization"
+            },
+            {
+              "end": 238,
+              "normalized_text": "iPad",
+              "probability": 0.9748,
+              "start": 235,
+              "type": "Product"
+            },
+            {
+              "end": 260,
+              "normalized_text": "iOS 7",
+              "probability": 0.7527,
+              "start": 256,
+              "type": "Other"
+            },
+            {
+              "end": 276,
+              "normalized_text": "appleinternal",
+              "probability": 0.6733,
+              "start": 264,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 277,
+              "start": 263,
+              "tag": "appleinternal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q37OQkUHzT",
+              "end": 301,
+              "expanded_url": "https://x.com/AppleDemoYT/status/1943349131386184055/photo/1",
+              "media_key": "3_1943349124402757632",
+              "start": 278,
+              "url": "https://t.co/q37OQkUHzT"
+            },
+            {
+              "display_url": "pic.x.com/q37OQkUHzT",
+              "end": 301,
+              "expanded_url": "https://x.com/AppleDemoYT/status/1943349131386184055/photo/1",
+              "media_key": "3_1943349124415315969",
+              "start": 278,
+              "url": "https://t.co/q37OQkUHzT"
+            },
+            {
+              "display_url": "pic.x.com/q37OQkUHzT",
+              "end": 301,
+              "expanded_url": "https://x.com/AppleDemoYT/status/1943349131386184055/photo/1",
+              "media_key": "3_1943349124406861836",
+              "start": 278,
+              "url": "https://t.co/q37OQkUHzT"
+            },
+            {
+              "display_url": "pic.x.com/q37OQkUHzT",
+              "end": 301,
+              "expanded_url": "https://x.com/AppleDemoYT/status/1943349131386184055/photo/1",
+              "media_key": "3_1943349124427833347",
+              "start": 278,
+              "url": "https://t.co/q37OQkUHzT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943349131386184055",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 7347,
+          "like_count": 130,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "Prototype Apple Watch Demo (A1623) Store Display Unit running Switchboard. Not only is this one of the rarest Apple products of all time, but it’s also a true fusion between the rarity of Apple demos and prototypes. Interestingly, the iPad runs a build of iOS 7. #appleinternal https://t.co/q37OQkUHzT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🐈#RainWorld⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 107,
+                "tag": "RainWorld"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "_kagenone"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7693,
+          "following_count": 4823,
+          "like_count": 12911,
+          "listed_count": 20,
+          "media_count": 2286,
+          "tweet_count": 16290
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-16T15:55:58.000Z",
+        "description": "just an idiot who knows how to turn on a computer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@AppleDemo",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@AppleDemo",
+                "start": 0,
+                "url": "https://t.co/Gq9NZCDVYV"
+              }
+            ]
+          }
+        },
+        "id": "909083448278646785",
+        "name": "Apple Demo",
+        "pinned_tweet_id": "1879635795616927801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1304598371227906048/96sQSX6E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15987,
+          "following_count": 0,
+          "like_count": 7097,
+          "listed_count": 75,
+          "media_count": 1192,
+          "tweet_count": 1358
+        },
+        "url": "https://t.co/Gq9NZCDVYV",
+        "username": "AppleDemoYT",
+        "verified": false
+      }
+    ]
+  }
+}

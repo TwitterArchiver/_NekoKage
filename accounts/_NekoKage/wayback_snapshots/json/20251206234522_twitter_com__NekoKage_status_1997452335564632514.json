@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997335621011120128"
+      ],
+      "media_source_tweet_id": [
+        "1997335627394633931"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "1997452335564632514",
+    "created_at": "2025-12-06T23:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T00:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997452335564632514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1971727828610904064",
+          "start": 3,
+          "username": "2_ichiwo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ufSJYMWZos",
+          "end": 37,
+          "expanded_url": "https://x.com/2_ichiwo/status/1997335627394633931/photo/1",
+          "media_key": "3_1997335621011120128",
+          "start": 14,
+          "url": "https://t.co/ufSJYMWZos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997452335564632514",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997335627394633931",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2_ichiwo: https://t.co/ufSJYMWZos"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1997452335564632514].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1997452335564632514",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1997452335564632514"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997335621011120128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7f2KjuaIAANfKi.jpg",
+        "width": 1423
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997335621011120128"
+          ]
+        },
+        "author_id": "1971727828610904064",
+        "conversation_id": "1997335627394633931",
+        "created_at": "2025-12-06T16:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T17:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997335627394633931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ufSJYMWZos",
+              "end": 23,
+              "expanded_url": "https://x.com/2_ichiwo/status/1997335627394633931/photo/1",
+              "media_key": "3_1997335621011120128",
+              "start": 0,
+              "url": "https://t.co/ufSJYMWZos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997335627394633931",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 353,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ufSJYMWZos"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989746234408701952/CGIjbFWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7967,
+          "following_count": 5453,
+          "like_count": 13665,
+          "listed_count": 17,
+          "media_count": 2520,
+          "tweet_count": 18334
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-27T00:05:33.000Z",
+        "description": "⚠️閲覧注意⚠️ oc9割 非エロリョナが好き ᐠ( ᑒ )ᐟᐠ( ᑒ )ᐟ全年齢⇒@1_ichiwo アイコン→好きぴ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 42,
+                "username": "1_ichiwo"
+              }
+            ]
+          }
+        },
+        "id": "1971727828610904064",
+        "name": "ﾁｦ",
+        "pinned_tweet_id": "1994046840829059512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984864829124059136/0SZU7edm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 138,
+          "like_count": 3518,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 786
+        },
+        "username": "2_ichiwo",
+        "verified": false
+      }
+    ]
+  }
+}

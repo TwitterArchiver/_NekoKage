@@ -1,0 +1,519 @@
+{
+  "data": {
+    "attachments": {
+      "media_source_tweet_id": [
+        "1799467249268645892"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Guitar (second)",
+          "id": "898268412647886851",
+          "name": "Guitar"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Guitar (second)",
+          "id": "898268412647886851",
+          "name": "Guitar"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Guitar (second)",
+          "id": "898268412647886851",
+          "name": "Guitar"
+        }
+      }
+    ],
+    "conversation_id": "1799711999246647458",
+    "created_at": "2024-06-09T07:55:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-09T08:55:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799711999246647458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1300146813685567490",
+          "start": 3,
+          "username": "mio20200701"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/UIqmrVnkw1",
+          "end": 91,
+          "expanded_url": "https://twitter.com/mio20200701/status/1799467249268645892/photo/1",
+          "media_key": "3_1799467241320411136",
+          "start": 68,
+          "url": "https://t.co/UIqmrVnkw1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799711999246647458",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799467249268645892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mio20200701: この人が叫んでる顔見たいなバール材が好きなので、これでギター欲しい､､､\n\nと思ったらもう持ってた😮 https://t.co/UIqmrVnkw1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_source_tweet_id": [
+            "1799467249268645892"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          }
+        ],
+        "conversation_id": "1799711999246647458",
+        "created_at": "2024-06-09T07:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T08:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799711999246647458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1300146813685567490",
+              "start": 3,
+              "username": "mio20200701"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/UIqmrVnkw1",
+              "end": 91,
+              "expanded_url": "https://twitter.com/mio20200701/status/1799467249268645892/photo/1",
+              "media_key": "3_1799467241320411136",
+              "start": 68,
+              "url": "https://t.co/UIqmrVnkw1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799711999246647458",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799467249268645892",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mio20200701: この人が叫んでる顔見たいなバール材が好きなので、これでギター欲しい､､､\n\nと思ったらもう持ってた😮 https://t.co/UIqmrVnkw1"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1799467241320411136"
+          ]
+        },
+        "author_id": "1300146813685567490",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          }
+        ],
+        "conversation_id": "1799467249268645892",
+        "created_at": "2024-06-08T15:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T16:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799467249268645892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/UIqmrVnkw1",
+              "end": 74,
+              "expanded_url": "https://twitter.com/mio20200701/status/1799467249268645892/photo/1",
+              "media_key": "3_1799467241320411136",
+              "start": 51,
+              "url": "https://t.co/UIqmrVnkw1"
+            },
+            {
+              "display_url": "x.com/semiya4147/sta…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/semiya4147/status/1799425249865531532",
+              "start": 75,
+              "url": "https://t.co/wwx8u09Nas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799467249268645892",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1932,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799425249865531532",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "この人が叫んでる顔見たいなバール材が好きなので、これでギター欲しい､､､\n\nと思ったらもう持ってた😮 https://t.co/UIqmrVnkw1 https://t.co/wwx8u09Nas"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏精神病🩸自傷🎸聚乙烯乐队主音及主唱🎧HiFi糊烧🚬大烟鬼🔪刃物收藏⌚️入门表匠🚗JDM📷黑白摄影🚪88可约（迫不得已）⚠️@_kagenone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 133,
+                "username": "_kagenone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6842,
+          "following_count": 3692,
+          "like_count": 8523,
+          "listed_count": 20,
+          "tweet_count": 11542
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-30T19:02:23.000Z",
+        "description": "毎日漫画バキバキピッキングネキ #ばきねき　https://t.co/MIh82i8jYR",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 16,
+                "tag": "ばきねき"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@bakibakipicki…",
+                "end": 45,
+                "expanded_url": "https://youtube.com/@bakibakipickingneki?feature=shared",
+                "start": 22,
+                "url": "https://t.co/MIh82i8jYR"
+              }
+            ]
+          }
+        },
+        "id": "1300146813685567490",
+        "name": "みおちゃん@バキバキピッキングネキ",
+        "pinned_tweet_id": "1744194585159721440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1545669093243572224/1gUUxdjb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7911,
+          "following_count": 1369,
+          "like_count": 153200,
+          "listed_count": 65,
+          "tweet_count": 43762
+        },
+        "username": "mio20200701",
+        "verified": true
+      }
+    ]
+  }
+}

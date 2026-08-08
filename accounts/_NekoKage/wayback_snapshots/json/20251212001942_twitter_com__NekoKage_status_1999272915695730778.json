@@ -1,0 +1,552 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998972231909773313"
+      ],
+      "media_source_tweet_id": [
+        "1998972263828521028"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1404909205924966400",
+          "name": "Doki Doki Literature Club"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311309260597329921",
+          "name": "Visual novels"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1404909205924966400",
+          "name": "Doki Doki Literature Club"
+        }
+      }
+    ],
+    "conversation_id": "1999272915695730778",
+    "created_at": "2025-12-12T00:19:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T01:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999272915695730778"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 16,
+          "tag": "ドキドキ文芸部"
+        },
+        {
+          "end": 30,
+          "start": 25,
+          "tag": "DDLC"
+        },
+        {
+          "end": 42,
+          "start": 31,
+          "tag": "DDLCfanart"
+        },
+        {
+          "end": 50,
+          "start": 43,
+          "tag": "Monika"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "796674172302725120",
+          "start": 3,
+          "username": "alephan_cm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lFFzv2IXqS",
+          "end": 74,
+          "expanded_url": "https://x.com/alephan_cm/status/1998972263828521028/photo/1",
+          "media_key": "3_1998972231909773313",
+          "start": 51,
+          "url": "https://t.co/lFFzv2IXqS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999272915695730778",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1170
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998972263828521028",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @alephan_cm: #ドキドキ文芸部 #DDLC #DDLCfanart #Monika https://t.co/lFFzv2IXqS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1602,
+        "media_key": "3_1998972231909773313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G73Gp2baEAE28Xw.jpg",
+        "width": 1464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998972231909773313"
+          ],
+          "media_source_tweet_id": [
+            "1998972263828521028"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          }
+        ],
+        "conversation_id": "1999272915695730778",
+        "created_at": "2025-12-12T00:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T01:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999272915695730778"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 16,
+              "tag": "ドキドキ文芸部"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "DDLC"
+            },
+            {
+              "end": 42,
+              "start": 31,
+              "tag": "DDLCfanart"
+            },
+            {
+              "end": 50,
+              "start": 43,
+              "tag": "Monika"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "796674172302725120",
+              "start": 3,
+              "username": "alephan_cm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lFFzv2IXqS",
+              "end": 74,
+              "expanded_url": "https://x.com/alephan_cm/status/1998972263828521028/photo/1",
+              "media_key": "3_1998972231909773313",
+              "start": 51,
+              "url": "https://t.co/lFFzv2IXqS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999272915695730778",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1170
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998972263828521028",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @alephan_cm: #ドキドキ文芸部 #DDLC #DDLCfanart #Monika https://t.co/lFFzv2IXqS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998972231909773313"
+          ]
+        },
+        "author_id": "796674172302725120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          }
+        ],
+        "conversation_id": "1998972263828521028",
+        "created_at": "2025-12-11T04:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T05:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998972263828521028"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "ドキドキ文芸部"
+            },
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "DDLC"
+            },
+            {
+              "end": 26,
+              "start": 15,
+              "tag": "DDLCfanart"
+            },
+            {
+              "end": 34,
+              "start": 27,
+              "tag": "Monika"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lFFzv2IXqS",
+              "end": 58,
+              "expanded_url": "https://x.com/alephan_cm/status/1998972263828521028/photo/1",
+              "media_key": "3_1998972231909773313",
+              "start": 35,
+              "url": "https://t.co/lFFzv2IXqS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998972263828521028",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 977,
+          "impression_count": 77073,
+          "like_count": 11703,
+          "quote_count": 13,
+          "reply_count": 14,
+          "retweet_count": 1170
+        },
+        "reply_settings": "everyone",
+        "text": "#ドキドキ文芸部 #DDLC #DDLCfanart #Monika https://t.co/lFFzv2IXqS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989746234408701952/CGIjbFWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7964,
+          "following_count": 5522,
+          "like_count": 13734,
+          "listed_count": 17,
+          "media_count": 2537,
+          "tweet_count": 18474
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-10T11:21:38.000Z",
+        "description": "Freelance Illustrator.\nI use basic English.\nOpen for commissions➡️ VGen:  https://t.co/RkyE6fI2nH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vgen.co/Alephan",
+                "end": 97,
+                "expanded_url": "https://vgen.co/Alephan",
+                "start": 74,
+                "url": "https://t.co/RkyE6fI2nH"
+              }
+            ]
+          }
+        },
+        "id": "796674172302725120",
+        "location": "Please help me get Verified ⬆️",
+        "name": "Ale（commissions open）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996372945367924736/8rO7eOWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 9,
+          "like_count": 1446,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 24
+        },
+        "username": "alephan_cm",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023823218537115648",
+        "3_2023823261256347651",
+        "3_2023823272278650880"
+      ],
+      "media_source_tweet_id": [
+        "2024079949607387349",
+        "2024079949607387349",
+        "2024079949607387349"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2030043306097598889",
+    "created_at": "2026-03-06T22:10:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T23:10:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030043306097598889"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 52,
+          "normalized_text": "Hentai Construction",
+          "probability": 0.8695,
+          "start": 34,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "937991325584109568",
+          "start": 3,
+          "username": "MeidocafeR"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/menUWevZvP",
+          "end": 78,
+          "expanded_url": "https://x.com/MeidocafeR/status/2024079949607387349/photo/1",
+          "media_key": "3_2023823218537115648",
+          "start": 55,
+          "url": "https://t.co/menUWevZvP"
+        },
+        {
+          "display_url": "pic.x.com/menUWevZvP",
+          "end": 78,
+          "expanded_url": "https://x.com/MeidocafeR/status/2024079949607387349/photo/1",
+          "media_key": "3_2023823261256347651",
+          "start": 55,
+          "url": "https://t.co/menUWevZvP"
+        },
+        {
+          "display_url": "pic.x.com/menUWevZvP",
+          "end": 78,
+          "expanded_url": "https://x.com/MeidocafeR/status/2024079949607387349/photo/1",
+          "media_key": "3_2023823272278650880",
+          "start": 55,
+          "url": "https://t.co/menUWevZvP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030043306097598889",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024079949607387349",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MeidocafeR: Who wants to join Hentai Construction? https://t.co/menUWevZvP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2030043306097598889].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2030043306097598889",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2030043306097598889"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3648,
+        "media_key": "3_2023823218537115648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBYQfp0XsAA4NlN.jpg",
+        "width": 2736
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2023823261256347651",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBYQiI9bcAMIwJD.jpg",
+        "width": 3072
+      },
+      {
+        "height": 2736,
+        "media_key": "3_2023823272278650880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBYQiyBWcAAvvnC.jpg",
+        "width": 3648
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023823218537115648",
+            "3_2023823261256347651",
+            "3_2023823272278650880"
+          ]
+        },
+        "author_id": "937991325584109568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2024079949607387349",
+        "created_at": "2026-02-18T11:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T12:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024079949607387349"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "Hentai Construction",
+              "probability": 0.8838,
+              "start": 18,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/menUWevZvP",
+              "end": 62,
+              "expanded_url": "https://x.com/MeidocafeR/status/2024079949607387349/photo/1",
+              "media_key": "3_2023823218537115648",
+              "start": 39,
+              "url": "https://t.co/menUWevZvP"
+            },
+            {
+              "display_url": "pic.x.com/menUWevZvP",
+              "end": 62,
+              "expanded_url": "https://x.com/MeidocafeR/status/2024079949607387349/photo/1",
+              "media_key": "3_2023823261256347651",
+              "start": 39,
+              "url": "https://t.co/menUWevZvP"
+            },
+            {
+              "display_url": "pic.x.com/menUWevZvP",
+              "end": 62,
+              "expanded_url": "https://x.com/MeidocafeR/status/2024079949607387349/photo/1",
+              "media_key": "3_2023823272278650880",
+              "start": 39,
+              "url": "https://t.co/menUWevZvP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024079949607387349",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 16017,
+          "like_count": 198,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "Who wants to join Hentai Construction? https://t.co/menUWevZvP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 118,
+                "start": 113,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8183,
+          "following_count": 5911,
+          "like_count": 14033,
+          "listed_count": 17,
+          "media_count": 2650,
+          "tweet_count": 19541
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-05T10:25:33.000Z",
+        "description": "⚠R18 NSFW ( ❛ ◡❛) スイス人の変態紳士! Cursed.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/MelonpanMeidoc…",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/MelonpanMeidocafe",
+                "start": 0,
+                "url": "https://t.co/BNT1gyHBsH"
+              }
+            ]
+          }
+        },
+        "id": "937991325584109568",
+        "location": "ご主人さまのお膝の上！",
+        "name": "Melonpan🔞スイスの変態紳士🇨🇭",
+        "pinned_tweet_id": "980417225738907648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1426899168925261827/H1xgBVkK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134232,
+          "following_count": 278,
+          "like_count": 35727,
+          "listed_count": 258,
+          "media_count": 12973,
+          "tweet_count": 33252
+        },
+        "url": "https://t.co/BNT1gyHBsH",
+        "username": "MeidocafeR",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

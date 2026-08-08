@@ -1,0 +1,487 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986438260605001728"
+      ],
+      "media_source_tweet_id": [
+        "1986438466859900996"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1420050770829799426",
+          "name": "Alibaba Group"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311728290139258880",
+          "name": "Animation & comics events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1312128054911619073",
+          "name": "Comiket"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1986624425673040119",
+    "created_at": "2025-11-07T02:39:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T03:39:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986624425673040119"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "中国",
+          "probability": 0.5586,
+          "start": 26,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1256959468975190017",
+          "start": 3,
+          "username": "kusa_gomi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lreYvvarn1",
+          "end": 90,
+          "expanded_url": "https://x.com/kusa_gomi/status/1986438466859900996/photo/1",
+          "media_key": "3_1986438260605001728",
+          "start": 67,
+          "url": "https://t.co/lreYvvarn1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986624425673040119",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986438466859900996",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kusa_gomi: ちなみに今年のコミケで中国カメラの本売ってた時は爆笑しながら支付宝とか人民元で本買ってく中国ニキがいた https://t.co/lreYvvarn1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986438260605001728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5E_EsubIAAxfHa.jpg",
+        "width": 2047
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986438260605001728"
+          ],
+          "media_source_tweet_id": [
+            "1986438466859900996"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311728290139258880",
+              "name": "Animation & comics events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1312128054911619073",
+              "name": "Comiket"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1986624425673040119",
+        "created_at": "2025-11-07T02:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T03:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986624425673040119"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "中国",
+              "probability": 0.5586,
+              "start": 26,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1256959468975190017",
+              "start": 3,
+              "username": "kusa_gomi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lreYvvarn1",
+              "end": 90,
+              "expanded_url": "https://x.com/kusa_gomi/status/1986438466859900996/photo/1",
+              "media_key": "3_1986438260605001728",
+              "start": 67,
+              "url": "https://t.co/lreYvvarn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986624425673040119",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986438466859900996",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kusa_gomi: ちなみに今年のコミケで中国カメラの本売ってた時は爆笑しながら支付宝とか人民元で本買ってく中国ニキがいた https://t.co/lreYvvarn1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986438260605001728"
+          ]
+        },
+        "author_id": "1256959468975190017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1312128054911619073",
+              "name": "Comiket"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1986438466859900996",
+        "created_at": "2025-11-06T14:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T15:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986438466859900996"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "中国",
+              "probability": 0.5594,
+              "start": 11,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lreYvvarn1",
+              "end": 75,
+              "expanded_url": "https://x.com/kusa_gomi/status/1986438466859900996/photo/1",
+              "media_key": "3_1986438260605001728",
+              "start": 52,
+              "url": "https://t.co/lreYvvarn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986438466859900996",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1189,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "ちなみに今年のコミケで中国カメラの本売ってた時は爆笑しながら支付宝とか人民元で本買ってく中国ニキがいた https://t.co/lreYvvarn1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7955,
+          "following_count": 5244,
+          "like_count": 13447,
+          "listed_count": 17,
+          "media_count": 2472,
+          "tweet_count": 17829
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-03T14:51:18.000Z",
+        "description": "🍙美希/🍟加蓮/🦉広/🩻薫/🍛冬優子/🥩🌾🐟️愛夏\n#学術アイドルマスター",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 26,
+                "tag": "学術アイドルマスター"
+              }
+            ]
+          }
+        },
+        "id": "1256959468975190017",
+        "location": "東京都大田区矢口2丁目1番765号 たるき亭ビル2F",
+        "name": "🌿GSF02 1組38委託",
+        "pinned_tweet_id": "1982401828084998493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662903745251016704/lWv6ehNd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2287,
+          "following_count": 2263,
+          "like_count": 231734,
+          "listed_count": 24,
+          "media_count": 14464,
+          "tweet_count": 161364
+        },
+        "username": "kusa_gomi",
+        "verified": true
+      }
+    ]
+  }
+}

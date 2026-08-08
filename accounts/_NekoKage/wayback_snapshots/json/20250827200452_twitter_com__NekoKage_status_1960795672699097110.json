@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960604094067863553"
+      ],
+      "media_source_tweet_id": [
+        "1960734052744618205"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026738409",
+          "name": "Sony"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026738409",
+          "name": "Sony"
+        }
+      }
+    ],
+    "conversation_id": "1960795672699097110",
+    "created_at": "2025-08-27T20:04:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T21:04:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960795672699097110"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "Sony",
+          "probability": 0.9908,
+          "start": 27,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1647428363965935617",
+          "start": 3,
+          "username": "ObsoleteSony"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zmwdkmqJYl",
+          "end": 119,
+          "expanded_url": "https://x.com/ObsoleteSony/status/1960734052744618205/photo/1",
+          "media_key": "3_1960604094067863553",
+          "start": 96,
+          "url": "https://t.co/zmwdkmqJYl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960795672699097110",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960734052744618205",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ObsoleteSony: In 1988, Sony introduced the 650MB rewritable 5.25-inch magneto-optical disk. https://t.co/zmwdkmqJYl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 972,
+        "media_key": "3_1960604094067863553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzV3CSwXcAE7-8K.jpg",
+        "width": 1202
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960604094067863553"
+          ],
+          "media_source_tweet_id": [
+            "1960734052744618205"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          }
+        ],
+        "conversation_id": "1960795672699097110",
+        "created_at": "2025-08-27T20:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T21:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960795672699097110"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "Sony",
+              "probability": 0.9908,
+              "start": 27,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647428363965935617",
+              "start": 3,
+              "username": "ObsoleteSony"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zmwdkmqJYl",
+              "end": 119,
+              "expanded_url": "https://x.com/ObsoleteSony/status/1960734052744618205/photo/1",
+              "media_key": "3_1960604094067863553",
+              "start": 96,
+              "url": "https://t.co/zmwdkmqJYl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960795672699097110",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960734052744618205",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ObsoleteSony: In 1988, Sony introduced the 650MB rewritable 5.25-inch magneto-optical disk. https://t.co/zmwdkmqJYl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960604094067863553"
+          ]
+        },
+        "author_id": "1647428363965935617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          }
+        ],
+        "conversation_id": "1960734052744618205",
+        "created_at": "2025-08-27T16:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T17:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960734052744618205"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "Sony",
+              "probability": 0.9928,
+              "start": 9,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zmwdkmqJYl",
+              "end": 101,
+              "expanded_url": "https://x.com/ObsoleteSony/status/1960734052744618205/photo/1",
+              "media_key": "3_1960604094067863553",
+              "start": 78,
+              "url": "https://t.co/zmwdkmqJYl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960734052744618205",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 10201,
+          "like_count": 374,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "In 1988, Sony introduced the 650MB rewritable 5.25-inch magneto-optical disk. https://t.co/zmwdkmqJYl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7874,
+          "following_count": 5013,
+          "like_count": 13129,
+          "listed_count": 17,
+          "media_count": 2385,
+          "tweet_count": 17017
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-16T02:35:35.000Z",
+        "description": "Embark on a journey through the obscure world of forgotten, odd, and obsolete Sony devices.\nhttps://t.co/pBgVhb98yK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/ObsoleteSony",
+                "end": 115,
+                "expanded_url": "https://www.patreon.com/ObsoleteSony",
+                "start": 92,
+                "url": "https://t.co/pBgVhb98yK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "obsoletesony.com",
+                "end": 23,
+                "expanded_url": "https://www.obsoletesony.com/",
+                "start": 0,
+                "url": "https://t.co/c8KpRtInN1"
+              }
+            ]
+          }
+        },
+        "id": "1647428363965935617",
+        "name": "Obsolete Sony",
+        "pinned_tweet_id": "1960170566557855786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828847927948713984/ByMWXBYs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165585,
+          "following_count": 1006,
+          "like_count": 41280,
+          "listed_count": 616,
+          "media_count": 6412,
+          "tweet_count": 9847
+        },
+        "url": "https://t.co/c8KpRtInN1",
+        "username": "ObsoleteSony",
+        "verified": true
+      }
+    ]
+  }
+}

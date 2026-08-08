@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994048126987145216"
+      ],
+      "media_source_tweet_id": [
+        "1994049167753400788"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "1994161468934422567",
+    "created_at": "2025-11-27T21:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T22:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994161468934422567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "701306441437581312",
+          "start": 3,
+          "username": "charl_0012"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DyuCq8Ij0H",
+          "end": 75,
+          "expanded_url": "https://x.com/charl_0012/status/1994049167753400788/photo/1",
+          "media_key": "3_1994048126987145216",
+          "start": 52,
+          "url": "https://t.co/DyuCq8Ij0H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994161468934422567",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 461
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994049167753400788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @charl_0012: your warmth comforts me\n/suggestive https://t.co/DyuCq8Ij0H"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1994161468934422567].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1994161468934422567",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1994161468934422567"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1719,
+        "media_key": "3_1994048126987145216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xINOIaEAAjIDq.jpg",
+        "width": 1591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994048126987145216"
+          ]
+        },
+        "author_id": "701306441437581312",
+        "conversation_id": "1994049167753400788",
+        "created_at": "2025-11-27T14:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994049167753400788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DyuCq8Ij0H",
+              "end": 59,
+              "expanded_url": "https://x.com/charl_0012/status/1994049167753400788/photo/1",
+              "media_key": "3_1994048126987145216",
+              "start": 36,
+              "url": "https://t.co/DyuCq8Ij0H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994049167753400788",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1943,
+          "impression_count": 105683,
+          "like_count": 9000,
+          "quote_count": 9,
+          "reply_count": 10,
+          "retweet_count": 461
+        },
+        "reply_settings": "everyone",
+        "text": "your warmth comforts me\n/suggestive https://t.co/DyuCq8Ij0H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989746234408701952/CGIjbFWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7959,
+          "following_count": 5355,
+          "like_count": 13596,
+          "listed_count": 17,
+          "media_count": 2498,
+          "tweet_count": 18133
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-21T07:24:20.000Z",
+        "description": "21丨🇲🇾丨 NSFW acc @baihe03103531丨Poipiku🔞https://t.co/Bx2oQNgAtQ丨Repost is prohibited",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "baihe03103531"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "poipiku.com/3949225/",
+                "end": 62,
+                "expanded_url": "https://poipiku.com/3949225/",
+                "start": 39,
+                "url": "https://t.co/Bx2oQNgAtQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/charl0012",
+                "end": 23,
+                "expanded_url": "https://vgen.co/charl0012",
+                "start": 0,
+                "url": "https://t.co/guKWz2RthT"
+              }
+            ]
+          }
+        },
+        "id": "701306441437581312",
+        "name": "白荷Charl丨Comms OPEN",
+        "pinned_tweet_id": "1993348375778152949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960739468727795712/f0YgaM6F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4301,
+          "following_count": 250,
+          "like_count": 25431,
+          "listed_count": 8,
+          "media_count": 412,
+          "tweet_count": 6495
+        },
+        "url": "https://t.co/guKWz2RthT",
+        "username": "charl_0012",
+        "verified": false
+      }
+    ]
+  }
+}

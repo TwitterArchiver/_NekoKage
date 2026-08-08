@@ -1,0 +1,491 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922976448186548224"
+      ],
+      "media_source_tweet_id": [
+        "1922976454226088366"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1319391064311033856",
+          "name": "Hetalia"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1319391064311033856",
+          "name": "Hetalia"
+        }
+      }
+    ],
+    "conversation_id": "1923154833042804941",
+    "created_at": "2025-05-15T23:13:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T00:13:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923154833042804941"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 37,
+          "tag": "アコスタ"
+        },
+        {
+          "end": 51,
+          "start": 43,
+          "tag": "cosplay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "800350413358657543",
+          "start": 3,
+          "username": "Jocker_R02"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hr6EkK9El4",
+          "end": 75,
+          "expanded_url": "https://x.com/Jocker_R02/status/1922976454226088366/photo/1",
+          "media_key": "3_1922976448186548224",
+          "start": 52,
+          "url": "https://t.co/Hr6EkK9El4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923154833042804941",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17516
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922976454226088366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jocker_R02: 全員国籍ガチなヘタリアをご覧ください🙌🌏 #アコスタ #cosplay https://t.co/Hr6EkK9El4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1477,
+        "media_key": "3_1922976448186548224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq_I5CmaAAA_BWr.jpg",
+        "width": 1109
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922976448186548224"
+          ],
+          "media_source_tweet_id": [
+            "1922976454226088366"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1319391064311033856",
+              "name": "Hetalia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1319391064311033856",
+              "name": "Hetalia"
+            }
+          }
+        ],
+        "conversation_id": "1923154833042804941",
+        "created_at": "2025-05-15T23:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T00:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923154833042804941"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "アコスタ"
+            },
+            {
+              "end": 51,
+              "start": 43,
+              "tag": "cosplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "800350413358657543",
+              "start": 3,
+              "username": "Jocker_R02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hr6EkK9El4",
+              "end": 75,
+              "expanded_url": "https://x.com/Jocker_R02/status/1922976454226088366/photo/1",
+              "media_key": "3_1922976448186548224",
+              "start": 52,
+              "url": "https://t.co/Hr6EkK9El4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923154833042804941",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17516
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922976454226088366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jocker_R02: 全員国籍ガチなヘタリアをご覧ください🙌🌏 #アコスタ #cosplay https://t.co/Hr6EkK9El4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922976448186548224"
+          ]
+        },
+        "author_id": "800350413358657543",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1319391064311033856",
+              "name": "Hetalia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1319391064311033856",
+              "name": "Hetalia"
+            }
+          }
+        ],
+        "conversation_id": "1922976454226088366",
+        "created_at": "2025-05-15T11:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T12:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922976454226088366"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "アコスタ"
+            },
+            {
+              "end": 35,
+              "start": 27,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hr6EkK9El4",
+              "end": 59,
+              "expanded_url": "https://x.com/Jocker_R02/status/1922976454226088366/photo/1",
+              "media_key": "3_1922976448186548224",
+              "start": 36,
+              "url": "https://t.co/Hr6EkK9El4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922976454226088366",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16621,
+          "impression_count": 3170591,
+          "like_count": 132878,
+          "quote_count": 1728,
+          "reply_count": 97,
+          "retweet_count": 17516
+        },
+        "reply_settings": "everyone",
+        "text": "全員国籍ガチなヘタリアをご覧ください🙌🌏 #アコスタ #cosplay https://t.co/Hr6EkK9El4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠📢siren爱好者⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "_kagenone"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7612,
+          "following_count": 4608,
+          "like_count": 12554,
+          "listed_count": 20,
+          "media_count": 2209,
+          "tweet_count": 15510
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-20T14:49:43.000Z",
+        "description": "🐼💕レイアー 黒執事/BSD芥右/ES英智中心/DCST千ゲ/最近は東京リベンに夢中/成人済 ハハハハハハハゲです👌😎👉 中文♡ English♡ 日本語♡ Gealige♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/gaf24c",
+                "end": 23,
+                "expanded_url": "https://b23.tv/gaf24c",
+                "start": 0,
+                "url": "https://t.co/RmwHIiojCd"
+              }
+            ]
+          }
+        },
+        "id": "800350413358657543",
+        "location": "ポートマフィア男子トイレ",
+        "name": "Jocker_R02 5/25 6/21 7/5アコ",
+        "pinned_tweet_id": "1802202515641192612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1483284271712276481/5cwiYmJv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15329,
+          "following_count": 458,
+          "like_count": 4038,
+          "listed_count": 62,
+          "media_count": 584,
+          "tweet_count": 3522
+        },
+        "url": "https://t.co/RmwHIiojCd",
+        "username": "Jocker_R02",
+        "verified": false
+      }
+    ]
+  }
+}

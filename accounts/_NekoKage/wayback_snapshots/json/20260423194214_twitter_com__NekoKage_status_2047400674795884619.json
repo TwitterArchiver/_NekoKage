@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2034658860997439488"
+      ],
+      "media_source_tweet_id": [
+        "2034659097988260051"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "2047400674795884619",
+    "created_at": "2026-04-23T19:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T20:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047400674795884619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1977677290785120256",
+          "start": 3,
+          "username": "dixy_720"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ank0kNdTfo",
+          "end": 44,
+          "expanded_url": "https://x.com/dixy_720/status/2034659097988260051/photo/1",
+          "media_key": "16_2034658860997439488",
+          "start": 21,
+          "url": "https://t.co/Ank0kNdTfo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047400674795884619",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 461
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034659097988260051",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dixy_720: 角オナコハル https://t.co/Ank0kNdTfo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2047400674795884619].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2047400674795884619",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2047400674795884619"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "16_2034658860997439488",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HDyPdDjacAA4dg6.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HDyPdDjacAA4dg6.mp4"
+          }
+        ],
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2034658860997439488"
+          ]
+        },
+        "author_id": "1977677290785120256",
+        "conversation_id": "2034659097988260051",
+        "created_at": "2026-03-19T15:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T16:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034659097988260051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ank0kNdTfo",
+              "end": 30,
+              "expanded_url": "https://x.com/dixy_720/status/2034659097988260051/photo/1",
+              "media_key": "16_2034658860997439488",
+              "start": 7,
+              "url": "https://t.co/Ank0kNdTfo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034659097988260051",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1593,
+          "impression_count": 36639,
+          "like_count": 4349,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 461
+        },
+        "reply_settings": "everyone",
+        "text": "角オナコハル https://t.co/Ank0kNdTfo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8437,
+          "following_count": 6467,
+          "like_count": 14809,
+          "listed_count": 17,
+          "media_count": 2833,
+          "tweet_count": 20767
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T10:06:38.000Z",
+        "description": "イラスト/アニメーション勉強中\nskeb : https://t.co/NlfOCYjsZ9\nDLsite : https://t.co/nhGTbBRyXO\nci-en：https://t.co/5bsR8qcAzJ\nBOOTH : https://t.co/wTAoxOIZtZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@dixy720",
+                "end": 46,
+                "expanded_url": "https://skeb.jp/@dixy720",
+                "start": 23,
+                "url": "https://t.co/NlfOCYjsZ9"
+              },
+              {
+                "display_url": "x.gd/jNltR",
+                "end": 79,
+                "expanded_url": "https://x.gd/jNltR",
+                "start": 56,
+                "url": "https://t.co/nhGTbBRyXO"
+              },
+              {
+                "display_url": "x.gd/jsQ84",
+                "end": 109,
+                "expanded_url": "https://x.gd/jsQ84",
+                "start": 86,
+                "url": "https://t.co/5bsR8qcAzJ"
+              },
+              {
+                "display_url": "dixy.booth.pm",
+                "end": 141,
+                "expanded_url": "https://dixy.booth.pm",
+                "start": 118,
+                "url": "https://t.co/wTAoxOIZtZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/92615526",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/92615526",
+                "start": 0,
+                "url": "https://t.co/RdKmxocBoG"
+              }
+            ]
+          }
+        },
+        "id": "1977677290785120256",
+        "name": "Dixy🔞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035028723804905478/PKL91TXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3138,
+          "following_count": 26,
+          "like_count": 70,
+          "listed_count": 11,
+          "media_count": 9,
+          "tweet_count": 11
+        },
+        "url": "https://t.co/RdKmxocBoG",
+        "username": "dixy_720",
+        "verified": false
+      }
+    ]
+  }
+}

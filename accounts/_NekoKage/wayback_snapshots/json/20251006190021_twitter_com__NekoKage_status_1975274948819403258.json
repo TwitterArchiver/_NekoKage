@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "conversation_id": "1975202609507209275",
+    "created_at": "2025-10-06T19:00:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T20:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975274948819403258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1378757533117030402",
+          "start": 0,
+          "username": "nehcgnohnij"
+        },
+        {
+          "end": 27,
+          "id": "1225462582280015879",
+          "start": 13,
+          "username": "BasicAppleGuy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975274948819403258",
+    "in_reply_to_user_id": "1378757533117030402",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975219220805034072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nehcgnohnij @BasicAppleGuy 可以有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "conversation_id": "1975202609507209275",
+        "created_at": "2025-10-06T19:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T20:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975274948819403258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1378757533117030402",
+              "start": 0,
+              "username": "nehcgnohnij"
+            },
+            {
+              "end": 27,
+              "id": "1225462582280015879",
+              "start": 13,
+              "username": "BasicAppleGuy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975274948819403258",
+        "in_reply_to_user_id": "1378757533117030402",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975219220805034072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nehcgnohnij @BasicAppleGuy 可以有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1378757533117030402",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1975202609507209275",
+        "created_at": "2025-10-06T15:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T16:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975219220805034072"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 56,
+              "normalized_text": "iPhone",
+              "probability": 0.9606,
+              "start": 51,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1225462582280015879",
+              "start": 0,
+              "username": "BasicAppleGuy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975219220805034072",
+        "in_reply_to_user_id": "1225462582280015879",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 394,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975202609507209275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BasicAppleGuy How about 17 Pro camera on Original iPhone"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7906,
+          "following_count": 5119,
+          "like_count": 13289,
+          "listed_count": 17,
+          "media_count": 2433,
+          "tweet_count": 17445
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-04T17:13:20.000Z",
+        "description": "",
+        "id": "1378757533117030402",
+        "location": "Regina-sur-Wascana",
+        "name": "阝钅氵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931345319088062464/jG4F9ZkH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 97,
+          "like_count": 8475,
+          "listed_count": 1,
+          "media_count": 1004,
+          "tweet_count": 4465
+        },
+        "username": "nehcgnohnij",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-06T16:54:28.000Z",
+        "description": "Basic (ˈbeɪ.sɪk’; Adj): lover of all things mainstream, popular, & trending in the world of .",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "basicappleguy.com",
+                "end": 23,
+                "expanded_url": "https://basicappleguy.com",
+                "start": 0,
+                "url": "https://t.co/r6HgFi8eEO"
+              }
+            ]
+          }
+        },
+        "id": "1225462582280015879",
+        "location": "37º20'5.5674\"N 122º0'32.3274\"W",
+        "name": "Basic Apple Guy",
+        "pinned_tweet_id": "1925918857996144773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522623872717099013/h5fNVE5d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390153,
+          "following_count": 67,
+          "like_count": 26260,
+          "listed_count": 0,
+          "media_count": 7203,
+          "tweet_count": 28273
+        },
+        "url": "https://t.co/r6HgFi8eEO",
+        "username": "BasicAppleGuy",
+        "verified": true
+      }
+    ]
+  }
+}

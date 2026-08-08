@@ -1,0 +1,658 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1830651319247355905"
+      ],
+      "media_source_tweet_id": [
+        "1830651323672580170"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Nokia",
+          "id": "10027594377",
+          "name": "Nokia"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1336329110813962240",
+          "name": "Nokia Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cell phones",
+          "id": "848920700073123840",
+          "name": "Cell Phones"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Nokia",
+          "id": "10027594377",
+          "name": "Nokia"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nokia",
+          "id": "10027594377",
+          "name": "Nokia"
+        }
+      }
+    ],
+    "conversation_id": "1831052707131703480",
+    "created_at": "2024-09-03T19:32:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-03T20:32:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831052707131703480"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "LogoManager",
+          "probability": 0.5443,
+          "start": 23,
+          "type": "Other"
+        },
+        {
+          "end": 50,
+          "normalized_text": "Nokia Phones",
+          "probability": 0.7989,
+          "start": 39,
+          "type": "Other"
+        },
+        {
+          "end": 82,
+          "normalized_text": "Nokia 3210",
+          "probability": 0.5709,
+          "start": 73,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "266793460",
+          "start": 3,
+          "username": "Gammitin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ben6xph1ee",
+          "end": 125,
+          "expanded_url": "https://twitter.com/Gammitin/status/1830651323672580170/photo/1",
+          "media_key": "3_1830651319247355905",
+          "start": 102,
+          "url": "https://t.co/bEn6XPH1ee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831052707131703480",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 85
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830651323672580170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gammitin: Remember LogoManager for Nokia Phones?\nI randomly found my Nokia 3210 data cable today! https://t.co/bEn6XPH1ee"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1830651319247355905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWfHrPdWwAEd2hm.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830651319247355905"
+          ],
+          "media_source_tweet_id": [
+            "1830651323672580170"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nokia",
+              "id": "10027594377",
+              "name": "Nokia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1336329110813962240",
+              "name": "Nokia Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nokia",
+              "id": "10027594377",
+              "name": "Nokia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nokia",
+              "id": "10027594377",
+              "name": "Nokia"
+            }
+          }
+        ],
+        "conversation_id": "1831052707131703480",
+        "created_at": "2024-09-03T19:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T20:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831052707131703480"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "LogoManager",
+              "probability": 0.5443,
+              "start": 23,
+              "type": "Other"
+            },
+            {
+              "end": 50,
+              "normalized_text": "Nokia Phones",
+              "probability": 0.7989,
+              "start": 39,
+              "type": "Other"
+            },
+            {
+              "end": 82,
+              "normalized_text": "Nokia 3210",
+              "probability": 0.5709,
+              "start": 73,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "266793460",
+              "start": 3,
+              "username": "Gammitin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ben6xph1ee",
+              "end": 125,
+              "expanded_url": "https://twitter.com/Gammitin/status/1830651323672580170/photo/1",
+              "media_key": "3_1830651319247355905",
+              "start": 102,
+              "url": "https://t.co/bEn6XPH1ee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831052707131703480",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 85
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830651323672580170",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gammitin: Remember LogoManager for Nokia Phones?\nI randomly found my Nokia 3210 data cable today! https://t.co/bEn6XPH1ee"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830651319247355905"
+          ]
+        },
+        "author_id": "266793460",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nokia",
+              "id": "10027594377",
+              "name": "Nokia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1336329110813962240",
+              "name": "Nokia Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nokia",
+              "id": "10027594377",
+              "name": "Nokia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nokia",
+              "id": "10027594377",
+              "name": "Nokia"
+            }
+          }
+        ],
+        "conversation_id": "1830651323672580170",
+        "created_at": "2024-09-02T16:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T17:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830651323672580170"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "LogoManager",
+              "probability": 0.6038,
+              "start": 9,
+              "type": "Other"
+            },
+            {
+              "end": 36,
+              "normalized_text": "Nokia Phones",
+              "probability": 0.7578,
+              "start": 25,
+              "type": "Other"
+            },
+            {
+              "end": 68,
+              "normalized_text": "Nokia 3210",
+              "probability": 0.6711,
+              "start": 59,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ben6xph1ee",
+              "end": 111,
+              "expanded_url": "https://twitter.com/Gammitin/status/1830651323672580170/photo/1",
+              "media_key": "3_1830651319247355905",
+              "start": 88,
+              "url": "https://t.co/bEn6XPH1ee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830651323672580170",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 52924,
+          "like_count": 732,
+          "quote_count": 13,
+          "reply_count": 34,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "Remember LogoManager for Nokia Phones?\nI randomly found my Nokia 3210 data cable today! https://t.co/bEn6XPH1ee"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain📷膠片攝影/相机维修🎧HiFi糊烧🚬大烟鬼🔪刃物收藏⌚️入门表匠🚪88⚠️里推:@_kagenone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 131,
+                "username": "_kagenone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7163,
+          "following_count": 4172,
+          "like_count": 10811,
+          "listed_count": 18,
+          "tweet_count": 13201
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-15T20:42:49.000Z",
+        "description": "Obsessed with Vintage / Retro tech - I collect, repair, upgrade retro Laptops, Desktop Computers, Consoles, unusual tech. Also love Gaming and Cats 😸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/gammitin",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/gammitin",
+                "start": 0,
+                "url": "https://t.co/BXHgF2dBgW"
+              }
+            ]
+          }
+        },
+        "id": "266793460",
+        "location": "UK",
+        "name": "Gammitin (Ben) 💾",
+        "pinned_tweet_id": "1814606712071987660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740735738897977344/P1CoOGMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20533,
+          "following_count": 4763,
+          "like_count": 40661,
+          "listed_count": 88,
+          "tweet_count": 37446
+        },
+        "url": "https://t.co/BXHgF2dBgW",
+        "username": "Gammitin",
+        "verified": false
+      }
+    ]
+  }
+}

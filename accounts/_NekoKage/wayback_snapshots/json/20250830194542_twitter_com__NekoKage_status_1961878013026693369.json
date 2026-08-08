@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961783152319594496"
+      ],
+      "media_source_tweet_id": [
+        "1961783166802567464"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "1961878013026693369",
+    "created_at": "2025-08-30T19:45:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T20:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961878013026693369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1581308931346833414",
+          "start": 3,
+          "username": "240mmAP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NsMFnvn1pG",
+          "end": 36,
+          "expanded_url": "https://x.com/240mmAP/status/1961783166802567464/photo/1",
+          "media_key": "3_1961783152319594496",
+          "start": 13,
+          "url": "https://t.co/NsMFnvn1pG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961878013026693369",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961783166802567464",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @240mmAP: https://t.co/NsMFnvn1pG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1961878013026693369].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1961878013026693369",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1961878013026693369"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2018,
+        "media_key": "3_1961783152319594496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzmnYhBbAAArukq.jpg",
+        "width": 1694
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961783152319594496"
+          ]
+        },
+        "author_id": "1581308931346833414",
+        "conversation_id": "1961783166802567464",
+        "created_at": "2025-08-30T13:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T14:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961783166802567464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NsMFnvn1pG",
+              "end": 23,
+              "expanded_url": "https://x.com/240mmAP/status/1961783166802567464/photo/1",
+              "media_key": "3_1961783152319594496",
+              "start": 0,
+              "url": "https://t.co/NsMFnvn1pG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961783166802567464",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 3013,
+          "like_count": 291,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NsMFnvn1pG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7874,
+          "following_count": 5019,
+          "like_count": 13150,
+          "listed_count": 17,
+          "media_count": 2388,
+          "tweet_count": 17050
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-15T15:40:22.000Z",
+        "description": "一条巡洋舰 爱画小女孩 非常感谢你的关注！             https://t.co/Cljc79GBa0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/65407801",
+                "end": 57,
+                "expanded_url": "https://www.pixiv.net/users/65407801",
+                "start": 34,
+                "url": "https://t.co/Cljc79GBa0"
+              }
+            ]
+          }
+        },
+        "id": "1581308931346833414",
+        "name": "孔代Condé",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872656072089206784/lLJ8aSq3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14224,
+          "following_count": 59,
+          "like_count": 597,
+          "listed_count": 90,
+          "media_count": 52,
+          "tweet_count": 100
+        },
+        "username": "240mmAP",
+        "verified": false
+      }
+    ]
+  }
+}

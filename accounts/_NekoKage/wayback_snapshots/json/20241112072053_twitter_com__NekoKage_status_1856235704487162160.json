@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1856193394135166976"
+      ],
+      "media_source_tweet_id": [
+        "1856193403618504820"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "1856235704487162160",
+    "created_at": "2024-11-12T07:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-12T08:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856235704487162160"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "ed"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1782354031266107392",
+          "start": 3,
+          "username": "T1arpE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EKMU1fNmry",
+          "end": 53,
+          "expanded_url": "https://x.com/T1arpE/status/1856193403618504820/photo/1",
+          "media_key": "3_1856193394135166976",
+          "start": 30,
+          "url": "https://t.co/EKMU1fNmry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856235704487162160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856193403618504820",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @T1arpE: 感情是人類攜帶的傳染性疾病\n#ed https://t.co/EKMU1fNmry"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1856235704487162160].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1856235704487162160",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1856235704487162160"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1856193394135166976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcKGDrPacAAI8Xl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1856193394135166976"
+          ]
+        },
+        "author_id": "1782354031266107392",
+        "conversation_id": "1856193403618504820",
+        "created_at": "2024-11-12T04:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T05:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856193403618504820"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "ed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EKMU1fNmry",
+              "end": 41,
+              "expanded_url": "https://x.com/T1arpE/status/1856193403618504820/photo/1",
+              "media_key": "3_1856193394135166976",
+              "start": 18,
+              "url": "https://t.co/EKMU1fNmry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856193403618504820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 3282,
+          "like_count": 340,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "感情是人類攜帶的傳染性疾病\n#ed https://t.co/EKMU1fNmry"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain📷膠片攝影/相机维修🚬大烟鬼🔪刃物收藏⌚️入门表匠⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "_kagenone"
+              },
+              {
+                "end": 137,
+                "start": 132,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7274,
+          "following_count": 4248,
+          "like_count": 11597,
+          "listed_count": 18,
+          "tweet_count": 13883
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T10:21:41.000Z",
+        "description": "我平等的討厭每一個人⌯ᕑᗢᓫ⌯ 不闲聊🚬别问体重 别讨论我饮食 𐙚˙⋆.˚ 我不是黄推！！！厭食症小女孩記錄日常 審美 雕刻康复过程 打造有灵魂和才华的艺术品 图片都是本人不要盗图转载⌯ᵔ⩊ᵔ⌯ಣ #edtwt 🚪/128 绿色闲聊 女孩子不用",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 99,
+                "tag": "edtwt"
+              }
+            ]
+          }
+        },
+        "id": "1782354031266107392",
+        "location": "⑅.:*♡",
+        "name": "澡堂碎屍案",
+        "pinned_tweet_id": "1844212875440836841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782355554234687488/oMf4037f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22121,
+          "following_count": 38,
+          "like_count": 455,
+          "listed_count": 34,
+          "tweet_count": 147
+        },
+        "username": "T1arpE",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,781 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928909193807097856",
+        "3_1928909193366614016",
+        "3_1928909193442111488",
+        "3_1928909193827987459"
+      ],
+      "media_source_tweet_id": [
+        "1928909208914735302",
+        "1928909208914735302",
+        "1928909208914735302",
+        "1928909208914735302"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026713294",
+          "name": "Nintendo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "id": "10026713294",
+          "name": "Nintendo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026713294",
+          "name": "Nintendo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "1929051885195100296",
+    "created_at": "2025-06-01T05:46:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T06:46:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929051885195100296"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "Hultén's Retro",
+          "probability": 0.7398,
+          "start": 24,
+          "type": "Other"
+        },
+        {
+          "end": 63,
+          "normalized_text": "Nintendo",
+          "probability": 0.8521,
+          "start": 56,
+          "type": "Organization"
+        },
+        {
+          "end": 84,
+          "normalized_text": "NES Gaming Console",
+          "probability": 0.7065,
+          "start": 67,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "204858271",
+          "start": 3,
+          "username": "ComputerLove_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S2keuXY1ka",
+          "end": 109,
+          "expanded_url": "https://x.com/ComputerLove_/status/1928909208914735302/photo/1",
+          "media_key": "3_1928909193807097856",
+          "start": 86,
+          "url": "https://t.co/S2keuXY1ka"
+        },
+        {
+          "display_url": "pic.x.com/S2keuXY1ka",
+          "end": 109,
+          "expanded_url": "https://x.com/ComputerLove_/status/1928909208914735302/photo/1",
+          "media_key": "3_1928909193366614016",
+          "start": 86,
+          "url": "https://t.co/S2keuXY1ka"
+        },
+        {
+          "display_url": "pic.x.com/S2keuXY1ka",
+          "end": 109,
+          "expanded_url": "https://x.com/ComputerLove_/status/1928909208914735302/photo/1",
+          "media_key": "3_1928909193442111488",
+          "start": 86,
+          "url": "https://t.co/S2keuXY1ka"
+        },
+        {
+          "display_url": "pic.x.com/S2keuXY1ka",
+          "end": 109,
+          "expanded_url": "https://x.com/ComputerLove_/status/1928909208914735302/photo/1",
+          "media_key": "3_1928909193827987459",
+          "start": 86,
+          "url": "https://t.co/S2keuXY1ka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929051885195100296",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928909208914735302",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ComputerLove_: Love Hultén's Retro-Modern Update to Nintendo's NES Gaming Console https://t.co/S2keuXY1ka"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1928909193807097856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsTcsSTbcAAL1-c.jpg",
+        "width": 960
+      },
+      {
+        "height": 640,
+        "media_key": "3_1928909193366614016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsTcsQqaMAAD3ys.jpg",
+        "width": 960
+      },
+      {
+        "height": 640,
+        "media_key": "3_1928909193442111488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsTcsQ8aMAA8DZj.jpg",
+        "width": 960
+      },
+      {
+        "height": 640,
+        "media_key": "3_1928909193827987459",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsTcsSYaMAMdsUK.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928909193807097856",
+            "3_1928909193366614016",
+            "3_1928909193442111488",
+            "3_1928909193827987459"
+          ],
+          "media_source_tweet_id": [
+            "1928909208914735302",
+            "1928909208914735302",
+            "1928909208914735302",
+            "1928909208914735302"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1929051885195100296",
+        "created_at": "2025-06-01T05:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T06:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929051885195100296"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "Hultén's Retro",
+              "probability": 0.7398,
+              "start": 24,
+              "type": "Other"
+            },
+            {
+              "end": 63,
+              "normalized_text": "Nintendo",
+              "probability": 0.8521,
+              "start": 56,
+              "type": "Organization"
+            },
+            {
+              "end": 84,
+              "normalized_text": "NES Gaming Console",
+              "probability": 0.7065,
+              "start": 67,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "204858271",
+              "start": 3,
+              "username": "ComputerLove_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S2keuXY1ka",
+              "end": 109,
+              "expanded_url": "https://x.com/ComputerLove_/status/1928909208914735302/photo/1",
+              "media_key": "3_1928909193807097856",
+              "start": 86,
+              "url": "https://t.co/S2keuXY1ka"
+            },
+            {
+              "display_url": "pic.x.com/S2keuXY1ka",
+              "end": 109,
+              "expanded_url": "https://x.com/ComputerLove_/status/1928909208914735302/photo/1",
+              "media_key": "3_1928909193366614016",
+              "start": 86,
+              "url": "https://t.co/S2keuXY1ka"
+            },
+            {
+              "display_url": "pic.x.com/S2keuXY1ka",
+              "end": 109,
+              "expanded_url": "https://x.com/ComputerLove_/status/1928909208914735302/photo/1",
+              "media_key": "3_1928909193442111488",
+              "start": 86,
+              "url": "https://t.co/S2keuXY1ka"
+            },
+            {
+              "display_url": "pic.x.com/S2keuXY1ka",
+              "end": 109,
+              "expanded_url": "https://x.com/ComputerLove_/status/1928909208914735302/photo/1",
+              "media_key": "3_1928909193827987459",
+              "start": 86,
+              "url": "https://t.co/S2keuXY1ka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929051885195100296",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928909208914735302",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ComputerLove_: Love Hultén's Retro-Modern Update to Nintendo's NES Gaming Console https://t.co/S2keuXY1ka"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928909193807097856",
+            "3_1928909193366614016",
+            "3_1928909193442111488",
+            "3_1928909193827987459"
+          ]
+        },
+        "author_id": "204858271",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1928909208914735302",
+        "created_at": "2025-05-31T20:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T21:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928909208914735302"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "Love Hultén's Retro",
+              "probability": 0.6253,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 44,
+              "normalized_text": "Nintendo",
+              "probability": 0.9068,
+              "start": 37,
+              "type": "Organization"
+            },
+            {
+              "end": 65,
+              "normalized_text": "NES Gaming Console",
+              "probability": 0.6149,
+              "start": 48,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S2keuXY1ka",
+              "end": 90,
+              "expanded_url": "https://x.com/ComputerLove_/status/1928909208914735302/photo/1",
+              "media_key": "3_1928909193807097856",
+              "start": 67,
+              "url": "https://t.co/S2keuXY1ka"
+            },
+            {
+              "display_url": "pic.x.com/S2keuXY1ka",
+              "end": 90,
+              "expanded_url": "https://x.com/ComputerLove_/status/1928909208914735302/photo/1",
+              "media_key": "3_1928909193366614016",
+              "start": 67,
+              "url": "https://t.co/S2keuXY1ka"
+            },
+            {
+              "display_url": "pic.x.com/S2keuXY1ka",
+              "end": 90,
+              "expanded_url": "https://x.com/ComputerLove_/status/1928909208914735302/photo/1",
+              "media_key": "3_1928909193442111488",
+              "start": 67,
+              "url": "https://t.co/S2keuXY1ka"
+            },
+            {
+              "display_url": "pic.x.com/S2keuXY1ka",
+              "end": 90,
+              "expanded_url": "https://x.com/ComputerLove_/status/1928909208914735302/photo/1",
+              "media_key": "3_1928909193827987459",
+              "start": 67,
+              "url": "https://t.co/S2keuXY1ka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928909208914735302",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 4083,
+          "like_count": 189,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "Love Hultén's Retro-Modern Update to Nintendo's NES Gaming Console https://t.co/S2keuXY1ka"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠📢siren爱好者⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "_kagenone"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7631,
+          "following_count": 4661,
+          "like_count": 12695,
+          "listed_count": 20,
+          "media_count": 2228,
+          "tweet_count": 15796
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-19T16:28:21.000Z",
+        "description": "Underground Synth Instrumental Record Label based in LA, inspired by 80s nostalgia. Check out the latest releases: https://t.co/PlJ638mmrM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3FyRKl3",
+                "end": 138,
+                "expanded_url": "https://bit.ly/3FyRKl3",
+                "start": 115,
+                "url": "https://t.co/PlJ638mmrM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/computerlovere…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/computerloverecords?igsh=ZGUzMzM3NWJiOQ==",
+                "start": 0,
+                "url": "https://t.co/GDY32O0o7G"
+              }
+            ]
+          }
+        },
+        "id": "204858271",
+        "location": "Los Angeles, CA",
+        "name": "Computer ♥ Records",
+        "pinned_tweet_id": "1902406794011627979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/641480116317483009/XvOqs5Fo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29295,
+          "following_count": 27,
+          "like_count": 1750,
+          "listed_count": 250,
+          "media_count": 6281,
+          "tweet_count": 7166
+        },
+        "url": "https://t.co/GDY32O0o7G",
+        "username": "ComputerLove_",
+        "verified": true
+      }
+    ]
+  }
+}

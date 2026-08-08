@@ -1,0 +1,560 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1820747648309121024"
+      ],
+      "media_source_tweet_id": [
+        "1820748563338637581"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1273386679273807873",
+          "name": "3D animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1192082698568814592",
+          "name": "Animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1273386679273807873",
+          "name": "3D animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1273386679273807873",
+          "name": "3D animation"
+        }
+      }
+    ],
+    "conversation_id": "1856550765567062342",
+    "created_at": "2024-11-13T04:12:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-13T05:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856550765567062342"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 35,
+          "tag": "3DCG"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1299093286993326080",
+          "start": 3,
+          "username": "kensyouen_Y"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HltsfZQh6R",
+          "end": 64,
+          "expanded_url": "https://x.com/kensyouen_Y/status/1820748563338637581/video/1",
+          "media_key": "7_1820747648309121024",
+          "start": 41,
+          "url": "https://t.co/HltsfZQh6R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856550765567062342",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95929
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820748563338637581",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kensyouen_Y: 完成まで動かないでって言ったのに…\n#3DCG https://t.co/HltsfZQh6R"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54833,
+        "height": 1080,
+        "media_key": "7_1820747648309121024",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1820747648309121024/pu/img/XScr_ip0BDXJ8w2i.jpg",
+        "public_metrics": {
+          "view_count": 7381264
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1820747648309121024/pu/vid/avc1/1920x1080/40kGPQQt42lBf7jm.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1820747648309121024/pu/pl/D0JQ6VieQrm5jY9Z.m3u8?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1820747648309121024/pu/vid/avc1/640x360/405gJBcuM46-6FCS.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1820747648309121024/pu/vid/avc1/1280x720/zAKHBItILCucpuMY.mp4?tag=14"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1820747648309121024/pu/vid/avc1/480x270/vSTgmesGXfDYeV2B.mp4?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1820747648309121024"
+          ],
+          "media_source_tweet_id": [
+            "1820748563338637581"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          }
+        ],
+        "conversation_id": "1856550765567062342",
+        "created_at": "2024-11-13T04:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T05:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856550765567062342"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "3DCG"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1299093286993326080",
+              "start": 3,
+              "username": "kensyouen_Y"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HltsfZQh6R",
+              "end": 64,
+              "expanded_url": "https://x.com/kensyouen_Y/status/1820748563338637581/video/1",
+              "media_key": "7_1820747648309121024",
+              "start": 41,
+              "url": "https://t.co/HltsfZQh6R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856550765567062342",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 95929
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820748563338637581",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kensyouen_Y: 完成まで動かないでって言ったのに…\n#3DCG https://t.co/HltsfZQh6R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1820747648309121024"
+          ]
+        },
+        "author_id": "1299093286993326080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          }
+        ],
+        "conversation_id": "1820748563338637581",
+        "created_at": "2024-08-06T09:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T10:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820748563338637581"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "3DCG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HltsfZQh6R",
+              "end": 47,
+              "expanded_url": "https://x.com/kensyouen_Y/status/1820748563338637581/video/1",
+              "media_key": "7_1820747648309121024",
+              "start": 24,
+              "url": "https://t.co/HltsfZQh6R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820748563338637581",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73588,
+          "impression_count": 20108233,
+          "like_count": 455761,
+          "quote_count": 5674,
+          "reply_count": 1773,
+          "retweet_count": 95929
+        },
+        "reply_settings": "everyone",
+        "text": "完成まで動かないでって言ったのに…\n#3DCG https://t.co/HltsfZQh6R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain📷膠片攝影/相机维修🚬大烟鬼🔪刃物收藏⌚️入门表匠⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "_kagenone"
+              },
+              {
+                "end": 137,
+                "start": 132,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7273,
+          "following_count": 4252,
+          "like_count": 11617,
+          "listed_count": 18,
+          "tweet_count": 13896
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-27T21:16:43.000Z",
+        "description": "🇯🇵3D modeling artist. \n業界片隅のフリーランス3Dモデラー(or SV)\n今はUnity使うVさんかゲームのお仕事多め\n本業Maya、blender勉強中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@kensyouen_Y",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@kensyouen_Y",
+                "start": 0,
+                "url": "https://t.co/CgqUS8GlgR"
+              }
+            ]
+          }
+        },
+        "id": "1299093286993326080",
+        "location": "tokyo",
+        "name": "腱鞘炎と戦うデザイナー | 秋までお仕事day",
+        "pinned_tweet_id": "1778347591304106000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651572801424490496/gAC6IHvU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90760,
+          "following_count": 382,
+          "like_count": 1269,
+          "listed_count": 676,
+          "tweet_count": 477
+        },
+        "url": "https://t.co/CgqUS8GlgR",
+        "username": "kensyouen_Y",
+        "verified": true
+      }
+    ]
+  }
+}

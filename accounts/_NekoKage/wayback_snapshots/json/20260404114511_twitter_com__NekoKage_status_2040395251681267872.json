@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040364735129128960"
+      ],
+      "media_source_tweet_id": [
+        "2040364743794586071"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Conversation about eating",
+          "id": "1006277774384828416",
+          "name": "Food experience"
+        }
+      }
+    ],
+    "conversation_id": "2040395251681267872",
+    "created_at": "2026-04-04T11:45:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T12:45:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040395251681267872"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 47,
+          "tag": "中国を描く"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1081044952946171905",
+          "start": 3,
+          "username": "hexagon_gon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CfOOb7eLs9",
+          "end": 77,
+          "expanded_url": "https://x.com/hexagon_gon/status/2040364743794586071/photo/1",
+          "media_key": "3_2040364735129128960",
+          "start": 54,
+          "url": "https://t.co/CfOOb7eLs9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040395251681267872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040364743794586071",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hexagon_gon: 中国の通りでガッツリ食べる朝ごはん\n在路边好好吃一顿早饭🥣\n#中国を描く https://t.co/CfOOb7eLs9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040364735129128960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFDU6pGbEAAVIuI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040364735129128960"
+          ],
+          "media_source_tweet_id": [
+            "2040364743794586071"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Conversation about eating",
+              "id": "1006277774384828416",
+              "name": "Food experience"
+            }
+          }
+        ],
+        "conversation_id": "2040395251681267872",
+        "created_at": "2026-04-04T11:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040395251681267872"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 47,
+              "tag": "中国を描く"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1081044952946171905",
+              "start": 3,
+              "username": "hexagon_gon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CfOOb7eLs9",
+              "end": 77,
+              "expanded_url": "https://x.com/hexagon_gon/status/2040364743794586071/photo/1",
+              "media_key": "3_2040364735129128960",
+              "start": 54,
+              "url": "https://t.co/CfOOb7eLs9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040395251681267872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040364743794586071",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hexagon_gon: 中国の通りでガッツリ食べる朝ごはん\n在路边好好吃一顿早饭🥣\n#中国を描く https://t.co/CfOOb7eLs9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040364735129128960"
+          ]
+        },
+        "author_id": "1081044952946171905",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Conversation about eating",
+              "id": "1006277774384828416",
+              "name": "Food experience"
+            }
+          }
+        ],
+        "conversation_id": "2040364743794586071",
+        "created_at": "2026-04-04T09:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T10:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040364743794586071"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 30,
+              "tag": "中国を描く"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CfOOb7eLs9",
+              "end": 60,
+              "expanded_url": "https://x.com/hexagon_gon/status/2040364743794586071/photo/1",
+              "media_key": "3_2040364735129128960",
+              "start": 37,
+              "url": "https://t.co/CfOOb7eLs9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040364743794586071",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1204,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "中国の通りでガッツリ食べる朝ごはん\n在路边好好吃一顿早饭🥣\n#中国を描く https://t.co/CfOOb7eLs9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8200,
+          "following_count": 6128,
+          "like_count": 14282,
+          "listed_count": 17,
+          "media_count": 2744,
+          "tweet_count": 20036
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-04T04:29:36.000Z",
+        "description": "東・東南・南アジア文化圏をゆるくエンジョイしたりお絵かきしたりします #中国を描く #日本を描く #へきさごん版権",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 35,
+                "tag": "中国を描く"
+              },
+              {
+                "end": 48,
+                "start": 42,
+                "tag": "日本を描く"
+              },
+              {
+                "end": 57,
+                "start": 49,
+                "tag": "へきさごん版権"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/hexa666gon",
+                "end": 23,
+                "expanded_url": "https://note.com/hexa666gon",
+                "start": 0,
+                "url": "https://t.co/CASke57mCA"
+              }
+            ]
+          }
+        },
+        "id": "1081044952946171905",
+        "name": "へきさごん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1081045131388579840/1bT9w8s8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 389,
+          "like_count": 27133,
+          "listed_count": 11,
+          "media_count": 285,
+          "tweet_count": 1895
+        },
+        "url": "https://t.co/CASke57mCA",
+        "username": "hexagon_gon",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "856568905648578560",
+          "name": "Grand Theft Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "856568905648578560",
+          "name": "Grand Theft Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2028081675750764640",
+    "created_at": "2026-03-01T12:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T13:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028081675750764640"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 68,
+          "normalized_text": "Xi",
+          "probability": 0.6403,
+          "start": 67,
+          "type": "Other"
+        },
+        {
+          "end": 82,
+          "normalized_text": "GTA VI",
+          "probability": 0.886,
+          "start": 77,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1382209054999646212",
+          "start": 3,
+          "username": "ElonMuskAOC"
+        },
+        {
+          "end": 32,
+          "id": "1922101459925209088",
+          "start": 17,
+          "username": "CarolingianSon"
+        },
+        {
+          "end": 47,
+          "id": "1182726590",
+          "start": 33,
+          "username": "peter_carruth"
+        },
+        {
+          "end": 53,
+          "id": "1720665183188922368",
+          "start": 48,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028081675750764640",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027992506445795447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ElonMuskAOC: @CarolingianSon @peter_carruth @grok We might get Xi before GTA VI is out"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2028081675750764640",
+        "created_at": "2026-03-01T12:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T13:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028081675750764640"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 68,
+              "normalized_text": "Xi",
+              "probability": 0.6403,
+              "start": 67,
+              "type": "Other"
+            },
+            {
+              "end": 82,
+              "normalized_text": "GTA VI",
+              "probability": 0.886,
+              "start": 77,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1382209054999646212",
+              "start": 3,
+              "username": "ElonMuskAOC"
+            },
+            {
+              "end": 32,
+              "id": "1922101459925209088",
+              "start": 17,
+              "username": "CarolingianSon"
+            },
+            {
+              "end": 47,
+              "id": "1182726590",
+              "start": 33,
+              "username": "peter_carruth"
+            },
+            {
+              "end": 53,
+              "id": "1720665183188922368",
+              "start": 48,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028081675750764640",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027992506445795447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ElonMuskAOC: @CarolingianSon @peter_carruth @grok We might get Xi before GTA VI is out"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1382209054999646212",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2027965159118102877",
+        "created_at": "2026-03-01T06:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T07:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027992506445795447"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 51,
+              "normalized_text": "Xi",
+              "probability": 0.6339,
+              "start": 50,
+              "type": "Other"
+            },
+            {
+              "end": 65,
+              "normalized_text": "GTA VI",
+              "probability": 0.872,
+              "start": 60,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1922101459925209088",
+              "start": 0,
+              "username": "CarolingianSon"
+            },
+            {
+              "end": 30,
+              "id": "1182726590",
+              "start": 16,
+              "username": "peter_carruth"
+            },
+            {
+              "end": 36,
+              "id": "1720665183188922368",
+              "start": 31,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027992506445795447",
+        "in_reply_to_user_id": "1922101459925209088",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 245044,
+          "like_count": 112,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027969092318282034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CarolingianSon @peter_carruth @grok We might get Xi before GTA VI is out"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 118,
+                "start": 113,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2026735481388675507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8151,
+          "following_count": 5892,
+          "like_count": 13988,
+          "listed_count": 17,
+          "media_count": 2635,
+          "tweet_count": 19448
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-14T05:48:23.000Z",
+        "description": "I’m on a quest to bang AOC on Mars. (Parody Account)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "elon-musk-news.beehiiv.com",
+                "end": 23,
+                "expanded_url": "http://elon-musk-news.beehiiv.com",
+                "start": 0,
+                "url": "https://t.co/PhPWxIZuoa"
+              }
+            ]
+          }
+        },
+        "id": "1382209054999646212",
+        "location": "Mars",
+        "name": "Not Elon Musk",
+        "pinned_tweet_id": "2027610975042777546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785089965619118080/NATKmh45_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1687257,
+          "following_count": 736,
+          "like_count": 69097,
+          "listed_count": 2621,
+          "media_count": 15258,
+          "tweet_count": 51086
+        },
+        "url": "https://t.co/PhPWxIZuoa",
+        "username": "ElonMuskAOC",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-13T01:28:14.000Z",
+        "description": "Nationalist | Cultural Restoration | Fighting for a Renewed West | Deus Juvat - God Assists ⚔️🇺🇸🇬🇧",
+        "id": "1922101459925209088",
+        "name": "CarolingianSon",
+        "pinned_tweet_id": "1986988023142306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977774332949700608/g-2RB_oz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 975,
+          "like_count": 7608,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 2690
+        },
+        "username": "CarolingianSon",
+        "verified": true
+      },
+      {
+        "created_at": "2013-02-15T14:05:09.000Z",
+        "description": "Dad, Husband, Farmer, pilot",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Tesla.com",
+                "end": 23,
+                "expanded_url": "http://Tesla.com",
+                "start": 0,
+                "url": "https://t.co/QZCEgEaQkI"
+              }
+            ]
+          }
+        },
+        "id": "1182726590",
+        "location": "MN",
+        "name": "Peter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008285840959483904/XsrpYndt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3541,
+          "following_count": 1299,
+          "like_count": 256548,
+          "listed_count": 9,
+          "media_count": 201,
+          "tweet_count": 39089
+        },
+        "url": "https://t.co/QZCEgEaQkI",
+        "username": "peter_carruth",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8163988,
+          "following_count": 3,
+          "like_count": 85,
+          "listed_count": 6250,
+          "media_count": 8510821,
+          "tweet_count": 110422578
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1820075088445595649",
+        "3_1820075088504373248",
+        "3_1820075088449847296"
+      ],
+      "media_source_tweet_id": [
+        "1820075093646561667",
+        "1820075093646561667",
+        "1820075093646561667"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "1820167277259674097",
+    "created_at": "2024-08-04T18:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-04T19:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820167277259674097"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 62,
+          "normalized_text": "Apple iPod Classic",
+          "probability": 0.5558,
+          "start": 45,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1133417877200146432",
+          "start": 3,
+          "username": "eliteobsolete"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/rfjLXMpjed",
+          "end": 130,
+          "expanded_url": "https://twitter.com/eliteobsolete/status/1820075093646561667/photo/1",
+          "media_key": "3_1820075088445595649",
+          "start": 107,
+          "url": "https://t.co/rfjLXMpjed"
+        },
+        {
+          "display_url": "pic.twitter.com/rfjLXMpjed",
+          "end": 130,
+          "expanded_url": "https://twitter.com/eliteobsolete/status/1820075093646561667/photo/1",
+          "media_key": "3_1820075088504373248",
+          "start": 107,
+          "url": "https://t.co/rfjLXMpjed"
+        },
+        {
+          "display_url": "pic.twitter.com/rfjLXMpjed",
+          "end": 130,
+          "expanded_url": "https://twitter.com/eliteobsolete/status/1820075093646561667/photo/1",
+          "media_key": "3_1820075088449847296",
+          "start": 107,
+          "url": "https://t.co/rfjLXMpjed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820167277259674097",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820075093646561667",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eliteobsolete: quick look at a destroyed Apple iPod Classic 6th Generation 160GB DVT prototype 💀 RIP 🪦 https://t.co/rfjLXMpjed"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1820075088445595649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUI0pldWYAEyZvN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1820075088504373248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUI0plrXQAAJDEY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1820075088449847296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUI0pleXQAAf6-F.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820075088445595649",
+            "3_1820075088504373248",
+            "3_1820075088449847296"
+          ],
+          "media_source_tweet_id": [
+            "1820075093646561667",
+            "1820075093646561667",
+            "1820075093646561667"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "1820167277259674097",
+        "created_at": "2024-08-04T18:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T19:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820167277259674097"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 62,
+              "normalized_text": "Apple iPod Classic",
+              "probability": 0.5558,
+              "start": 45,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1133417877200146432",
+              "start": 3,
+              "username": "eliteobsolete"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/rfjLXMpjed",
+              "end": 130,
+              "expanded_url": "https://twitter.com/eliteobsolete/status/1820075093646561667/photo/1",
+              "media_key": "3_1820075088445595649",
+              "start": 107,
+              "url": "https://t.co/rfjLXMpjed"
+            },
+            {
+              "display_url": "pic.twitter.com/rfjLXMpjed",
+              "end": 130,
+              "expanded_url": "https://twitter.com/eliteobsolete/status/1820075093646561667/photo/1",
+              "media_key": "3_1820075088504373248",
+              "start": 107,
+              "url": "https://t.co/rfjLXMpjed"
+            },
+            {
+              "display_url": "pic.twitter.com/rfjLXMpjed",
+              "end": 130,
+              "expanded_url": "https://twitter.com/eliteobsolete/status/1820075093646561667/photo/1",
+              "media_key": "3_1820075088449847296",
+              "start": 107,
+              "url": "https://t.co/rfjLXMpjed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820167277259674097",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820075093646561667",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eliteobsolete: quick look at a destroyed Apple iPod Classic 6th Generation 160GB DVT prototype 💀 RIP 🪦 https://t.co/rfjLXMpjed"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820075088445595649",
+            "3_1820075088504373248",
+            "3_1820075088449847296"
+          ]
+        },
+        "author_id": "1133417877200146432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "1820075093646561667",
+        "created_at": "2024-08-04T12:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T13:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820075093646561667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/rfjLXMpjed",
+              "end": 111,
+              "expanded_url": "https://twitter.com/eliteobsolete/status/1820075093646561667/photo/1",
+              "media_key": "3_1820075088445595649",
+              "start": 88,
+              "url": "https://t.co/rfjLXMpjed"
+            },
+            {
+              "display_url": "pic.twitter.com/rfjLXMpjed",
+              "end": 111,
+              "expanded_url": "https://twitter.com/eliteobsolete/status/1820075093646561667/photo/1",
+              "media_key": "3_1820075088504373248",
+              "start": 88,
+              "url": "https://t.co/rfjLXMpjed"
+            },
+            {
+              "display_url": "pic.twitter.com/rfjLXMpjed",
+              "end": 111,
+              "expanded_url": "https://twitter.com/eliteobsolete/status/1820075093646561667/photo/1",
+              "media_key": "3_1820075088449847296",
+              "start": 88,
+              "url": "https://t.co/rfjLXMpjed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820075093646561667",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2431,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "quick look at a destroyed Apple iPod Classic 6th Generation 160GB DVT prototype 💀 RIP 🪦 https://t.co/rfjLXMpjed"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain📷膠片攝影🎧HiFi糊烧🚬大烟鬼🔪刃物收藏⌚️入门表匠🚪88⚠️里推:@_kagenone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "_kagenone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7024,
+          "following_count": 4064,
+          "like_count": 10235,
+          "listed_count": 18,
+          "tweet_count": 12671
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-28T17:00:54.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "magicipod.xyz",
+                "end": 23,
+                "expanded_url": "http://magicipod.xyz/",
+                "start": 0,
+                "url": "https://t.co/SlXGRKRYkp"
+              }
+            ]
+          }
+        },
+        "id": "1133417877200146432",
+        "location": "Kansas City",
+        "name": "Elite Obsolete Electronics",
+        "pinned_tweet_id": "1819854419296481565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1547718704825114624/mfZz-OVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20752,
+          "following_count": 626,
+          "like_count": 13011,
+          "listed_count": 43,
+          "tweet_count": 4558
+        },
+        "url": "https://t.co/SlXGRKRYkp",
+        "username": "eliteobsolete",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1805863660394528769"
+      ],
+      "media_source_tweet_id": [
+        "1805863758499397843"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "1805895889573077222",
+    "created_at": "2024-06-26T09:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T10:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805895889573077222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1388605080",
+          "start": 3,
+          "username": "pice1234"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/bjaCPdSq6Q",
+          "end": 44,
+          "expanded_url": "https://twitter.com/pice1234/status/1805863758499397843/photo/1",
+          "media_key": "3_1805863660394528769",
+          "start": 21,
+          "url": "https://t.co/bjaCPdSq6Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805895889573077222",
+    "lang": "und",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 764
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805863758499397843",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pice1234: fnb up https://t.co/bjaCPdSq6Q"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1805895889573077222].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1805895889573077222",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1805895889573077222"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1805863660394528769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQ-3bmaaQAEckOI.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1805863660394528769"
+          ]
+        },
+        "author_id": "1388605080",
+        "conversation_id": "1805863758499397843",
+        "created_at": "2024-06-26T07:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T08:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805863758499397843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/bjaCPdSq6Q",
+              "end": 30,
+              "expanded_url": "https://twitter.com/pice1234/status/1805863758499397843/photo/1",
+              "media_key": "3_1805863660394528769",
+              "start": 7,
+              "url": "https://t.co/bjaCPdSq6Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805863758499397843",
+        "lang": "und",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1789,
+          "impression_count": 80244,
+          "like_count": 6106,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 764
+        },
+        "reply_settings": "everyone",
+        "text": "fnb up https://t.co/bjaCPdSq6Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid🎸聚乙烯乐队🎧HiFi糊烧🚬大烟鬼🔪刃物收藏⌚️入门表匠🚗JDM📷黑白摄影🚪88⚠️@_kagenone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "_kagenone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6922,
+          "following_count": 3918,
+          "like_count": 9554,
+          "listed_count": 20,
+          "tweet_count": 12064
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-29T04:28:06.000Z",
+        "description": "NSWF RT多め not BL 雑食\nskeb:https://t.co/lF4oOJvu9f\nFanbox:https://t.co/392WHOkwgW\nrequest:https://t.co/mTy863hCED\nみすき:https://t.co/GF3gKEw6fu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@pice1234",
+                "end": 48,
+                "expanded_url": "https://skeb.jp/@pice1234",
+                "start": 25,
+                "url": "https://t.co/lF4oOJvu9f"
+              },
+              {
+                "display_url": "pice1234.fanbox.cc",
+                "end": 79,
+                "expanded_url": "http://pice1234.fanbox.cc",
+                "start": 56,
+                "url": "https://t.co/392WHOkwgW"
+              },
+              {
+                "display_url": "odaibako.net/u/pice1234",
+                "end": 111,
+                "expanded_url": "https://odaibako.net/u/pice1234",
+                "start": 88,
+                "url": "https://t.co/mTy863hCED"
+              },
+              {
+                "display_url": "misskey.io/@konery",
+                "end": 139,
+                "expanded_url": "https://misskey.io/@konery",
+                "start": 116,
+                "url": "https://t.co/GF3gKEw6fu"
+              }
+            ]
+          }
+        },
+        "id": "1388605080",
+        "location": "twitch",
+        "name": "御餅こねりい🔞",
+        "pinned_tweet_id": "1155472599670915078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730252460181327872/bUJmxQqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124343,
+          "following_count": 2662,
+          "like_count": 2231,
+          "listed_count": 809,
+          "tweet_count": 5427
+        },
+        "username": "pice1234",
+        "verified": false
+      }
+    ]
+  }
+}

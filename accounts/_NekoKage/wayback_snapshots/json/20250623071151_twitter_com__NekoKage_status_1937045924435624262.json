@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1936748803035418624"
+      ],
+      "media_source_tweet_id": [
+        "1936748823927284140"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      }
+    ],
+    "conversation_id": "1937045924435624262",
+    "created_at": "2025-06-23T07:11:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T08:11:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937045924435624262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1492677599390322689",
+          "start": 3,
+          "username": "weirddalle"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8JQCOFrssT",
+          "end": 39,
+          "expanded_url": "https://x.com/weirddalle/status/1936748823927284140/video/1",
+          "media_key": "7_1936748803035418624",
+          "start": 16,
+          "url": "https://t.co/8JQCOFrssT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937045924435624262",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1939
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936748823927284140",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @weirddalle: https://t.co/8JQCOFrssT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 73545,
+        "height": 360,
+        "media_key": "7_1936748803035418624",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1936748803035418624/pu/img/ehoFJ0xOlKKjTKji.jpg",
+        "public_metrics": {
+          "view_count": 158194
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1936748803035418624/pu/vid/avc1/360x360/979RRLThsQMjfj7V.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1936748803035418624/pu/pl/KmvhTfJGUHj-4vmT.m3u8?tag=12&v=bf5"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1936748803035418624"
+          ],
+          "media_source_tweet_id": [
+            "1936748823927284140"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1937045924435624262",
+        "created_at": "2025-06-23T07:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T08:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937045924435624262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1492677599390322689",
+              "start": 3,
+              "username": "weirddalle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8JQCOFrssT",
+              "end": 39,
+              "expanded_url": "https://x.com/weirddalle/status/1936748823927284140/video/1",
+              "media_key": "7_1936748803035418624",
+              "start": 16,
+              "url": "https://t.co/8JQCOFrssT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937045924435624262",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1939
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936748823927284140",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @weirddalle: https://t.co/8JQCOFrssT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1936748803035418624"
+          ]
+        },
+        "author_id": "1492677599390322689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1936748823927284140",
+        "created_at": "2025-06-22T11:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T12:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936748823927284140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8JQCOFrssT",
+              "end": 23,
+              "expanded_url": "https://x.com/weirddalle/status/1936748823927284140/video/1",
+              "media_key": "7_1936748803035418624",
+              "start": 0,
+              "url": "https://t.co/8JQCOFrssT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936748823927284140",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3574,
+          "impression_count": 326021,
+          "like_count": 13262,
+          "quote_count": 153,
+          "reply_count": 92,
+          "retweet_count": 1939
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8JQCOFrssT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🐈#RainWorld⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 107,
+                "tag": "RainWorld"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "_kagenone"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7657,
+          "following_count": 4716,
+          "like_count": 12783,
+          "listed_count": 19,
+          "media_count": 2259,
+          "tweet_count": 16007
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T01:50:55.000Z",
+        "description": "making memes at @memelordtech | @weirddalleslop | create your own memes easily here 👇 try for free",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "memelordtech"
+              },
+              {
+                "end": 47,
+                "start": 32,
+                "username": "weirddalleslop"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "memelord.tech/?via=weirddalle",
+                "end": 23,
+                "expanded_url": "https://memelord.tech/?via=weirddalle",
+                "start": 0,
+                "url": "https://t.co/UtJH236g8c"
+              }
+            ]
+          }
+        },
+        "id": "1492677599390322689",
+        "name": "no context memes",
+        "pinned_tweet_id": "1936771695399854425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1694331764091564032/My5iC3pg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2090504,
+          "following_count": 562,
+          "like_count": 25442,
+          "listed_count": 3534,
+          "media_count": 22093,
+          "tweet_count": 24038
+        },
+        "url": "https://t.co/UtJH236g8c",
+        "username": "weirddalle",
+        "verified": true
+      }
+    ]
+  }
+}

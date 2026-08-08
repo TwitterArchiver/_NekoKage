@@ -1,0 +1,488 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      }
+    ],
+    "conversation_id": "2033317155417301079",
+    "created_at": "2026-03-15T22:59:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T23:59:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033317155417301079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1017604796042211330",
+          "start": 3,
+          "username": "Evenin_eko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033317155417301079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033164462757478879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Evenin_eko: 微软是这样的，一个临时解决方案能用很久。\n现在Windows的磁盘格式化GUI界面，还是三十多年前一个微软程序员随手写的。他的本意是“先用这个凑合一下，然后再设计一个更直观更好的GUI”。\n然后这个界面被一直沿用到了今天。 https://t.c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 602,
+        "media_key": "3_2033164459833999360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDdATdZawAANhEx.png",
+        "width": 316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2033317155417301079",
+        "created_at": "2026-03-15T22:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T23:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033317155417301079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1017604796042211330",
+              "start": 3,
+              "username": "Evenin_eko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033317155417301079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033164462757478879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Evenin_eko: 微软是这样的，一个临时解决方案能用很久。\n现在Windows的磁盘格式化GUI界面，还是三十多年前一个微软程序员随手写的。他的本意是“先用这个凑合一下，然后再设计一个更直观更好的GUI”。\n然后这个界面被一直沿用到了今天。 https://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033164459833999360"
+          ]
+        },
+        "author_id": "1017604796042211330",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2033164462757478879",
+        "created_at": "2026-03-15T12:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T13:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033164462757478879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ax6f0e3GAi",
+              "end": 135,
+              "expanded_url": "https://x.com/Evenin_eko/status/2033164462757478879/photo/1",
+              "media_key": "3_2033164459833999360",
+              "start": 112,
+              "url": "https://t.co/Ax6f0e3GAi"
+            },
+            {
+              "display_url": "x.com/landiantech/st…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/landiantech/status/2033035753484419362",
+              "start": 136,
+              "url": "https://t.co/sExxif99cG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033164462757478879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 28060,
+          "like_count": 121,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033035753484419362",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "微软是这样的，一个临时解决方案能用很久。\n现在Windows的磁盘格式化GUI界面，还是三十多年前一个微软程序员随手写的。他的本意是“先用这个凑合一下，然后再设计一个更直观更好的GUI”。\n然后这个界面被一直沿用到了今天。 https://t.co/Ax6f0e3GAi https://t.co/sExxif99cG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 118,
+                "start": 113,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8163,
+          "following_count": 5955,
+          "like_count": 14114,
+          "listed_count": 17,
+          "media_count": 2687,
+          "tweet_count": 19717
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-13T03:01:04.000Z",
+        "description": "DTMer&Coder｜东大情理备考中｜Founder of Cocomilk_Lab / Member of PASAU SOUND｜最爱的小女友 @eggtartqwq｜个人交流群：929518731",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "eggtartqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shiori-net.work",
+                "end": 23,
+                "expanded_url": "https://shiori-net.work/",
+                "start": 0,
+                "url": "https://t.co/wKiADpYai2"
+              }
+            ]
+          }
+        },
+        "id": "1017604796042211330",
+        "location": "Hokkaidō, Japan",
+        "name": "淺川 曦✨ 詩織網路 Shiori Networks",
+        "pinned_tweet_id": "2023338451878506907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950168958138740736/cICoLDtw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3169,
+          "following_count": 1188,
+          "like_count": 171480,
+          "listed_count": 13,
+          "media_count": 2884,
+          "tweet_count": 30655
+        },
+        "url": "https://t.co/wKiADpYai2",
+        "username": "Evenin_eko",
+        "verified": false
+      }
+    ]
+  }
+}

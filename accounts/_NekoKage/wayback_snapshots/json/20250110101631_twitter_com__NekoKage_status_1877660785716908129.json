@@ -1,0 +1,518 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026325466",
+          "name": "IBM"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026325466",
+          "name": "IBM"
+        }
+      }
+    ],
+    "conversation_id": "1877660785716908129",
+    "created_at": "2025-01-10T10:16:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T11:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877660785716908129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "204858271",
+          "start": 3,
+          "username": "ComputerLove_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877660785716908129",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1633
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877121576102986113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ComputerLove_: Susan Kare, famous graphic artist who designed many of the fonts, icons, and images for Apple, NeXT, Microsoft, and IBM.…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026325466",
+              "name": "IBM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026325466",
+              "name": "IBM"
+            }
+          }
+        ],
+        "conversation_id": "1877660785716908129",
+        "created_at": "2025-01-10T10:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T11:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877660785716908129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "204858271",
+              "start": 3,
+              "username": "ComputerLove_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877660785716908129",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1633
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877121576102986113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ComputerLove_: Susan Kare, famous graphic artist who designed many of the fonts, icons, and images for Apple, NeXT, Microsoft, and IBM.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877121571782901760"
+          ]
+        },
+        "author_id": "204858271",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026325466",
+              "name": "IBM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026325466",
+              "name": "IBM"
+            }
+          }
+        ],
+        "conversation_id": "1877121576102986113",
+        "created_at": "2025-01-08T22:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T23:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877121576102986113"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Susan Kare",
+              "probability": 0.9458,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 92,
+              "normalized_text": "Apple",
+              "probability": 0.8353,
+              "start": 88,
+              "type": "Organization"
+            },
+            {
+              "end": 98,
+              "normalized_text": "NeXT",
+              "probability": 0.4614,
+              "start": 95,
+              "type": "Organization"
+            },
+            {
+              "end": 109,
+              "normalized_text": "Microsoft",
+              "probability": 0.891,
+              "start": 101,
+              "type": "Organization"
+            },
+            {
+              "end": 118,
+              "normalized_text": "IBM",
+              "probability": 0.9077,
+              "start": 116,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fMFcKpihpb",
+              "end": 152,
+              "expanded_url": "https://x.com/ComputerLove_/status/1877121576102986113/photo/1",
+              "media_key": "3_1877121571782901760",
+              "start": 129,
+              "url": "https://t.co/fMFcKpihpb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877121576102986113",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2013,
+          "impression_count": 308021,
+          "like_count": 14933,
+          "quote_count": 257,
+          "reply_count": 65,
+          "retweet_count": 1633
+        },
+        "reply_settings": "everyone",
+        "text": "Susan Kare, famous graphic artist who designed many of the fonts, icons, and images for Apple, NeXT, Microsoft, and IBM. (1980s) https://t.co/fMFcKpihpb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain📷膠片攝影/相机维修🚬大烟鬼🔪刃物收藏⌚️入门表匠⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "_kagenone"
+              },
+              {
+                "end": 137,
+                "start": 132,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7451,
+          "following_count": 4454,
+          "like_count": 12227,
+          "listed_count": 19,
+          "media_count": 2098,
+          "tweet_count": 14709
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-19T16:28:21.000Z",
+        "description": "Underground Synth Instrumental Record Label based in LA, inspired by 80s nostalgia. Check out the latest releases: https://t.co/PlJ638mmrM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3FyRKl3",
+                "end": 138,
+                "expanded_url": "https://bit.ly/3FyRKl3",
+                "start": 115,
+                "url": "https://t.co/PlJ638mmrM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/computerlovere…",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/computerloverecords",
+                "start": 0,
+                "url": "https://t.co/VeryKmLFlp"
+              }
+            ]
+          }
+        },
+        "id": "204858271",
+        "location": "Los Angeles, CA",
+        "name": "Computer ♥ Records",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/641480116317483009/XvOqs5Fo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21462,
+          "following_count": 27,
+          "like_count": 1687,
+          "listed_count": 0,
+          "media_count": 5647,
+          "tweet_count": 6525
+        },
+        "url": "https://t.co/VeryKmLFlp",
+        "username": "ComputerLove_",
+        "verified": false
+      }
+    ]
+  }
+}

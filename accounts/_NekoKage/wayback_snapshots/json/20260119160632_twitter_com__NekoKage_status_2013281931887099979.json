@@ -1,0 +1,570 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2012825042996838400"
+      ],
+      "media_source_tweet_id": [
+        "2012826999580967367"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291184917221535744",
+          "name": "Hip hop"
+        }
+      }
+    ],
+    "conversation_id": "2013281931887099979",
+    "created_at": "2026-01-19T16:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T17:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013281931887099979"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 31,
+          "tag": "hiphop"
+        },
+        {
+          "end": 45,
+          "start": 39,
+          "tag": "beats"
+        },
+        {
+          "end": 54,
+          "start": 46,
+          "tag": "boombap"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "737934961832013825",
+          "start": 3,
+          "username": "moot_sai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P6q3BJODJi",
+          "end": 78,
+          "expanded_url": "https://x.com/moot_sai/status/2012826999580967367/video/1",
+          "media_key": "13_2012825042996838400",
+          "start": 55,
+          "url": "https://t.co/P6q3BJODJi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013281931887099979",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 354
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012826999580967367",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moot_sai: ミニマルセットでブルージーな感じ\n#hiphop #beats #boombap https://t.co/P6q3BJODJi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 145081,
+        "height": 1080,
+        "media_key": "13_2012825042996838400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2012825042996838400/img/Y4LhG9Nhb9xzG6Tv.jpg",
+        "public_metrics": {
+          "view_count": 312
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2012825042996838400/pl/SrHwZ_Z36Icpn-AX.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012825042996838400/vid/avc1/640x360/YTuaIYLOznQ_L-cN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012825042996838400/vid/avc1/1280x720/KpRraFxhK-OvSIGR.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012825042996838400/vid/avc1/1920x1080/31LghKqfJpBZ6RZD.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012825042996838400/vid/avc1/480x270/ykOwAoX5aSKcP5c9.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2012825042996838400"
+          ],
+          "media_source_tweet_id": [
+            "2012826999580967367"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "2013281931887099979",
+        "created_at": "2026-01-19T16:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T17:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013281931887099979"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 31,
+              "tag": "hiphop"
+            },
+            {
+              "end": 45,
+              "start": 39,
+              "tag": "beats"
+            },
+            {
+              "end": 54,
+              "start": 46,
+              "tag": "boombap"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "737934961832013825",
+              "start": 3,
+              "username": "moot_sai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P6q3BJODJi",
+              "end": 78,
+              "expanded_url": "https://x.com/moot_sai/status/2012826999580967367/video/1",
+              "media_key": "13_2012825042996838400",
+              "start": 55,
+              "url": "https://t.co/P6q3BJODJi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013281931887099979",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 354
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012826999580967367",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moot_sai: ミニマルセットでブルージーな感じ\n#hiphop #beats #boombap https://t.co/P6q3BJODJi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2012825042996838400"
+          ]
+        },
+        "author_id": "737934961832013825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "2012826999580967367",
+        "created_at": "2026-01-18T09:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T10:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012826999580967367"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 17,
+              "tag": "hiphop"
+            },
+            {
+              "end": 31,
+              "start": 25,
+              "tag": "beats"
+            },
+            {
+              "end": 40,
+              "start": 32,
+              "tag": "boombap"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P6q3BJODJi",
+              "end": 64,
+              "expanded_url": "https://x.com/moot_sai/status/2012826999580967367/video/1",
+              "media_key": "13_2012825042996838400",
+              "start": 41,
+              "url": "https://t.co/P6q3BJODJi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012826999580967367",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 910,
+          "impression_count": 102350,
+          "like_count": 2831,
+          "quote_count": 7,
+          "reply_count": 16,
+          "retweet_count": 354
+        },
+        "reply_settings": "everyone",
+        "text": "ミニマルセットでブルージーな感じ\n#hiphop #beats #boombap https://t.co/P6q3BJODJi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7954,
+          "following_count": 5607,
+          "like_count": 13760,
+          "listed_count": 17,
+          "media_count": 2561,
+          "tweet_count": 18806
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-01T09:12:59.000Z",
+        "description": "Thankass／UltimatePixelCrew 作品はタンブラーへ 仕事などあればお気軽に  音楽 https://t.co/UQlyRgwPNz サブスク https://t.co/fuXLRVYBd3  ✉️moot.saito■gmail●com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "soundcloud.com/djissy",
+                "end": 76,
+                "expanded_url": "http://soundcloud.com/djissy",
+                "start": 53,
+                "url": "https://t.co/UQlyRgwPNz"
+              },
+              {
+                "display_url": "big-up.style/artists/200012",
+                "end": 105,
+                "expanded_url": "https://big-up.style/artists/200012",
+                "start": 82,
+                "url": "https://t.co/fuXLRVYBd3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "motocross-arts.tumblr.com",
+                "end": 23,
+                "expanded_url": "http://motocross-arts.tumblr.com/",
+                "start": 0,
+                "url": "https://t.co/cFpTm3xfSC"
+              }
+            ]
+          }
+        },
+        "id": "737934961832013825",
+        "name": "モトクロス斉藤/Thankass/UPC",
+        "pinned_tweet_id": "1249260973182955522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1194205394609901571/HxGj8_4m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53537,
+          "following_count": 1949,
+          "like_count": 13046,
+          "listed_count": 828,
+          "media_count": 577,
+          "tweet_count": 5491
+        },
+        "url": "https://t.co/cFpTm3xfSC",
+        "username": "moot_sai",
+        "verified": true
+      }
+    ]
+  }
+}

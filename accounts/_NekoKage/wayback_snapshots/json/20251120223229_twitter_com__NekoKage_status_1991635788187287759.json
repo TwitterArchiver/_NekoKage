@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "conversation_id": "1991191336037543987",
+    "created_at": "2025-11-20T22:32:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-20T23:32:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991635788187287759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2995537134",
+          "start": 0,
+          "username": "iconredesign"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991635788187287759",
+    "in_reply_to_user_id": "2995537134",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991191336037543987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iconredesign how"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1991191330102603780",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Ih9waacAQyobH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "conversation_id": "1991191336037543987",
+        "created_at": "2025-11-20T22:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T23:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991635788187287759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2995537134",
+              "start": 0,
+              "username": "iconredesign"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991635788187287759",
+        "in_reply_to_user_id": "2995537134",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991191336037543987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iconredesign how"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991191330102603780"
+          ]
+        },
+        "author_id": "2995537134",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1991191336037543987",
+        "created_at": "2025-11-19T17:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T18:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991191336037543987"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "iPhone 16 Pro Max",
+              "probability": 0.5319,
+              "start": 3,
+              "type": "Product"
+            },
+            {
+              "end": 48,
+              "normalized_text": "iOS 18",
+              "probability": 0.8758,
+              "start": 43,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wf26SeXPa2",
+              "end": 73,
+              "expanded_url": "https://x.com/iconredesign/status/1991191336037543987/photo/1",
+              "media_key": "3_1991191330102603780",
+              "start": 50,
+              "url": "https://t.co/wf26SeXPa2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991191336037543987",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 268,
+          "impression_count": 252999,
+          "like_count": 2886,
+          "quote_count": 5,
+          "reply_count": 45,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "My iPhone 16 Pro Max has returned to stock iOS 18 https://t.co/wf26SeXPa2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989746234408701952/CGIjbFWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7968,
+          "following_count": 5283,
+          "like_count": 13529,
+          "listed_count": 17,
+          "media_count": 2486,
+          "tweet_count": 17992
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-25T07:56:17.000Z",
+        "description": "I like Apple. Apple collecting is life. Unusual Apple content. Baseball and Yoshi is my jam. Speak: 🇺🇸🇭🇰🇹🇼🇩🇪 (Apple collector sales/inquiries: DM me)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "iconredesign.com",
+                "end": 23,
+                "expanded_url": "http://iconredesign.com",
+                "start": 0,
+                "url": "https://t.co/gD7zm3BooO"
+              }
+            ]
+          }
+        },
+        "id": "2995537134",
+        "location": "San Francisco, CA",
+        "name": "icon (5-core GPU)",
+        "pinned_tweet_id": "1858534927668834571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677205438880964608/8zBxnhRy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4677,
+          "following_count": 508,
+          "like_count": 42643,
+          "listed_count": 31,
+          "media_count": 6410,
+          "tweet_count": 31150
+        },
+        "url": "https://t.co/gD7zm3BooO",
+        "username": "iconredesign",
+        "verified": true
+      }
+    ]
+  }
+}

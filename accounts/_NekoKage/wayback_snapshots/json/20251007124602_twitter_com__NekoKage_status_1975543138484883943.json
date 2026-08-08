@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975309643900723209"
+      ],
+      "media_source_tweet_id": [
+        "1975309647335858648"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "1975543138484883943",
+    "created_at": "2025-10-07T12:46:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T13:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975543138484883943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1833576737214763008",
+          "start": 3,
+          "username": "TSSFMAJOR"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qUFi9OuOxO",
+          "end": 63,
+          "expanded_url": "https://x.com/TSSFMAJOR/status/1975309647335858648/photo/1",
+          "media_key": "3_1975309643900723209",
+          "start": 40,
+          "url": "https://t.co/qUFi9OuOxO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975543138484883943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975309647335858648",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TSSFMAJOR: 有人要我畫完這個 好好笑哦我拖了兩年還是一年來著 https://t.co/qUFi9OuOxO"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1975543138484883943].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1975543138484883943",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1975543138484883943"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 956,
+        "media_key": "3_1975309643900723209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2m1p84bIAkHWWd.jpg",
+        "width": 1338
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975309643900723209"
+          ]
+        },
+        "author_id": "1833576737214763008",
+        "conversation_id": "1975309647335858648",
+        "created_at": "2025-10-06T21:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T22:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975309647335858648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qUFi9OuOxO",
+              "end": 48,
+              "expanded_url": "https://x.com/TSSFMAJOR/status/1975309647335858648/photo/1",
+              "media_key": "3_1975309643900723209",
+              "start": 25,
+              "url": "https://t.co/qUFi9OuOxO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975309647335858648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 1921,
+          "like_count": 269,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "有人要我畫完這個 好好笑哦我拖了兩年還是一年來著 https://t.co/qUFi9OuOxO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7906,
+          "following_count": 5119,
+          "like_count": 13311,
+          "listed_count": 17,
+          "media_count": 2435,
+          "tweet_count": 17458
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-10T18:42:31.000Z",
+        "description": "18/敏感内容注意！/酗酒大王/🌻☀️🌻/🔪☀️🔪/寶寶 @OMORE47858045 /頭像是自設！/無授權轉載嚴禁！/粵語-普通話-英語/説話前請先思考, 尤其是英語社區的人/ 歡迎能分辨是非曲直的寶寶/私信開放但我不常看, 可以找我要discord！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "OMORE47858045"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kokuon.straw.page",
+                "end": 23,
+                "expanded_url": "https://kokuon.straw.page",
+                "start": 0,
+                "url": "https://t.co/MOqtMzU8le"
+              }
+            ]
+          }
+        },
+        "id": "1833576737214763008",
+        "location": "UTW",
+        "name": "Kokuon 刻音",
+        "pinned_tweet_id": "1972884728194937071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963347498044690432/ODWFnIRe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3920,
+          "following_count": 352,
+          "like_count": 27021,
+          "listed_count": 14,
+          "media_count": 1067,
+          "tweet_count": 12192
+        },
+        "url": "https://t.co/MOqtMzU8le",
+        "username": "TSSFMAJOR",
+        "verified": false
+      }
+    ]
+  }
+}

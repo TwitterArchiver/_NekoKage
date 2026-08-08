@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      }
+    ],
+    "conversation_id": "2033533517288931348",
+    "created_at": "2026-03-16T13:19:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T14:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033533517288931348"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cryptomaster_7…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/cryptomaster_70/status/2033418468654236113",
+          "start": 2,
+          "url": "https://t.co/HN9p3ljtk5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033533517288931348",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033418468654236113",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/HN9p3ljtk5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 827,
+        "media_key": "3_2033418308670967809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDgnLaAb0AETT-t.png",
+        "width": 690
+      },
+      {
+        "height": 930,
+        "media_key": "3_2033418352396468225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDgnN85aAAEE9xD.jpg",
+        "width": 690
+      },
+      {
+        "height": 920,
+        "media_key": "3_2033418412098244608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDgnRbTa0AAk9_o.jpg",
+        "width": 690
+      },
+      {
+        "height": 960,
+        "media_key": "3_2033418427914940416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDgnSWOacAApY-X.jpg",
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2033533517288931348",
+        "created_at": "2026-03-16T13:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T14:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033533517288931348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cryptomaster_7…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/cryptomaster_70/status/2033418468654236113",
+              "start": 2,
+              "url": "https://t.co/HN9p3ljtk5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033533517288931348",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033418468654236113",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/HN9p3ljtk5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033418308670967809",
+            "3_2033418352396468225",
+            "3_2033418412098244608",
+            "3_2033418427914940416"
+          ]
+        },
+        "author_id": "1669608992719654917",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2033418468654236113",
+        "created_at": "2026-03-16T05:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T06:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033418468654236113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1DM2jt7yqB",
+              "end": 171,
+              "expanded_url": "https://x.com/CryptoMaster_70/status/2033418468654236113/photo/1",
+              "media_key": "3_2033418308670967809",
+              "start": 148,
+              "url": "https://t.co/1DM2jt7yqB"
+            },
+            {
+              "display_url": "pic.x.com/1DM2jt7yqB",
+              "end": 171,
+              "expanded_url": "https://x.com/CryptoMaster_70/status/2033418468654236113/photo/1",
+              "media_key": "3_2033418352396468225",
+              "start": 148,
+              "url": "https://t.co/1DM2jt7yqB"
+            },
+            {
+              "display_url": "pic.x.com/1DM2jt7yqB",
+              "end": 171,
+              "expanded_url": "https://x.com/CryptoMaster_70/status/2033418468654236113/photo/1",
+              "media_key": "3_2033418412098244608",
+              "start": 148,
+              "url": "https://t.co/1DM2jt7yqB"
+            },
+            {
+              "display_url": "pic.x.com/1DM2jt7yqB",
+              "end": 171,
+              "expanded_url": "https://x.com/CryptoMaster_70/status/2033418468654236113/photo/1",
+              "media_key": "3_2033418427914940416",
+              "start": 148,
+              "url": "https://t.co/1DM2jt7yqB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033418468654236113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "據《太陽报/BBC》，英國男子 Tommy Lynch 早上醒來發現自己皮膚發藍，像「阿凡達」一樣，疑似患上罕見病。\n\n他感到非常恐慌，於是火速趕到醫院急診室。醫生見狀初步懷疑他是因為缺氧而產生發紺反應，便緊急給他帶上氧氣面罩。之後，Tommy的病況吸引了全醫院足足10多名醫護人員圍著他研究。\n\n然而，當一位護士擦拭他的手臂時，發現酒精擦拭片也變藍了。Tommy 才意識到原來他只是被新買的床單染色了而已...."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 112735,
+          "like_count": 753,
+          "quote_count": 13,
+          "reply_count": 39,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "據《太陽报/BBC》，英國男子 Tommy Lynch 早上醒來發現自己皮膚發藍，像「阿凡達」一樣，疑似患上罕見病。\n\n他感到非常恐慌，於是火速趕到醫院急診室。醫生見狀初步懷疑他是因為缺氧而產生發紺反應，便緊急給他帶上氧氣面罩。之後，Tommy的病況吸引了全醫院足足10多名醫護人員圍著他研究。 https://t.co/1DM2jt7yqB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 118,
+                "start": 113,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8164,
+          "following_count": 5956,
+          "like_count": 14118,
+          "listed_count": 17,
+          "media_count": 2688,
+          "tweet_count": 19721
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T07:33:40.000Z",
+        "description": "Master in MIS.\nStock, Crypto trader, ex-SW engineer. \n以前是碼農，後來是操盤手，現在是全職小丑 \n在透明的區塊鏈裡，你我都在裸奔\n\n大號沒了, 穢土轉生再出發",
+        "id": "1669608992719654917",
+        "location": "moon",
+        "name": "Master | 最強打野(穢土轉生)",
+        "pinned_tweet_id": "1774076142313668661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748982365152784384/vxAfgPmS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6727,
+          "following_count": 1006,
+          "like_count": 3220,
+          "listed_count": 49,
+          "media_count": 1971,
+          "tweet_count": 8089
+        },
+        "username": "CryptoMaster_70",
+        "verified": true
+      }
+    ]
+  }
+}

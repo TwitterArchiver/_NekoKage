@@ -1,0 +1,561 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1801531087749058561"
+      ],
+      "media_source_tweet_id": [
+        "1801532162501710000"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1573102323341017088",
+          "name": "Beat Saber"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899469046054924",
+          "name": "Virtual reality games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1573102323341017088",
+          "name": "Beat Saber"
+        }
+      }
+    ],
+    "conversation_id": "1801842777308991742",
+    "created_at": "2024-06-15T05:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T06:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801842777308991742"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 92,
+          "start": 84,
+          "tag": "ビートセイバー"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1763091205058093056",
+          "start": 3,
+          "username": "Kotone_Saber"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/LwyKU7dO0S",
+          "end": 116,
+          "expanded_url": "https://twitter.com/Kotone_Saber/status/1801532162501710000/video/1",
+          "media_key": "7_1801531087749058561",
+          "start": 93,
+          "url": "https://t.co/LwyKU7dO0S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801842777308991742",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3558
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801532162501710000",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kotone_Saber: 皆さんは、まだ手にコントローラーを持って、ゲームプレイしているのですか？🤔\nそれは古いです☹️\nこれこそが、未来の音ゲーです！👆️\n#ビートセイバー https://t.co/LwyKU7dO0S"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14666,
+        "height": 1920,
+        "media_key": "7_1801531087749058561",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1801531087749058561/pu/img/wD5Z3d0iwhife-Rd.jpg",
+        "public_metrics": {
+          "view_count": 579988
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1801531087749058561/pu/vid/avc1/320x568/O8Quo8ENLGzttNpY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1801531087749058561/pu/vid/avc1/480x852/pN83JNf-Y6hkttq1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1801531087749058561/pu/vid/avc1/720x1280/WlExn98NT45CesGU.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1801531087749058561/pu/pl/kdRIOfFrJ-cLpE6X.m3u8?tag=12"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1801531087749058561"
+          ],
+          "media_source_tweet_id": [
+            "1801532162501710000"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1573102323341017088",
+              "name": "Beat Saber"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1573102323341017088",
+              "name": "Beat Saber"
+            }
+          }
+        ],
+        "conversation_id": "1801842777308991742",
+        "created_at": "2024-06-15T05:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T06:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801842777308991742"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 84,
+              "tag": "ビートセイバー"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1763091205058093056",
+              "start": 3,
+              "username": "Kotone_Saber"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/LwyKU7dO0S",
+              "end": 116,
+              "expanded_url": "https://twitter.com/Kotone_Saber/status/1801532162501710000/video/1",
+              "media_key": "7_1801531087749058561",
+              "start": 93,
+              "url": "https://t.co/LwyKU7dO0S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801842777308991742",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3558
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801532162501710000",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kotone_Saber: 皆さんは、まだ手にコントローラーを持って、ゲームプレイしているのですか？🤔\nそれは古いです☹️\nこれこそが、未来の音ゲーです！👆️\n#ビートセイバー https://t.co/LwyKU7dO0S"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1801531087749058561"
+          ]
+        },
+        "author_id": "1763091205058093056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1573102323341017088",
+              "name": "Beat Saber"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1573102323341017088",
+              "name": "Beat Saber"
+            }
+          }
+        ],
+        "conversation_id": "1801532162501710000",
+        "created_at": "2024-06-14T08:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T09:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801532162501710000"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 66,
+              "tag": "ビートセイバー"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/LwyKU7dO0S",
+              "end": 98,
+              "expanded_url": "https://twitter.com/Kotone_Saber/status/1801532162501710000/video/1",
+              "media_key": "7_1801531087749058561",
+              "start": 75,
+              "url": "https://t.co/LwyKU7dO0S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801532162501710000",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1677,
+          "impression_count": 1207667,
+          "like_count": 16409,
+          "quote_count": 200,
+          "reply_count": 120,
+          "retweet_count": 3558
+        },
+        "reply_settings": "everyone",
+        "text": "皆さんは、まだ手にコントローラーを持って、ゲームプレイしているのですか？🤔\nそれは古いです☹️\nこれこそが、未来の音ゲーです！👆️\n#ビートセイバー https://t.co/LwyKU7dO0S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏精神病🩸自傷🦿biid🎸聚乙烯乐队主音及主唱🎧HiFi糊烧🚬大烟鬼🔪刃物收藏⌚️入门表匠🚗JDM📷黑白摄影🚪88⚠️@_kagenone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 130,
+                "username": "_kagenone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6896,
+          "following_count": 3771,
+          "like_count": 8874,
+          "listed_count": 20,
+          "tweet_count": 11720
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-29T06:38:55.000Z",
+        "description": "YouTuberです✨️\nビートセイバーのプレイ動画をUPしてます🐣✨️\nイラスト: @bird_asami　アバター: @komado_booth",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "bird_asami"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "komado_booth"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Kotone_Saber",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Kotone_Saber",
+                "start": 0,
+                "url": "https://t.co/p1hAo7RyT9"
+              }
+            ]
+          }
+        },
+        "id": "1763091205058093056",
+        "location": "日本",
+        "name": "ことねせいばー",
+        "pinned_tweet_id": "1791040579624923635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785224844713541632/r--7T0ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 65,
+          "like_count": 699,
+          "listed_count": 4,
+          "tweet_count": 201
+        },
+        "url": "https://t.co/p1hAo7RyT9",
+        "username": "Kotone_Saber",
+        "verified": true
+      }
+    ]
+  }
+}

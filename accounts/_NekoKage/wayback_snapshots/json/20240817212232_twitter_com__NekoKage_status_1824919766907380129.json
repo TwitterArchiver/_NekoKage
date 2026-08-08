@@ -1,0 +1,682 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1824665736079618048"
+      ],
+      "media_source_tweet_id": [
+        "1824665740068127094"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596656304128",
+          "name": "Beverage - CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026302007",
+          "name": "Sprite"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Soda",
+          "id": "850143755873140737",
+          "name": "Soda"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596656304128",
+          "name": "Beverage - CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026302007",
+          "name": "Sprite"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026302007",
+          "name": "Sprite"
+        }
+      }
+    ],
+    "conversation_id": "1824919766907380129",
+    "created_at": "2024-08-17T21:22:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-17T22:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824919766907380129"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "_",
+          "probability": 0.3364,
+          "start": 35,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 29,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        },
+        {
+          "end": 72,
+          "start": 50,
+          "tag": "needystreameroverload"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1465991974482239489",
+          "start": 3,
+          "username": "4S1JH"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y8jfo83ays",
+          "end": 96,
+          "expanded_url": "https://twitter.com/4S1JH/status/1824665740068127094/photo/1",
+          "media_key": "3_1824665736079618048",
+          "start": 73,
+          "url": "https://t.co/Y8JFo83aYS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824919766907380129",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 488
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824665740068127094",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4S1JH: Male Ame sprite \n\n#NEEDY_GIRL_OVERDOSE #needystreameroverload https://t.co/Y8JFo83aYS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1380,
+        "media_key": "3_1824665736079618048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVKD0cjaMAAq-lH.jpg",
+        "width": 1299
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824665736079618048"
+          ],
+          "media_source_tweet_id": [
+            "1824665740068127094"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596656304128",
+              "name": "Beverage - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026302007",
+              "name": "Sprite"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Soda",
+              "id": "850143755873140737",
+              "name": "Soda"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596656304128",
+              "name": "Beverage - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026302007",
+              "name": "Sprite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026302007",
+              "name": "Sprite"
+            }
+          }
+        ],
+        "conversation_id": "1824919766907380129",
+        "created_at": "2024-08-17T21:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T22:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824919766907380129"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "_",
+              "probability": 0.3364,
+              "start": 35,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 29,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 72,
+              "start": 50,
+              "tag": "needystreameroverload"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465991974482239489",
+              "start": 3,
+              "username": "4S1JH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y8jfo83ays",
+              "end": 96,
+              "expanded_url": "https://twitter.com/4S1JH/status/1824665740068127094/photo/1",
+              "media_key": "3_1824665736079618048",
+              "start": 73,
+              "url": "https://t.co/Y8JFo83aYS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824919766907380129",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 488
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824665740068127094",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4S1JH: Male Ame sprite \n\n#NEEDY_GIRL_OVERDOSE #needystreameroverload https://t.co/Y8JFo83aYS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824665736079618048"
+          ]
+        },
+        "author_id": "1465991974482239489",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596656304128",
+              "name": "Beverage - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026302007",
+              "name": "Sprite"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Soda",
+              "id": "850143755873140737",
+              "name": "Soda"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596656304128",
+              "name": "Beverage - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026302007",
+              "name": "Sprite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026302007",
+              "name": "Sprite"
+            }
+          }
+        ],
+        "conversation_id": "1824665740068127094",
+        "created_at": "2024-08-17T04:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T05:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824665740068127094"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 18,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 61,
+              "start": 39,
+              "tag": "needystreameroverload"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y8jfo83ays",
+              "end": 85,
+              "expanded_url": "https://twitter.com/4S1JH/status/1824665740068127094/photo/1",
+              "media_key": "3_1824665736079618048",
+              "start": 62,
+              "url": "https://t.co/Y8JFo83aYS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824665740068127094",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 228,
+          "impression_count": 23329,
+          "like_count": 2859,
+          "quote_count": 35,
+          "reply_count": 7,
+          "retweet_count": 488
+        },
+        "reply_settings": "everyone",
+        "text": "Male Ame sprite \n\n#NEEDY_GIRL_OVERDOSE #needystreameroverload https://t.co/Y8JFo83aYS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain📷膠片攝影🎧HiFi糊烧🚬大烟鬼🔪刃物收藏⌚️入门表匠🚪88⚠️里推:@_kagenone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "_kagenone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7088,
+          "following_count": 4134,
+          "like_count": 10425,
+          "listed_count": 18,
+          "tweet_count": 12887
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-01T10:31:50.000Z",
+        "description": "18 | 4S1JH on all platforms | commissions/dms open | using art as pfp W CREDIT OK!",
+        "id": "1465991974482239489",
+        "name": "4S 🐟",
+        "pinned_tweet_id": "1820273230319628696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802263671705624576/3CnehICs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361,
+          "following_count": 17,
+          "like_count": 8655,
+          "listed_count": 5,
+          "tweet_count": 138
+        },
+        "username": "4S1JH",
+        "verified": false
+      }
+    ]
+  }
+}

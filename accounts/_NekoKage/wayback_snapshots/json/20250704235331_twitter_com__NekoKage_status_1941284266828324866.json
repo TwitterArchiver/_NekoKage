@@ -1,0 +1,459 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1941284266828324866",
+    "created_at": "2025-07-04T23:53:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T00:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941284266828324866"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 122,
+          "normalized_text": "Huawei",
+          "probability": 0.9501,
+          "start": 117,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1924534511263797248",
+          "start": 3,
+          "username": "break390329"
+        },
+        {
+          "end": 30,
+          "id": "1525723727941361664",
+          "start": 17,
+          "username": "app_settings"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941284266828324866",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941233201852428364",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @break390329: @app_settings Yes, but the format is useless, only a trifold corrects the problem like the one that Huawei released. https…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_1941233199088017408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvClTznWIAATKR3.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1941284266828324866",
+        "created_at": "2025-07-04T23:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T00:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941284266828324866"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 122,
+              "normalized_text": "Huawei",
+              "probability": 0.9501,
+              "start": 117,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1924534511263797248",
+              "start": 3,
+              "username": "break390329"
+            },
+            {
+              "end": 30,
+              "id": "1525723727941361664",
+              "start": 17,
+              "username": "app_settings"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941284266828324866",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941233201852428364",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @break390329: @app_settings Yes, but the format is useless, only a trifold corrects the problem like the one that Huawei released. https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941233199088017408"
+          ]
+        },
+        "author_id": "1924534511263797248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1941147782733300103",
+        "created_at": "2025-07-04T20:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T21:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941233201852428364"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 105,
+              "normalized_text": "Huawei",
+              "probability": 0.9608,
+              "start": 100,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1525723727941361664",
+              "start": 0,
+              "username": "app_settings"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/90SCiAREwc",
+              "end": 140,
+              "expanded_url": "https://x.com/break390329/status/1941233201852428364/photo/1",
+              "media_key": "3_1941233199088017408",
+              "start": 117,
+              "url": "https://t.co/90SCiAREwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941233201852428364",
+        "in_reply_to_user_id": "1525723727941361664",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 191,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941147782733300103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@app_settings Yes, but the format is useless, only a trifold corrects the problem like the one that Huawei released. https://t.co/90SCiAREwc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🐈#RainWorld⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 107,
+                "tag": "RainWorld"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "_kagenone"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7681,
+          "following_count": 4774,
+          "like_count": 12870,
+          "listed_count": 20,
+          "media_count": 2276,
+          "tweet_count": 16204
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T18:36:17.000Z",
+        "description": "",
+        "id": "1924534511263797248",
+        "name": "NexaOne",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924910571524169728/99erHPrS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 15,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 29
+        },
+        "username": "break390329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-15T06:24:34.000Z",
+        "description": "the settings app from macOS! (irl, i’m a 17 year old ui/ux designer and tech enthusiast) • follow for tech & design!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/thesettingsapp",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/thesettingsapp",
+                "start": 0,
+                "url": "https://t.co/LPIko0hcgi"
+              }
+            ]
+          }
+        },
+        "id": "1525723727941361664",
+        "name": "System Settings",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634609660048326656/JYiwOp5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32622,
+          "following_count": 245,
+          "like_count": 33148,
+          "listed_count": 91,
+          "media_count": 3735,
+          "tweet_count": 23646
+        },
+        "url": "https://t.co/LPIko0hcgi",
+        "username": "app_settings",
+        "verified": true
+      }
+    ]
+  }
+}

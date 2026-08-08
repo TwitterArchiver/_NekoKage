@@ -1,0 +1,522 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2013437745981493248"
+      ],
+      "media_source_tweet_id": [
+        "2013438501040054767"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Animation",
+          "id": "848920448297385989",
+          "name": "Animation software"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Animation",
+          "id": "848920448297385989",
+          "name": "Animation software"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1192082698568814592",
+          "name": "Animation"
+        }
+      }
+    ],
+    "conversation_id": "2013688092499038535",
+    "created_at": "2026-01-20T19:00:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T20:00:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013688092499038535"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 48,
+          "normalized_text": "Live2D",
+          "probability": 0.4977,
+          "start": 43,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 42,
+          "tag": "Live2D"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1573777731040718848",
+          "start": 3,
+          "username": "sxx8012"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bhqBxSw2TP",
+          "end": 73,
+          "expanded_url": "https://x.com/sxx8012/status/2013438501040054767/video/1",
+          "media_key": "13_2013437745981493248",
+          "start": 50,
+          "url": "https://t.co/bhqBxSw2TP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013688092499038535",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013438501040054767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sxx8012: little wings❤️\n（art/rig:me) \n#Live2D https://t.co/bhqBxSw2TP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11250,
+        "height": 1920,
+        "media_key": "13_2013437745981493248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2013437745981493248/img/X1VPVj27_6_BNC_t.jpg",
+        "public_metrics": {
+          "view_count": 423
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013437745981493248/vid/avc1/320x568/jOtyvocIftne9tD4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013437745981493248/vid/avc1/480x852/WwATGvmObgNBAgPe.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013437745981493248/vid/avc1/720x1280/qW2XqIVD63jg9pV2.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2013437745981493248/pl/mbwTDMobK5vNIGnj.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2013437745981493248"
+          ],
+          "media_source_tweet_id": [
+            "2013438501040054767"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          }
+        ],
+        "conversation_id": "2013688092499038535",
+        "created_at": "2026-01-20T19:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T20:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013688092499038535"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "Live2D",
+              "probability": 0.4977,
+              "start": 43,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 42,
+              "tag": "Live2D"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1573777731040718848",
+              "start": 3,
+              "username": "sxx8012"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bhqBxSw2TP",
+              "end": 73,
+              "expanded_url": "https://x.com/sxx8012/status/2013438501040054767/video/1",
+              "media_key": "13_2013437745981493248",
+              "start": 50,
+              "url": "https://t.co/bhqBxSw2TP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013688092499038535",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013438501040054767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sxx8012: little wings❤️\n（art/rig:me) \n#Live2D https://t.co/bhqBxSw2TP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2013437745981493248"
+          ]
+        },
+        "author_id": "1573777731040718848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          }
+        ],
+        "conversation_id": "2013438501040054767",
+        "created_at": "2026-01-20T02:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T03:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013438501040054767"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 29,
+              "tag": "Live2D"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bhqBxSw2TP",
+              "end": 60,
+              "expanded_url": "https://x.com/sxx8012/status/2013438501040054767/video/1",
+              "media_key": "13_2013437745981493248",
+              "start": 37,
+              "url": "https://t.co/bhqBxSw2TP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013438501040054767",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 230,
+          "impression_count": 12839,
+          "like_count": 992,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "little wings❤️\n（art/rig:me) \n#Live2D https://t.co/bhqBxSw2TP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7951,
+          "following_count": 5612,
+          "like_count": 13759,
+          "listed_count": 17,
+          "media_count": 2562,
+          "tweet_count": 18823
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T20:54:02.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/567295125",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/567295125",
+                "start": 0,
+                "url": "https://t.co/RQL841mhUQ"
+              }
+            ]
+          }
+        },
+        "id": "1573777731040718848",
+        "name": "石心心sxx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639739694807392256/Jip77qdP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3089,
+          "following_count": 105,
+          "like_count": 399,
+          "listed_count": 57,
+          "media_count": 27,
+          "tweet_count": 85
+        },
+        "url": "https://t.co/RQL841mhUQ",
+        "username": "sxx8012",
+        "verified": false
+      }
+    ]
+  }
+}

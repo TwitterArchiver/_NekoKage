@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781972125179518977",
+          "name": "Auto Manufacturer - Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026301999",
+          "name": "Honda"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10046942594",
+          "name": "Honda Latino"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026301999",
+          "name": "Honda"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196845866138533888",
+          "name": "Automobile Brands"
+        }
+      }
+    ],
+    "conversation_id": "1999293156878352549",
+    "created_at": "2025-12-12T01:40:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T02:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999293156878352549"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/neco_daisuki56…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/neco_daisuki56/status/1998944453671923915",
+          "start": 6,
+          "url": "https://t.co/6NtxHIs11R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999293156878352549",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998944453671923915",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇🤤🤤🤤🤤 https://t.co/6NtxHIs11R"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 121720,
+        "height": 1280,
+        "media_key": "7_1998603820704870402",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1998603820704870402/pu/img/IvZh2yu07oHzI4qw.jpg",
+        "public_metrics": {
+          "view_count": 548329
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998603820704870402/pu/vid/avc1/320x568/rRVoQAj93zR8xSh9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998603820704870402/pu/vid/avc1/480x852/QrWHq3KY1wrUKn1i.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998603820704870402/pu/vid/avc1/720x1280/fv0SLAoWF7Ygdvwt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1998603820704870402/pu/pl/ffZmy3y3M4xTR0t9.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026301999",
+              "name": "Honda"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10046942594",
+              "name": "Honda Latino"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026301999",
+              "name": "Honda"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          }
+        ],
+        "conversation_id": "1999293156878352549",
+        "created_at": "2025-12-12T01:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T02:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999293156878352549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/neco_daisuki56…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/neco_daisuki56/status/1998944453671923915",
+              "start": 6,
+              "url": "https://t.co/6NtxHIs11R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999293156878352549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998944453671923915",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇🤤🤤🤤🤤 https://t.co/6NtxHIs11R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1998603820704870402"
+          ],
+          "media_source_tweet_id": [
+            "1998603941320470595"
+          ]
+        },
+        "author_id": "1528903273779851264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026301999",
+              "name": "Honda"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10046942594",
+              "name": "Honda Latino"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026301999",
+              "name": "Honda"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          }
+        ],
+        "conversation_id": "1998944453671923915",
+        "created_at": "2025-12-11T02:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T03:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998944453671923915"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "Honda Jet",
+              "probability": 0.4744,
+              "start": 10,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dM46s2OVMw",
+              "end": 109,
+              "expanded_url": "https://x.com/Nyi_Rorookidul/status/1998603941320470595/video/1",
+              "media_key": "7_1998603820704870402",
+              "start": 86,
+              "url": "https://t.co/dM46s2OVMw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998944453671923915",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 118079,
+          "like_count": 227,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "これ見て思ったけど、Honda Jetって本当に運用しやすさを追求して設計されてるよね…\n\n一つ一つの点検口、物入れ、ドア全てに「少しでも使い易く」というこだわりが見える https://t.co/dM46s2OVMw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989746234408701952/CGIjbFWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7963,
+          "following_count": 5526,
+          "like_count": 13740,
+          "listed_count": 17,
+          "media_count": 2537,
+          "tweet_count": 18481
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-24T01:01:34.000Z",
+        "description": "子供と遊ぶのが趣味の超子煩悩な２児の父親です。\nモラハラ・自己中・浪費家だった専業主婦妻と再出発を期し、いつか幸せな家庭を築きたいと奮闘する男一匹\n妻が好き、子供たちが好き、この家族がたまらなく好き\n耐えてよかったと思える日が来るのを夢見て\n毎日のやり場のない愚痴をここで吐き出しています\nいつか猫と共に暮らすのが夢です",
+        "id": "1528903273779851264",
+        "name": "猫だいすきネコスキー",
+        "pinned_tweet_id": "1741470773351784637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1551888079702503424/vvUDgvQ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6109,
+          "following_count": 590,
+          "like_count": 87916,
+          "listed_count": 11,
+          "media_count": 2257,
+          "tweet_count": 13417
+        },
+        "username": "neco_daisuki56",
+        "verified": false
+      }
+    ]
+  }
+}

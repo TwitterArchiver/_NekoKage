@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1875556059684990980"
+      ],
+      "media_source_tweet_id": [
+        "1875556520135684492"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "1875993573734424693",
+    "created_at": "2025-01-05T19:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T20:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875993573734424693"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "mita mita",
+          "probability": 0.4458,
+          "start": 14,
+          "type": "Other"
+        },
+        {
+          "end": 35,
+          "normalized_text": "MITA",
+          "probability": 0.3555,
+          "start": 32,
+          "type": "Other"
+        },
+        {
+          "end": 43,
+          "normalized_text": "MiSide",
+          "probability": 0.5217,
+          "start": 38,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 31,
+          "tag": "MITA"
+        },
+        {
+          "end": 44,
+          "start": 37,
+          "tag": "MiSide"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1514272068900032519",
+          "start": 3,
+          "username": "MiSideAI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ONfZDUgHqW",
+          "end": 68,
+          "expanded_url": "https://x.com/siqiCN/status/1875556520135684492/video/1",
+          "media_key": "7_1875556059684990980",
+          "start": 45,
+          "url": "https://t.co/ONfZDUgHqW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875993573734424693",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3805
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875556520135684492",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MiSideAI: mita mita oi you #MITA #MiSide https://t.co/ONfZDUgHqW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44419,
+        "height": 1920,
+        "media_key": "7_1875556059684990980",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1875556059684990980/pu/img/HpLQ1eWTqp9yjo1b.jpg",
+        "public_metrics": {
+          "view_count": 453742
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1875556059684990980/pu/vid/avc1/320x568/Fxx4ZvSTtz1-DZt6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1875556059684990980/pu/vid/avc1/480x852/AE-hcovHLkYUzmRm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1875556059684990980/pu/vid/avc1/720x1280/JlP8XncXS3-KsSR0.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1875556059684990980/pu/pl/uOJTXD1m6O1MFCop.m3u8?tag=12&v=243"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1875556059684990980"
+          ],
+          "media_source_tweet_id": [
+            "1875556520135684492"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "conversation_id": "1875993573734424693",
+        "created_at": "2025-01-05T19:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T20:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875993573734424693"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "mita mita",
+              "probability": 0.4458,
+              "start": 14,
+              "type": "Other"
+            },
+            {
+              "end": 35,
+              "normalized_text": "MITA",
+              "probability": 0.3555,
+              "start": 32,
+              "type": "Other"
+            },
+            {
+              "end": 43,
+              "normalized_text": "MiSide",
+              "probability": 0.5217,
+              "start": 38,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "MITA"
+            },
+            {
+              "end": 44,
+              "start": 37,
+              "tag": "MiSide"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1514272068900032519",
+              "start": 3,
+              "username": "MiSideAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ONfZDUgHqW",
+              "end": 68,
+              "expanded_url": "https://x.com/siqiCN/status/1875556520135684492/video/1",
+              "media_key": "7_1875556059684990980",
+              "start": 45,
+              "url": "https://t.co/ONfZDUgHqW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875993573734424693",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3805
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875556520135684492",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MiSideAI: mita mita oi you #MITA #MiSide https://t.co/ONfZDUgHqW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1875556059684990980"
+          ]
+        },
+        "author_id": "1514272068900032519",
+        "conversation_id": "1875556520135684492",
+        "created_at": "2025-01-04T14:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T15:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875556520135684492"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "mita",
+              "probability": 0.4238,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 21,
+              "normalized_text": "MITA",
+              "probability": 0.3358,
+              "start": 18,
+              "type": "Organization"
+            },
+            {
+              "end": 29,
+              "normalized_text": "MiSide",
+              "probability": 0.4778,
+              "start": 24,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "MITA"
+            },
+            {
+              "end": 30,
+              "start": 23,
+              "tag": "MiSide"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ONfZDUgHqW",
+              "end": 54,
+              "expanded_url": "https://x.com/siqiCN/status/1875556520135684492/video/1",
+              "media_key": "7_1875556059684990980",
+              "start": 31,
+              "url": "https://t.co/ONfZDUgHqW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875556520135684492",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7569,
+          "impression_count": 910408,
+          "like_count": 29924,
+          "quote_count": 91,
+          "reply_count": 63,
+          "retweet_count": 3805
+        },
+        "reply_settings": "everyone",
+        "text": "mita mita oi you #MITA #MiSide https://t.co/ONfZDUgHqW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain📷膠片攝影/相机维修🚬大烟鬼🔪刃物收藏⌚️入门表匠⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "_kagenone"
+              },
+              {
+                "end": 137,
+                "start": 132,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7433,
+          "following_count": 4429,
+          "like_count": 12140,
+          "listed_count": 19,
+          "media_count": 2078,
+          "tweet_count": 14633
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-13T15:59:47.000Z",
+        "description": "",
+        "id": "1514272068900032519",
+        "name": "MiSideAI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875752643462885379/UbLUmpak_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "MiSideAI",
+        "verified": false
+      }
+    ]
+  }
+}

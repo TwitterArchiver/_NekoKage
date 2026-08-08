@@ -1,0 +1,503 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Halloween for all years",
+          "id": "1301463450099482625",
+          "name": "Halloween "
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1982790130902487513",
+    "created_at": "2025-10-27T12:43:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T13:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982790130902487513"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/junoandmaxx/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/junoandmaxx/status/1982495593122701383",
+          "start": 8,
+          "url": "https://t.co/n6ooZUNjkR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982790130902487513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982495593122701383",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇还有厚乳环节 https://t.co/n6ooZUNjkR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32766,
+        "height": 1920,
+        "media_key": "13_1982495471105884160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1982495471105884160/img/Ryo_c1WZ6Iaa_GD8.jpg",
+        "public_metrics": {
+          "view_count": 201512
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982495471105884160/vid/avc1/720x1280/ST0jCyx6ndCkbfcA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1982495471105884160/pl/RXogbnDTa0aKQv-L.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982495471105884160/vid/avc1/480x852/rEsx4GbCs5RNg_5d.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982495471105884160/vid/avc1/1080x1920/xyfcFoLip3y7EZ9s.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982495471105884160/vid/avc1/320x568/ry4dpefI0p-v7U78.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Halloween for all years",
+              "id": "1301463450099482625",
+              "name": "Halloween "
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1982790130902487513",
+        "created_at": "2025-10-27T12:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T13:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982790130902487513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/junoandmaxx/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/junoandmaxx/status/1982495593122701383",
+              "start": 8,
+              "url": "https://t.co/n6ooZUNjkR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982790130902487513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982495593122701383",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇还有厚乳环节 https://t.co/n6ooZUNjkR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1982495471105884160"
+          ]
+        },
+        "author_id": "1832739936166166528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Halloween for all years",
+              "id": "1301463450099482625",
+              "name": "Halloween "
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1982495593122701383",
+        "created_at": "2025-10-26T17:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T18:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982495593122701383"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "Halloween",
+              "probability": 0.4945,
+              "start": 6,
+              "type": "Other"
+            },
+            {
+              "end": 24,
+              "normalized_text": "Maxx",
+              "probability": 0.576,
+              "start": 21,
+              "type": "Other"
+            },
+            {
+              "end": 43,
+              "normalized_text": "Animatronic BK",
+              "probability": 0.6601,
+              "start": 30,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7zVca9xpq0",
+              "end": 71,
+              "expanded_url": "https://x.com/JunoandMaxx/status/1982495593122701383/video/1",
+              "media_key": "13_1982495471105884160",
+              "start": 48,
+              "url": "https://t.co/7zVca9xpq0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982495593122701383",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11329,
+          "impression_count": 256311,
+          "like_count": 27705,
+          "quote_count": 86,
+          "reply_count": 225,
+          "retweet_count": 3180
+        },
+        "reply_settings": "everyone",
+        "text": "Happy Halloween from Maxx and Animatronic BK :3 https://t.co/7zVca9xpq0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7956,
+          "following_count": 5226,
+          "like_count": 13400,
+          "listed_count": 17,
+          "media_count": 2455,
+          "tweet_count": 17681
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T11:17:22.000Z",
+        "description": "Cat girl and Dog boy and that one cop too. On break, back in October :3",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@junoandmaxx?s…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@junoandmaxx?si=Zz3QILqp3rkqwNw5",
+                "start": 0,
+                "url": "https://t.co/GXqKWoyofO"
+              }
+            ]
+          }
+        },
+        "id": "1832739936166166528",
+        "name": "junoandmaxx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832740181805522944/bNKqJ4l-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109596,
+          "following_count": 66,
+          "like_count": 773,
+          "listed_count": 117,
+          "media_count": 19,
+          "tweet_count": 34
+        },
+        "url": "https://t.co/GXqKWoyofO",
+        "username": "JunoandMaxx",
+        "verified": false
+      }
+    ]
+  }
+}

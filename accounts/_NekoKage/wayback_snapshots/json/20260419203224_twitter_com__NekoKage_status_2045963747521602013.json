@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044516078160576513"
+      ],
+      "media_source_tweet_id": [
+        "2044517472728932470"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "2045963747521602013",
+    "created_at": "2026-04-19T20:32:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T21:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045963747521602013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1045228919656337408",
+          "start": 3,
+          "username": "Luxuriass"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CR3p5sgWIu",
+          "end": 70,
+          "expanded_url": "https://x.com/Luxuriass/status/2044517472728932470/photo/1",
+          "media_key": "3_2044516078160576513",
+          "start": 47,
+          "url": "https://t.co/CR3p5sgWIu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045963747521602013",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 323
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044517472728932470",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Luxuriass: The so-called Goddess of Wisdom https://t.co/CR3p5sgWIu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045963747521602013].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045963747521602013",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045963747521602013"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3044,
+        "media_key": "3_2044516078160576513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF-UinBWAAEVF0N.jpg",
+        "width": 2303
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044516078160576513"
+          ]
+        },
+        "author_id": "1045228919656337408",
+        "conversation_id": "2044517472728932470",
+        "created_at": "2026-04-15T20:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T21:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044517472728932470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CR3p5sgWIu",
+              "end": 55,
+              "expanded_url": "https://x.com/Luxuriass/status/2044517472728932470/photo/1",
+              "media_key": "3_2044516078160576513",
+              "start": 32,
+              "url": "https://t.co/CR3p5sgWIu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044517472728932470",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1459,
+          "impression_count": 61517,
+          "like_count": 6374,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 323
+        },
+        "reply_settings": "everyone",
+        "text": "The so-called Goddess of Wisdom https://t.co/CR3p5sgWIu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8426,
+          "following_count": 6393,
+          "like_count": 14649,
+          "listed_count": 17,
+          "media_count": 2818,
+          "tweet_count": 20612
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-27T08:29:28.000Z",
+        "description": "🇲🇽 | They/Them | I draw that one bear |🥛| Milk Connoisseur | Español, English, Français, 日本語 | https://t.co/bWwBgN64Bq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/ESNvXFTtmX",
+                "end": 118,
+                "expanded_url": "https://discord.gg/ESNvXFTtmX",
+                "start": 95,
+                "url": "https://t.co/bWwBgN64Bq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "luxuriass.straw.page",
+                "end": 23,
+                "expanded_url": "https://luxuriass.straw.page",
+                "start": 0,
+                "url": "https://t.co/fNQdZlh5Us"
+              }
+            ]
+          }
+        },
+        "id": "1045228919656337408",
+        "location": "Monster’s House",
+        "name": "🖤 Luxu 🖤",
+        "pinned_tweet_id": "2045235510696722694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989991316244066304/y_lZ78O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243238,
+          "following_count": 1967,
+          "like_count": 166995,
+          "listed_count": 891,
+          "media_count": 2490,
+          "tweet_count": 16750
+        },
+        "url": "https://t.co/fNQdZlh5Us",
+        "username": "Luxuriass",
+        "verified": true
+      }
+    ]
+  }
+}

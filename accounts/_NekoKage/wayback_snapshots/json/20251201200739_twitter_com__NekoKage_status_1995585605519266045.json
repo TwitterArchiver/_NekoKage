@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995464730794991616"
+      ],
+      "media_source_tweet_id": [
+        "1995464738474467376"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "1995585605519266045",
+    "created_at": "2025-12-01T20:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T21:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995585605519266045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1864267140830048256",
+          "start": 3,
+          "username": "bcYwpK3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lLCEz9HwcE",
+          "end": 36,
+          "expanded_url": "https://x.com/bcYwpK3/status/1995464738474467376/photo/1",
+          "media_key": "3_1995464730794991616",
+          "start": 13,
+          "url": "https://t.co/lLCEz9HwcE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995585605519266045",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995464738474467376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bcYwpK3: https://t.co/lLCEz9HwcE"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1995585605519266045].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1995585605519266045",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1995585605519266045"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1096,
+        "media_key": "3_1995464730794991616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7FQmajbIAAQTVI.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995464730794991616"
+          ]
+        },
+        "author_id": "1864267140830048256",
+        "conversation_id": "1995464738474467376",
+        "created_at": "2025-12-01T12:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T13:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995464738474467376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lLCEz9HwcE",
+              "end": 23,
+              "expanded_url": "https://x.com/bcYwpK3/status/1995464738474467376/photo/1",
+              "media_key": "3_1995464730794991616",
+              "start": 0,
+              "url": "https://t.co/lLCEz9HwcE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995464738474467376",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lLCEz9HwcE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989746234408701952/CGIjbFWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7965,
+          "following_count": 5392,
+          "like_count": 13636,
+          "listed_count": 17,
+          "media_count": 2505,
+          "tweet_count": 18240
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-04T11:15:15.000Z",
+        "description": "| 山东 | 97 | 双性恋 | 泛性恋 | LGBT | 友🏳️‍🌈🏳️‍⚧️ | INFP-T | DOM | 绳艺 | S | 束缚 | 窒息 | 调教 | CISP-PTE | HCIP-Datacom | RedHat-RHCA | 渴望有个mtf能成为对象 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bcYwpK3",
+                "end": 23,
+                "expanded_url": "https://t.me/bcYwpK3",
+                "start": 0,
+                "url": "https://t.co/VrEO1H884l"
+              }
+            ]
+          }
+        },
+        "id": "1864267140830048256",
+        "name": "🌸bcYwpK3📷",
+        "pinned_tweet_id": "1976149304311152734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966139927252578308/buiD9rti_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2566,
+          "following_count": 501,
+          "like_count": 4568,
+          "listed_count": 4,
+          "media_count": 386,
+          "tweet_count": 652
+        },
+        "url": "https://t.co/VrEO1H884l",
+        "username": "bcYwpK3",
+        "verified": true
+      }
+    ]
+  }
+}

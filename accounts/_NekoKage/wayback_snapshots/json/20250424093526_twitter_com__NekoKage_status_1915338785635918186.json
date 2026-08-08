@@ -1,0 +1,541 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026332285",
+          "name": "Intel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026332285",
+          "name": "Intel"
+        }
+      }
+    ],
+    "conversation_id": "1915338785635918186",
+    "created_at": "2025-04-24T09:35:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T10:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915338785635918186"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 81,
+          "normalized_text": "Intel",
+          "probability": 0.8704,
+          "start": 77,
+          "type": "Organization"
+        },
+        {
+          "end": 137,
+          "normalized_text": "AshCreekFalls",
+          "probability": 0.9211,
+          "start": 125,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1396429621113999364",
+          "start": 3,
+          "username": "yuuki_ans"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915338785635918186",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915328116660347075",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuuki_ans: In fact, I am a little curious. 🤔🤔🤔\nHow many people know that Intel launched a car computer solution called \n“AshCreekFalls…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 808,
+        "media_key": "3_1915327912875843584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpSclsNa4AAkHfA.jpg",
+        "width": 1419
+      },
+      {
+        "height": 846,
+        "media_key": "3_1915327923734929408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpScmUqbYAAPNDE.jpg",
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026332285",
+              "name": "Intel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026332285",
+              "name": "Intel"
+            }
+          }
+        ],
+        "conversation_id": "1915338785635918186",
+        "created_at": "2025-04-24T09:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T10:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915338785635918186"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 81,
+              "normalized_text": "Intel",
+              "probability": 0.8704,
+              "start": 77,
+              "type": "Organization"
+            },
+            {
+              "end": 137,
+              "normalized_text": "AshCreekFalls",
+              "probability": 0.9211,
+              "start": 125,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1396429621113999364",
+              "start": 3,
+              "username": "yuuki_ans"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915338785635918186",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915328116660347075",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuuki_ans: In fact, I am a little curious. 🤔🤔🤔\nHow many people know that Intel launched a car computer solution called \n“AshCreekFalls…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915327912875843584",
+            "3_1915327923734929408"
+          ]
+        },
+        "author_id": "1396429621113999364",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026332285",
+              "name": "Intel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Intel - AI",
+              "id": "10050907856",
+              "name": "Intel - AI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026332285",
+              "name": "Intel"
+            }
+          }
+        ],
+        "conversation_id": "1915328116660347075",
+        "created_at": "2025-04-24T08:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T09:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915328116660347075"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 66,
+              "normalized_text": "Intel",
+              "probability": 0.8751,
+              "start": 62,
+              "type": "Organization"
+            },
+            {
+              "end": 122,
+              "normalized_text": "AshCreekFalls",
+              "probability": 0.7938,
+              "start": 110,
+              "type": "Other"
+            },
+            {
+              "end": 131,
+              "normalized_text": "SkyLake",
+              "probability": 0.3815,
+              "start": 125,
+              "type": "Other"
+            },
+            {
+              "end": 139,
+              "normalized_text": "Auto",
+              "probability": 0.4837,
+              "start": 136,
+              "type": "Other"
+            },
+            {
+              "end": 180,
+              "normalized_text": "Anderson Lake",
+              "probability": 0.4791,
+              "start": 168,
+              "type": "Other"
+            },
+            {
+              "end": 200,
+              "normalized_text": "Ash Creek Falls",
+              "probability": 0.5969,
+              "start": 186,
+              "type": "Other"
+            },
+            {
+              "end": 222,
+              "normalized_text": "Xeon Platinum",
+              "probability": 0.4807,
+              "start": 210,
+              "type": "Other"
+            },
+            {
+              "end": 254,
+              "normalized_text": "Lewisburg",
+              "probability": 0.5333,
+              "start": 246,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X5mgBrJUgZ",
+              "end": 295,
+              "expanded_url": "https://x.com/yuuki_ans/status/1915328116660347075/photo/1",
+              "media_key": "3_1915327912875843584",
+              "start": 272,
+              "url": "https://t.co/X5mgBrJUgZ"
+            },
+            {
+              "display_url": "pic.x.com/X5mgBrJUgZ",
+              "end": 295,
+              "expanded_url": "https://x.com/yuuki_ans/status/1915328116660347075/photo/1",
+              "media_key": "3_1915327923734929408",
+              "start": 272,
+              "url": "https://t.co/X5mgBrJUgZ"
+            },
+            {
+              "display_url": "x.com/yuuki_ans/stat…",
+              "end": 319,
+              "expanded_url": "https://twitter.com/yuuki_ans/status/1915049449111576918",
+              "start": 296,
+              "url": "https://t.co/4jHWB2z450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915328116660347075",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "In fact, I am a little curious. 🤔🤔🤔\nHow many people know that Intel launched a car computer solution called \n“AshCreekFalls (SkyLake-SP-Auto)” in 2020 ? ?\n---\nPlatfrom：Anderson Lake\nCPU：Ash Creek Falls\n（ intel Xeon Platinum 8142/8160/8168D ）\nPCH：Lewisburg-AD（ C620-Edited ）\n---\nAnd, ANL single host has dual computing nodes, \nthat is, it has 48 SkyLake-SP cores with 2.7GHz!😇"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 374,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915049449111576918",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "In fact, I am a little curious. 🤔🤔🤔\nHow many people know that Intel launched a car computer solution called \n“AshCreekFalls (SkyLake-SP-Auto)” in 2020 ? ?\n---\nPlatfrom：Anderson Lake\nCPU：Ash Creek Falls\n（ intel Xeon Platinum 8142/8160/8168D ）\nPCH：Lewisburg-AD（ C620-Edited https://t.co/X5mgBrJUgZ https://t.co/4jHWB2z450"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠📢siren爱好者⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "_kagenone"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7591,
+          "following_count": 4570,
+          "like_count": 12444,
+          "listed_count": 20,
+          "media_count": 2190,
+          "tweet_count": 15334
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-23T11:35:53.000Z",
+        "description": "中立派，不参与任何对立纠纷 丨［Maybe one day in the future, you will see another me ...］",
+        "id": "1396429621113999364",
+        "location": "Polaris",
+        "name": "结城安穗-YuuKi_AnS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736811338348011520/Jyv2iFg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3535,
+          "following_count": 561,
+          "like_count": 89059,
+          "listed_count": 28,
+          "media_count": 1098,
+          "tweet_count": 5470
+        },
+        "username": "yuuki_ans",
+        "verified": true
+      }
+    ]
+  }
+}

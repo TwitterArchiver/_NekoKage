@@ -1,0 +1,501 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      }
+    ],
+    "conversation_id": "1967501150791606550",
+    "created_at": "2025-09-15T08:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T09:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967501150791606550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1602320477347000325",
+          "start": 3,
+          "username": "landiantech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967501150791606550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967420197591286213",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @landiantech: 极度精简系统 nano11_25h2.iso 镜像文件发布，基于 Windows 11 删除冗余组件后制作，仅占用 8GB 系统空间。由于太多用户希望开发者 NTDEV_提供镜像而不是自己制作，所以开发者现在上传已经处理好的镜像，有兴趣的用户可…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1967419781713424384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G02t3h0a8AAZ2QP.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1967419781725945856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G02t3h3aAAAF8xt.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "1967501150791606550",
+        "created_at": "2025-09-15T08:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T09:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967501150791606550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1602320477347000325",
+              "start": 3,
+              "username": "landiantech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967501150791606550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967420197591286213",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @landiantech: 极度精简系统 nano11_25h2.iso 镜像文件发布，基于 Windows 11 删除冗余组件后制作，仅占用 8GB 系统空间。由于太多用户希望开发者 NTDEV_提供镜像而不是自己制作，所以开发者现在上传已经处理好的镜像，有兴趣的用户可…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967419781713424384",
+            "3_1967419781725945856"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "1967420197591286213",
+        "created_at": "2025-09-15T02:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T03:47:11.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967419898751271101",
+          "1967420197591286213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "#系统镜像 极度精简系统 nano11_25h2.iso 镜像文件发布，基于 Windows 11 删除冗余组件后制作。由于太多用户希望开发者 NTDEV_提供镜像而不是自己制作，所以",
+              "display_url": "ourl.co/110687",
+              "end": 161,
+              "expanded_url": "https://ourl.co/110687",
+              "start": 138,
+              "status": 200,
+              "title": "[下载] 极度精简系统nano11_25h2镜像文件发布 基于Windows 11删除冗余组件制作",
+              "unwound_url": "https://www.landiannews.com/download/110687.html?utm_source=ourl.co&utm_medium=social&utm_campaign=normal",
+              "url": "https://t.co/GVHflBL6VN"
+            },
+            {
+              "display_url": "pic.x.com/IlXpBqjrlf",
+              "end": 185,
+              "expanded_url": "https://x.com/landiantech/status/1967420197591286213/photo/1",
+              "media_key": "3_1967419781713424384",
+              "start": 162,
+              "url": "https://t.co/IlXpBqjrlf"
+            },
+            {
+              "display_url": "pic.x.com/IlXpBqjrlf",
+              "end": 185,
+              "expanded_url": "https://x.com/landiantech/status/1967420197591286213/photo/1",
+              "media_key": "3_1967419781725945856",
+              "start": 162,
+              "url": "https://t.co/IlXpBqjrlf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967420197591286213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 10952,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "极度精简系统 nano11_25h2.iso 镜像文件发布，基于 Windows 11 删除冗余组件后制作，仅占用 8GB 系统空间。由于太多用户希望开发者 NTDEV_提供镜像而不是自己制作，所以开发者现在上传已经处理好的镜像，有兴趣的用户可以在虚拟机中安装体验。下载地址：https://t.co/GVHflBL6VN https://t.co/IlXpBqjrlf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7877,
+          "following_count": 5050,
+          "like_count": 13189,
+          "listed_count": 17,
+          "media_count": 2410,
+          "tweet_count": 17183
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 订阅频道：https://t.co/xzeoUEoPcU 联系方式：https://t.co/LJK1g3biPp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/landiansub",
+                "end": 48,
+                "expanded_url": "https://t.me/landiansub",
+                "start": 25,
+                "url": "https://t.co/xzeoUEoPcU"
+              },
+              {
+                "display_url": "t.me/id7371",
+                "end": 77,
+                "expanded_url": "https://t.me/id7371",
+                "start": 54,
+                "url": "https://t.co/LJK1g3biPp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "pinned_tweet_id": "1934117094939033766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27381,
+          "following_count": 644,
+          "like_count": 3650,
+          "listed_count": 250,
+          "media_count": 4056,
+          "tweet_count": 12222
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

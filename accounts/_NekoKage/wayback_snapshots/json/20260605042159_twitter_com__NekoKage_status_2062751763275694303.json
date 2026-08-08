@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062573456877821955"
+      ],
+      "media_source_tweet_id": [
+        "2062573470928740598"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "2062751763275694303",
+    "created_at": "2026-06-05T04:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T05:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062751763275694303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "922786956",
+          "start": 3,
+          "username": "90right1224"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B6EBWoLNQf",
+          "end": 40,
+          "expanded_url": "https://x.com/90right1224/status/2062573470928740598/photo/1",
+          "media_key": "3_2062573456877821955",
+          "start": 17,
+          "url": "https://t.co/B6EBWoLNQf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062751763275694303",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 450
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062573470928740598",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @90right1224: https://t.co/B6EBWoLNQf"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2062751763275694303].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2062751763275694303",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2062751763275694303"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1051,
+        "media_key": "3_2062573456877821955",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-7oYxaIAMyClI.jpg",
+        "width": 937
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062573456877821955"
+          ]
+        },
+        "author_id": "922786956",
+        "conversation_id": "2062573470928740598",
+        "created_at": "2026-06-04T16:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062573470928740598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B6EBWoLNQf",
+              "end": 23,
+              "expanded_url": "https://x.com/90right1224/status/2062573470928740598/photo/1",
+              "media_key": "3_2062573456877821955",
+              "start": 0,
+              "url": "https://t.co/B6EBWoLNQf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062573470928740598",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1045,
+          "impression_count": 61844,
+          "like_count": 4354,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 450
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/B6EBWoLNQf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病多病病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "_kagenone"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8644,
+          "following_count": 6589,
+          "like_count": 15362,
+          "listed_count": 16,
+          "media_count": 2943,
+          "tweet_count": 21425
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-03T09:04:07.000Z",
+        "description": "#大人のりてあーと https://t.co/vXHhGpUR7Yメロン/",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "大人のりてあーと"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "futabafoods.co.jp/product/ice/fa…",
+                "end": 33,
+                "expanded_url": "https://www.futabafoods.co.jp/product/ice/fancyice/",
+                "start": 10,
+                "url": "https://t.co/vXHhGpUR7Y"
+              }
+            ]
+          }
+        },
+        "id": "922786956",
+        "name": "避難所",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1001445687299457025/czI15AYI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95662,
+          "following_count": 1,
+          "like_count": 37,
+          "listed_count": 629,
+          "media_count": 217,
+          "tweet_count": 443
+        },
+        "username": "90right1224",
+        "verified": false
+      }
+    ]
+  }
+}

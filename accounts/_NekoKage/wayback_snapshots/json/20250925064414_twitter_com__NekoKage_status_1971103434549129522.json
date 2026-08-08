@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1970763764095164417"
+      ],
+      "media_source_tweet_id": [
+        "1970763960543752569"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1971103434549129522",
+    "created_at": "2025-09-25T06:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T07:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971103434549129522"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "日本",
+          "probability": 0.8447,
+          "start": 36,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "257389990",
+          "start": 3,
+          "username": "sm_hn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0XkP4IkRJ1",
+          "end": 69,
+          "expanded_url": "https://x.com/sm_hn/status/1970763960543752569/video/1",
+          "media_key": "7_1970763764095164417",
+          "start": 46,
+          "url": "https://t.co/0XkP4IkRJ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971103434549129522",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3478
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970763960543752569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sm_hn: 【超朗報】ガジェット史上「最狂」の変態端末、ついに日本上陸！！！！！ https://t.co/0XkP4IkRJ1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43699,
+        "height": 1080,
+        "media_key": "7_1970763764095164417",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1970763764095164417/pu/img/ZuEjEACKWzCLahXJ.jpg",
+        "public_metrics": {
+          "view_count": 1209278
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1970763764095164417/pu/vid/avc1/360x270/aNMHhTSruj9fRd5z.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1970763764095164417/pu/vid/avc1/480x360/aIVNOid80BA2z9KZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1970763764095164417/pu/vid/avc1/960x720/Sp0MerybERNi1xGf.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1970763764095164417/pu/pl/Y0yHXlJr4XkLbr82.m3u8?tag=12"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1970763764095164417"
+          ],
+          "media_source_tweet_id": [
+            "1970763960543752569"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1971103434549129522",
+        "created_at": "2025-09-25T06:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T07:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971103434549129522"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "日本",
+              "probability": 0.8447,
+              "start": 36,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "257389990",
+              "start": 3,
+              "username": "sm_hn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0XkP4IkRJ1",
+              "end": 69,
+              "expanded_url": "https://x.com/sm_hn/status/1970763960543752569/video/1",
+              "media_key": "7_1970763764095164417",
+              "start": 46,
+              "url": "https://t.co/0XkP4IkRJ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971103434549129522",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3478
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970763960543752569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sm_hn: 【超朗報】ガジェット史上「最狂」の変態端末、ついに日本上陸！！！！！ https://t.co/0XkP4IkRJ1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1970763764095164417"
+          ]
+        },
+        "author_id": "257389990",
+        "conversation_id": "1970763960543752569",
+        "created_at": "2025-09-24T08:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T09:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970763960543752569"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "日本",
+              "probability": 0.8282,
+              "start": 25,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0XkP4IkRJ1",
+              "end": 58,
+              "expanded_url": "https://x.com/sm_hn/status/1970763960543752569/video/1",
+              "media_key": "7_1970763764095164417",
+              "start": 35,
+              "url": "https://t.co/0XkP4IkRJ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970763960543752569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5391,
+          "impression_count": 2597260,
+          "like_count": 22913,
+          "quote_count": 423,
+          "reply_count": 125,
+          "retweet_count": 3478
+        },
+        "reply_settings": "everyone",
+        "text": "【超朗報】ガジェット史上「最狂」の変態端末、ついに日本上陸！！！！！ https://t.co/0XkP4IkRJ1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7896,
+          "following_count": 5083,
+          "like_count": 13249,
+          "listed_count": 17,
+          "media_count": 2425,
+          "tweet_count": 17310
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-25T09:27:14.000Z",
+        "description": "スマホの今と未来がわかる！モバイル/AI/XR/メタバース/テクノロジー関連を中心に取材・レビュー。日本と海外の最新ガジェット情報をお届けします。取材依頼等はメールフォームもしくはDMまで。投稿にはAmazonアソシエイトURLが含まれる場合があります。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "smhn.info",
+                "end": 23,
+                "expanded_url": "https://smhn.info/",
+                "start": 0,
+                "url": "https://t.co/Ca04DfoPte"
+              }
+            ]
+          }
+        },
+        "id": "257389990",
+        "location": "電波の届くところ",
+        "name": "すまほん!!",
+        "pinned_tweet_id": "1970027776070832481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1385485900306522115/D66XDiz2_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87609,
+          "following_count": 7831,
+          "like_count": 118573,
+          "listed_count": 1572,
+          "media_count": 6997,
+          "tweet_count": 109073
+        },
+        "url": "https://t.co/Ca04DfoPte",
+        "username": "sm_hn",
+        "verified": true
+      }
+    ]
+  }
+}

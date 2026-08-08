@@ -1,0 +1,526 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      }
+    ],
+    "conversation_id": "1992683405004452252",
+    "created_at": "2025-11-23T19:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T20:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992683405004452252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "927139228277923840",
+          "start": 3,
+          "username": "nikora060"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/lMyZpW",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/lMyZpW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992683405004452252",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992330668186243198",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nikora060: ニコンFEを組み立てたので調整\n電子カメラなのでラジオのバリコンを調整している気分になる。\nマニュアル露出や露出計のγ値を調整できるのは受光素子やコンデンサーの経年劣化を吸収できるから非常に優れていると思う。 https://t.co/lMyZpW…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992330665740947456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6YuL0abUAA4xHo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "1992683405004452252",
+        "created_at": "2025-11-23T19:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T20:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992683405004452252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "927139228277923840",
+              "start": 3,
+              "username": "nikora060"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/lMyZpW",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/lMyZpW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992683405004452252",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992330668186243198",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nikora060: ニコンFEを組み立てたので調整\n電子カメラなのでラジオのバリコンを調整している気分になる。\nマニュアル露出や露出計のγ値を調整できるのは受光素子やコンデンサーの経年劣化を吸収できるから非常に優れていると思う。 https://t.co/lMyZpW…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992330665740947456"
+          ]
+        },
+        "author_id": "927139228277923840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "1992330668186243198",
+        "created_at": "2025-11-22T20:33:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T21:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992330668186243198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lMyZpWAYIv",
+              "end": 128,
+              "expanded_url": "https://x.com/nikora060/status/1992330668186243198/photo/1",
+              "media_key": "3_1992330665740947456",
+              "start": 105,
+              "url": "https://t.co/lMyZpWAYIv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992330668186243198",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2567,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "ニコンFEを組み立てたので調整\n電子カメラなのでラジオのバリコンを調整している気分になる。\nマニュアル露出や露出計のγ値を調整できるのは受光素子やコンデンサーの経年劣化を吸収できるから非常に優れていると思う。 https://t.co/lMyZpWAYIv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989746234408701952/CGIjbFWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7958,
+          "following_count": 5309,
+          "like_count": 13564,
+          "listed_count": 17,
+          "media_count": 2495,
+          "tweet_count": 18063
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-05T11:43:12.000Z",
+        "description": "国産カメラ/舶来カメラ問わず大好きなカメラ修理屋？\nカメラ成分以外→@nikora070\nインスタ→https://t.co/ooZpM6mcL1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "nikora070"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/nikora060/foll…",
+                "end": 73,
+                "expanded_url": "https://www.instagram.com/nikora060/followers/",
+                "start": 50,
+                "url": "https://t.co/ooZpM6mcL1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nikora060.hatenablog.com",
+                "end": 23,
+                "expanded_url": "https://nikora060.hatenablog.com/",
+                "start": 0,
+                "url": "https://t.co/WTFZFkECBH"
+              }
+            ]
+          }
+        },
+        "id": "927139228277923840",
+        "location": "東京",
+        "name": "にこら",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1499218265700122625/WuxGiaTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2322,
+          "following_count": 1514,
+          "like_count": 132576,
+          "listed_count": 26,
+          "media_count": 9022,
+          "tweet_count": 85341
+        },
+        "url": "https://t.co/WTFZFkECBH",
+        "username": "nikora060",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "conversation_id": "2046887212793602486",
+    "created_at": "2026-04-23T10:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T11:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047267499373437352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1547097745797685249",
+          "start": 0,
+          "username": "sth_like_human"
+        },
+        {
+          "end": 25,
+          "id": "1792933283040284673",
+          "start": 16,
+          "username": "tuamitx0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047267499373437352",
+    "in_reply_to_user_id": "1547097745797685249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047253694367035691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sth_like_human @tuamitx0 🥺🐈放弃了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2047253694367035691].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2047253694367035691",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2047253694367035691"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "conversation_id": "2046887212793602486",
+        "created_at": "2026-04-23T10:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047267499373437352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1547097745797685249",
+              "start": 0,
+              "username": "sth_like_human"
+            },
+            {
+              "end": 25,
+              "id": "1792933283040284673",
+              "start": 16,
+              "username": "tuamitx0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047267499373437352",
+        "in_reply_to_user_id": "1547097745797685249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047253694367035691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sth_like_human @tuamitx0 🥺🐈放弃了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️对猫@Kuroneko450430",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8437,
+          "following_count": 6465,
+          "like_count": 14795,
+          "listed_count": 17,
+          "media_count": 2830,
+          "tweet_count": 20745
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T05:57:38.000Z",
+        "description": "我也要bot",
+        "id": "1547097745797685249",
+        "name": "Flash flame",
+        "pinned_tweet_id": "1590122678585032705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010312921864343552/Si-AfgEN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 4353,
+          "like_count": 200538,
+          "listed_count": 7,
+          "media_count": 2151,
+          "tweet_count": 40987
+        },
+        "username": "sth_like_human",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-21T15:00:28.000Z",
+        "description": "我希望我爱的人都好好的🥺♥️/裏垢：https://t.co/q7AzGVPC4y /联络方式：https://t.co/2eUjAnLNoF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pari.cafe/@poi",
+                "end": 41,
+                "expanded_url": "https://pari.cafe/@poi",
+                "start": 18,
+                "url": "https://t.co/q7AzGVPC4y"
+              },
+              {
+                "display_url": "matrix.to/#/@ai0bsw6k:ma…",
+                "end": 71,
+                "expanded_url": "https://matrix.to/#/@ai0bsw6k:matrix.org",
+                "start": 48,
+                "url": "https://t.co/2eUjAnLNoF"
+              }
+            ]
+          }
+        },
+        "id": "1792933283040284673",
+        "location": "🌕月球",
+        "name": "catalyst🍫🐢🌹🌈",
+        "pinned_tweet_id": "2039217404102996391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044793863144194048/N6UjjMr2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 828,
+          "like_count": 29208,
+          "listed_count": 1,
+          "media_count": 292,
+          "tweet_count": 17122
+        },
+        "username": "tuamitx0",
+        "verified": false
+      }
+    ]
+  }
+}

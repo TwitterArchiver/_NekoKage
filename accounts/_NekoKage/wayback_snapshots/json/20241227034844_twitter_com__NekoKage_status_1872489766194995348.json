@@ -1,0 +1,490 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311728290139258880",
+          "name": "Animation & comics events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1312128054911619073",
+          "name": "Comiket"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1872489766194995348",
+    "created_at": "2024-12-27T03:48:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T04:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872489766194995348"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "東5 プ52a",
+          "probability": 0.6474,
+          "start": 23,
+          "type": "Other"
+        },
+        {
+          "end": 50,
+          "normalized_text": "ローゼンブルグ人民公社",
+          "probability": 0.3982,
+          "start": 40,
+          "type": "Organization"
+        },
+        {
+          "end": 75,
+          "normalized_text": "東側カメラ蒐集のススメ　中華人民共和国編",
+          "probability": 0.6066,
+          "start": 56,
+          "type": "Other"
+        },
+        {
+          "end": 81,
+          "normalized_text": "中国",
+          "probability": 0.4814,
+          "start": 80,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 139,
+          "start": 126,
+          "tag": "コミックマーケット105"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1256959468975190017",
+          "start": 3,
+          "username": "kusa_gomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872489766194995348",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872322251615572408",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kusa_gomi: コミケ2日目は『東5 プ52a』で中国カメラ！\n\nローゼンブルグ人民公社の新刊\n『東側カメラ蒐集のススメ　中華人民共和国編』\nでは中国カメラについて解説します！\n当日は掲載機全部を持ってくるので是非触ってみてください！\n\n#コミックマーケット105…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311728290139258880",
+              "name": "Animation & comics events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1312128054911619073",
+              "name": "Comiket"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1872489766194995348",
+        "created_at": "2024-12-27T03:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T04:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872489766194995348"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "東5 プ52a",
+              "probability": 0.6474,
+              "start": 23,
+              "type": "Other"
+            },
+            {
+              "end": 50,
+              "normalized_text": "ローゼンブルグ人民公社",
+              "probability": 0.3982,
+              "start": 40,
+              "type": "Organization"
+            },
+            {
+              "end": 75,
+              "normalized_text": "東側カメラ蒐集のススメ　中華人民共和国編",
+              "probability": 0.6066,
+              "start": 56,
+              "type": "Other"
+            },
+            {
+              "end": 81,
+              "normalized_text": "中国",
+              "probability": 0.4814,
+              "start": 80,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 126,
+              "tag": "コミックマーケット105"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1256959468975190017",
+              "start": 3,
+              "username": "kusa_gomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872489766194995348",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872322251615572408",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kusa_gomi: コミケ2日目は『東5 プ52a』で中国カメラ！\n\nローゼンブルグ人民公社の新刊\n『東側カメラ蒐集のススメ　中華人民共和国編』\nでは中国カメラについて解説します！\n当日は掲載機全部を持ってくるので是非触ってみてください！\n\n#コミックマーケット105…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872320327411507200"
+          ]
+        },
+        "author_id": "1256959468975190017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1312128054911619073",
+              "name": "Comiket"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1872322251615572408",
+        "created_at": "2024-12-26T16:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T17:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872322251615572408"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "東5 プ52a",
+              "probability": 0.705,
+              "start": 8,
+              "type": "Other"
+            },
+            {
+              "end": 35,
+              "normalized_text": "ローゼンブルグ人民公社",
+              "probability": 0.4056,
+              "start": 25,
+              "type": "Organization"
+            },
+            {
+              "end": 60,
+              "normalized_text": "東側カメラ蒐集のススメ　中華人民共和国編",
+              "probability": 0.6389,
+              "start": 41,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 111,
+              "tag": "コミックマーケット105"
+            },
+            {
+              "end": 133,
+              "start": 126,
+              "tag": "コミケ105"
+            },
+            {
+              "end": 145,
+              "start": 134,
+              "tag": "コミケ105お品書き"
+            },
+            {
+              "end": 155,
+              "start": 147,
+              "tag": "コミケお品書き"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iXAHYyrPes",
+              "end": 179,
+              "expanded_url": "https://x.com/kusa_gomi/status/1872322251615572408/photo/1",
+              "media_key": "3_1872320327411507200",
+              "start": 156,
+              "url": "https://t.co/iXAHYyrPes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872322251615572408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1436,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "コミケ2日目は『東5 プ52a』で中国カメラ！\n\nローゼンブルグ人民公社の新刊\n『東側カメラ蒐集のススメ　中華人民共和国編』\nでは中国カメラについて解説します！\n当日は掲載機全部を持ってくるので是非触ってみてください！\n\n#コミックマーケット105  #コミケ105\n#コミケ105お品書き  #コミケお品書き https://t.co/iXAHYyrPes"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain📷膠片攝影/相机维修🚬大烟鬼🔪刃物收藏⌚️入门表匠⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "_kagenone"
+              },
+              {
+                "end": 137,
+                "start": 132,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7411,
+          "following_count": 4389,
+          "like_count": 12027,
+          "listed_count": 19,
+          "media_count": 2044,
+          "tweet_count": 14480
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-03T14:51:18.000Z",
+        "description": "🇩🇪🇭🇺ローゼンブルグ人民公社の中の人🇨🇿🇺🇦",
+        "id": "1256959468975190017",
+        "name": "🌿【コミケ2日目(月)東5プ52a】",
+        "pinned_tweet_id": "1822881128165818505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662903745251016704/lWv6ehNd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 1051,
+          "like_count": 207152,
+          "listed_count": 5,
+          "media_count": 12679,
+          "tweet_count": 143412
+        },
+        "username": "kusa_gomi",
+        "verified": false
+      }
+    ]
+  }
+}

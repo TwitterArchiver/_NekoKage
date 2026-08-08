@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2018071086752055296"
+      ],
+      "media_source_tweet_id": [
+        "2018071177147658316"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "2020259956348662246",
+    "created_at": "2026-02-07T22:14:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T23:14:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020259956348662246"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "foxes",
+          "probability": 0.482,
+          "start": 12,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1910725954705428480",
+          "start": 3,
+          "username": "j6sten"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SiyLNJozwb",
+          "end": 41,
+          "expanded_url": "https://x.com/GOHLHockey/status/2018071177147658316/video/1",
+          "media_key": "7_2018071086752055296",
+          "start": 18,
+          "url": "https://t.co/SiyLNJozwb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020259956348662246",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1018
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020134823600234551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @j6sten: foxes https://t.co/SiyLNJozwb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57257,
+        "height": 720,
+        "media_key": "7_2018071086752055296",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2018071086752055296/pu/img/BUP4TsUTNllt2r9s.jpg",
+        "public_metrics": {
+          "view_count": 108328
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018071086752055296/pu/vid/avc1/480x270/g4_j624NPwjpoWu6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018071086752055296/pu/vid/avc1/640x360/rwttaXbh6bzWUDI3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018071086752055296/pu/vid/avc1/1280x720/x2aCAxRiU-XGrGTJ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2018071086752055296/pu/pl/csLKvLy3I2sU_NCy.m3u8?tag=12&v=fc4"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2018071086752055296"
+          ],
+          "media_source_tweet_id": [
+            "2018071177147658316"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "conversation_id": "2020259956348662246",
+        "created_at": "2026-02-07T22:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T23:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020259956348662246"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "foxes",
+              "probability": 0.482,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1910725954705428480",
+              "start": 3,
+              "username": "j6sten"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SiyLNJozwb",
+              "end": 41,
+              "expanded_url": "https://x.com/GOHLHockey/status/2018071177147658316/video/1",
+              "media_key": "7_2018071086752055296",
+              "start": 18,
+              "url": "https://t.co/SiyLNJozwb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020259956348662246",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1018
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020134823600234551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @j6sten: foxes https://t.co/SiyLNJozwb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2018071086752055296"
+          ],
+          "media_source_tweet_id": [
+            "2018071177147658316"
+          ]
+        },
+        "author_id": "1910725954705428480",
+        "conversation_id": "2020134823600234551",
+        "created_at": "2026-02-07T13:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T14:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020134823600234551"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "foxes",
+              "probability": 0.5661,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SiyLNJozwb",
+              "end": 29,
+              "expanded_url": "https://x.com/GOHLHockey/status/2018071177147658316/video/1",
+              "media_key": "7_2018071086752055296",
+              "start": 6,
+              "url": "https://t.co/SiyLNJozwb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020134823600234551",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2174,
+          "impression_count": 197581,
+          "like_count": 15410,
+          "quote_count": 70,
+          "reply_count": 11,
+          "retweet_count": 1018
+        },
+        "reply_settings": "everyone",
+        "text": "foxes https://t.co/SiyLNJozwb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7962,
+          "following_count": 5717,
+          "like_count": 13804,
+          "listed_count": 17,
+          "media_count": 2582,
+          "tweet_count": 18981
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T16:05:50.000Z",
+        "description": "",
+        "id": "1910725954705428480",
+        "name": "ؘ",
+        "pinned_tweet_id": "2014959550365831273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014245293160607744/JO4wVFwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 142,
+          "like_count": 5727,
+          "listed_count": 1,
+          "media_count": 265,
+          "tweet_count": 2243
+        },
+        "username": "j6sten",
+        "verified": false
+      }
+    ]
+  }
+}

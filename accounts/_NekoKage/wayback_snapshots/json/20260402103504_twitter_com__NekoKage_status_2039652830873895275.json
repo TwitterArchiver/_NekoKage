@@ -1,0 +1,574 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039311958785323008",
+        "3_2039311958785314817"
+      ],
+      "media_source_tweet_id": [
+        "2039311964082676222",
+        "2039311964082676222"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1284106872924991488",
+          "name": "Pentax"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1284106872924991488",
+          "name": "Pentax"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      }
+    ],
+    "conversation_id": "2039652830873895275",
+    "created_at": "2026-04-02T10:35:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T11:35:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039652830873895275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "981915661",
+          "start": 3,
+          "username": "shuujou_arima"
+        },
+        {
+          "end": 35,
+          "id": "110502678",
+          "start": 28,
+          "username": "ikdtk4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AFJxMS86Ep",
+          "end": 95,
+          "expanded_url": "https://x.com/shuujou_arima/status/2039311964082676222/photo/1",
+          "media_key": "3_2039311958785323008",
+          "start": 72,
+          "url": "https://t.co/AFJxMS86Ep"
+        },
+        {
+          "display_url": "pic.x.com/AFJxMS86Ep",
+          "end": 95,
+          "expanded_url": "https://x.com/shuujou_arima/status/2039311964082676222/photo/1",
+          "media_key": "3_2039311958785314817",
+          "start": 72,
+          "url": "https://t.co/AFJxMS86Ep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039652830873895275",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039311964082676222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shuujou_arima: いけだたかしさん @ikdtk4 の「バケペンのマミコちゃん」を買いました。PENTAX 67はいいぞ。 https://t.co/AFJxMS86Ep"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039311958785323008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0Xa_ma8AADtvJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039311958785314817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0Xa_ma0AE3wbz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039311958785323008",
+            "3_2039311958785314817"
+          ],
+          "media_source_tweet_id": [
+            "2039311964082676222",
+            "2039311964082676222"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1284106872924991488",
+              "name": "Pentax"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284106872924991488",
+              "name": "Pentax"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "2039652830873895275",
+        "created_at": "2026-04-02T10:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T11:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039652830873895275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "981915661",
+              "start": 3,
+              "username": "shuujou_arima"
+            },
+            {
+              "end": 35,
+              "id": "110502678",
+              "start": 28,
+              "username": "ikdtk4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AFJxMS86Ep",
+              "end": 95,
+              "expanded_url": "https://x.com/shuujou_arima/status/2039311964082676222/photo/1",
+              "media_key": "3_2039311958785323008",
+              "start": 72,
+              "url": "https://t.co/AFJxMS86Ep"
+            },
+            {
+              "display_url": "pic.x.com/AFJxMS86Ep",
+              "end": 95,
+              "expanded_url": "https://x.com/shuujou_arima/status/2039311964082676222/photo/1",
+              "media_key": "3_2039311958785314817",
+              "start": 72,
+              "url": "https://t.co/AFJxMS86Ep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039652830873895275",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039311964082676222",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shuujou_arima: いけだたかしさん @ikdtk4 の「バケペンのマミコちゃん」を買いました。PENTAX 67はいいぞ。 https://t.co/AFJxMS86Ep"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039311958785323008",
+            "3_2039311958785314817"
+          ]
+        },
+        "author_id": "981915661",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1284106872924991488",
+              "name": "Pentax"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284106872924991488",
+              "name": "Pentax"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "2039311964082676222",
+        "created_at": "2026-04-01T12:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T13:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039311964082676222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "110502678",
+              "start": 9,
+              "username": "ikdtk4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AFJxMS86Ep",
+              "end": 76,
+              "expanded_url": "https://x.com/shuujou_arima/status/2039311964082676222/photo/1",
+              "media_key": "3_2039311958785323008",
+              "start": 53,
+              "url": "https://t.co/AFJxMS86Ep"
+            },
+            {
+              "display_url": "pic.x.com/AFJxMS86Ep",
+              "end": 76,
+              "expanded_url": "https://x.com/shuujou_arima/status/2039311964082676222/photo/1",
+              "media_key": "3_2039311958785314817",
+              "start": 53,
+              "url": "https://t.co/AFJxMS86Ep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039311964082676222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1703,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "いけだたかしさん @ikdtk4 の「バケペンのマミコちゃん」を買いました。PENTAX 67はいいぞ。 https://t.co/AFJxMS86Ep"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8200,
+          "following_count": 6113,
+          "like_count": 14260,
+          "listed_count": 17,
+          "media_count": 2735,
+          "tweet_count": 19968
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-01T05:44:10.000Z",
+        "description": "写真とバイクとお馬さん。愛車はスヴァルトピレン401。絵描きさんではないです。アイコンはカロさん(@karoro3rd)作。愛馬 https://t.co/mlk1lNP6d1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "karoro3rd"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "umadb.com/s/Lx7wU9bOrR2",
+                "end": 88,
+                "expanded_url": "https://umadb.com/s/Lx7wU9bOrR2",
+                "start": 65,
+                "url": "https://t.co/mlk1lNP6d1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shuujou.tumblr.com",
+                "end": 23,
+                "expanded_url": "https://shuujou.tumblr.com",
+                "start": 0,
+                "url": "https://t.co/gCExIq93EJ"
+              }
+            ]
+          }
+        },
+        "id": "981915661",
+        "location": "かんさい",
+        "name": "ありま秀丞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037898307083841536/c30oAXXy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5754,
+          "following_count": 4152,
+          "like_count": 286503,
+          "listed_count": 118,
+          "media_count": 21796,
+          "tweet_count": 380288
+        },
+        "url": "https://t.co/gCExIq93EJ",
+        "username": "shuujou_arima",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-01T19:43:07.000Z",
+        "description": "小学館ビッコミにて「バケペンのマミコちゃん」始まりましたhttps://t.co/BoWxZOPCsR 他「旅に出るのは僕じゃない」「ふたりはだいたいこんなかんじ」「時計じかけの姉」「ささめきこと」「34歳無職さん」等。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bigcomics.jp/episodes/5ba9f…",
+                "end": 51,
+                "expanded_url": "https://bigcomics.jp/episodes/5ba9fb9d2f45f",
+                "start": 28,
+                "url": "https://t.co/BoWxZOPCsR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.co.jp/-/e/B00J24MQ1G",
+                "end": 23,
+                "expanded_url": "https://www.amazon.co.jp/-/e/B00J24MQ1G",
+                "start": 0,
+                "url": "https://t.co/lcVABB8CCs"
+              }
+            ]
+          }
+        },
+        "id": "110502678",
+        "location": "千葉県",
+        "name": "いけだたかし＠「バケペンのマミコちゃん」第1巻は3月12日発売！",
+        "pinned_tweet_id": "2014900055501897861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1131385794/sanpinkun1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7376,
+          "following_count": 666,
+          "like_count": 9389,
+          "listed_count": 382,
+          "media_count": 18914,
+          "tweet_count": 193346
+        },
+        "url": "https://t.co/lcVABB8CCs",
+        "username": "ikdtk4",
+        "verified": false
+      }
+    ]
+  }
+}

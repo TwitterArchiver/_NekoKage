@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "conversation_id": "2042861734990615032",
+    "created_at": "2026-04-11T07:11:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T08:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042863213763801574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1576188912254451714",
+          "start": 0,
+          "username": "theburningfire4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042863213763801574",
+    "in_reply_to_user_id": "1576188912254451714",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042861734990615032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@theburningfire4 🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2042861734990615032].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2042861734990615032",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2042861734990615032"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "conversation_id": "2042861734990615032",
+        "created_at": "2026-04-11T07:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042863213763801574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1576188912254451714",
+              "start": 0,
+              "username": "theburningfire4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042863213763801574",
+        "in_reply_to_user_id": "1576188912254451714",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042861734990615032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theburningfire4 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8311,
+          "following_count": 6221,
+          "like_count": 14450,
+          "listed_count": 17,
+          "media_count": 2764,
+          "tweet_count": 20224
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-01T12:35:05.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️Bi+/xtx/trans/Non-binary/Neutrois/Greyaroace/poly (Xe/They/祂/ta/他）｜BD-II(BPD?)/ASD/(C)PTSD/SUD/GAD/OCD/酷儿安+🪷/#shtwt #odtwt /现代诗/欢迎同类互fo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 124,
+                "start": 118,
+                "tag": "shtwt"
+              },
+              {
+                "end": 131,
+                "start": 125,
+                "tag": "odtwt"
+              }
+            ]
+          }
+        },
+        "id": "1576188912254451714",
+        "location": "世界的夹缝",
+        "name": "Alva🏳️‍🌈🏳️‍⚧️💛🤍💜🖤8964",
+        "pinned_tweet_id": "2042272483013951762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003383336019066883/ppbOni8c_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 976,
+          "like_count": 2457,
+          "listed_count": 5,
+          "media_count": 141,
+          "tweet_count": 1877
+        },
+        "username": "theburningfire4",
+        "verified": false
+      }
+    ]
+  }
+}

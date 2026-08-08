@@ -1,0 +1,710 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1717672666507730944",
+          "name": "Apple Event"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple Macbook",
+          "id": "972168210182111232",
+          "name": "Apple Macbook"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1347257866864873473",
+          "name": "Apple Mac"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2012544212731093075",
+    "created_at": "2026-01-17T15:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T16:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012544212731093075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1547289009201844228",
+          "start": 3,
+          "username": "ji_chunsheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012544212731093075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012415739949437304",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ji_chunsheng: Reddit 用户otto-mate的一台2018款15英寸MacBook Pro弹出了电池需要维修的提示，这使他决定给这台已经用了8年的电脑更换电池。\n\n一开始，他先去了一家第三方维修店试试运气，对方报价200英镑。otto-mate觉得这…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1887,
+        "media_key": "3_2012415735557971968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-2JcwJW4AAVYg_.jpg",
+        "width": 1320
+      },
+      {
+        "height": 988,
+        "media_key": "3_2012415735562170368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-2JcwKW8AAc7yr.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1717672666507730944",
+              "name": "Apple Event"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple Macbook",
+              "id": "972168210182111232",
+              "name": "Apple Macbook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347257866864873473",
+              "name": "Apple Mac"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2012544212731093075",
+        "created_at": "2026-01-17T15:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T16:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012544212731093075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1547289009201844228",
+              "start": 3,
+              "username": "ji_chunsheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012544212731093075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012415739949437304",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ji_chunsheng: Reddit 用户otto-mate的一台2018款15英寸MacBook Pro弹出了电池需要维修的提示，这使他决定给这台已经用了8年的电脑更换电池。\n\n一开始，他先去了一家第三方维修店试试运气，对方报价200英镑。otto-mate觉得这…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012415735557971968",
+            "3_2012415735562170368"
+          ]
+        },
+        "author_id": "1547289009201844228",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1717672666507730944",
+              "name": "Apple Event"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple Macbook",
+              "id": "972168210182111232",
+              "name": "Apple Macbook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347257866864873473",
+              "name": "Apple Mac"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2012415739949437304",
+        "created_at": "2026-01-17T06:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T07:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012415739949437304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/upHEZHr1pU",
+              "end": 166,
+              "expanded_url": "https://x.com/ji_chunsheng/status/2012415739949437304/photo/1",
+              "media_key": "3_2012415735557971968",
+              "start": 143,
+              "url": "https://t.co/upHEZHr1pU"
+            },
+            {
+              "display_url": "pic.x.com/upHEZHr1pU",
+              "end": 166,
+              "expanded_url": "https://x.com/ji_chunsheng/status/2012415739949437304/photo/1",
+              "media_key": "3_2012415735562170368",
+              "start": 143,
+              "url": "https://t.co/upHEZHr1pU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012415739949437304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Reddit 用户otto-mate的一台2018款15英寸MacBook Pro弹出了电池需要维修的提示，这使他决定给这台已经用了8年的电脑更换电池。\n\n一开始，他先去了一家第三方维修店试试运气，对方报价200英镑。otto-mate觉得这个价格有点高， 随后把这台老MacBook Pro带到了苹果官方门店。结果店员给出的报价只有45英镑。\n\n苹果门店的工作人员对机器进行了比较全面的初步检查，不过由于需要订购相关配件，整个维修过程大约要等一周时间。\n\n一周后，苹果打电话通知otto-mate，所需的零部件已经到货。但又过了一周，工作人员却遗憾地告诉他：这台笔记本在维修过程中彻底无法开机了。即便换了两套全新的维修零件，依然没能把机器救活。\n\n2018款MacBook Pro就这样报废，otto-mate一下子没了电脑，好在苹果这边也给出了办法：他们决定直接给客户换一台配置大致相当的新机器。\n\n高潮来了，连otto-mate自己都没想到，苹果给他的居然是一台价值3249 英镑（约 4353 美元）的16寸M4 Max的MacBook Pro，一分钱没要。\n\n按照这个价格来看，他拿到的很可能是最高规格的 M4 Max 配置：\n\n16核CPU、40核GPU、48GB内存，2TB SSD。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 104183,
+          "like_count": 390,
+          "quote_count": 8,
+          "reply_count": 36,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "Reddit 用户otto-mate的一台2018款15英寸MacBook Pro弹出了电池需要维修的提示，这使他决定给这台已经用了8年的电脑更换电池。\n\n一开始，他先去了一家第三方维修店试试运气，对方报价200英镑。otto-mate觉得这个价格有点高， 随后把这台老MacBook https://t.co/upHEZHr1pU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7955,
+          "following_count": 5596,
+          "like_count": 13758,
+          "listed_count": 17,
+          "media_count": 2560,
+          "tweet_count": 18776
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T18:37:07.000Z",
+        "description": "tech & media | co-host of pretty nuts https://t.co/WSv6ZPezen",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/prettynuts",
+                "end": 61,
+                "expanded_url": "http://linktr.ee/prettynuts",
+                "start": 38,
+                "url": "https://t.co/WSv6ZPezen"
+              }
+            ]
+          }
+        },
+        "id": "1547289009201844228",
+        "location": "New York",
+        "name": "紀春生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608312424825851904/NNjbRcmY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10236,
+          "following_count": 2243,
+          "like_count": 29105,
+          "listed_count": 63,
+          "media_count": 4611,
+          "tweet_count": 8377
+        },
+        "username": "ji_chunsheng",
+        "verified": true
+      }
+    ]
+  }
+}

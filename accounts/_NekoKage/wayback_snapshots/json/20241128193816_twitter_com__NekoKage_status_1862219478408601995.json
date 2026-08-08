@@ -1,0 +1,1233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862096277548449792",
+        "3_1862096288835047425",
+        "3_1862096308674146304",
+        "3_1862096330446786560"
+      ],
+      "media_source_tweet_id": [
+        "1862096351418609951",
+        "1862096351418609951",
+        "1862096351418609951",
+        "1862096351418609951"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Auto racing action from the Formula One circuit.",
+          "id": "10002765236",
+          "name": "Formula One Racing"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+          "id": "1682471344305324038",
+          "name": "Hungarian Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+          "id": "1710063341262036992",
+          "name": "Qatar Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+          "id": "1718559425315696640",
+          "name": "Mexico City Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+          "id": "1719780187770945537",
+          "name": "São Paulo Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+          "id": "1725575501769572352",
+          "name": "Las Vegas Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": "Racing",
+          "id": "1058103880376971264",
+          "name": "Racing"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "description": "Formula 1",
+          "id": "854701577994616832",
+          "name": "Formula 1"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+          "id": "1682471344305324038",
+          "name": "Hungarian Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+          "id": "1710063341262036992",
+          "name": "Qatar Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+          "id": "1718559425315696640",
+          "name": "Mexico City Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+          "id": "1719780187770945537",
+          "name": "São Paulo Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+          "id": "1725575501769572352",
+          "name": "Las Vegas Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1284106361979039746",
+          "name": "Fujifilm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Auto racing",
+          "id": "847900599387430912",
+          "name": "Auto racing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Formula 1",
+          "id": "854701577994616832",
+          "name": "Formula 1"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1284106361979039746",
+          "name": "Fujifilm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1497266565669998594",
+          "name": "Open-wheel racing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1509530211146088466",
+          "name": "Motorsport"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      }
+    ],
+    "conversation_id": "1862219478408601995",
+    "created_at": "2024-11-28T19:38:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T20:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862219478408601995"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "life",
+          "probability": 0.517,
+          "start": 26,
+          "type": "Other"
+        },
+        {
+          "end": 63,
+          "normalized_text": "Takumar",
+          "probability": 0.4936,
+          "start": 57,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3303415968",
+          "start": 3,
+          "username": "KiokuCamera"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tdKgEfOKYC",
+          "end": 98,
+          "expanded_url": "https://x.com/KiokuCamera/status/1862096351418609951/photo/1",
+          "media_key": "3_1862096277548449792",
+          "start": 75,
+          "url": "https://t.co/tdKgEfOKYC"
+        },
+        {
+          "display_url": "pic.x.com/tdKgEfOKYC",
+          "end": 98,
+          "expanded_url": "https://x.com/KiokuCamera/status/1862096351418609951/photo/1",
+          "media_key": "3_1862096288835047425",
+          "start": 75,
+          "url": "https://t.co/tdKgEfOKYC"
+        },
+        {
+          "display_url": "pic.x.com/tdKgEfOKYC",
+          "end": 98,
+          "expanded_url": "https://x.com/KiokuCamera/status/1862096351418609951/photo/1",
+          "media_key": "3_1862096308674146304",
+          "start": 75,
+          "url": "https://t.co/tdKgEfOKYC"
+        },
+        {
+          "display_url": "pic.x.com/tdKgEfOKYC",
+          "end": 98,
+          "expanded_url": "https://x.com/KiokuCamera/status/1862096351418609951/photo/1",
+          "media_key": "3_1862096330446786560",
+          "start": 75,
+          "url": "https://t.co/tdKgEfOKYC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862219478408601995",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862096351418609951",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KiokuCamera: Slice of life.\nFUJIFILM GFX 50Sii\nSuper Takumar 55mm f1.8 https://t.co/tdKgEfOKYC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1862096277548449792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdd-stjaQAA2WQ4.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_1862096288835047425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdd-tXmWEAECbnO.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_1862096308674146304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdd-uhgWsAAtx_M.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_1862096330446786560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdd-vynW0AANYaU.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862096277548449792",
+            "3_1862096288835047425",
+            "3_1862096308674146304",
+            "3_1862096330446786560"
+          ],
+          "media_source_tweet_id": [
+            "1862096351418609951",
+            "1862096351418609951",
+            "1862096351418609951",
+            "1862096351418609951"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Auto racing action from the Formula One circuit.",
+              "id": "10002765236",
+              "name": "Formula One Racing"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+              "id": "1682471344305324038",
+              "name": "Hungarian Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+              "id": "1710063341262036992",
+              "name": "Qatar Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+              "id": "1718559425315696640",
+              "name": "Mexico City Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+              "id": "1719780187770945537",
+              "name": "São Paulo Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+              "id": "1725575501769572352",
+              "name": "Las Vegas Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Racing",
+              "id": "1058103880376971264",
+              "name": "Racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "Formula 1",
+              "id": "854701577994616832",
+              "name": "Formula 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+              "id": "1682471344305324038",
+              "name": "Hungarian Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+              "id": "1710063341262036992",
+              "name": "Qatar Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+              "id": "1718559425315696640",
+              "name": "Mexico City Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+              "id": "1719780187770945537",
+              "name": "São Paulo Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+              "id": "1725575501769572352",
+              "name": "Las Vegas Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1284106361979039746",
+              "name": "Fujifilm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Auto racing",
+              "id": "847900599387430912",
+              "name": "Auto racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Formula 1",
+              "id": "854701577994616832",
+              "name": "Formula 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284106361979039746",
+              "name": "Fujifilm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1497266565669998594",
+              "name": "Open-wheel racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509530211146088466",
+              "name": "Motorsport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "1862219478408601995",
+        "created_at": "2024-11-28T19:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T20:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862219478408601995"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "life",
+              "probability": 0.517,
+              "start": 26,
+              "type": "Other"
+            },
+            {
+              "end": 63,
+              "normalized_text": "Takumar",
+              "probability": 0.4936,
+              "start": 57,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3303415968",
+              "start": 3,
+              "username": "KiokuCamera"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tdKgEfOKYC",
+              "end": 98,
+              "expanded_url": "https://x.com/KiokuCamera/status/1862096351418609951/photo/1",
+              "media_key": "3_1862096277548449792",
+              "start": 75,
+              "url": "https://t.co/tdKgEfOKYC"
+            },
+            {
+              "display_url": "pic.x.com/tdKgEfOKYC",
+              "end": 98,
+              "expanded_url": "https://x.com/KiokuCamera/status/1862096351418609951/photo/1",
+              "media_key": "3_1862096288835047425",
+              "start": 75,
+              "url": "https://t.co/tdKgEfOKYC"
+            },
+            {
+              "display_url": "pic.x.com/tdKgEfOKYC",
+              "end": 98,
+              "expanded_url": "https://x.com/KiokuCamera/status/1862096351418609951/photo/1",
+              "media_key": "3_1862096308674146304",
+              "start": 75,
+              "url": "https://t.co/tdKgEfOKYC"
+            },
+            {
+              "display_url": "pic.x.com/tdKgEfOKYC",
+              "end": 98,
+              "expanded_url": "https://x.com/KiokuCamera/status/1862096351418609951/photo/1",
+              "media_key": "3_1862096330446786560",
+              "start": 75,
+              "url": "https://t.co/tdKgEfOKYC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862219478408601995",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862096351418609951",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KiokuCamera: Slice of life.\nFUJIFILM GFX 50Sii\nSuper Takumar 55mm f1.8 https://t.co/tdKgEfOKYC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862096277548449792",
+            "3_1862096288835047425",
+            "3_1862096308674146304",
+            "3_1862096330446786560"
+          ]
+        },
+        "author_id": "3303415968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Auto racing action from the Formula One circuit.",
+              "id": "10002765236",
+              "name": "Formula One Racing"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+              "id": "1682471344305324038",
+              "name": "Hungarian Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+              "id": "1710063341262036992",
+              "name": "Qatar Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+              "id": "1718559425315696640",
+              "name": "Mexico City Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+              "id": "1719780187770945537",
+              "name": "São Paulo Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+              "id": "1725575501769572352",
+              "name": "Las Vegas Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Racing",
+              "id": "1058103880376971264",
+              "name": "Racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "Formula 1",
+              "id": "854701577994616832",
+              "name": "Formula 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+              "id": "1682471344305324038",
+              "name": "Hungarian Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+              "id": "1710063341262036992",
+              "name": "Qatar Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+              "id": "1718559425315696640",
+              "name": "Mexico City Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+              "id": "1719780187770945537",
+              "name": "São Paulo Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+              "id": "1725575501769572352",
+              "name": "Las Vegas Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1284106361979039746",
+              "name": "Fujifilm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Auto racing",
+              "id": "847900599387430912",
+              "name": "Auto racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Formula 1",
+              "id": "854701577994616832",
+              "name": "Formula 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284106361979039746",
+              "name": "Fujifilm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1497266565669998594",
+              "name": "Open-wheel racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509530211146088466",
+              "name": "Motorsport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "1862096351418609951",
+        "created_at": "2024-11-28T11:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T12:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862096351418609951"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "Takumar",
+              "probability": 0.3999,
+              "start": 40,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tdKgEfOKYC",
+              "end": 81,
+              "expanded_url": "https://x.com/KiokuCamera/status/1862096351418609951/photo/1",
+              "media_key": "3_1862096277548449792",
+              "start": 58,
+              "url": "https://t.co/tdKgEfOKYC"
+            },
+            {
+              "display_url": "pic.x.com/tdKgEfOKYC",
+              "end": 81,
+              "expanded_url": "https://x.com/KiokuCamera/status/1862096351418609951/photo/1",
+              "media_key": "3_1862096288835047425",
+              "start": 58,
+              "url": "https://t.co/tdKgEfOKYC"
+            },
+            {
+              "display_url": "pic.x.com/tdKgEfOKYC",
+              "end": 81,
+              "expanded_url": "https://x.com/KiokuCamera/status/1862096351418609951/photo/1",
+              "media_key": "3_1862096308674146304",
+              "start": 58,
+              "url": "https://t.co/tdKgEfOKYC"
+            },
+            {
+              "display_url": "pic.x.com/tdKgEfOKYC",
+              "end": 81,
+              "expanded_url": "https://x.com/KiokuCamera/status/1862096351418609951/photo/1",
+              "media_key": "3_1862096330446786560",
+              "start": 58,
+              "url": "https://t.co/tdKgEfOKYC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862096351418609951",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1298,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Slice of life.\nFUJIFILM GFX 50Sii\nSuper Takumar 55mm f1.8 https://t.co/tdKgEfOKYC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain📷膠片攝影/相机维修🚬大烟鬼🔪刃物收藏⌚️入门表匠⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "_kagenone"
+              },
+              {
+                "end": 137,
+                "start": 132,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7361,
+          "following_count": 4301,
+          "like_count": 11840,
+          "listed_count": 18,
+          "media_count": 2005,
+          "tweet_count": 14174
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-01T15:24:25.000Z",
+        "description": "写真とクラシックなスタイルのカメラが好きで、日々ブログを書いています。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kiokucamera.com",
+                "end": 23,
+                "expanded_url": "https://kiokucamera.com",
+                "start": 0,
+                "url": "https://t.co/P2xH0CgSsZ"
+              }
+            ]
+          }
+        },
+        "id": "3303415968",
+        "name": "記憶カメラ",
+        "pinned_tweet_id": "841793779061284864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1072683751103057922/-UBdBTVQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15585,
+          "following_count": 485,
+          "like_count": 135588,
+          "listed_count": 188,
+          "media_count": 28075,
+          "tweet_count": 78173
+        },
+        "url": "https://t.co/P2xH0CgSsZ",
+        "username": "KiokuCamera",
+        "verified": true
+      }
+    ]
+  }
+}

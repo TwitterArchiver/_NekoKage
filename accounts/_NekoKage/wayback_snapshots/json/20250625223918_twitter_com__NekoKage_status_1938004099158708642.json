@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938004091084648448"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "1937900618426773929",
+    "created_at": "2025-06-25T22:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T23:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938004099158708642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1729678224068911104",
+          "start": 0,
+          "username": "kafei684134"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SvHFqKENoz",
+          "end": 38,
+          "expanded_url": "https://x.com/_NekoKage/status/1938004099158708642/photo/1",
+          "media_key": "3_1938004091084648448",
+          "start": 15,
+          "url": "https://t.co/SvHFqKENoz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938004099158708642",
+    "in_reply_to_user_id": "1729678224068911104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937906234289787211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kafei684134 肥 https://t.co/SvHFqKENoz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1938004099158708642].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1938004099158708642",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1938004099158708642"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1938004091084648448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuUsc-5asAAzwWh.jpg",
+        "width": 782
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729678224068911104",
+        "conversation_id": "1937900618426773929",
+        "created_at": "2025-06-25T16:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T17:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937906234289787211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "878794367103676416",
+              "start": 0,
+              "username": "_NekoKage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937906234289787211",
+        "in_reply_to_user_id": "878794367103676416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937900618426773929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_NekoKage 看看现在的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🐈#RainWorld⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 107,
+                "tag": "RainWorld"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "_kagenone"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7648,
+          "following_count": 4724,
+          "like_count": 12809,
+          "listed_count": 20,
+          "media_count": 2264,
+          "tweet_count": 16071
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T01:47:31.000Z",
+        "description": "☆社會貢獻 万歲☆/FGA高级备考中/大学在读/可爱的小猫@SakuraCatMoe/牢朋友@kumatamasan/可以在这里问问题https://t.co/I5XJYBhxH7❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "SakuraCatMoe"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "kumatamasan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kafei684134",
+                "end": 90,
+                "expanded_url": "https://ngl.link/kafei684134",
+                "start": 67,
+                "url": "https://t.co/I5XJYBhxH7"
+              }
+            ]
+          }
+        },
+        "id": "1729678224068911104",
+        "location": "广西",
+        "name": "Opal",
+        "pinned_tweet_id": "1828627327221452865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800099030669860864/yYYgbPq1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 444,
+          "like_count": 17053,
+          "listed_count": 1,
+          "media_count": 1394,
+          "tweet_count": 11093
+        },
+        "username": "kafei684134",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,825 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Golf",
+          "id": "847901642087211009",
+          "name": "Golf"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      }
+    ],
+    "conversation_id": "1912597189613998171",
+    "created_at": "2025-04-16T20:01:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T21:01:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912597189613998171"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 63,
+          "normalized_text": "いまフィルムコンパクトカメラがおもしろい",
+          "probability": 0.2297,
+          "start": 44,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 113,
+          "start": 106,
+          "tag": "モノショップ"
+        },
+        {
+          "end": 119,
+          "start": 115,
+          "tag": "カメラ"
+        },
+        {
+          "end": 125,
+          "start": 120,
+          "tag": "フィルム"
+        },
+        {
+          "end": 130,
+          "start": 126,
+          "tag": "ゴルフ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "172225656",
+          "start": 3,
+          "username": "mono_shop"
+        },
+        {
+          "end": 105,
+          "id": "172225656",
+          "start": 95,
+          "username": "mono_shop"
+        }
+      ],
+      "urls": [
+        {
+          "description": "【総力特集】いまフィルムコンパクトカメラがおもしろい 今、1970年代から1980年代に全盛期を迎えたフィルムコンパクトカメラの人気が高まっている。その理由はフィルムならではの表現力やファッション小物としても成立するデザインの良さに加え、デジタルデトックスも要因のひとつなのだとか。そんなフィルムコンパクトカメラを現代の価値創造に転換してお届けする本特集では時代を象徴する名機から今買える最新＆中古カメラにフィルム、リアルユーザーの声、専門店＆イベント情報などの実践的な内容を満載。便利になりすぎた現代だからこそ、あえて不便さを楽しむ時間があってもいいんじゃない？ 【特集】カタチから入れ！モノ・マガジンのゴルフスタイル ゴルフが若い世代を中心に盛り上がりを見せている。これから始めてみようなんて思っている人も多くいることだろう。だけども、どんなスタイルで決めればいいのか、何を買えばいいのかわからない。そこで、そんな人たちに向けてゴルフギア選びをお届けする。ウエアやシューズ、鞄ほか、グリーンで映えるスタイルを提案する。 【連載企画】兵士が行くところならPXも行く。ポスト エクスチェンジ物語 第44回 ヨーロッパで戦火が止んだ後、壮大な仕事が待っていた。1年以内という限られた時間内に、ヨーロッパ戦線に300万人はいる兵士を、故国アメリカに帰還させるのである。「ステージングエリアの女王」とさえ呼ばれた「キャンプ・トップハット」の入口を、まずはノックしてみる。 OTHER　CONTENTS ●“こだわりmono語り””スペシャル 田竜太さん×新行市佳さん ●mono編集部のモノ差し ●う～ん、うなるもの ●Sinnデポ ●monoの大捜査線 ●カトウが行く！　ものモノ散歩【拡大版】 ●金属恵比寿 高木大地の「狂気の楽器塾」 ●インディアンの毛布 Part 1 ●みんなの時計 ●モノ進化論 ●新製品情報 ●クロラボ ●みうらじゅんの「今月のグッとくる宝物BEST2」 ●モノ・ショップジャーナル ・通算958号 ・発売日:2025.4.16 ・雑誌コード:28751-5/2",
+          "display_url": "monoshop.biz/SHOP/mm0958.ht…",
+          "end": 94,
+          "expanded_url": "https://www.monoshop.biz/SHOP/mm0958.html",
+          "images": [
+            {
+              "height": 866,
+              "url": "https://pbs.twimg.com/news_img/1911975175312281600/3ZTqXSL6?format=jpg&name=orig",
+              "width": 640
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1911975175312281600/3ZTqXSL6?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 71,
+          "status": 200,
+          "title": "モノ・マガジン2025年5月2日特集号",
+          "unwound_url": "https://www.monoshop.biz/SHOP/mm0958.html",
+          "url": "https://t.co/ziXvWiFgZR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912597189613998171",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912390237835375073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mono_shop: モノ・マガジン2025年5月2日特集号は本日発売！特集は「いまフィルムコンパクトカメラがおもしろい」でお届け。\nhttps://t.co/ziXvWiFgZR @mono_shop #モノショップ  #カメラ #フィルム #ゴルフ https://…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1912390148223868928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoostSDXIAAkDX8.jpg",
+        "width": 739
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Golf",
+              "id": "847901642087211009",
+              "name": "Golf"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          }
+        ],
+        "conversation_id": "1912597189613998171",
+        "created_at": "2025-04-16T20:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T21:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912597189613998171"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 63,
+              "normalized_text": "いまフィルムコンパクトカメラがおもしろい",
+              "probability": 0.2297,
+              "start": 44,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 113,
+              "start": 106,
+              "tag": "モノショップ"
+            },
+            {
+              "end": 119,
+              "start": 115,
+              "tag": "カメラ"
+            },
+            {
+              "end": 125,
+              "start": 120,
+              "tag": "フィルム"
+            },
+            {
+              "end": 130,
+              "start": 126,
+              "tag": "ゴルフ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "172225656",
+              "start": 3,
+              "username": "mono_shop"
+            },
+            {
+              "end": 105,
+              "id": "172225656",
+              "start": 95,
+              "username": "mono_shop"
+            }
+          ],
+          "urls": [
+            {
+              "description": "【総力特集】いまフィルムコンパクトカメラがおもしろい 今、1970年代から1980年代に全盛期を迎えたフィルムコンパクトカメラの人気が高まっている。その理由はフィルムならではの表現力やファッション小物としても成立するデザインの良さに加え、デジタルデトックスも要因のひとつなのだとか。そんなフィルムコンパクトカメラを現代の価値創造に転換してお届けする本特集では時代を象徴する名機から今買える最新＆中古カメラにフィルム、リアルユーザーの声、専門店＆イベント情報などの実践的な内容を満載。便利になりすぎた現代だからこそ、あえて不便さを楽しむ時間があってもいいんじゃない？ 【特集】カタチから入れ！モノ・マガジンのゴルフスタイル ゴルフが若い世代を中心に盛り上がりを見せている。これから始めてみようなんて思っている人も多くいることだろう。だけども、どんなスタイルで決めればいいのか、何を買えばいいのかわからない。そこで、そんな人たちに向けてゴルフギア選びをお届けする。ウエアやシューズ、鞄ほか、グリーンで映えるスタイルを提案する。 【連載企画】兵士が行くところならPXも行く。ポスト エクスチェンジ物語 第44回 ヨーロッパで戦火が止んだ後、壮大な仕事が待っていた。1年以内という限られた時間内に、ヨーロッパ戦線に300万人はいる兵士を、故国アメリカに帰還させるのである。「ステージングエリアの女王」とさえ呼ばれた「キャンプ・トップハット」の入口を、まずはノックしてみる。 OTHER　CONTENTS ●“こだわりmono語り””スペシャル 田竜太さん×新行市佳さん ●mono編集部のモノ差し ●う～ん、うなるもの ●Sinnデポ ●monoの大捜査線 ●カトウが行く！　ものモノ散歩【拡大版】 ●金属恵比寿 高木大地の「狂気の楽器塾」 ●インディアンの毛布 Part 1 ●みんなの時計 ●モノ進化論 ●新製品情報 ●クロラボ ●みうらじゅんの「今月のグッとくる宝物BEST2」 ●モノ・ショップジャーナル ・通算958号 ・発売日:2025.4.16 ・雑誌コード:28751-5/2",
+              "display_url": "monoshop.biz/SHOP/mm0958.ht…",
+              "end": 94,
+              "expanded_url": "https://www.monoshop.biz/SHOP/mm0958.html",
+              "images": [
+                {
+                  "height": 866,
+                  "url": "https://pbs.twimg.com/news_img/1911975175312281600/3ZTqXSL6?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1911975175312281600/3ZTqXSL6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 71,
+              "status": 200,
+              "title": "モノ・マガジン2025年5月2日特集号",
+              "unwound_url": "https://www.monoshop.biz/SHOP/mm0958.html",
+              "url": "https://t.co/ziXvWiFgZR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912597189613998171",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912390237835375073",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mono_shop: モノ・マガジン2025年5月2日特集号は本日発売！特集は「いまフィルムコンパクトカメラがおもしろい」でお届け。\nhttps://t.co/ziXvWiFgZR @mono_shop #モノショップ  #カメラ #フィルム #ゴルフ https://…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912390148223868928"
+          ]
+        },
+        "author_id": "172225656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Golf",
+              "id": "847901642087211009",
+              "name": "Golf"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          }
+        ],
+        "conversation_id": "1912390237835375073",
+        "created_at": "2025-04-16T06:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T07:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912390237835375073"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "いまフィルムコンパクトカメラがおもしろい",
+              "probability": 0.2806,
+              "start": 29,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 91,
+              "tag": "モノショップ"
+            },
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "カメラ"
+            },
+            {
+              "end": 110,
+              "start": 105,
+              "tag": "フィルム"
+            },
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "ゴルフ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 90,
+              "id": "172225656",
+              "start": 80,
+              "username": "mono_shop"
+            }
+          ],
+          "urls": [
+            {
+              "description": "【総力特集】いまフィルムコンパクトカメラがおもしろい 今、1970年代から1980年代に全盛期を迎えたフィルムコンパクトカメラの人気が高まっている。その理由はフィルムならではの表現力やファッション小物としても成立するデザインの良さに加え、デジタルデトックスも要因のひとつなのだとか。そんなフィルムコンパクトカメラを現代の価値創造に転換してお届けする本特集では時代を象徴する名機から今買える最新＆中古カメラにフィルム、リアルユーザーの声、専門店＆イベント情報などの実践的な内容を満載。便利になりすぎた現代だからこそ、あえて不便さを楽しむ時間があってもいいんじゃない？ 【特集】カタチから入れ！モノ・マガジンのゴルフスタイル ゴルフが若い世代を中心に盛り上がりを見せている。これから始めてみようなんて思っている人も多くいることだろう。だけども、どんなスタイルで決めればいいのか、何を買えばいいのかわからない。そこで、そんな人たちに向けてゴルフギア選びをお届けする。ウエアやシューズ、鞄ほか、グリーンで映えるスタイルを提案する。 【連載企画】兵士が行くところならPXも行く。ポスト エクスチェンジ物語 第44回 ヨーロッパで戦火が止んだ後、壮大な仕事が待っていた。1年以内という限られた時間内に、ヨーロッパ戦線に300万人はいる兵士を、故国アメリカに帰還させるのである。「ステージングエリアの女王」とさえ呼ばれた「キャンプ・トップハット」の入口を、まずはノックしてみる。 OTHER　CONTENTS ●“こだわりmono語り””スペシャル 田竜太さん×新行市佳さん ●mono編集部のモノ差し ●う～ん、うなるもの ●Sinnデポ ●monoの大捜査線 ●カトウが行く！　ものモノ散歩【拡大版】 ●金属恵比寿 高木大地の「狂気の楽器塾」 ●インディアンの毛布 Part 1 ●みんなの時計 ●モノ進化論 ●新製品情報 ●クロラボ ●みうらじゅんの「今月のグッとくる宝物BEST2」 ●モノ・ショップジャーナル ・通算958号 ・発売日:2025.4.16 ・雑誌コード:28751-5/2",
+              "display_url": "monoshop.biz/SHOP/mm0958.ht…",
+              "end": 79,
+              "expanded_url": "https://www.monoshop.biz/SHOP/mm0958.html",
+              "images": [
+                {
+                  "height": 866,
+                  "url": "https://pbs.twimg.com/news_img/1911975175312281600/3ZTqXSL6?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1911975175312281600/3ZTqXSL6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 56,
+              "status": 200,
+              "title": "モノ・マガジン2025年5月2日特集号",
+              "unwound_url": "https://www.monoshop.biz/SHOP/mm0958.html",
+              "url": "https://t.co/ziXvWiFgZR"
+            },
+            {
+              "display_url": "pic.x.com/jzyvbL1Azh",
+              "end": 139,
+              "expanded_url": "https://x.com/mono_shop/status/1912390237835375073/photo/1",
+              "media_key": "3_1912390148223868928",
+              "start": 116,
+              "url": "https://t.co/jzyvbL1Azh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912390237835375073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 8252,
+          "like_count": 74,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "モノ・マガジン2025年5月2日特集号は本日発売！特集は「いまフィルムコンパクトカメラがおもしろい」でお届け。\nhttps://t.co/ziXvWiFgZR @mono_shop #モノショップ  #カメラ #フィルム #ゴルフ https://t.co/jzyvbL1Azh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠📢siren爱好者⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "_kagenone"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7575,
+          "following_count": 4530,
+          "like_count": 12427,
+          "listed_count": 20,
+          "media_count": 2177,
+          "tweet_count": 15247
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-29T05:22:32.000Z",
+        "description": "出版社ワールドフォトプレス・文林堂の雑誌・ムックの公式通販サイトmono shop（モノショップ）です。\r\nTwitterではスタッフのつぶやきや、おすすめ商品などの最新情報をお届けします。なお、ご質問、お問い合わせはWebサイトのお問い合わせフォームよりお願いいたします。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "monoshop.biz",
+                "end": 23,
+                "expanded_url": "https://www.monoshop.biz/",
+                "start": 0,
+                "url": "https://t.co/y1hw0X2xdu"
+              }
+            ]
+          }
+        },
+        "id": "172225656",
+        "location": "東京都杉並区阿佐ヶ谷南1-12-1 アーク阿佐ヶ谷",
+        "name": "モノショップ／ワールドフォトプレス",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/534533677636517888/9ekFz2H3_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4618,
+          "following_count": 2445,
+          "like_count": 599,
+          "listed_count": 149,
+          "media_count": 2410,
+          "tweet_count": 4967
+        },
+        "url": "https://t.co/y1hw0X2xdu",
+        "username": "mono_shop",
+        "verified": false
+      }
+    ]
+  }
+}

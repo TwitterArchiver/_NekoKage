@@ -1,0 +1,462 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2039460896355848193"
+      ],
+      "media_source_tweet_id": [
+        "2039461165495926834"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      }
+    ],
+    "conversation_id": "2039776471695437990",
+    "created_at": "2026-04-02T18:46:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T19:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039776471695437990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2039122228319526912",
+          "start": 3,
+          "username": "ccc_chan18"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lSjABkZDC7",
+          "end": 60,
+          "expanded_url": "https://x.com/ccc_chan18/status/2039461165495926834/photo/1",
+          "media_key": "16_2039460896355848193",
+          "start": 37,
+          "url": "https://t.co/lSjABkZDC7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039776471695437990",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 260
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039461165495926834",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ccc_chan18: *breaks your system* https://t.co/lSjABkZDC7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 420,
+        "media_key": "16_2039460896355848193",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HE2e4TSXEAEDUCC.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HE2e4TSXEAEDUCC.mp4"
+          }
+        ],
+        "width": 560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2039460896355848193"
+          ],
+          "media_source_tweet_id": [
+            "2039461165495926834"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2039776471695437990",
+        "created_at": "2026-04-02T18:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T19:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039776471695437990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2039122228319526912",
+              "start": 3,
+              "username": "ccc_chan18"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lSjABkZDC7",
+              "end": 60,
+              "expanded_url": "https://x.com/ccc_chan18/status/2039461165495926834/photo/1",
+              "media_key": "16_2039460896355848193",
+              "start": 37,
+              "url": "https://t.co/lSjABkZDC7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039776471695437990",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 260
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039461165495926834",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ccc_chan18: *breaks your system* https://t.co/lSjABkZDC7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2039460896355848193"
+          ]
+        },
+        "author_id": "2039122228319526912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2039461165495926834",
+        "created_at": "2026-04-01T21:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T22:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039461165495926834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lSjABkZDC7",
+              "end": 44,
+              "expanded_url": "https://x.com/ccc_chan18/status/2039461165495926834/photo/1",
+              "media_key": "16_2039460896355848193",
+              "start": 21,
+              "url": "https://t.co/lSjABkZDC7"
+            },
+            {
+              "display_url": "x.com/Porforever/sta…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/Porforever/status/2039409327602303422",
+              "start": 45,
+              "url": "https://t.co/K8cDbhz3Ys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039461165495926834",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1016,
+          "impression_count": 59423,
+          "like_count": 5366,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 260
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039409327602303422",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "*breaks your system* https://t.co/lSjABkZDC7 https://t.co/K8cDbhz3Ys"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8199,
+          "following_count": 6113,
+          "like_count": 14261,
+          "listed_count": 17,
+          "media_count": 2736,
+          "tweet_count": 19968
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T23:26:50.000Z",
+        "description": "Paint the world with moe",
+        "id": "2039122228319526912",
+        "name": "colle-chan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039196131033300992/_prjURK2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 20,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 19
+        },
+        "username": "ccc_chan18",
+        "verified": false
+      }
+    ]
+  }
+}

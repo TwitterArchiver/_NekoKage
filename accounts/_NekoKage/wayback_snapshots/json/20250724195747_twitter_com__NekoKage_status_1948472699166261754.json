@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948335921344212992"
+      ],
+      "media_source_tweet_id": [
+        "1948335932639420524"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "1948472699166261754",
+    "created_at": "2025-07-24T19:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T20:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948472699166261754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1778700125944381440",
+          "start": 3,
+          "username": "_adip0cere"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eNeyuXmPaR",
+          "end": 39,
+          "expanded_url": "https://x.com/_adip0cere/status/1948335932639420524/photo/1",
+          "media_key": "3_1948335921344212992",
+          "start": 16,
+          "url": "https://t.co/eNeyuXmPaR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948472699166261754",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948335932639420524",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_adip0cere: https://t.co/eNeyuXmPaR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1948472699166261754].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1948472699166261754",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1948472699166261754"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1948335921344212992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwnhMp7a8AAfdu6.jpg",
+        "width": 1464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948335921344212992"
+          ]
+        },
+        "author_id": "1778700125944381440",
+        "conversation_id": "1948335932639420524",
+        "created_at": "2025-07-24T10:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T11:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948335932639420524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eNeyuXmPaR",
+              "end": 23,
+              "expanded_url": "https://x.com/_adip0cere/status/1948335932639420524/photo/1",
+              "media_key": "3_1948335921344212992",
+              "start": 0,
+              "url": "https://t.co/eNeyuXmPaR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948335932639420524",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 3009,
+          "like_count": 666,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/eNeyuXmPaR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🐈#RainWorld⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 107,
+                "tag": "RainWorld"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "_kagenone"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7790,
+          "following_count": 4863,
+          "like_count": 13018,
+          "listed_count": 19,
+          "media_count": 2330,
+          "tweet_count": 16532
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T08:22:49.000Z",
+        "description": "FA▶︎ #リジ絵クト",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 5,
+                "tag": "リジ絵クト"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Rejectionreac…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Rejectionreaction/shorts",
+                "start": 0,
+                "url": "https://t.co/QG1mbufRUh"
+              }
+            ]
+          }
+        },
+        "id": "1778700125944381440",
+        "name": "拒否ଳ",
+        "pinned_tweet_id": "1900171178423075083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820261973239754752/7rxYTk0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13688,
+          "following_count": 160,
+          "like_count": 10700,
+          "listed_count": 43,
+          "media_count": 191,
+          "tweet_count": 306
+        },
+        "url": "https://t.co/QG1mbufRUh",
+        "username": "_adip0cere",
+        "verified": false
+      }
+    ]
+  }
+}

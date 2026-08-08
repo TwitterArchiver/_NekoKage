@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045816471448862720"
+      ],
+      "media_source_tweet_id": [
+        "2045816586091757968"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "2046384235184079224",
+    "created_at": "2026-04-21T00:23:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T01:23:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046384235184079224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1521319326221217792",
+          "start": 3,
+          "username": "W178_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DlvCmKvnm3",
+          "end": 41,
+          "expanded_url": "https://x.com/W178_/status/2045816586091757968/photo/1",
+          "media_key": "3_2045816471448862720",
+          "start": 18,
+          "url": "https://t.co/DlvCmKvnm3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046384235184079224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 120
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045816586091757968",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @W178_: 何してたの？ https://t.co/DlvCmKvnm3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2046384235184079224].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2046384235184079224",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2046384235184079224"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3256,
+        "media_key": "3_2045816471448862720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQzPdhaQAAHekh.jpg",
+        "width": 3364
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045816471448862720"
+          ]
+        },
+        "author_id": "1521319326221217792",
+        "conversation_id": "2045816586091757968",
+        "created_at": "2026-04-19T10:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T11:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045816586091757968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DlvCmKvnm3",
+              "end": 30,
+              "expanded_url": "https://x.com/W178_/status/2045816586091757968/photo/1",
+              "media_key": "3_2045816471448862720",
+              "start": 7,
+              "url": "https://t.co/DlvCmKvnm3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045816586091757968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 12392,
+          "like_count": 1179,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "何してたの？ https://t.co/DlvCmKvnm3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8431,
+          "following_count": 6422,
+          "like_count": 14716,
+          "listed_count": 17,
+          "media_count": 2823,
+          "tweet_count": 20667
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T02:43:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@w178",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@w178",
+                "start": 0,
+                "url": "https://t.co/pMuCAQ2xwm"
+              }
+            ]
+          }
+        },
+        "id": "1521319326221217792",
+        "location": "w178maguro@gmail.com",
+        "name": "わーっ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784550659649634304/l6yrLOtk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17691,
+          "following_count": 16,
+          "like_count": 3652,
+          "listed_count": 87,
+          "media_count": 346,
+          "tweet_count": 1267
+        },
+        "url": "https://t.co/pMuCAQ2xwm",
+        "username": "W178_",
+        "verified": false
+      }
+    ]
+  }
+}

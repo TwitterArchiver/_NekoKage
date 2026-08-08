@@ -1,0 +1,582 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Car culture",
+          "id": "847528391163092993",
+          "name": "Automotive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Motorcycles",
+          "id": "847528885138870272",
+          "name": "Motorcycles"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Car culture",
+          "id": "847528391163092993",
+          "name": "Automotive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Motorcycles",
+          "id": "847528885138870272",
+          "name": "Motorcycles"
+        }
+      }
+    ],
+    "conversation_id": "1930898230692454797",
+    "created_at": "2025-06-06T08:03:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T09:03:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930898230692454797"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 87,
+          "normalized_text": "スイス",
+          "probability": 0.9775,
+          "start": 85,
+          "type": "Place"
+        },
+        {
+          "end": 100,
+          "normalized_text": "イタリア",
+          "probability": 0.977,
+          "start": 97,
+          "type": "Place"
+        },
+        {
+          "end": 112,
+          "normalized_text": "フランス",
+          "probability": 0.9572,
+          "start": 109,
+          "type": "Place"
+        },
+        {
+          "end": 122,
+          "normalized_text": "アメリカ",
+          "probability": 0.954,
+          "start": 119,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2378230346",
+          "start": 3,
+          "username": "yamaneko2go"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930898230692454797",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930837716465336825",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yamaneko2go: この仕事をしていて楽しいのは、いろいろな国のカメラの作りを見ることが出来ることです。やはりカメラにも「お国柄」というのがあります。順番にスイスのTESSINA、イタリアのDUCATI、フランスのFOCA、アメリカのEKTRAです。 https:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 374,
+        "media_key": "3_1930837632906641408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsu2mNxbQAA-Smr.jpg",
+        "width": 560
+      },
+      {
+        "height": 425,
+        "media_key": "3_1930837677605261312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsu2o0SaEAAZho7.jpg",
+        "width": 640
+      },
+      {
+        "height": 374,
+        "media_key": "3_1930837677697601537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsu2o0obEAEW4L-.jpg",
+        "width": 560
+      },
+      {
+        "height": 374,
+        "media_key": "3_1930837677668200448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsu2o0hacAADlH_.jpg",
+        "width": 560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Motorcycles",
+              "id": "847528885138870272",
+              "name": "Motorcycles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Motorcycles",
+              "id": "847528885138870272",
+              "name": "Motorcycles"
+            }
+          }
+        ],
+        "conversation_id": "1930898230692454797",
+        "created_at": "2025-06-06T08:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T09:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930898230692454797"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 87,
+              "normalized_text": "スイス",
+              "probability": 0.9775,
+              "start": 85,
+              "type": "Place"
+            },
+            {
+              "end": 100,
+              "normalized_text": "イタリア",
+              "probability": 0.977,
+              "start": 97,
+              "type": "Place"
+            },
+            {
+              "end": 112,
+              "normalized_text": "フランス",
+              "probability": 0.9572,
+              "start": 109,
+              "type": "Place"
+            },
+            {
+              "end": 122,
+              "normalized_text": "アメリカ",
+              "probability": 0.954,
+              "start": 119,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2378230346",
+              "start": 3,
+              "username": "yamaneko2go"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930898230692454797",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930837716465336825",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yamaneko2go: この仕事をしていて楽しいのは、いろいろな国のカメラの作りを見ることが出来ることです。やはりカメラにも「お国柄」というのがあります。順番にスイスのTESSINA、イタリアのDUCATI、フランスのFOCA、アメリカのEKTRAです。 https:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930837632906641408",
+            "3_1930837677605261312",
+            "3_1930837677697601537",
+            "3_1930837677668200448"
+          ]
+        },
+        "author_id": "2378230346",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Motorcycles",
+              "id": "847528885138870272",
+              "name": "Motorcycles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Motorcycles",
+              "id": "847528885138870272",
+              "name": "Motorcycles"
+            }
+          }
+        ],
+        "conversation_id": "1930837716465336825",
+        "created_at": "2025-06-06T04:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T05:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930837716465336825"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 70,
+              "normalized_text": "スイス",
+              "probability": 0.9778,
+              "start": 68,
+              "type": "Place"
+            },
+            {
+              "end": 83,
+              "normalized_text": "イタリア",
+              "probability": 0.9768,
+              "start": 80,
+              "type": "Place"
+            },
+            {
+              "end": 95,
+              "normalized_text": "フランス",
+              "probability": 0.9547,
+              "start": 92,
+              "type": "Place"
+            },
+            {
+              "end": 105,
+              "normalized_text": "アメリカ",
+              "probability": 0.9457,
+              "start": 102,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oypXyTtEM8",
+              "end": 139,
+              "expanded_url": "https://x.com/yamaneko2go/status/1930837716465336825/photo/1",
+              "media_key": "3_1930837632906641408",
+              "start": 116,
+              "url": "https://t.co/oypXyTtEM8"
+            },
+            {
+              "display_url": "pic.x.com/oypXyTtEM8",
+              "end": 139,
+              "expanded_url": "https://x.com/yamaneko2go/status/1930837716465336825/photo/1",
+              "media_key": "3_1930837677605261312",
+              "start": 116,
+              "url": "https://t.co/oypXyTtEM8"
+            },
+            {
+              "display_url": "pic.x.com/oypXyTtEM8",
+              "end": 139,
+              "expanded_url": "https://x.com/yamaneko2go/status/1930837716465336825/photo/1",
+              "media_key": "3_1930837677697601537",
+              "start": 116,
+              "url": "https://t.co/oypXyTtEM8"
+            },
+            {
+              "display_url": "pic.x.com/oypXyTtEM8",
+              "end": 139,
+              "expanded_url": "https://x.com/yamaneko2go/status/1930837716465336825/photo/1",
+              "media_key": "3_1930837677668200448",
+              "start": 116,
+              "url": "https://t.co/oypXyTtEM8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930837716465336825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1467,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "この仕事をしていて楽しいのは、いろいろな国のカメラの作りを見ることが出来ることです。やはりカメラにも「お国柄」というのがあります。順番にスイスのTESSINA、イタリアのDUCATI、フランスのFOCA、アメリカのEKTRAです。 https://t.co/oypXyTtEM8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠📢siren爱好者⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "_kagenone"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7627,
+          "following_count": 4674,
+          "like_count": 12696,
+          "listed_count": 20,
+          "media_count": 2232,
+          "tweet_count": 15833
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-08T06:01:24.000Z",
+        "description": "カメラ店から依頼されたクラシックカメラを修理する仕事をしています。\n現在多忙なため、個人の方からの修理依頼はお断りしております。\n鉄道撮影とバイクツーリング、温泉と猫が好き。\n「カメラ修理屋のきまぐれブログ」の方もよろしく。\nhttps://t.co/sv350qvJIn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gatapasya.blog.fc2.com",
+                "end": 136,
+                "expanded_url": "http://gatapasya.blog.fc2.com",
+                "start": 113,
+                "url": "https://t.co/sv350qvJIn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gatapasya.blog.fc2.com",
+                "end": 23,
+                "expanded_url": "https://gatapasya.blog.fc2.com/",
+                "start": 0,
+                "url": "https://t.co/D0CKiYdKp5"
+              }
+            ]
+          }
+        },
+        "id": "2378230346",
+        "location": "山の中",
+        "name": "がたぱしゃ",
+        "pinned_tweet_id": "1655222952865185794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1346361434989494275/PVn6K0Fv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4048,
+          "following_count": 165,
+          "like_count": 25817,
+          "listed_count": 53,
+          "media_count": 6189,
+          "tweet_count": 20529
+        },
+        "url": "https://t.co/D0CKiYdKp5",
+        "username": "yamaneko2go",
+        "verified": true
+      }
+    ]
+  }
+}

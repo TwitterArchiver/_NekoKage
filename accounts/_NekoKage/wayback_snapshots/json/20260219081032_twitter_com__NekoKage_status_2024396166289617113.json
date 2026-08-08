@@ -1,0 +1,587 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024383910260723718"
+      ],
+      "media_source_tweet_id": [
+        "2024384177471443301"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783335558466506752",
+          "name": "Online - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10032682179",
+          "name": "eBay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10032682179",
+          "name": "eBay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407811550987972617",
+          "name": "Industries"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1407812892909473795",
+          "name": "eCommerce industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Car culture",
+          "id": "847528391163092993",
+          "name": "Automotive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Convertibles",
+          "id": "847528466996019201",
+          "name": "Convertibles"
+        }
+      }
+    ],
+    "conversation_id": "2024396166289617113",
+    "created_at": "2026-02-19T08:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T09:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024396166289617113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "185157259",
+          "start": 3,
+          "username": "oldlens"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ddHTq61GZs",
+          "end": 136,
+          "expanded_url": "https://x.com/oldlens/status/2024384177471443301/photo/1",
+          "media_key": "3_2024383910260723718",
+          "start": 113,
+          "url": "https://t.co/ddHTq61GZs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024396166289617113",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024384177471443301",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oldlens: このカメラ、間違ってebayとかに出てこないかな？来ないだろうなあ。\n世界唯一の35mm判/5x6cm判コンバーチブルカメラ。\nISO Forony Iriar 5cm f2.8付\n生産台数「1台」 https://t.co/ddHTq61GZs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1148,
+        "media_key": "3_2024383910260723718",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgOcNQbUAYRq2T.jpg",
+        "width": 1251
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024383910260723718"
+          ],
+          "media_source_tweet_id": [
+            "2024384177471443301"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10032682179",
+              "name": "eBay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10032682179",
+              "name": "eBay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1407812892909473795",
+              "name": "eCommerce industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Convertibles",
+              "id": "847528466996019201",
+              "name": "Convertibles"
+            }
+          }
+        ],
+        "conversation_id": "2024396166289617113",
+        "created_at": "2026-02-19T08:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T09:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024396166289617113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "185157259",
+              "start": 3,
+              "username": "oldlens"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ddHTq61GZs",
+              "end": 136,
+              "expanded_url": "https://x.com/oldlens/status/2024384177471443301/photo/1",
+              "media_key": "3_2024383910260723718",
+              "start": 113,
+              "url": "https://t.co/ddHTq61GZs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024396166289617113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024384177471443301",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oldlens: このカメラ、間違ってebayとかに出てこないかな？来ないだろうなあ。\n世界唯一の35mm判/5x6cm判コンバーチブルカメラ。\nISO Forony Iriar 5cm f2.8付\n生産台数「1台」 https://t.co/ddHTq61GZs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024383910260723718"
+          ]
+        },
+        "author_id": "185157259",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10032682179",
+              "name": "eBay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10032682179",
+              "name": "eBay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1407812892909473795",
+              "name": "eCommerce industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Convertibles",
+              "id": "847528466996019201",
+              "name": "Convertibles"
+            }
+          }
+        ],
+        "conversation_id": "2024384177471443301",
+        "created_at": "2026-02-19T07:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T08:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024384177471443301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ddHTq61GZs",
+              "end": 123,
+              "expanded_url": "https://x.com/oldlens/status/2024384177471443301/photo/1",
+              "media_key": "3_2024383910260723718",
+              "start": 100,
+              "url": "https://t.co/ddHTq61GZs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024384177471443301",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 356,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "このカメラ、間違ってebayとかに出てこないかな？来ないだろうなあ。\n世界唯一の35mm判/5x6cm判コンバーチブルカメラ。\nISO Forony Iriar 5cm f2.8付\n生産台数「1台」 https://t.co/ddHTq61GZs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7967,
+          "following_count": 5782,
+          "like_count": 13882,
+          "listed_count": 16,
+          "media_count": 2603,
+          "tweet_count": 19205
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-31T10:56:34.000Z",
+        "description": "古典レンズの研究と、収集、実写を行っています。ホームページはhttps://t.co/M6CEp57Fuf。ツイッターもoldlens＠oldlens です。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "oldlens.com",
+                "end": 53,
+                "expanded_url": "http://www.oldlens.com",
+                "start": 30,
+                "url": "https://t.co/M6CEp57Fuf"
+              }
+            ]
+          }
+        },
+        "id": "185157259",
+        "name": "oldlens",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1397933772004155399/b_qbi344_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5141,
+          "following_count": 2258,
+          "like_count": 1888,
+          "listed_count": 52,
+          "media_count": 1538,
+          "tweet_count": 2854
+        },
+        "username": "oldlens",
+        "verified": false
+      }
+    ]
+  }
+}

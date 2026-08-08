@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1106203556208480256",
+          "name": "BUMP OF CHICKEN"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1106203556208480256",
+          "name": "BUMP OF CHICKEN"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1106203556208480256",
+          "name": "BUMP OF CHICKEN"
+        }
+      }
+    ],
+    "conversation_id": "1958267739216462316",
+    "created_at": "2025-08-20T20:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T21:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958267739216462316"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tehmondspartan…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/tehmondspartan/status/1867211372721058032",
+          "start": 3,
+          "url": "https://t.co/dprXk4nXL7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958267739216462316",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867211372721058032",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我超 https://t.co/dprXk4nXL7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1106203556208480256",
+              "name": "BUMP OF CHICKEN"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1106203556208480256",
+              "name": "BUMP OF CHICKEN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1106203556208480256",
+              "name": "BUMP OF CHICKEN"
+            }
+          }
+        ],
+        "conversation_id": "1958267739216462316",
+        "created_at": "2025-08-20T20:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T21:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958267739216462316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tehmondspartan…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/tehmondspartan/status/1867211372721058032",
+              "start": 3,
+              "url": "https://t.co/dprXk4nXL7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958267739216462316",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867211372721058032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我超 https://t.co/dprXk4nXL7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "981153022213419008",
+        "conversation_id": "1618370424492150784",
+        "created_at": "2024-12-12T14:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T15:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867211372721058032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4424656533",
+              "start": 0,
+              "username": "mineisstupid"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Discord Messenger is a free Discord-compatible messaging client that works on almost 30 years of Windows. - DiscordMessenger/dm",
+              "display_url": "github.com/DiscordMesseng…",
+              "end": 82,
+              "expanded_url": "https://github.com/DiscordMessenger/dm",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1958141735436984320/mRQzW3lc?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1958141735436984320/mRQzW3lc?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 59,
+              "status": 200,
+              "title": "GitHub - DiscordMessenger/dm: Discord Messenger is a free Discord-compatible messaging client that works on almost 30 years of Windows.",
+              "unwound_url": "https://github.com/DiscordMessenger/dm",
+              "url": "https://t.co/bbMa3tVbQr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867211372721058032",
+        "in_reply_to_user_id": "4424656533",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 663,
+          "impression_count": 13142,
+          "like_count": 232,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1644523794650865666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mineisstupid Sorry for the bump, but you might like this. https://t.co/bbMa3tVbQr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7858,
+          "following_count": 4996,
+          "like_count": 13100,
+          "listed_count": 17,
+          "media_count": 2377,
+          "tweet_count": 16939
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-03T12:54:44.000Z",
+        "description": "Some guy who likes to do cool stuff / 22 / he/him / 🇮🇩",
+        "id": "981153022213419008",
+        "location": "E1M1",
+        "name": "MondySpartan",
+        "pinned_tweet_id": "1851304532967641510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907483124763865091/Ucp2nLww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5810,
+          "following_count": 547,
+          "like_count": 13631,
+          "listed_count": 27,
+          "media_count": 994,
+          "tweet_count": 21317
+        },
+        "username": "tehmondspartan",
+        "verified": false
+      }
+    ]
+  }
+}

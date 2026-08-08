@@ -1,0 +1,485 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "856568905648578560",
+          "name": "Grand Theft Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "856568905648578560",
+          "name": "Grand Theft Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2032618082104127514",
+    "created_at": "2026-03-14T00:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T01:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032618082104127514"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gtanewsjp/stat…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/gtanewsjp/status/2032290553103253559",
+          "start": 21,
+          "url": "https://t.co/z2fl34TN4N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032618082104127514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032290553103253559",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抱小孩的那个人用的是佳能kiss 胶片机 https://t.co/z2fl34TN4N"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32929,
+        "height": 824,
+        "media_key": "13_1967594109687734272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1967594109687734272/img/YNfM_a1hkfnI_4Fz.jpg",
+        "public_metrics": {
+          "view_count": 1536342
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967594109687734272/vid/avc1/722x720/p9ByxTGfMT74CbCT.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967594109687734272/vid/avc1/360x360/vM0DvWXulR-mNvya.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1967594109687734272/pl/Y96jx6BISDCsOaOE.m3u8?v=4cb"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967594109687734272/vid/avc1/828x824/4YK-A-SWUmDLfhv1.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967594109687734272/vid/avc1/270x270/jwAbLoyUzYXNyscB.mp4"
+          }
+        ],
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2032618082104127514",
+        "created_at": "2026-03-14T00:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T01:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032618082104127514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gtanewsjp/stat…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/gtanewsjp/status/2032290553103253559",
+              "start": 21,
+              "url": "https://t.co/z2fl34TN4N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032618082104127514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032290553103253559",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抱小孩的那个人用的是佳能kiss 胶片机 https://t.co/z2fl34TN4N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1967594109687734272"
+          ],
+          "media_source_tweet_id": [
+            "1967596576584692026"
+          ]
+        },
+        "author_id": "1337201801582407680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2032290553103253559",
+        "created_at": "2026-03-13T03:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T04:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032290553103253559"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "GTA V",
+              "probability": 0.2821,
+              "start": 11,
+              "type": "Product"
+            },
+            {
+              "end": 36,
+              "normalized_text": "スティーブン・オッグ",
+              "probability": 0.6167,
+              "start": 27,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rrKVP0YdMT",
+              "end": 105,
+              "expanded_url": "https://x.com/GTAVI_Countdown/status/1967596576584692026/video/1",
+              "media_key": "13_1967594109687734272",
+              "start": 82,
+              "url": "https://t.co/rrKVP0YdMT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032290553103253559",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2397,
+          "impression_count": 1143855,
+          "like_count": 13454,
+          "quote_count": 69,
+          "reply_count": 52,
+          "retweet_count": 1263
+        },
+        "reply_settings": "everyone",
+        "text": "【もはや同一人物】\n\nGTA Vのトレバー役の俳優\n「スティーブン・オッグ」\n\nイベントでファンのキッズを泣かせてから爆笑\n彼はまだ俺らの愛するトレバーそのまま\n\nhttps://t.co/rrKVP0YdMT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 118,
+                "start": 113,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8158,
+          "following_count": 5938,
+          "like_count": 14092,
+          "listed_count": 17,
+          "media_count": 2679,
+          "tweet_count": 19677
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-11T01:05:33.000Z",
+        "description": "GTA(グランド・セフト・オート)の国内/海外で話題の情報を発信します🐈\n\n非公式アカウントです\n\n#GTA",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 50,
+                "tag": "GTA"
+              }
+            ]
+          }
+        },
+        "id": "1337201801582407680",
+        "name": "GTAニュース",
+        "pinned_tweet_id": "1798624154759115059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014652614097649664/q-83gfND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13428,
+          "following_count": 15,
+          "like_count": 21,
+          "listed_count": 40,
+          "media_count": 66,
+          "tweet_count": 66
+        },
+        "username": "GTAnewsJP",
+        "verified": true
+      }
+    ]
+  }
+}

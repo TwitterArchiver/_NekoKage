@@ -1,0 +1,700 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Tim Cook",
+          "id": "809105292814270464",
+          "name": "Tim Cook"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tim Cook",
+          "id": "809105292814270464",
+          "name": "Tim Cook"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tech Professionals",
+          "id": "1091420346660470784",
+          "name": "Tech personalities"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166406108623163392",
+          "name": "Business personalities"
+        }
+      }
+    ],
+    "conversation_id": "2032195463311736891",
+    "created_at": "2026-03-12T20:42:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T21:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032195463311736891"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 46,
+          "normalized_text": "Apple",
+          "probability": 0.8683,
+          "start": 42,
+          "type": "Organization"
+        },
+        {
+          "end": 137,
+          "normalized_text": "Apple50",
+          "probability": 0.3932,
+          "start": 131,
+          "type": "Product"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 138,
+          "start": 130,
+          "tag": "Apple50"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1636590253",
+          "start": 3,
+          "username": "tim_cook"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Read a letter from CEO Tim Cook as he reflects on 50 Years of Apple.",
+          "display_url": "apple.com/50-years-of-th…",
+          "end": 128,
+          "expanded_url": "http://apple.com/50-years-of-thinking-different/",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2032076102483529728/VnIo3Yl6?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2032076102483529728/VnIo3Yl6?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 105,
+          "status": 200,
+          "title": "50 Years of Thinking Different",
+          "unwound_url": "https://www.apple.com/50-years-of-thinking-different/",
+          "url": "https://t.co/ZeB68ok859"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032195463311736891",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3876
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032079194923155547",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tim_cook: April 1st marks 50 years of Apple. Thank you to everyone who’s been a part of our journey. https://t.co/ZeB68ok859\n\n#Apple50…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "A letter from Tim titled '50 Years of Thinking Different’, celebrating Apple's 50th anniversary on April 1st.",
+        "height": 3000,
+        "media_key": "3_2032078649323896834",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDNkw-CbQAImI7z.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Tim Cook",
+              "id": "809105292814270464",
+              "name": "Tim Cook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tim Cook",
+              "id": "809105292814270464",
+              "name": "Tim Cook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2032195463311736891",
+        "created_at": "2026-03-12T20:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T21:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032195463311736891"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "Apple",
+              "probability": 0.8683,
+              "start": 42,
+              "type": "Organization"
+            },
+            {
+              "end": 137,
+              "normalized_text": "Apple50",
+              "probability": 0.3932,
+              "start": 131,
+              "type": "Product"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 130,
+              "tag": "Apple50"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1636590253",
+              "start": 3,
+              "username": "tim_cook"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Read a letter from CEO Tim Cook as he reflects on 50 Years of Apple.",
+              "display_url": "apple.com/50-years-of-th…",
+              "end": 128,
+              "expanded_url": "http://apple.com/50-years-of-thinking-different/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2032076102483529728/VnIo3Yl6?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2032076102483529728/VnIo3Yl6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 105,
+              "status": 200,
+              "title": "50 Years of Thinking Different",
+              "unwound_url": "https://www.apple.com/50-years-of-thinking-different/",
+              "url": "https://t.co/ZeB68ok859"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032195463311736891",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3876
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032079194923155547",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tim_cook: April 1st marks 50 years of Apple. Thank you to everyone who’s been a part of our journey. https://t.co/ZeB68ok859\n\n#Apple50…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032078649323896834"
+          ]
+        },
+        "author_id": "1636590253",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Tim Cook",
+              "id": "809105292814270464",
+              "name": "Tim Cook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tim Cook",
+              "id": "809105292814270464",
+              "name": "Tim Cook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2032079194923155547",
+        "created_at": "2026-03-12T13:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T14:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032079194923155547"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "Apple",
+              "probability": 0.8838,
+              "start": 28,
+              "type": "Organization"
+            },
+            {
+              "end": 123,
+              "normalized_text": "Apple50",
+              "probability": 0.4909,
+              "start": 117,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 116,
+              "tag": "Apple50"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Read a letter from CEO Tim Cook as he reflects on 50 Years of Apple.",
+              "display_url": "apple.com/50-years-of-th…",
+              "end": 114,
+              "expanded_url": "http://apple.com/50-years-of-thinking-different/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2032076102483529728/VnIo3Yl6?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2032076102483529728/VnIo3Yl6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 91,
+              "status": 200,
+              "title": "50 Years of Thinking Different",
+              "unwound_url": "https://www.apple.com/50-years-of-thinking-different/",
+              "url": "https://t.co/ZeB68ok859"
+            },
+            {
+              "display_url": "pic.x.com/7cXA0rnM9X",
+              "end": 148,
+              "expanded_url": "https://x.com/tim_cook/status/2032079194923155547/photo/1",
+              "media_key": "3_2032078649323896834",
+              "start": 125,
+              "url": "https://t.co/7cXA0rnM9X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032079194923155547",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2116,
+          "impression_count": 850075,
+          "like_count": 32128,
+          "quote_count": 442,
+          "reply_count": 1351,
+          "retweet_count": 3876
+        },
+        "reply_settings": "everyone",
+        "text": "April 1st marks 50 years of Apple. Thank you to everyone who’s been a part of our journey. https://t.co/ZeB68ok859\n\n#Apple50 https://t.co/7cXA0rnM9X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 118,
+                "start": 113,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8149,
+          "following_count": 5910,
+          "like_count": 14080,
+          "listed_count": 17,
+          "media_count": 2669,
+          "tweet_count": 19634
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-31T22:41:25.000Z",
+        "description": "Apple CEO  Auburn 🏀 🏈 Duke 🏀 National Parks 🏞️ “Life's most persistent and urgent question is, 'What are you doing for others?'” - MLK. he/him",
+        "id": "1636590253",
+        "location": "Cupertino",
+        "name": "Tim Cook",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535420431766671360/Pwq-1eJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14779743,
+          "following_count": 70,
+          "like_count": 1996,
+          "listed_count": 24519,
+          "media_count": 842,
+          "tweet_count": 1891
+        },
+        "username": "tim_cook",
+        "verified": true
+      }
+    ]
+  }
+}

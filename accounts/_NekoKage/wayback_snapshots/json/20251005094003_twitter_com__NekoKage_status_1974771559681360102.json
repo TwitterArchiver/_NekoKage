@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974474323684683779"
+      ],
+      "media_source_tweet_id": [
+        "1974474328587788585"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "1974771559681360102",
+    "created_at": "2025-10-05T09:40:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T10:40:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974771559681360102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1771155030961537024",
+          "start": 3,
+          "username": "hosiimama_1231"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TCNWWy9kHt",
+          "end": 49,
+          "expanded_url": "https://x.com/hosiimama_1231/status/1974474328587788585/photo/1",
+          "media_key": "3_1974474323684683779",
+          "start": 26,
+          "url": "https://t.co/TCNWWy9kHt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974771559681360102",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974474328587788585",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hosiimama_1231: へそ　んこ https://t.co/TCNWWy9kHt"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1974771559681360102].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1974771559681360102",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1974771559681360102"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1974474323684683779",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2a976la8AMMci_.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974474323684683779"
+          ]
+        },
+        "author_id": "1771155030961537024",
+        "conversation_id": "1974474328587788585",
+        "created_at": "2025-10-04T13:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T14:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974474328587788585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TCNWWy9kHt",
+              "end": 29,
+              "expanded_url": "https://x.com/hosiimama_1231/status/1974474328587788585/photo/1",
+              "media_key": "3_1974474323684683779",
+              "start": 6,
+              "url": "https://t.co/TCNWWy9kHt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974474328587788585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1603,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "へそ　んこ https://t.co/TCNWWy9kHt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7907,
+          "following_count": 5118,
+          "like_count": 13279,
+          "listed_count": 17,
+          "media_count": 2433,
+          "tweet_count": 17425
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T12:40:54.000Z",
+        "description": "MtX?/ヤニカス/清楚/レオパ/VITPILEN401 MY24/Dax125",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/s8w4j4fyt0kc8o…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/s8w4j4fyt0kc8op?t=ND9WLs&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/b0Ou9MzE8w"
+              }
+            ]
+          }
+        },
+        "id": "1771155030961537024",
+        "location": "何も無いけど良い所！",
+        "name": "縦",
+        "pinned_tweet_id": "1937125448758276604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914993552737853440/WvDrwgEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3525,
+          "following_count": 201,
+          "like_count": 16849,
+          "listed_count": 8,
+          "media_count": 1049,
+          "tweet_count": 6041
+        },
+        "url": "https://t.co/b0Ou9MzE8w",
+        "username": "hosiimama_1231",
+        "verified": false
+      }
+    ]
+  }
+}

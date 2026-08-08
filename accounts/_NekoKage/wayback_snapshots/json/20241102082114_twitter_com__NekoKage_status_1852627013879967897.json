@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1852623056637935616"
+      ],
+      "media_source_tweet_id": [
+        "1852623063474708795"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "1852627013879967897",
+    "created_at": "2024-11-02T08:21:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T09:21:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852627013879967897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1180343081930936321",
+          "start": 3,
+          "username": "hozonsui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/absfrRU2nP",
+          "end": 42,
+          "expanded_url": "https://x.com/hozonsui/status/1852623063474708795/photo/1",
+          "media_key": "3_1852623056637935616",
+          "start": 19,
+          "url": "https://t.co/absfrRU2nP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852627013879967897",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 218
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852623063474708795",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hozonsui: かわいい https://t.co/absfrRU2nP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1852627013879967897].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1852627013879967897",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1852627013879967897"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1852623056637935616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbXW2rmaQAAIJ1s.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852623056637935616"
+          ]
+        },
+        "author_id": "1180343081930936321",
+        "conversation_id": "1852623063474708795",
+        "created_at": "2024-11-02T08:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T09:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852623063474708795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/absfrRU2nP",
+              "end": 28,
+              "expanded_url": "https://x.com/hozonsui/status/1852623063474708795/photo/1",
+              "media_key": "3_1852623056637935616",
+              "start": 5,
+              "url": "https://t.co/absfrRU2nP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852623063474708795",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 184,
+          "impression_count": 9560,
+          "like_count": 1409,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 218
+        },
+        "reply_settings": "everyone",
+        "text": "かわいい https://t.co/absfrRU2nP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain📷膠片攝影/相机维修🚬大烟鬼🔪刃物收藏⌚️入门表匠⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "_kagenone"
+              },
+              {
+                "end": 137,
+                "start": 132,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7283,
+          "following_count": 4252,
+          "like_count": 11616,
+          "listed_count": 18,
+          "tweet_count": 13869
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-05T04:45:05.000Z",
+        "description": "「このままモブじゃ終われない！」とか「死神ドットコム 」。 同人サークル「内臓研究所」⇨『DL site』https://t.co/Zegx0qv9aW　『FANZA』https://t.co/wk2PBx18uY　自己紹介→https://t.co/y3Iqa62vbh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/OLMwY",
+                "end": 76,
+                "expanded_url": "https://x.gd/OLMwY",
+                "start": 53,
+                "url": "https://t.co/Zegx0qv9aW"
+              },
+              {
+                "display_url": "x.gd/zsGgo",
+                "end": 107,
+                "expanded_url": "https://x.gd/zsGgo",
+                "start": 84,
+                "url": "https://t.co/wk2PBx18uY"
+              },
+              {
+                "display_url": "lit.link/hozonsui",
+                "end": 136,
+                "expanded_url": "https://lit.link/hozonsui",
+                "start": 113,
+                "url": "https://t.co/y3Iqa62vbh"
+              }
+            ]
+          }
+        },
+        "id": "1180343081930936321",
+        "location": "yasashinaizo★gmail.com",
+        "name": "優しい内臓",
+        "pinned_tweet_id": "1850809115284754912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496092308609335296/aFuvlse5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128390,
+          "following_count": 731,
+          "like_count": 34320,
+          "listed_count": 711,
+          "tweet_count": 12240
+        },
+        "username": "hozonsui",
+        "verified": false
+      }
+    ]
+  }
+}

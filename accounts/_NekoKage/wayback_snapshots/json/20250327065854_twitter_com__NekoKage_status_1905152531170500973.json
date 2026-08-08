@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Osaka",
+          "id": "859408738544791552",
+          "name": "Osaka"
+        }
+      }
+    ],
+    "conversation_id": "1905152531170500973",
+    "created_at": "2025-03-27T06:58:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T07:58:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905152531170500973"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "大阪万博",
+          "probability": 0.3477,
+          "start": 25,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "927139228277923840",
+          "start": 3,
+          "username": "nikora060"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905152531170500973",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905031731037753717",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nikora060: 雑談で「1970年の大阪万博の記念モデルがあるなら、2025年大阪万博のミャクミャク様リコーオートハーフがあったらいいよね」という話をしていたが、ほんとに作ったのね。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1905152531170500973",
+        "created_at": "2025-03-27T06:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T07:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905152531170500973"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "大阪万博",
+              "probability": 0.3477,
+              "start": 25,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "927139228277923840",
+              "start": 3,
+              "username": "nikora060"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905152531170500973",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905031731037753717",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nikora060: 雑談で「1970年の大阪万博の記念モデルがあるなら、2025年大阪万博のミャクミャク様リコーオートハーフがあったらいいよね」という話をしていたが、ほんとに作ったのね。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "927139228277923840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1905031731037753717",
+        "created_at": "2025-03-26T22:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T23:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905031731037753717"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "大阪万博",
+              "probability": 0.3171,
+              "start": 10,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/wa_sui_/status…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/wa_sui_/status/1904916318656356851",
+              "start": 84,
+              "url": "https://t.co/lNx8McWdAc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905031731037753717",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2082,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904916318656356851",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "雑談で「1970年の大阪万博の記念モデルがあるなら、2025年大阪万博のミャクミャク様リコーオートハーフがあったらいいよね」という話をしていたが、ほんとに作ったのね。 https://t.co/lNx8McWdAc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠📢siren爱好者⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "_kagenone"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7527,
+          "following_count": 4491,
+          "like_count": 12381,
+          "listed_count": 19,
+          "media_count": 2165,
+          "tweet_count": 15133
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-05T11:43:12.000Z",
+        "description": "国産カメラ/舶来カメラ問わず大好きなカメラ修理屋見習いの21歳\nカメラ修理依頼についてはDMまでご相談ください\n機械式カメラがメインですが一部電子系カメラでも対応可能です\nカメラ成分以外→@nikora070",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 94,
+                "username": "nikora070"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nikora060.hatenablog.com",
+                "end": 23,
+                "expanded_url": "https://nikora060.hatenablog.com/",
+                "start": 0,
+                "url": "https://t.co/WTFZFkECBH"
+              }
+            ]
+          }
+        },
+        "id": "927139228277923840",
+        "location": "東京",
+        "name": "にこら",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1499218265700122625/WuxGiaTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2119,
+          "following_count": 1389,
+          "like_count": 121852,
+          "listed_count": 24,
+          "media_count": 8168,
+          "tweet_count": 81078
+        },
+        "url": "https://t.co/WTFZFkECBH",
+        "username": "nikora060",
+        "verified": false
+      }
+    ]
+  }
+}

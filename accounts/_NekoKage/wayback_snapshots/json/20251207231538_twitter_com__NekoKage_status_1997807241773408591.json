@@ -1,0 +1,823 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783335558466506752",
+          "name": "Online - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10032682179",
+          "name": "eBay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1284106964167884800",
+          "name": "Leica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10032682179",
+          "name": "eBay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1284106964167884800",
+          "name": "Leica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407811550987972617",
+          "name": "Industries"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1407812892909473795",
+          "name": "eCommerce industry"
+        }
+      }
+    ],
+    "conversation_id": "1997807241773408591",
+    "created_at": "2025-12-07T23:15:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T00:15:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997807241773408591"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "Leica CL",
+          "probability": 0.488,
+          "start": 22,
+          "type": "Organization"
+        },
+        {
+          "end": 39,
+          "normalized_text": "Snapshot",
+          "probability": 0.7714,
+          "start": 32,
+          "type": "Other"
+        },
+        {
+          "end": 86,
+          "normalized_text": "eBay",
+          "probability": 0.8788,
+          "start": 83,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "20833230",
+          "start": 3,
+          "username": "LeicaRumors"
+        }
+      ],
+      "urls": [
+        {
+          "description": "(Hood) and a 28mm finder 12007. Gemäß EU-Recht gilt für Gebrauchtwaren eine Gewährleistungsfrist von einem Jahr. Bilder / Pics. Nach Ablauf dieser Frist sind Reklamationen, Rückgaben oder Forderungen auf Wertminderung ausgeschlossen.",
+          "display_url": "ebay.us/oOM7Ek",
+          "end": 122,
+          "expanded_url": "https://ebay.us/oOM7Ek",
+          "images": [
+            {
+              "height": 266,
+              "url": "https://pbs.twimg.com/news_img/1997804888915628032/NTgKrkGm?format=jpg&name=orig",
+              "width": 400
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1997804888915628032/NTgKrkGm?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 99,
+          "status": 200,
+          "title": "Leica CL Snapshot prototype film camera ca. 1970 | eBay",
+          "unwound_url": "https://www.ebay.com/itm/267487921275?mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5336058796&customid=&toolid=20012&mkevt=1",
+          "url": "https://t.co/3v86sbftqK"
+        },
+        {
+          "display_url": "t.co/FRq",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/FRq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997807241773408591",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997804881869185303",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LeicaRumors: Rare Leica CL “Snapshot” prototype film camera listed for sale on eBay for $69k:  https://t.co/3v86sbftqK https://t.co/FRq…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1067,
+        "media_key": "3_1997804799522226176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7mg4V4XwAAK9_o.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1067,
+        "media_key": "3_1997804799513755648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7mg4V2WgAAdUj0.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1067,
+        "media_key": "3_1997804799518035968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7mg4V3X0AAGpl3.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1067,
+        "media_key": "3_1997804799526412288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7mg4V5XoAArlLe.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10032682179",
+              "name": "eBay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1284106964167884800",
+              "name": "Leica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10032682179",
+              "name": "eBay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284106964167884800",
+              "name": "Leica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1407812892909473795",
+              "name": "eCommerce industry"
+            }
+          }
+        ],
+        "conversation_id": "1997807241773408591",
+        "created_at": "2025-12-07T23:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T00:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997807241773408591"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "Leica CL",
+              "probability": 0.488,
+              "start": 22,
+              "type": "Organization"
+            },
+            {
+              "end": 39,
+              "normalized_text": "Snapshot",
+              "probability": 0.7714,
+              "start": 32,
+              "type": "Other"
+            },
+            {
+              "end": 86,
+              "normalized_text": "eBay",
+              "probability": 0.8788,
+              "start": 83,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "20833230",
+              "start": 3,
+              "username": "LeicaRumors"
+            }
+          ],
+          "urls": [
+            {
+              "description": "(Hood) and a 28mm finder 12007. Gemäß EU-Recht gilt für Gebrauchtwaren eine Gewährleistungsfrist von einem Jahr. Bilder / Pics. Nach Ablauf dieser Frist sind Reklamationen, Rückgaben oder Forderungen auf Wertminderung ausgeschlossen.",
+              "display_url": "ebay.us/oOM7Ek",
+              "end": 122,
+              "expanded_url": "https://ebay.us/oOM7Ek",
+              "images": [
+                {
+                  "height": 266,
+                  "url": "https://pbs.twimg.com/news_img/1997804888915628032/NTgKrkGm?format=jpg&name=orig",
+                  "width": 400
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1997804888915628032/NTgKrkGm?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 99,
+              "status": 200,
+              "title": "Leica CL Snapshot prototype film camera ca. 1970 | eBay",
+              "unwound_url": "https://www.ebay.com/itm/267487921275?mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5336058796&customid=&toolid=20012&mkevt=1",
+              "url": "https://t.co/3v86sbftqK"
+            },
+            {
+              "display_url": "t.co/FRq",
+              "end": 139,
+              "start": 123,
+              "url": "https://t.co/FRq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997807241773408591",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997804881869185303",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LeicaRumors: Rare Leica CL “Snapshot” prototype film camera listed for sale on eBay for $69k:  https://t.co/3v86sbftqK https://t.co/FRq…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997804799522226176",
+            "3_1997804799513755648",
+            "3_1997804799518035968",
+            "3_1997804799526412288"
+          ]
+        },
+        "author_id": "20833230",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10032682179",
+              "name": "eBay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1284106964167884800",
+              "name": "Leica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10032682179",
+              "name": "eBay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284106964167884800",
+              "name": "Leica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1407812892909473795",
+              "name": "eCommerce industry"
+            }
+          }
+        ],
+        "conversation_id": "1997804881869185303",
+        "created_at": "2025-12-07T23:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T00:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997804881869185303"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "Leica CL",
+              "probability": 0.5026,
+              "start": 5,
+              "type": "Organization"
+            },
+            {
+              "end": 22,
+              "normalized_text": "Snapshot",
+              "probability": 0.7908,
+              "start": 15,
+              "type": "Other"
+            },
+            {
+              "end": 69,
+              "normalized_text": "eBay",
+              "probability": 0.8966,
+              "start": 66,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "description": "(Hood) and a 28mm finder 12007. Gemäß EU-Recht gilt für Gebrauchtwaren eine Gewährleistungsfrist von einem Jahr. Bilder / Pics. Nach Ablauf dieser Frist sind Reklamationen, Rückgaben oder Forderungen auf Wertminderung ausgeschlossen.",
+              "display_url": "ebay.us/oOM7Ek",
+              "end": 105,
+              "expanded_url": "https://ebay.us/oOM7Ek",
+              "images": [
+                {
+                  "height": 266,
+                  "url": "https://pbs.twimg.com/news_img/1997804888915628032/NTgKrkGm?format=jpg&name=orig",
+                  "width": 400
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1997804888915628032/NTgKrkGm?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 82,
+              "status": 200,
+              "title": "Leica CL Snapshot prototype film camera ca. 1970 | eBay",
+              "unwound_url": "https://www.ebay.com/itm/267487921275?mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5336058796&customid=&toolid=20012&mkevt=1",
+              "url": "https://t.co/3v86sbftqK"
+            },
+            {
+              "display_url": "pic.x.com/FRq3YJ7WML",
+              "end": 129,
+              "expanded_url": "https://x.com/LeicaRumors/status/1997804881869185303/photo/1",
+              "media_key": "3_1997804799522226176",
+              "start": 106,
+              "url": "https://t.co/FRq3YJ7WML"
+            },
+            {
+              "display_url": "pic.x.com/FRq3YJ7WML",
+              "end": 129,
+              "expanded_url": "https://x.com/LeicaRumors/status/1997804881869185303/photo/1",
+              "media_key": "3_1997804799513755648",
+              "start": 106,
+              "url": "https://t.co/FRq3YJ7WML"
+            },
+            {
+              "display_url": "pic.x.com/FRq3YJ7WML",
+              "end": 129,
+              "expanded_url": "https://x.com/LeicaRumors/status/1997804881869185303/photo/1",
+              "media_key": "3_1997804799518035968",
+              "start": 106,
+              "url": "https://t.co/FRq3YJ7WML"
+            },
+            {
+              "display_url": "pic.x.com/FRq3YJ7WML",
+              "end": 129,
+              "expanded_url": "https://x.com/LeicaRumors/status/1997804881869185303/photo/1",
+              "media_key": "3_1997804799526412288",
+              "start": 106,
+              "url": "https://t.co/FRq3YJ7WML"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997804881869185303",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Rare Leica CL “Snapshot” prototype film camera listed for sale on eBay for $69k:  https://t.co/3v86sbftqK https://t.co/FRq3YJ7WML"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989746234408701952/CGIjbFWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7970,
+          "following_count": 5457,
+          "like_count": 13669,
+          "listed_count": 17,
+          "media_count": 2522,
+          "tweet_count": 18348
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-14T05:29:34.000Z",
+        "description": "Leica news, before it happens",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "leicarumors.com",
+                "end": 22,
+                "expanded_url": "http://leicarumors.com",
+                "start": 0,
+                "url": "http://t.co/RX87HMWPDr"
+              }
+            ]
+          }
+        },
+        "id": "20833230",
+        "name": "Leica Rumors",
+        "pinned_tweet_id": "1995662298372080040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1007469058747400192/BLM-80ii_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26636,
+          "following_count": 10,
+          "like_count": 2321,
+          "listed_count": 564,
+          "media_count": 4001,
+          "tweet_count": 13047
+        },
+        "url": "http://t.co/RX87HMWPDr",
+        "username": "LeicaRumors",
+        "verified": false
+      }
+    ]
+  }
+}

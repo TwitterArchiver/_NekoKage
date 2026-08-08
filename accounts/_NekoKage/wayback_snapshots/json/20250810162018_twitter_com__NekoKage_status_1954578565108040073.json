@@ -1,0 +1,525 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954565192819642368"
+      ],
+      "media_source_tweet_id": [
+        "1954565335828562175"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Traffic",
+          "id": "1037076073719025664",
+          "name": "Traffic"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1954578565108040073",
+    "created_at": "2025-08-10T16:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T17:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954578565108040073"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "macOS Traffic Lights",
+          "probability": 0.7997,
+          "start": 19,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1225462582280015879",
+          "start": 3,
+          "username": "BasicAppleGuy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zq0N5hML4L",
+          "end": 77,
+          "expanded_url": "https://x.com/BasicAppleGuy/status/1954565335828562175/photo/1",
+          "media_key": "3_1954565192819642368",
+          "start": 54,
+          "url": "https://t.co/Zq0N5hML4L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954578565108040073",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954565335828562175",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BasicAppleGuy: macOS Traffic Lights (2000-2025) 🚥 https://t.co/Zq0N5hML4L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1222,
+        "media_key": "3_1954565192819642368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyACr-hbkAAB1nN.jpg",
+        "width": 1222
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954565192819642368"
+          ],
+          "media_source_tweet_id": [
+            "1954565335828562175"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Traffic",
+              "id": "1037076073719025664",
+              "name": "Traffic"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1954578565108040073",
+        "created_at": "2025-08-10T16:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T17:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954578565108040073"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "macOS Traffic Lights",
+              "probability": 0.7997,
+              "start": 19,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1225462582280015879",
+              "start": 3,
+              "username": "BasicAppleGuy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zq0N5hML4L",
+              "end": 77,
+              "expanded_url": "https://x.com/BasicAppleGuy/status/1954565335828562175/photo/1",
+              "media_key": "3_1954565192819642368",
+              "start": 54,
+              "url": "https://t.co/Zq0N5hML4L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954578565108040073",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954565335828562175",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BasicAppleGuy: macOS Traffic Lights (2000-2025) 🚥 https://t.co/Zq0N5hML4L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954565192819642368"
+          ]
+        },
+        "author_id": "1225462582280015879",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Traffic",
+              "id": "1037076073719025664",
+              "name": "Traffic"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1954565335828562175",
+        "created_at": "2025-08-10T15:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T16:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954565335828562175"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "macOS Traffic Lights",
+              "probability": 0.749,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zq0N5hML4L",
+              "end": 58,
+              "expanded_url": "https://x.com/BasicAppleGuy/status/1954565335828562175/photo/1",
+              "media_key": "3_1954565192819642368",
+              "start": 35,
+              "url": "https://t.co/Zq0N5hML4L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954565335828562175",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 13591,
+          "like_count": 428,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "macOS Traffic Lights (2000-2025) 🚥 https://t.co/Zq0N5hML4L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🐈#RainWorld⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 107,
+                "tag": "RainWorld"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "_kagenone"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7818,
+          "following_count": 4957,
+          "like_count": 13045,
+          "listed_count": 17,
+          "media_count": 2360,
+          "tweet_count": 16803
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-06T16:54:28.000Z",
+        "description": "Basic (ˈbeɪ.sɪk’; Adj): lover of all things mainstream, popular, & trending in the world of .",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "basicappleguy.com",
+                "end": 23,
+                "expanded_url": "https://basicappleguy.com",
+                "start": 0,
+                "url": "https://t.co/r6HgFi8eEO"
+              }
+            ]
+          }
+        },
+        "id": "1225462582280015879",
+        "location": "37º20'5.5674\"N 122º0'32.3274\"W",
+        "name": "Basic Apple Guy",
+        "pinned_tweet_id": "1925918857996144773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522623872717099013/h5fNVE5d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382017,
+          "following_count": 68,
+          "like_count": 25760,
+          "listed_count": 1439,
+          "media_count": 7029,
+          "tweet_count": 27809
+        },
+        "url": "https://t.co/r6HgFi8eEO",
+        "username": "BasicAppleGuy",
+        "verified": true
+      }
+    ]
+  }
+}

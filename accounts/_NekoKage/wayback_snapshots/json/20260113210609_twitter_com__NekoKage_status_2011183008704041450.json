@@ -1,0 +1,506 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2010879760038002688"
+      ],
+      "media_source_tweet_id": [
+        "2011105962807918943"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "President of Russia Vladimir Putin",
+          "id": "864931126132985856",
+          "name": "Vladimir Putin"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "President of Russia Vladimir Putin",
+          "id": "864931126132985856",
+          "name": "Vladimir Putin"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "President of Russia Vladimir Putin",
+          "id": "864931126132985856",
+          "name": "Vladimir Putin"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1542094279727652864",
+          "name": "Russian political figures"
+        }
+      }
+    ],
+    "conversation_id": "2011183008704041450",
+    "created_at": "2026-01-13T21:06:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T22:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011183008704041450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1874369770344067072",
+          "start": 3,
+          "username": "LostMemeArchive"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ktws94QpXy",
+          "end": 55,
+          "expanded_url": "https://x.com/LostMemeArchive/status/2011105962807918943/video/1",
+          "media_key": "13_2010879760038002688",
+          "start": 32,
+          "url": "https://t.co/ktws94QpXy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011183008704041450",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 400
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011105962807918943",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LostMemeArchive: wide putin https://t.co/ktws94QpXy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 161898,
+        "height": 720,
+        "media_key": "13_2010879760038002688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2010879760038002688/img/IF58ZPOIzkbbV9Ay.jpg",
+        "public_metrics": {
+          "view_count": 50696
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010879760038002688/vid/avc1/480x270/U76vR7bRgmrulOV7.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010879760038002688/vid/avc1/640x360/hYTQuv3dA3ItoNTa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010879760038002688/vid/avc1/1280x720/FVzDd7IyfOdFNmqx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2010879760038002688/pl/RQfgy2Fm4fn7WL9g.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2010879760038002688"
+          ],
+          "media_source_tweet_id": [
+            "2011105962807918943"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1542094279727652864",
+              "name": "Russian political figures"
+            }
+          }
+        ],
+        "conversation_id": "2011183008704041450",
+        "created_at": "2026-01-13T21:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T22:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011183008704041450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1874369770344067072",
+              "start": 3,
+              "username": "LostMemeArchive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ktws94QpXy",
+              "end": 55,
+              "expanded_url": "https://x.com/LostMemeArchive/status/2011105962807918943/video/1",
+              "media_key": "13_2010879760038002688",
+              "start": 32,
+              "url": "https://t.co/ktws94QpXy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011183008704041450",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 400
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011105962807918943",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LostMemeArchive: wide putin https://t.co/ktws94QpXy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2010879760038002688"
+          ]
+        },
+        "author_id": "1874369770344067072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1542094279727652864",
+              "name": "Russian political figures"
+            }
+          }
+        ],
+        "conversation_id": "2011105962807918943",
+        "created_at": "2026-01-13T16:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T17:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011105962807918943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ktws94QpXy",
+              "end": 34,
+              "expanded_url": "https://x.com/LostMemeArchive/status/2011105962807918943/video/1",
+              "media_key": "13_2010879760038002688",
+              "start": 11,
+              "url": "https://t.co/ktws94QpXy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011105962807918943",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 950,
+          "impression_count": 1052245,
+          "like_count": 3698,
+          "quote_count": 27,
+          "reply_count": 24,
+          "retweet_count": 400
+        },
+        "reply_settings": "everyone",
+        "text": "wide putin https://t.co/ktws94QpXy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7963,
+          "following_count": 5584,
+          "like_count": 13752,
+          "listed_count": 17,
+          "media_count": 2559,
+          "tweet_count": 18719
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T08:19:26.000Z",
+        "description": "you’ve been here before—you just forgot.",
+        "id": "1874369770344067072",
+        "name": "Lost Internet",
+        "pinned_tweet_id": "2010905914996302060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993772256464437248/A16GTO_5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719671,
+          "following_count": 0,
+          "like_count": 1772,
+          "listed_count": 541,
+          "media_count": 254,
+          "tweet_count": 282
+        },
+        "username": "LostMemeArchive",
+        "verified": true
+      }
+    ]
+  }
+}

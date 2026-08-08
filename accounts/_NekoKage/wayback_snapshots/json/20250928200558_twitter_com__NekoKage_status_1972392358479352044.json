@@ -1,0 +1,538 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972225242677596160"
+      ],
+      "media_source_tweet_id": [
+        "1972225250462241273"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      }
+    ],
+    "conversation_id": "1972392358479352044",
+    "created_at": "2025-09-28T20:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T21:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972392358479352044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1421796882175598600",
+          "start": 3,
+          "username": "ytmctrp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K4KNHUo0DG",
+          "end": 94,
+          "expanded_url": "https://x.com/ytmctrp/status/1972225250462241273/photo/1",
+          "media_key": "3_1972225242677596160",
+          "start": 71,
+          "url": "https://t.co/K4KNHUo0DG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972392358479352044",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972225250462241273",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ytmctrp: 交換スクリーンは見かけたら入手するようにしている。FM3A用なんて最近まで新品が買えてたし、ニコンは頑張ってるわ😊 https://t.co/K4KNHUo0DG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1972225242677596160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G17AaK7bUAAHmiM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972225242677596160"
+          ],
+          "media_source_tweet_id": [
+            "1972225250462241273"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "1972392358479352044",
+        "created_at": "2025-09-28T20:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T21:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972392358479352044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1421796882175598600",
+              "start": 3,
+              "username": "ytmctrp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K4KNHUo0DG",
+              "end": 94,
+              "expanded_url": "https://x.com/ytmctrp/status/1972225250462241273/photo/1",
+              "media_key": "3_1972225242677596160",
+              "start": 71,
+              "url": "https://t.co/K4KNHUo0DG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972392358479352044",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972225250462241273",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ytmctrp: 交換スクリーンは見かけたら入手するようにしている。FM3A用なんて最近まで新品が買えてたし、ニコンは頑張ってるわ😊 https://t.co/K4KNHUo0DG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972225242677596160"
+          ]
+        },
+        "author_id": "1421796882175598600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "1972225250462241273",
+        "created_at": "2025-09-28T09:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T10:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972225250462241273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K4KNHUo0DG",
+              "end": 81,
+              "expanded_url": "https://x.com/ytmctrp/status/1972225250462241273/photo/1",
+              "media_key": "3_1972225242677596160",
+              "start": 58,
+              "url": "https://t.co/K4KNHUo0DG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972225250462241273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1474,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "交換スクリーンは見かけたら入手するようにしている。FM3A用なんて最近まで新品が買えてたし、ニコンは頑張ってるわ😊 https://t.co/K4KNHUo0DG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7909,
+          "following_count": 5099,
+          "like_count": 13261,
+          "listed_count": 17,
+          "media_count": 2428,
+          "tweet_count": 17361
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T11:36:30.000Z",
+        "description": "フィルムカメラで写真を撮ります。撮った写真はインスタグラムにあげてました。https://t.co/MviBzoSJRW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/camcam_yutomu",
+                "end": 60,
+                "expanded_url": "http://instagram.com/camcam_yutomu",
+                "start": 37,
+                "url": "https://t.co/MviBzoSJRW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "camcamtrip.com",
+                "end": 23,
+                "expanded_url": "https://camcamtrip.com/",
+                "start": 0,
+                "url": "https://t.co/ujilSiCaNb"
+              }
+            ]
+          }
+        },
+        "id": "1421796882175598600",
+        "location": "Kobe",
+        "name": "ゆとーむ",
+        "pinned_tweet_id": "1971894444329955345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869007393356685312/DbyN7npg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1244,
+          "following_count": 504,
+          "like_count": 90359,
+          "listed_count": 11,
+          "media_count": 2361,
+          "tweet_count": 12689
+        },
+        "url": "https://t.co/ujilSiCaNb",
+        "username": "ytmctrp",
+        "verified": false
+      }
+    ]
+  }
+}

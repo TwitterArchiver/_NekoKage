@@ -1,0 +1,602 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1926278122887950336"
+      ],
+      "media_source_tweet_id": [
+        "1926279435675685285"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1927125800857256417",
+    "created_at": "2025-05-26T22:12:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T23:12:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927125800857256417"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 54,
+          "normalized_text": "Teto",
+          "probability": 0.7009,
+          "start": 51,
+          "type": "Other"
+        },
+        {
+          "end": 61,
+          "normalized_text": "igaku",
+          "probability": 0.5942,
+          "start": 57,
+          "type": "Other"
+        },
+        {
+          "end": 73,
+          "normalized_text": "KasaneTeto",
+          "probability": 0.9305,
+          "start": 64,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 39,
+          "tag": "animation"
+        },
+        {
+          "end": 55,
+          "start": 50,
+          "tag": "Teto"
+        },
+        {
+          "end": 62,
+          "start": 56,
+          "tag": "igaku"
+        },
+        {
+          "end": 74,
+          "start": 63,
+          "tag": "KasaneTeto"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1873393483639115776",
+          "start": 3,
+          "username": "AymZerrouki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4UZRyIyiZt",
+          "end": 98,
+          "expanded_url": "https://x.com/AymZerrouki/status/1926279435675685285/video/1",
+          "media_key": "13_1926278122887950336",
+          "start": 75,
+          "url": "https://t.co/4UZRyIyiZt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927125800857256417",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9083
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926279435675685285",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AymZerrouki: IT'S FINALLY FINISHED\n#animation #Teto #igaku #KasaneTeto https://t.co/4UZRyIyiZt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33900,
+        "height": 1080,
+        "media_key": "13_1926278122887950336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1926278122887950336/img/ykFhh-eBn6KLEJaI.jpg",
+        "public_metrics": {
+          "view_count": 335922
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926278122887950336/vid/avc1/480x270/9YWdsA_IYGw4EC0L.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926278122887950336/vid/avc1/640x360/CofifoxR3unkQyM6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926278122887950336/vid/avc1/1280x720/bUP649MR_tUXPXjd.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1926278122887950336/pl/5Lf4T2o7FVsLCyvU.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1926278122887950336"
+          ],
+          "media_source_tweet_id": [
+            "1926279435675685285"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1927125800857256417",
+        "created_at": "2025-05-26T22:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T23:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927125800857256417"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 54,
+              "normalized_text": "Teto",
+              "probability": 0.7009,
+              "start": 51,
+              "type": "Other"
+            },
+            {
+              "end": 61,
+              "normalized_text": "igaku",
+              "probability": 0.5942,
+              "start": 57,
+              "type": "Other"
+            },
+            {
+              "end": 73,
+              "normalized_text": "KasaneTeto",
+              "probability": 0.9305,
+              "start": 64,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 39,
+              "tag": "animation"
+            },
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "Teto"
+            },
+            {
+              "end": 62,
+              "start": 56,
+              "tag": "igaku"
+            },
+            {
+              "end": 74,
+              "start": 63,
+              "tag": "KasaneTeto"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1873393483639115776",
+              "start": 3,
+              "username": "AymZerrouki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4UZRyIyiZt",
+              "end": 98,
+              "expanded_url": "https://x.com/AymZerrouki/status/1926279435675685285/video/1",
+              "media_key": "13_1926278122887950336",
+              "start": 75,
+              "url": "https://t.co/4UZRyIyiZt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927125800857256417",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9083
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926279435675685285",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AymZerrouki: IT'S FINALLY FINISHED\n#animation #Teto #igaku #KasaneTeto https://t.co/4UZRyIyiZt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1926278122887950336"
+          ]
+        },
+        "author_id": "1873393483639115776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1926279435675685285",
+        "created_at": "2025-05-24T14:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T15:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926279435675685285"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "Teto",
+              "probability": 0.6776,
+              "start": 34,
+              "type": "Other"
+            },
+            {
+              "end": 44,
+              "normalized_text": "igaku",
+              "probability": 0.5669,
+              "start": 40,
+              "type": "Other"
+            },
+            {
+              "end": 56,
+              "normalized_text": "KasaneTeto",
+              "probability": 0.9285,
+              "start": 47,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 22,
+              "tag": "animation"
+            },
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "Teto"
+            },
+            {
+              "end": 45,
+              "start": 39,
+              "tag": "igaku"
+            },
+            {
+              "end": 57,
+              "start": 46,
+              "tag": "KasaneTeto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4UZRyIyiZt",
+              "end": 81,
+              "expanded_url": "https://x.com/AymZerrouki/status/1926279435675685285/video/1",
+              "media_key": "13_1926278122887950336",
+              "start": 58,
+              "url": "https://t.co/4UZRyIyiZt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926279435675685285",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10704,
+          "impression_count": 884838,
+          "like_count": 48609,
+          "quote_count": 96,
+          "reply_count": 131,
+          "retweet_count": 9083
+        },
+        "reply_settings": "everyone",
+        "text": "IT'S FINALLY FINISHED\n#animation #Teto #igaku #KasaneTeto https://t.co/4UZRyIyiZt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠📢siren爱好者⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "_kagenone"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7616,
+          "following_count": 4633,
+          "like_count": 12631,
+          "listed_count": 20,
+          "media_count": 2221,
+          "tweet_count": 15672
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-29T15:39:58.000Z",
+        "description": "male, 18, Gamedev🎮Animator🎞️Composer🎹pixel artist👾\nfree Palestine🇵🇸❤️\n#gamedev #animation #vgm #gamemaker #flstudio #aseprite",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 70,
+                "tag": "gamedev"
+              },
+              {
+                "end": 89,
+                "start": 79,
+                "tag": "animation"
+              },
+              {
+                "end": 94,
+                "start": 90,
+                "tag": "vgm"
+              },
+              {
+                "end": 105,
+                "start": 95,
+                "tag": "gamemaker"
+              },
+              {
+                "end": 115,
+                "start": 106,
+                "tag": "flstudio"
+              },
+              {
+                "end": 125,
+                "start": 116,
+                "tag": "aseprite"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/aymenzero",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/aymenzero",
+                "start": 0,
+                "url": "https://t.co/ntSKwZ3qpp"
+              }
+            ]
+          }
+        },
+        "id": "1873393483639115776",
+        "name": "AymenZero🇩🇿",
+        "pinned_tweet_id": "1926279435675685285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897308141311729664/tRPYahzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2233,
+          "following_count": 667,
+          "like_count": 9681,
+          "listed_count": 8,
+          "media_count": 487,
+          "tweet_count": 3532
+        },
+        "url": "https://t.co/ntSKwZ3qpp",
+        "username": "AymZerrouki",
+        "verified": false
+      }
+    ]
+  }
+}

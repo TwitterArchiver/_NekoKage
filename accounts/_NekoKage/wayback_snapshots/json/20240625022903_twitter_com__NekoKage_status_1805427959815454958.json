@@ -1,0 +1,703 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1805269720368578562"
+      ],
+      "media_source_tweet_id": [
+        "1805269723887845773"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming Personalities & Esports Players",
+          "id": "1146103171086819328",
+          "name": "Gaming influencers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1287879055191052288",
+          "name": "Gaming content creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899619193749511",
+          "name": "Sandbox games"
+        }
+      }
+    ],
+    "conversation_id": "1805427959815454958",
+    "created_at": "2024-06-25T02:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T03:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805427959815454958"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 56,
+          "normalized_text": "Minecraft",
+          "probability": 0.7585,
+          "start": 48,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1416577928645783552",
+          "start": 3,
+          "username": "official_caelum"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/sVV0yuokHl",
+          "end": 82,
+          "expanded_url": "https://twitter.com/official_caelum/status/1805269723887845773/photo/1",
+          "media_key": "3_1805269720368578562",
+          "start": 59,
+          "url": "https://t.co/sVV0yuokHl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805427959815454958",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805269723887845773",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @official_caelum: ✨Streaming in 2 HOURS !✨\n (Minecraft) https://t.co/sVV0yuokHl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 398,
+        "media_key": "3_1805269720368578562",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQ2bPvZWgAIsGmt.jpg",
+        "width": 397
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1805269720368578562"
+          ],
+          "media_source_tweet_id": [
+            "1805269723887845773"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "1805427959815454958",
+        "created_at": "2024-06-25T02:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T03:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805427959815454958"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 56,
+              "normalized_text": "Minecraft",
+              "probability": 0.7585,
+              "start": 48,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1416577928645783552",
+              "start": 3,
+              "username": "official_caelum"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/sVV0yuokHl",
+              "end": 82,
+              "expanded_url": "https://twitter.com/official_caelum/status/1805269723887845773/photo/1",
+              "media_key": "3_1805269720368578562",
+              "start": 59,
+              "url": "https://t.co/sVV0yuokHl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805427959815454958",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805269723887845773",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @official_caelum: ✨Streaming in 2 HOURS !✨\n (Minecraft) https://t.co/sVV0yuokHl"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1805269720368578562"
+          ]
+        },
+        "author_id": "1416577928645783552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "1805269723887845773",
+        "created_at": "2024-06-24T16:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T17:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805269723887845773"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "Minecraft",
+              "probability": 0.6552,
+              "start": 27,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/sVV0yuokHl",
+              "end": 61,
+              "expanded_url": "https://twitter.com/official_caelum/status/1805269723887845773/photo/1",
+              "media_key": "3_1805269720368578562",
+              "start": 38,
+              "url": "https://t.co/sVV0yuokHl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805269723887845773",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 178,
+          "impression_count": 12500,
+          "like_count": 1264,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "✨Streaming in 2 HOURS !✨\n (Minecraft) https://t.co/sVV0yuokHl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid🎸聚乙烯乐队🎧HiFi糊烧🚬大烟鬼🔪刃物收藏⌚️入门表匠🚗JDM📷黑白摄影🚪88⚠️@_kagenone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "_kagenone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6928,
+          "following_count": 3898,
+          "like_count": 9442,
+          "listed_count": 20,
+          "tweet_count": 12007
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-18T01:58:37.000Z",
+        "description": "Demon Prince & Vtuber |‣ Live2D @catathenya |‣3D @Chacken_ |\nPFP&Model‣  Me! | Banner‣ @matemi_art | #CaecaeArt 🔞#Caelussy https://t.co/9h9WJIoqm3",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 111,
+                "start": 101,
+                "tag": "CaecaeArt"
+              },
+              {
+                "end": 122,
+                "start": 113,
+                "tag": "Caelussy"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "catathenya"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "username": "Chacken_"
+              },
+              {
+                "end": 98,
+                "start": 87,
+                "username": "matemi_art"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "caelumcard.carrd.com",
+                "end": 146,
+                "expanded_url": "http://caelumcard.carrd.com",
+                "start": 123,
+                "url": "https://t.co/9h9WJIoqm3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/caelum_vt",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/caelum_vt",
+                "start": 0,
+                "url": "https://t.co/wcNLgCpkAs"
+              }
+            ]
+          }
+        },
+        "id": "1416577928645783552",
+        "name": "Caelum_VT😈💙",
+        "pinned_tweet_id": "1793310621187948631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773231779547168768/UTmzYkuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41286,
+          "following_count": 3202,
+          "like_count": 40145,
+          "listed_count": 221,
+          "tweet_count": 7788
+        },
+        "url": "https://t.co/wcNLgCpkAs",
+        "username": "official_caelum",
+        "verified": true
+      }
+    ]
+  }
+}

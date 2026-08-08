@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1913137202814447616"
+      ],
+      "media_source_tweet_id": [
+        "1913137301418319962"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "1913465536220184993",
+    "created_at": "2025-04-19T05:31:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T06:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913465536220184993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1344228217104830464",
+          "start": 3,
+          "username": "chibidokii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OI0lJ4m5uW",
+          "end": 75,
+          "expanded_url": "https://x.com/chibidokii/status/1913137301418319962/video/1",
+          "media_key": "13_1913137202814447616",
+          "start": 52,
+          "url": "https://t.co/OI0lJ4m5uW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913465536220184993",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1041
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913137301418319962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chibidokii: i have an important message for you https://t.co/OI0lJ4m5uW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13000,
+        "height": 1080,
+        "media_key": "13_1913137202814447616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1913137202814447616/img/mlhpDjgaAwIsx0_L.jpg",
+        "public_metrics": {
+          "view_count": 64087
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913137202814447616/vid/avc1/1280x720/AcxQBwAGvxBAHO48.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1913137202814447616/pl/NIKFmZM_GVEfE6ds.m3u8?tag=16&v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913137202814447616/vid/avc1/1920x1080/Kb3R-9yE0pP86EyF.mp4?tag=16"
+          },
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913137202814447616/vid/avc1/480x270/cXQATSe9jfBnKm9e.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913137202814447616/vid/avc1/640x360/cNNjhrVfkhwyfq0w.mp4?tag=16"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1913137202814447616"
+          ],
+          "media_source_tweet_id": [
+            "1913137301418319962"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "conversation_id": "1913465536220184993",
+        "created_at": "2025-04-19T05:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T06:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913465536220184993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1344228217104830464",
+              "start": 3,
+              "username": "chibidokii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OI0lJ4m5uW",
+              "end": 75,
+              "expanded_url": "https://x.com/chibidokii/status/1913137301418319962/video/1",
+              "media_key": "13_1913137202814447616",
+              "start": 52,
+              "url": "https://t.co/OI0lJ4m5uW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913465536220184993",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1041
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913137301418319962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chibidokii: i have an important message for you https://t.co/OI0lJ4m5uW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1913137202814447616"
+          ]
+        },
+        "author_id": "1344228217104830464",
+        "conversation_id": "1913137301418319962",
+        "created_at": "2025-04-18T07:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T08:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913137301418319962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OI0lJ4m5uW",
+              "end": 59,
+              "expanded_url": "https://x.com/chibidokii/status/1913137301418319962/video/1",
+              "media_key": "13_1913137202814447616",
+              "start": 36,
+              "url": "https://t.co/OI0lJ4m5uW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913137301418319962",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1302,
+          "impression_count": 130993,
+          "like_count": 11265,
+          "quote_count": 25,
+          "reply_count": 131,
+          "retweet_count": 1041
+        },
+        "reply_settings": "everyone",
+        "text": "i have an important message for you https://t.co/OI0lJ4m5uW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠📢siren爱好者⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "_kagenone"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7574,
+          "following_count": 4544,
+          "like_count": 12451,
+          "listed_count": 20,
+          "media_count": 2178,
+          "tweet_count": 15284
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-30T10:26:32.000Z",
+        "description": "♡ VTUBER ♡\n♡ fanart/memes: #chibmin\n♡ @honey_kub | h: hazakurachikori  \n♡ business: chibi@mythictalent.com ♡\n♡ https://t.co/TUCSWCzFxP ♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 27,
+                "tag": "chibmin"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "honey_kub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/chibidoki",
+                "end": 134,
+                "expanded_url": "http://twitch.tv/chibidoki",
+                "start": 111,
+                "url": "https://t.co/TUCSWCzFxP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chibidoki",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/chibidoki",
+                "start": 0,
+                "url": "https://t.co/eipO9PmQKD"
+              }
+            ]
+          }
+        },
+        "id": "1344228217104830464",
+        "location": "YOU'RE MY FRIEND NOW",
+        "name": "chibi 💕 Vtuber",
+        "pinned_tweet_id": "1912572634094834174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908414381357936641/FRqInWNe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505442,
+          "following_count": 1353,
+          "like_count": 69456,
+          "listed_count": 801,
+          "media_count": 6628,
+          "tweet_count": 33536
+        },
+        "url": "https://t.co/eipO9PmQKD",
+        "username": "chibidokii",
+        "verified": true
+      }
+    ]
+  }
+}

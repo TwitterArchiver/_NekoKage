@@ -1,0 +1,569 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1891178281044750336"
+      ],
+      "media_source_tweet_id": [
+        "1891183346085966160"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1471629300579241986",
+          "name": "Blender"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1273386679273807873",
+          "name": "3D animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1471629300579241986",
+          "name": "Blender"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1492285276420333568",
+          "name": "3D modeling"
+        }
+      }
+    ],
+    "conversation_id": "1995384794285515031",
+    "created_at": "2025-12-01T06:49:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T07:49:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995384794285515031"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "OneshotGame",
+          "probability": 0.6673,
+          "start": 18,
+          "type": "Other"
+        },
+        {
+          "end": 45,
+          "normalized_text": "Niko 3D",
+          "probability": 0.6422,
+          "start": 39,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 17,
+          "tag": "OneshotGame"
+        },
+        {
+          "end": 34,
+          "start": 30,
+          "tag": "b3d"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1053513709199351808",
+          "start": 3,
+          "username": "pungsun3497"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9gb0OEiRoJ",
+          "end": 108,
+          "expanded_url": "https://x.com/pungsun3497/status/1891183346085966160/video/1",
+          "media_key": "7_1891178281044750336",
+          "start": 85,
+          "url": "https://t.co/9gb0OEiRoJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995384794285515031",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 417
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891183346085966160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pungsun3497: #OneshotGame #b3d\nThe Niko 3D model is out now! Link in the thread. https://t.co/9gb0OEiRoJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6000,
+        "height": 1200,
+        "media_key": "7_1891178281044750336",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1891178281044750336/pu/img/80VAljLxrV4EYPzv.jpg",
+        "public_metrics": {
+          "view_count": 23459
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1891178281044750336/pu/vid/avc1/432x270/PB5g5TiYDxntlyAC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1891178281044750336/pu/vid/avc1/576x360/CqwGmDcQKF1HS__0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1891178281044750336/pu/vid/avc1/1152x720/9SjpL6Y_Ro7vruKl.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1891178281044750336/pu/pl/HDtaj7OfQ4pJkTaW.m3u8?tag=12"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1891178281044750336"
+          ],
+          "media_source_tweet_id": [
+            "1891183346085966160"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1471629300579241986",
+              "name": "Blender"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1471629300579241986",
+              "name": "Blender"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492285276420333568",
+              "name": "3D modeling"
+            }
+          }
+        ],
+        "conversation_id": "1995384794285515031",
+        "created_at": "2025-12-01T06:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T07:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995384794285515031"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "OneshotGame",
+              "probability": 0.6673,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 45,
+              "normalized_text": "Niko 3D",
+              "probability": 0.6422,
+              "start": 39,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 17,
+              "tag": "OneshotGame"
+            },
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "b3d"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1053513709199351808",
+              "start": 3,
+              "username": "pungsun3497"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9gb0OEiRoJ",
+              "end": 108,
+              "expanded_url": "https://x.com/pungsun3497/status/1891183346085966160/video/1",
+              "media_key": "7_1891178281044750336",
+              "start": 85,
+              "url": "https://t.co/9gb0OEiRoJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995384794285515031",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 417
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891183346085966160",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pungsun3497: #OneshotGame #b3d\nThe Niko 3D model is out now! Link in the thread. https://t.co/9gb0OEiRoJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1891178281044750336"
+          ]
+        },
+        "author_id": "1053513709199351808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1471629300579241986",
+              "name": "Blender"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1471629300579241986",
+              "name": "Blender"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492285276420333568",
+              "name": "3D modeling"
+            }
+          }
+        ],
+        "conversation_id": "1891183346085966160",
+        "created_at": "2025-02-16T17:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T18:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891183346085966160"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "OneshotGame",
+              "probability": 0.6349,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 28,
+              "normalized_text": "Niko 3D",
+              "probability": 0.6896,
+              "start": 22,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "OneshotGame"
+            },
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "b3d"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9gb0OEiRoJ",
+              "end": 91,
+              "expanded_url": "https://x.com/pungsun3497/status/1891183346085966160/video/1",
+              "media_key": "7_1891178281044750336",
+              "start": 68,
+              "url": "https://t.co/9gb0OEiRoJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891183346085966160",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 741,
+          "impression_count": 195717,
+          "like_count": 2706,
+          "quote_count": 11,
+          "reply_count": 31,
+          "retweet_count": 417
+        },
+        "reply_settings": "everyone",
+        "text": "#OneshotGame #b3d\nThe Niko 3D model is out now! Link in the thread. https://t.co/9gb0OEiRoJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989746234408701952/CGIjbFWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7965,
+          "following_count": 5391,
+          "like_count": 13632,
+          "listed_count": 17,
+          "media_count": 2504,
+          "tweet_count": 18226
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-20T05:10:16.000Z",
+        "description": "alt : @Heliumi3497",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "Heliumi3497"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/pungsun",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/pungsun",
+                "start": 0,
+                "url": "https://t.co/cpFjCx3UHq"
+              }
+            ]
+          }
+        },
+        "id": "1053513709199351808",
+        "location": "dream",
+        "name": "선선풍선",
+        "pinned_tweet_id": "1891183346085966160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930121117450285058/rKvO6lCf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2986,
+          "following_count": 42,
+          "like_count": 5183,
+          "listed_count": 8,
+          "media_count": 244,
+          "tweet_count": 360
+        },
+        "url": "https://t.co/cpFjCx3UHq",
+        "username": "pungsun3497",
+        "verified": false
+      }
+    ]
+  }
+}

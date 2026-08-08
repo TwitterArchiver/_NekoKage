@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1846728384690135040"
+      ],
+      "media_source_tweet_id": [
+        "1846728400125546570"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1851510103662608806",
+    "created_at": "2024-10-30T06:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T07:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851510103662608806"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 24,
+          "tag": "ブルアカ"
+        },
+        {
+          "end": 40,
+          "start": 31,
+          "tag": "ブルーアーカイブ"
+        },
+        {
+          "end": 53,
+          "start": 41,
+          "tag": "BlueArchive"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1313208103031246849",
+          "start": 3,
+          "username": "riokasen94"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EqKMnPboma",
+          "end": 77,
+          "expanded_url": "https://x.com/riokasen94/status/1846728400125546570/photo/1",
+          "media_key": "3_1846728384690135040",
+          "start": 54,
+          "url": "https://t.co/EqKMnPboma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851510103662608806",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 296
+    },
+    "referenced_tweets": [
+      {
+        "id": "1846728400125546570",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @riokasen94: 小鳥遊ホシノ🎃\n#ブルアカ \n#ブルーアーカイブ #BlueArchive https://t.co/EqKMnPboma"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1851510103662608806].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1851510103662608806",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1851510103662608806"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_1846728384690135040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaDlrnYWIAAVb7E.jpg",
+        "width": 844
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1846728384690135040"
+          ]
+        },
+        "author_id": "1313208103031246849",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1846728400125546570",
+        "created_at": "2024-10-17T01:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-17T02:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1846728400125546570"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "ブルアカ"
+            },
+            {
+              "end": 24,
+              "start": 15,
+              "tag": "ブルーアーカイブ"
+            },
+            {
+              "end": 37,
+              "start": 25,
+              "tag": "BlueArchive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EqKMnPboma",
+              "end": 61,
+              "expanded_url": "https://x.com/riokasen94/status/1846728400125546570/photo/1",
+              "media_key": "3_1846728384690135040",
+              "start": 38,
+              "url": "https://t.co/EqKMnPboma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1846728400125546570",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 225,
+          "impression_count": 35683,
+          "like_count": 2108,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 296
+        },
+        "reply_settings": "everyone",
+        "text": "小鳥遊ホシノ🎃\n#ブルアカ \n#ブルーアーカイブ #BlueArchive https://t.co/EqKMnPboma"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain📷膠片攝影/相机维修🚬大烟鬼🔪刃物收藏⌚️入门表匠⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "_kagenone"
+              },
+              {
+                "end": 137,
+                "start": 132,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7286,
+          "following_count": 4253,
+          "like_count": 11608,
+          "listed_count": 18,
+          "tweet_count": 13865
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-05T20:03:13.000Z",
+        "description": "趣味はお絵かき！アニメシリーズやビデオゲームのイラストをたくさん投稿します！ 気に入ってくれるといいな！虹夏ちゃんは最高のドラマー！💛🌈ボカジュニアーズが好きです！ 🟦🟨\nI like draw! I will post many draws of series and videogames!",
+        "id": "1313208103031246849",
+        "name": "🎃りおかせん 🎃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849981465972326400/DsmP2jOd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26700,
+          "following_count": 361,
+          "like_count": 25312,
+          "listed_count": 230,
+          "tweet_count": 14929
+        },
+        "username": "riokasen94",
+        "verified": false
+      }
+    ]
+  }
+}

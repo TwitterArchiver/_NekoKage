@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129035621861773312",
+          "name": "3D printing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129035621861773312",
+          "name": "3D printing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1492285276420333568",
+          "name": "3D modeling"
+        }
+      }
+    ],
+    "conversation_id": "1851456483424420063",
+    "created_at": "2024-10-30T02:49:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T03:49:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851456483424420063"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 48,
+          "normalized_text": "岩倉玲音 半身像",
+          "probability": 0.2549,
+          "start": 41,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1243816073809424384",
+          "start": 3,
+          "username": "Ayumu20203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851456483424420063",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 487
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850857058226389036",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @Ayumu20203: 以前、僅少数販売した3Dプリントガレージキット\n「岩倉玲音 半身像」を\n新たにレジンキャストキットとして頒布したいと思っており、シリコン型向けにモデルを分割しなおしています。\n主に髪の毛の構造がシリコンでの型取りに向いていないので、調整中です。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129035621861773312",
+              "name": "3D printing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129035621861773312",
+              "name": "3D printing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492285276420333568",
+              "name": "3D modeling"
+            }
+          }
+        ],
+        "conversation_id": "1851456483424420063",
+        "created_at": "2024-10-30T02:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T03:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851456483424420063"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "岩倉玲音 半身像",
+              "probability": 0.2549,
+              "start": 41,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1243816073809424384",
+              "start": 3,
+              "username": "Ayumu20203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851456483424420063",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 487
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850857058226389036",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @Ayumu20203: 以前、僅少数販売した3Dプリントガレージキット\n「岩倉玲音 半身像」を\n新たにレジンキャストキットとして頒布したいと思っており、シリコン型向けにモデルを分割しなおしています。\n主に髪の毛の構造がシリコンでの型取りに向いていないので、調整中です。…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1850855342143688705",
+            "3_1850855342152036352"
+          ]
+        },
+        "author_id": "1243816073809424384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129035621861773312",
+              "name": "3D printing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129035621861773312",
+              "name": "3D printing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492285276420333568",
+              "name": "3D modeling"
+            }
+          }
+        ],
+        "conversation_id": "1850857058226389036",
+        "created_at": "2024-10-28T11:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-28T12:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850857058226389036"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "岩倉玲音 半身像",
+              "probability": 0.2384,
+              "start": 25,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n9OVRPFINI",
+              "end": 161,
+              "expanded_url": "https://x.com/Ayumu20203/status/1850857058226389036/photo/1",
+              "media_key": "3_1850855342143688705",
+              "start": 138,
+              "url": "https://t.co/n9OVRPFINI"
+            },
+            {
+              "display_url": "pic.x.com/n9OVRPFINI",
+              "end": 161,
+              "expanded_url": "https://x.com/Ayumu20203/status/1850857058226389036/photo/1",
+              "media_key": "3_1850855342152036352",
+              "start": 138,
+              "url": "https://t.co/n9OVRPFINI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850857058226389036",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 413,
+          "impression_count": 79441,
+          "like_count": 2822,
+          "quote_count": 10,
+          "reply_count": 1,
+          "retweet_count": 487
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "以前、僅少数販売した3Dプリントガレージキット\n「岩倉玲音 半身像」を\n新たにレジンキャストキットとして頒布したいと思っており、シリコン型向けにモデルを分割しなおしています。\n主に髪の毛の構造がシリコンでの型取りに向いていないので、調整中です。\nなお、全ての予定は未定です！ https://t.co/n9OVRPFINI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain📷膠片攝影/相机维修🚬大烟鬼🔪刃物收藏⌚️入门表匠⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "_kagenone"
+              },
+              {
+                "end": 137,
+                "start": 132,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7290,
+          "following_count": 4251,
+          "like_count": 11601,
+          "listed_count": 18,
+          "tweet_count": 13863
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T08:24:40.000Z",
+        "description": "フリーランスの造形師/原型師です。（Ayumu Hamano） Sculptor \n//雑多！\n\n// ガレージキット販売BOOTH→(https://t.co/gjjBIiIlnK)\n\n//お仕事のご連絡はこちらからどうぞ→(https://t.co/5jnU1fSWIm)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yumham.booth.pm",
+                "end": 91,
+                "expanded_url": "http://yumham.booth.pm",
+                "start": 68,
+                "url": "https://t.co/gjjBIiIlnK"
+              },
+              {
+                "display_url": "lit.link/hamanoayumu",
+                "end": 137,
+                "expanded_url": "https://lit.link/hamanoayumu",
+                "start": 114,
+                "url": "https://t.co/5jnU1fSWIm"
+              }
+            ]
+          }
+        },
+        "id": "1243816073809424384",
+        "name": "はまの あゆむ",
+        "pinned_tweet_id": "1829667655676281082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1270557501327503360/AuZvjnaC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26438,
+          "following_count": 428,
+          "like_count": 8426,
+          "listed_count": 214,
+          "tweet_count": 2019
+        },
+        "username": "Ayumu20203",
+        "verified": false
+      }
+    ]
+  }
+}

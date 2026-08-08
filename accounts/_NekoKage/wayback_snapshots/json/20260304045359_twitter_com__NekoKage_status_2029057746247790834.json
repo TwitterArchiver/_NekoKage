@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1615305611725635586"
+      ],
+      "media_source_tweet_id": [
+        "1615305903443673088"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "2029057746247790834",
+    "created_at": "2026-03-04T04:53:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T05:53:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029057746247790834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "60035383",
+          "start": 3,
+          "username": "CHINZURI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MXrpg1Nhpx",
+          "end": 129,
+          "expanded_url": "https://x.com/CHINZURI/status/1615305903443673088/photo/1",
+          "media_key": "3_1615305611725635586",
+          "start": 106,
+          "url": "https://t.co/MXrpg1Nhpx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029057746247790834",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1337
+    },
+    "referenced_tweets": [
+      {
+        "id": "1615305903443673088",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CHINZURI: 女装ホモセックスのリスク…♡(っ˘ヮ˘c) \n肛門で精液を受精する度、脳が自分自身をメス♂だと勘違いしてメスホルモンを大量分泌し、元の男とは完全にかけ離れた身体に変化していく…♡♡♡ https://t.co/MXrpg1Nhpx"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2029057746247790834].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2029057746247790834",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2029057746247790834"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1547,
+        "media_key": "3_1615305611725635586",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Fmq35UaaAAIWpFV.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1615305611725635586"
+          ]
+        },
+        "author_id": "60035383",
+        "conversation_id": "1615305903443673088",
+        "created_at": "2023-01-17T11:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-17T11:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1615305903443673088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MXrpg1Nhpx",
+              "end": 115,
+              "expanded_url": "https://x.com/CHINZURI/status/1615305903443673088/photo/1",
+              "media_key": "3_1615305611725635586",
+              "start": 92,
+              "url": "https://t.co/MXrpg1Nhpx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1615305903443673088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2123,
+          "impression_count": 438158,
+          "like_count": 8836,
+          "quote_count": 50,
+          "reply_count": 29,
+          "retweet_count": 1337
+        },
+        "reply_settings": "everyone",
+        "text": "女装ホモセックスのリスク…♡(っ˘ヮ˘c) \n肛門で精液を受精する度、脳が自分自身をメス♂だと勘違いしてメスホルモンを大量分泌し、元の男とは完全にかけ離れた身体に変化していく…♡♡♡ https://t.co/MXrpg1Nhpx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 118,
+                "start": 113,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2026735481388675507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8189,
+          "following_count": 5911,
+          "like_count": 14022,
+          "listed_count": 17,
+          "media_count": 2643,
+          "tweet_count": 19520
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-25T11:05:08.000Z",
+        "description": "商業や同人でオカマちゃん♂のマンガを描かせていただいております☆\nパンクロックとトランスフォーマーが好きです☆\nGLITTERFASTのGt/Vo @GLITTERFAST\nPixiv：https://t.co/6KSOCCJ3yk\n(All characters I draw are 18+)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "GLITTERFAST"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/130023",
+                "end": 116,
+                "expanded_url": "http://pixiv.net/users/130023",
+                "start": 93,
+                "url": "https://t.co/6KSOCCJ3yk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chinzuri.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://chinzuri.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/8y1Y1OQWsh"
+              }
+            ]
+          }
+        },
+        "id": "60035383",
+        "location": "川口市",
+        "name": "チンズリーナ@冬コミ新刊委託&電子販売中！",
+        "pinned_tweet_id": "2005427553771864314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1439826986247999492/ff0SMhxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45713,
+          "following_count": 3717,
+          "like_count": 56970,
+          "listed_count": 531,
+          "media_count": 4930,
+          "tweet_count": 83333
+        },
+        "url": "https://t.co/8y1Y1OQWsh",
+        "username": "CHINZURI",
+        "verified": false
+      }
+    ]
+  }
+}

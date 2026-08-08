@@ -1,0 +1,466 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "conversation_id": "1957594028339503156",
+    "created_at": "2025-08-19T00:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T01:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957594649830601025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "153637669",
+          "start": 0,
+          "username": "kenjiueta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957594649830601025",
+    "in_reply_to_user_id": "153637669",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957594028339503156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kenjiueta oh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1957594022534631424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyrFZEea0AAMw4s.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1957594023344107520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyrFZHfacAArd68.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1957594024946331648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyrFZNdacAAofvC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1957594025655169027",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyrFZQGacAMvgW5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "conversation_id": "1957594028339503156",
+        "created_at": "2025-08-19T00:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T01:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957594649830601025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "153637669",
+              "start": 0,
+              "username": "kenjiueta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957594649830601025",
+        "in_reply_to_user_id": "153637669",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957594028339503156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kenjiueta oh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957594022534631424",
+            "3_1957594023344107520",
+            "3_1957594024946331648",
+            "3_1957594025655169027"
+          ]
+        },
+        "author_id": "153637669",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          }
+        ],
+        "conversation_id": "1957594028339503156",
+        "created_at": "2025-08-19T00:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T01:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957594028339503156"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 127,
+              "tag": "ベローズ"
+            },
+            {
+              "end": 138,
+              "start": 133,
+              "tag": "写真用品"
+            },
+            {
+              "end": 143,
+              "start": 139,
+              "tag": "カメラ"
+            },
+            {
+              "end": 150,
+              "start": 144,
+              "tag": "カメラ用品"
+            },
+            {
+              "end": 154,
+              "start": 151,
+              "tag": "写真"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NUaaB385Rs",
+              "end": 178,
+              "expanded_url": "https://x.com/kenjiueta/status/1957594028339503156/photo/1",
+              "media_key": "3_1957594022534631424",
+              "start": 155,
+              "url": "https://t.co/NUaaB385Rs"
+            },
+            {
+              "display_url": "pic.x.com/NUaaB385Rs",
+              "end": 178,
+              "expanded_url": "https://x.com/kenjiueta/status/1957594028339503156/photo/1",
+              "media_key": "3_1957594023344107520",
+              "start": 155,
+              "url": "https://t.co/NUaaB385Rs"
+            },
+            {
+              "display_url": "pic.x.com/NUaaB385Rs",
+              "end": 178,
+              "expanded_url": "https://x.com/kenjiueta/status/1957594028339503156/photo/1",
+              "media_key": "3_1957594024946331648",
+              "start": 155,
+              "url": "https://t.co/NUaaB385Rs"
+            },
+            {
+              "display_url": "pic.x.com/NUaaB385Rs",
+              "end": 178,
+              "expanded_url": "https://x.com/kenjiueta/status/1957594028339503156/photo/1",
+              "media_key": "3_1957594025655169027",
+              "start": 155,
+              "url": "https://t.co/NUaaB385Rs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957594028339503156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨日1000円で買ったベローズ。\nレンズ側（ｌ39）とマウント側（CANON FD）をともにＭ42に変更、蛇腹も袋蛇に。ミラーレスで無限もOK。\n薄型マウントを使えば、いろんなメーカーのカメラで使えます。\n物理的な問題でチルトを使うときは上下逆さまに。\n#ベローズ\n#写真用品\n#カメラ\n#カメラ用品\n#写真 https://t.co/NUaaB385Rs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7866,
+          "following_count": 4992,
+          "like_count": 13094,
+          "listed_count": 17,
+          "media_count": 2377,
+          "tweet_count": 16933
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-09T02:22:01.000Z",
+        "description": "心の笑顔を撮るカメラマン。\n家族、婚活、結婚式、終活、証明写真など、幅広く撮影しております。\n撮影ご依頼、お問い合わせはお気軽に♪\n公式ホームページ　https://t.co/3sODKquMiu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "uetakenji.net",
+                "end": 98,
+                "expanded_url": "https://uetakenji.net/",
+                "start": 75,
+                "url": "https://t.co/3sODKquMiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "uetakenji.net",
+                "end": 23,
+                "expanded_url": "https://uetakenji.net/",
+                "start": 0,
+                "url": "https://t.co/3sODKquMiu"
+              }
+            ]
+          }
+        },
+        "id": "153637669",
+        "location": "東京都",
+        "name": "カメラマン上田健次",
+        "pinned_tweet_id": "1933517614376235518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860105975015075840/eqIbEreW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2652,
+          "following_count": 2774,
+          "like_count": 21101,
+          "listed_count": 61,
+          "media_count": 3708,
+          "tweet_count": 8818
+        },
+        "url": "https://t.co/3sODKquMiu",
+        "username": "kenjiueta",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,575 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961060379800621056",
+        "3_1961060379804782592",
+        "3_1961060379792113664"
+      ],
+      "media_source_tweet_id": [
+        "1961060410704253010",
+        "1961060410704253010",
+        "1961060410704253010"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1250915122278567936",
+          "name": "Obon Week"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1323336569109925888",
+          "name": "Tanabata"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1250915122278567936",
+          "name": "Obon Week"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1323336569109925888",
+          "name": "Tanabata"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1323336569109925888",
+          "name": "Tanabata"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1961074076845523067",
+    "created_at": "2025-08-28T14:31:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T15:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961074076845523067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1267096143671918592",
+          "start": 3,
+          "username": "XuetingYoung"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6N3AghmRFW",
+          "end": 86,
+          "expanded_url": "https://x.com/XuetingYoung/status/1961060410704253010/photo/1",
+          "media_key": "3_1961060379800621056",
+          "start": 63,
+          "url": "https://t.co/6N3AghmRFW"
+        },
+        {
+          "display_url": "pic.x.com/6N3AghmRFW",
+          "end": 86,
+          "expanded_url": "https://x.com/XuetingYoung/status/1961060410704253010/photo/1",
+          "media_key": "3_1961060379804782592",
+          "start": 63,
+          "url": "https://t.co/6N3AghmRFW"
+        },
+        {
+          "display_url": "pic.x.com/6N3AghmRFW",
+          "end": 86,
+          "expanded_url": "https://x.com/XuetingYoung/status/1961060410704253010/photo/1",
+          "media_key": "3_1961060379792113664",
+          "start": 63,
+          "url": "https://t.co/6N3AghmRFW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961074076845523067",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961060410704253010",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XuetingYoung: 自分で作ったカメラケースは、去年の七夕前夜(旧暦七月初六夜)からもう一年が経ったね... https://t.co/6N3AghmRFW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1961060379800621056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzcWBnkb0AAVrdh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1961060379804782592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzcWBnlbUAAcwnt.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1030,
+        "media_key": "3_1961060379792113664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzcWBniaAAAKzs0.jpg",
+        "width": 1191
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961060379800621056",
+            "3_1961060379804782592",
+            "3_1961060379792113664"
+          ],
+          "media_source_tweet_id": [
+            "1961060410704253010",
+            "1961060410704253010",
+            "1961060410704253010"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1250915122278567936",
+              "name": "Obon Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1250915122278567936",
+              "name": "Obon Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1961074076845523067",
+        "created_at": "2025-08-28T14:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T15:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961074076845523067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1267096143671918592",
+              "start": 3,
+              "username": "XuetingYoung"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6N3AghmRFW",
+              "end": 86,
+              "expanded_url": "https://x.com/XuetingYoung/status/1961060410704253010/photo/1",
+              "media_key": "3_1961060379800621056",
+              "start": 63,
+              "url": "https://t.co/6N3AghmRFW"
+            },
+            {
+              "display_url": "pic.x.com/6N3AghmRFW",
+              "end": 86,
+              "expanded_url": "https://x.com/XuetingYoung/status/1961060410704253010/photo/1",
+              "media_key": "3_1961060379804782592",
+              "start": 63,
+              "url": "https://t.co/6N3AghmRFW"
+            },
+            {
+              "display_url": "pic.x.com/6N3AghmRFW",
+              "end": 86,
+              "expanded_url": "https://x.com/XuetingYoung/status/1961060410704253010/photo/1",
+              "media_key": "3_1961060379792113664",
+              "start": 63,
+              "url": "https://t.co/6N3AghmRFW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961074076845523067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961060410704253010",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XuetingYoung: 自分で作ったカメラケースは、去年の七夕前夜(旧暦七月初六夜)からもう一年が経ったね... https://t.co/6N3AghmRFW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961060379800621056",
+            "3_1961060379804782592",
+            "3_1961060379792113664"
+          ]
+        },
+        "author_id": "1267096143671918592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1250915122278567936",
+              "name": "Obon Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1250915122278567936",
+              "name": "Obon Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1961060410704253010",
+        "created_at": "2025-08-28T13:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T14:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961060410704253010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6N3AghmRFW",
+              "end": 68,
+              "expanded_url": "https://x.com/XuetingYoung/status/1961060410704253010/photo/1",
+              "media_key": "3_1961060379800621056",
+              "start": 45,
+              "url": "https://t.co/6N3AghmRFW"
+            },
+            {
+              "display_url": "pic.x.com/6N3AghmRFW",
+              "end": 68,
+              "expanded_url": "https://x.com/XuetingYoung/status/1961060410704253010/photo/1",
+              "media_key": "3_1961060379804782592",
+              "start": 45,
+              "url": "https://t.co/6N3AghmRFW"
+            },
+            {
+              "display_url": "pic.x.com/6N3AghmRFW",
+              "end": 68,
+              "expanded_url": "https://x.com/XuetingYoung/status/1961060410704253010/photo/1",
+              "media_key": "3_1961060379792113664",
+              "start": 45,
+              "url": "https://t.co/6N3AghmRFW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961060410704253010",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "自分で作ったカメラケースは、去年の七夕前夜(旧暦七月初六夜)からもう一年が経ったね... https://t.co/6N3AghmRFW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7871,
+          "following_count": 5011,
+          "like_count": 13132,
+          "listed_count": 17,
+          "media_count": 2385,
+          "tweet_count": 17022
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-31T14:11:00.000Z",
+        "description": "絶対大丈夫だよ｜雪汀(xueting、セッテイ)｜中国大陸在住 中文(漢語)/English OK，日本語間違えてたら教えて｜日本聖地巡礼二回目｜たまゆら· 京アニ· Clamp· ボカロ· チュウ二ズム初心｜ Rollei 35s フィルムカメラ｜葱韵环京staff",
+        "id": "1267096143671918592",
+        "location": "广寒宫",
+        "name": "雪汀 | 8.30重庆ボカロ术理屋同人展",
+        "pinned_tweet_id": "1884245147883561337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1427868583737106432/9B9Vt1P4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 364,
+          "like_count": 13523,
+          "listed_count": 2,
+          "media_count": 598,
+          "tweet_count": 2715
+        },
+        "username": "XuetingYoung",
+        "verified": false
+      }
+    ]
+  }
+}

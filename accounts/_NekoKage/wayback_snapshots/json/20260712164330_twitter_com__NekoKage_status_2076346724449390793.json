@@ -1,0 +1,490 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Weather",
+          "id": "857083369514876928",
+          "name": "Weather"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Weather",
+          "id": "857083369514876928",
+          "name": "Weather"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1415383619644706816",
+          "name": "Heat wave"
+        }
+      },
+      {
+        "domain": {
+          "description": "Weather-related topics like Boston weather or Earthquakes",
+          "id": "155",
+          "name": "Weather"
+        },
+        "entity": {
+          "id": "1415383619644706816",
+          "name": "Heat wave"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "175",
+          "name": "Emergency Events"
+        },
+        "entity": {
+          "id": "1415383619644706816",
+          "name": "Heat wave"
+        }
+      }
+    ],
+    "conversation_id": "2076346724449390793",
+    "created_at": "2026-07-12T16:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T17:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076346724449390793"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mitarai_4shi/s…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/mitarai_4shi/status/2076245400437297469",
+          "start": 2,
+          "url": "https://t.co/zuExfRBfDX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076346724449390793",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076245400437297469",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤔 https://t.co/zuExfRBfDX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2076245287954501632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBOFscbUAAPg_k.jpg",
+        "width": 1680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1415383619644706816",
+              "name": "Heat wave"
+            }
+          },
+          {
+            "domain": {
+              "description": "Weather-related topics like Boston weather or Earthquakes",
+              "id": "155",
+              "name": "Weather"
+            },
+            "entity": {
+              "id": "1415383619644706816",
+              "name": "Heat wave"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "175",
+              "name": "Emergency Events"
+            },
+            "entity": {
+              "id": "1415383619644706816",
+              "name": "Heat wave"
+            }
+          }
+        ],
+        "conversation_id": "2076346724449390793",
+        "created_at": "2026-07-12T16:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076346724449390793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mitarai_4shi/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/mitarai_4shi/status/2076245400437297469",
+              "start": 2,
+              "url": "https://t.co/zuExfRBfDX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076346724449390793",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076245400437297469",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤔 https://t.co/zuExfRBfDX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076245287954501632"
+          ]
+        },
+        "author_id": "825134882208649216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1415383619644706816",
+              "name": "Heat wave"
+            }
+          },
+          {
+            "domain": {
+              "description": "Weather-related topics like Boston weather or Earthquakes",
+              "id": "155",
+              "name": "Weather"
+            },
+            "entity": {
+              "id": "1415383619644706816",
+              "name": "Heat wave"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "175",
+              "name": "Emergency Events"
+            },
+            "entity": {
+              "id": "1415383619644706816",
+              "name": "Heat wave"
+            }
+          }
+        ],
+        "conversation_id": "2076245400437297469",
+        "created_at": "2026-07-12T10:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076245400437297469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j4qvNsVIbR",
+              "end": 45,
+              "expanded_url": "https://x.com/mitarai_4shi/status/2076245400437297469/photo/1",
+              "media_key": "3_2076245287954501632",
+              "start": 22,
+              "url": "https://t.co/j4qvNsVIbR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076245400437297469",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1044,
+          "impression_count": 2173052,
+          "like_count": 22899,
+          "quote_count": 388,
+          "reply_count": 329,
+          "retweet_count": 1913
+        },
+        "reply_settings": "everyone",
+        "text": "暑すぎるので持ち歩けるエアコンを考えてみた https://t.co/j4qvNsVIbR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病多病病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "_kagenone"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8712,
+          "following_count": 6703,
+          "like_count": 15922,
+          "listed_count": 17,
+          "media_count": 3028,
+          "tweet_count": 22274
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-28T00:14:21.000Z",
+        "description": "よんし。不謹慎な絵を描く。\nグッズ販売：https://t.co/XcIBDGYIXP\nskeb：https://t.co/NHukWAvEgn\n欲しい：https://t.co/X3IQmWGwCT\nプロフィール：https://t.co/nzorXUL6aH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "4shi.booth.pm",
+                "end": 43,
+                "expanded_url": "http://4shi.booth.pm",
+                "start": 20,
+                "url": "https://t.co/XcIBDGYIXP"
+              },
+              {
+                "display_url": "skeb.jp/@mitarai_4shi",
+                "end": 72,
+                "expanded_url": "https://skeb.jp/@mitarai_4shi",
+                "start": 49,
+                "url": "https://t.co/NHukWAvEgn"
+              },
+              {
+                "display_url": "amzn.asia/fBolqfy",
+                "end": 100,
+                "expanded_url": "http://amzn.asia/fBolqfy",
+                "start": 77,
+                "url": "https://t.co/X3IQmWGwCT"
+              },
+              {
+                "display_url": "twpf.jp/mitarai_4shi",
+                "end": 131,
+                "expanded_url": "http://twpf.jp/mitarai_4shi",
+                "start": 108,
+                "url": "https://t.co/nzorXUL6aH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pawoo.net/@4shi",
+                "end": 23,
+                "expanded_url": "http://pawoo.net/@4shi",
+                "start": 0,
+                "url": "https://t.co/qaXgBuBlkp"
+              }
+            ]
+          }
+        },
+        "id": "825134882208649216",
+        "name": "4氏",
+        "pinned_tweet_id": "1767437592986112033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902573376599916544/JDuOmoUK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65165,
+          "following_count": 3565,
+          "like_count": 8340,
+          "listed_count": 515,
+          "media_count": 1349,
+          "tweet_count": 6475
+        },
+        "url": "https://t.co/qaXgBuBlkp",
+        "username": "mitarai_4shi",
+        "verified": false
+      }
+    ]
+  }
+}

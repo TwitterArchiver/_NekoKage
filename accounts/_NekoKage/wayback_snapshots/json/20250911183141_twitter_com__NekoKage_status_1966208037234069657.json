@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "conversation_id": "1966208037234069657",
+    "created_at": "2025-09-11T18:31:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T19:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966208037234069657"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/c0sub/status/1…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/c0sub/status/1966172565061382324",
+          "start": 8,
+          "url": "https://t.co/nqihkt4CMF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966208037234069657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966172565061382324",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么变成这样求 https://t.co/nqihkt4CMF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1966172565061382324].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1966172565061382324",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1966172565061382324"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "conversation_id": "1966208037234069657",
+        "created_at": "2025-09-11T18:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T19:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966208037234069657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/c0sub/status/1…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/c0sub/status/1966172565061382324",
+              "start": 8,
+              "url": "https://t.co/nqihkt4CMF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966208037234069657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966172565061382324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么变成这样求 https://t.co/nqihkt4CMF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7878,
+          "following_count": 5030,
+          "like_count": 13157,
+          "listed_count": 17,
+          "media_count": 2399,
+          "tweet_count": 17122
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      }
+    ]
+  }
+}

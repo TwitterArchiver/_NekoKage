@@ -1,0 +1,583 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948552303981789184",
+        "3_1948552412278784000"
+      ],
+      "media_source_tweet_id": [
+        "1948552488334000326",
+        "1948552488334000326"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      }
+    ],
+    "conversation_id": "1948590668995285226",
+    "created_at": "2025-07-25T03:46:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T04:46:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948590668995285226"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "Windows Amia",
+          "probability": 0.9636,
+          "start": 20,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "981153022213419008",
+          "start": 3,
+          "username": "tehmondspartan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HgYxrEj2M4",
+          "end": 81,
+          "expanded_url": "https://x.com/tehmondspartan/status/1948552488334000326/photo/1",
+          "media_key": "3_1948552303981789184",
+          "start": 58,
+          "url": "https://t.co/HgYxrEj2M4"
+        },
+        {
+          "display_url": "pic.x.com/HgYxrEj2M4",
+          "end": 81,
+          "expanded_url": "https://x.com/tehmondspartan/status/1948552488334000326/photo/1",
+          "media_key": "3_1948552412278784000",
+          "start": 58,
+          "url": "https://t.co/HgYxrEj2M4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948590668995285226",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948552488334000326",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tehmondspartan: Windows Amia (2005) (desktop concept) https://t.co/HgYxrEj2M4"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Desktop showing the Start menu and Winver. ",
+        "height": 864,
+        "media_key": "3_1948552303981789184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwql_yEagAA5HE7.jpg",
+        "width": 1152
+      },
+      {
+        "alt_text": "Showing the Windows Explorer window open on the Sample Pictures folder and an Internet Explorer download dialog having since finished the process.",
+        "height": 864,
+        "media_key": "3_1948552412278784000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwqmGFgbgAAVR86.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948552303981789184",
+            "3_1948552412278784000"
+          ],
+          "media_source_tweet_id": [
+            "1948552488334000326",
+            "1948552488334000326"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "1948590668995285226",
+        "created_at": "2025-07-25T03:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T04:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948590668995285226"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "Windows Amia",
+              "probability": 0.9636,
+              "start": 20,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "981153022213419008",
+              "start": 3,
+              "username": "tehmondspartan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HgYxrEj2M4",
+              "end": 81,
+              "expanded_url": "https://x.com/tehmondspartan/status/1948552488334000326/photo/1",
+              "media_key": "3_1948552303981789184",
+              "start": 58,
+              "url": "https://t.co/HgYxrEj2M4"
+            },
+            {
+              "display_url": "pic.x.com/HgYxrEj2M4",
+              "end": 81,
+              "expanded_url": "https://x.com/tehmondspartan/status/1948552488334000326/photo/1",
+              "media_key": "3_1948552412278784000",
+              "start": 58,
+              "url": "https://t.co/HgYxrEj2M4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948590668995285226",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948552488334000326",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tehmondspartan: Windows Amia (2005) (desktop concept) https://t.co/HgYxrEj2M4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948552303981789184",
+            "3_1948552412278784000"
+          ]
+        },
+        "author_id": "981153022213419008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "1948552488334000326",
+        "created_at": "2025-07-25T01:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T02:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948552488334000326"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "Windows Amia",
+              "probability": 0.9611,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HgYxrEj2M4",
+              "end": 61,
+              "expanded_url": "https://x.com/tehmondspartan/status/1948552488334000326/photo/1",
+              "media_key": "3_1948552303981789184",
+              "start": 38,
+              "url": "https://t.co/HgYxrEj2M4"
+            },
+            {
+              "display_url": "pic.x.com/HgYxrEj2M4",
+              "end": 61,
+              "expanded_url": "https://x.com/tehmondspartan/status/1948552488334000326/photo/1",
+              "media_key": "3_1948552412278784000",
+              "start": 38,
+              "url": "https://t.co/HgYxrEj2M4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948552488334000326",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 2161,
+          "like_count": 166,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "Windows Amia (2005) (desktop concept) https://t.co/HgYxrEj2M4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🐈#RainWorld⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 107,
+                "tag": "RainWorld"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "_kagenone"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7788,
+          "following_count": 4872,
+          "like_count": 13019,
+          "listed_count": 19,
+          "media_count": 2332,
+          "tweet_count": 16551
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-03T12:54:44.000Z",
+        "description": "Some guy who likes to do cool stuff / 22 / he/him / 🇮🇩",
+        "id": "981153022213419008",
+        "location": "E1M1",
+        "name": "MondySpartan",
+        "pinned_tweet_id": "1851304532967641510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907483124763865091/Ucp2nLww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5639,
+          "following_count": 548,
+          "like_count": 13606,
+          "listed_count": 28,
+          "media_count": 986,
+          "tweet_count": 21249
+        },
+        "username": "tehmondspartan",
+        "verified": false
+      }
+    ]
+  }
+}

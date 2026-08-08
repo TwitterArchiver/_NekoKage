@@ -1,0 +1,195 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1812356167500259330"
+      ],
+      "media_source_tweet_id": [
+        "1812356180322418968"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "1812469603630755842",
+    "created_at": "2024-07-14T12:50:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-14T13:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812469603630755842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1222199363847327744",
+          "start": 3,
+          "username": "Mikuma1936"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/lxrxbgyfyp",
+          "end": 131,
+          "expanded_url": "https://twitter.com/Mikuma1936/status/1812356180322418968/photo/1",
+          "media_key": "3_1812356167500259330",
+          "start": 108,
+          "url": "https://t.co/lxrxbgyfyp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812469603630755842",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812356180322418968",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mikuma1936: 喜报：\n易北凝胶配方已与青岛鲁健公司建立合作并申请发布专利，即将进入专利公示期\n根据条例，权利要求书等详细资料暂不公开\n易北金属或将作为子公司注册挂靠在青岛鲁健控股集团有限公司旗下… https://t.co/lxrxbgyfyp"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1812469603630755842].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1812469603630755842",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1812469603630755842"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1517,
+        "media_key": "3_1812356167500259330",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSbIVQJXYAIteRX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1812356167500259330"
+          ]
+        },
+        "author_id": "1222199363847327744",
+        "conversation_id": "1812356180322418968",
+        "created_at": "2024-07-14T05:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T06:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812356180322418968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/lxrxbgyfyp",
+              "end": 115,
+              "expanded_url": "https://twitter.com/Mikuma1936/status/1812356180322418968/photo/1",
+              "media_key": "3_1812356167500259330",
+              "start": 92,
+              "url": "https://t.co/lxrxbgyfyp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812356180322418968",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1165,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "喜报：\n易北凝胶配方已与青岛鲁健公司建立合作并申请发布专利，即将进入专利公示期\n根据条例，权利要求书等详细资料暂不公开\n易北金属或将作为子公司注册挂靠在青岛鲁健控股集团有限公司旗下… https://t.co/lxrxbgyfyp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain🎧HiFi糊烧🚬大烟鬼🔪刃物收藏⌚️入门表匠🚪88⚠️@_kagenone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 118,
+                "username": "_kagenone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7002,
+          "following_count": 3960,
+          "like_count": 9815,
+          "listed_count": 19,
+          "tweet_count": 12281
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-28T16:46:59.000Z",
+        "description": "别看了，就是卖易北凝胶的那个",
+        "id": "1222199363847327744",
+        "location": "木衛三·Ganymede",
+        "name": "🍥Mikuma⚓三隈-ELBEMETALL易北金属🏳️‍⚧️(破产重组中)",
+        "pinned_tweet_id": "1812356180322418968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792915151596732416/gqkmbRRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3365,
+          "following_count": 1010,
+          "like_count": 79103,
+          "listed_count": 7,
+          "tweet_count": 9261
+        },
+        "username": "Mikuma1936",
+        "verified": false
+      }
+    ]
+  }
+}

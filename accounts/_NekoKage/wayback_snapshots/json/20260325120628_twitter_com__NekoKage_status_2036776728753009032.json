@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921213119235584005"
+      ],
+      "media_source_tweet_id": [
+        "1921213137954464219"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "2036776728753009032",
+    "created_at": "2026-03-25T12:06:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T13:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036776728753009032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1809073935776165890",
+          "start": 3,
+          "username": "matsunashi7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3QbPLGHcoP",
+          "end": 88,
+          "expanded_url": "https://x.com/matsunashi7/status/1921213137954464219/photo/1",
+          "media_key": "3_1921213119235584005",
+          "start": 65,
+          "url": "https://t.co/3QbPLGHcoP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036776728753009032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 970
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921213137954464219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @matsunashi7: 女子から王子様と呼ばれてる女子生徒が、\n実は男の子で表の顔は王子様だけど裏の顔はメスだった話。 https://t.co/3QbPLGHcoP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2036776728753009032].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2036776728753009032",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2036776728753009032"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1921213119235584005",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqmFJyXbcAUTIyI.png",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921213119235584005"
+          ]
+        },
+        "author_id": "1809073935776165890",
+        "conversation_id": "1921213137954464219",
+        "created_at": "2025-05-10T14:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T15:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921213137954464219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3QbPLGHcoP",
+              "end": 71,
+              "expanded_url": "https://x.com/matsunashi7/status/1921213137954464219/photo/1",
+              "media_key": "3_1921213119235584005",
+              "start": 48,
+              "url": "https://t.co/3QbPLGHcoP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921213137954464219",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1777,
+          "impression_count": 225391,
+          "like_count": 8128,
+          "quote_count": 7,
+          "reply_count": 26,
+          "retweet_count": 970
+        },
+        "reply_settings": "everyone",
+        "text": "女子から王子様と呼ばれてる女子生徒が、\n実は男の子で表の顔は王子様だけど裏の顔はメスだった話。 https://t.co/3QbPLGHcoP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 118,
+                "start": 113,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8213,
+          "following_count": 6073,
+          "like_count": 14210,
+          "listed_count": 17,
+          "media_count": 2714,
+          "tweet_count": 19869
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T03:57:05.000Z",
+        "description": "竹梅忘七(まつなしぼうしち) と申します。\nここは恥の果て流されて、俺。\n松の字を無くし、八徳を失くし、\nされど人を思いやる仁の一文字だけは忘れずの忘七でございます。\n駆け出しの粗忽者ではございますが、向後万端、何卒宜しくお頼申しあげます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.gd/matsunashi",
+                "end": 23,
+                "expanded_url": "https://x.gd/matsunashi",
+                "start": 0,
+                "url": "https://t.co/2WVk5R8Gqf"
+              }
+            ]
+          }
+        },
+        "id": "1809073935776165890",
+        "location": "詳しい素性や書籍の委託等ははこちらにございます→",
+        "name": "竹梅忘七",
+        "pinned_tweet_id": "2009652880735867167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809110608383791104/Rag6OLgc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32885,
+          "following_count": 935,
+          "like_count": 13274,
+          "listed_count": 185,
+          "media_count": 517,
+          "tweet_count": 20835
+        },
+        "url": "https://t.co/2WVk5R8Gqf",
+        "username": "matsunashi7",
+        "verified": false
+      }
+    ]
+  }
+}

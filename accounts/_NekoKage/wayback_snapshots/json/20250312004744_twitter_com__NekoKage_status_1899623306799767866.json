@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1899532625800531968"
+      ],
+      "media_source_tweet_id": [
+        "1899532628564615449"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "769193663230468096",
+          "name": "Baseball"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "769193663230468096",
+          "name": "Baseball"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "1899623306799767866",
+    "created_at": "2025-03-12T00:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T01:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899623306799767866"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 39,
+          "normalized_text": "Mita",
+          "probability": 0.3896,
+          "start": 36,
+          "type": "Place"
+        },
+        {
+          "end": 47,
+          "normalized_text": "MiSide",
+          "probability": 0.4553,
+          "start": 42,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 41,
+          "tag": "MiSide"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1718204924037644288",
+          "start": 3,
+          "username": "hulukng180670"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/USCCCeytCa",
+          "end": 72,
+          "expanded_url": "https://x.com/hulukng180670/status/1899532628564615449/photo/1",
+          "media_key": "3_1899532625800531968",
+          "start": 49,
+          "url": "https://t.co/USCCCeytCa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899623306799767866",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899532628564615449",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hulukng180670: Baseball uniform Mita ＃MiSide https://t.co/USCCCeytCa"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1899623306799767866].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1899623306799767866",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1899623306799767866"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1899532625800531968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glx-2-gbEAAlE1n.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899532625800531968"
+          ]
+        },
+        "author_id": "1718204924037644288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "769193663230468096",
+              "name": "Baseball"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "769193663230468096",
+              "name": "Baseball"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1899532628564615449",
+        "created_at": "2025-03-11T18:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T19:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899532628564615449"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Mita",
+              "probability": 0.4082,
+              "start": 17,
+              "type": "Place"
+            },
+            {
+              "end": 28,
+              "normalized_text": "MiSide",
+              "probability": 0.4077,
+              "start": 23,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 22,
+              "tag": "MiSide"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/USCCCeytCa",
+              "end": 53,
+              "expanded_url": "https://x.com/hulukng180670/status/1899532628564615449/photo/1",
+              "media_key": "3_1899532625800531968",
+              "start": 30,
+              "url": "https://t.co/USCCCeytCa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899532628564615449",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 2292,
+          "like_count": 585,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "Baseball uniform Mita ＃MiSide https://t.co/USCCCeytCa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠📢siren爱好者⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "_kagenone"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7512,
+          "following_count": 4473,
+          "like_count": 12389,
+          "listed_count": 19,
+          "media_count": 2159,
+          "tweet_count": 15047
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-28T09:56:10.000Z",
+        "description": "I like playing games and reading good cartoons.  Like two-dimensional animation",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hikikomari.com",
+                "end": 23,
+                "expanded_url": "https://hikikomari.com/",
+                "start": 0,
+                "url": "https://t.co/p3Doz6eqCb"
+              }
+            ]
+          }
+        },
+        "id": "1718204924037644288",
+        "location": "United States",
+        "name": "花落空.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856598327715868672/l0qF8Bu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8679,
+          "following_count": 1476,
+          "like_count": 7905,
+          "listed_count": 19,
+          "media_count": 39,
+          "tweet_count": 84
+        },
+        "url": "https://t.co/p3Doz6eqCb",
+        "username": "hulukng180670",
+        "verified": false
+      }
+    ]
+  }
+}

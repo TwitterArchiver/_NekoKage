@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2077419611273003008"
+      ],
+      "media_source_tweet_id": [
+        "2077419686082605427"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      }
+    ],
+    "conversation_id": "2077510804606472618",
+    "created_at": "2026-07-15T21:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T22:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077510804606472618"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 17,
+          "tag": "umamusume"
+        },
+        {
+          "end": 33,
+          "start": 29,
+          "tag": "ウマ娘"
+        },
+        {
+          "end": 43,
+          "start": 34,
+          "tag": "kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1348978557452648451",
+          "start": 3,
+          "username": "xixixing518"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/geehtLiPye",
+          "end": 79,
+          "expanded_url": "https://x.com/xixixing518/status/2077419686082605427/video/1",
+          "media_key": "13_2077419611273003008",
+          "start": 56,
+          "url": "https://t.co/geehtLiPye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077510804606472618",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 307
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077419686082605427",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xixixing518: #umamusume \n#ウマ娘\n#kigurumi \n GO WHERE？ https://t.co/geehtLiPye"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17010,
+        "height": 1184,
+        "media_key": "13_2077419611273003008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077419611273003008/img/AiGcQABq2GwFJDDp.jpg",
+        "public_metrics": {
+          "view_count": 16333
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077419611273003008/vid/avc1/320x526/5nQ2HDxSjkCwTmWv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077419611273003008/vid/avc1/480x788/UCjjacq1ysuR01lG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077419611273003008/vid/avc1/720x1184/46T3SLO3pmMef8i6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077419611273003008/pl/oZMiqp33HKG_edrs.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077419611273003008"
+          ],
+          "media_source_tweet_id": [
+            "2077419686082605427"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "2077510804606472618",
+        "created_at": "2026-07-15T21:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T22:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077510804606472618"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 17,
+              "tag": "umamusume"
+            },
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "ウマ娘"
+            },
+            {
+              "end": 43,
+              "start": 34,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1348978557452648451",
+              "start": 3,
+              "username": "xixixing518"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/geehtLiPye",
+              "end": 79,
+              "expanded_url": "https://x.com/xixixing518/status/2077419686082605427/video/1",
+              "media_key": "13_2077419611273003008",
+              "start": 56,
+              "url": "https://t.co/geehtLiPye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077510804606472618",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 307
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077419686082605427",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xixixing518: #umamusume \n#ウマ娘\n#kigurumi \n GO WHERE？ https://t.co/geehtLiPye"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077419611273003008"
+          ]
+        },
+        "author_id": "1348978557452648451",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "2077419686082605427",
+        "created_at": "2026-07-15T15:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077419686082605427"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "umamusume"
+            },
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "ウマ娘"
+            },
+            {
+              "end": 26,
+              "start": 17,
+              "tag": "kigurumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/geehtLiPye",
+              "end": 62,
+              "expanded_url": "https://x.com/xixixing518/status/2077419686082605427/video/1",
+              "media_key": "13_2077419611273003008",
+              "start": 39,
+              "url": "https://t.co/geehtLiPye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077419686082605427",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 898,
+          "impression_count": 38125,
+          "like_count": 4127,
+          "quote_count": 7,
+          "reply_count": 12,
+          "retweet_count": 307
+        },
+        "reply_settings": "everyone",
+        "text": "#umamusume \n#ウマ娘\n#kigurumi \n GO WHERE？ https://t.co/geehtLiPye"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病多病病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "_kagenone"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8719,
+          "following_count": 6720,
+          "like_count": 15966,
+          "listed_count": 17,
+          "media_count": 3033,
+          "tweet_count": 22331
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-12T13:02:13.000Z",
+        "description": "You wanted to own me .You didn’t expect me to look back.",
+        "id": "1348978557452648451",
+        "location": "东京",
+        "name": "Asyusui",
+        "pinned_tweet_id": "2016060741342917064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031429655224614912/0xvQibgj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8676,
+          "following_count": 1186,
+          "like_count": 535,
+          "listed_count": 49,
+          "media_count": 419,
+          "tweet_count": 780
+        },
+        "url": "",
+        "username": "xixixing518",
+        "verified": false
+      }
+    ]
+  }
+}

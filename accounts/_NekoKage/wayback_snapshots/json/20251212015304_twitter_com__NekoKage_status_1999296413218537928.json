@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129035621861773312",
+          "name": "3D printing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129035621861773312",
+          "name": "3D printing"
+        }
+      }
+    ],
+    "conversation_id": "1999296413218537928",
+    "created_at": "2025-12-12T01:53:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T02:53:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999296413218537928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "130527611",
+          "start": 3,
+          "username": "motto_motogp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999296413218537928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999075952958292425",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @motto_motogp: 最新の金属3Dプリンターはここまで来たと。これが何倍速の映像なのかはわからないけど、途中の映像でもあるように、これから先は手間げや手溶接のエキパイとかがこういうのに置き換わっていくのだろうか。オレが手でやった方が速いし安いし正確だとなればそれ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 49294,
+        "height": 714,
+        "media_key": "13_1999041047700045824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1999041047700045824/img/lsXxHbl2vxgCHlwB.jpg",
+        "public_metrics": {
+          "view_count": 82507
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999041047700045824/vid/avc1/484x270/RkxLgeQlWMfjJQBQ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999041047700045824/vid/avc1/644x360/pV9volBYOjvy8Oha.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999041047700045824/vid/avc1/1280x714/PDAqcayn-2KKJgqK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1999041047700045824/pl/3kaaXSylV-31HnIz.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129035621861773312",
+              "name": "3D printing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129035621861773312",
+              "name": "3D printing"
+            }
+          }
+        ],
+        "conversation_id": "1999296413218537928",
+        "created_at": "2025-12-12T01:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T02:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999296413218537928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "130527611",
+              "start": 3,
+              "username": "motto_motogp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999296413218537928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999075952958292425",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @motto_motogp: 最新の金属3Dプリンターはここまで来たと。これが何倍速の映像なのかはわからないけど、途中の映像でもあるように、これから先は手間げや手溶接のエキパイとかがこういうのに置き換わっていくのだろうか。オレが手でやった方が速いし安いし正確だとなればそれ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1999041047700045824"
+          ],
+          "media_source_tweet_id": [
+            "1999041110266511379"
+          ]
+        },
+        "author_id": "130527611",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129035621861773312",
+              "name": "3D printing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129035621861773312",
+              "name": "3D printing"
+            }
+          }
+        ],
+        "conversation_id": "1999075952958292425",
+        "created_at": "2025-12-11T11:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T12:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999075952958292425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8CUSN7G8rn",
+              "end": 152,
+              "expanded_url": "https://x.com/IlirAliu_/status/1999041110266511379/video/1",
+              "media_key": "13_1999041047700045824",
+              "start": 129,
+              "url": "https://t.co/8CUSN7G8rn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999075952958292425",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 65197,
+          "like_count": 464,
+          "quote_count": 10,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "最新の金属3Dプリンターはここまで来たと。これが何倍速の映像なのかはわからないけど、途中の映像でもあるように、これから先は手間げや手溶接のエキパイとかがこういうのに置き換わっていくのだろうか。オレが手でやった方が速いし安いし正確だとなればそれで勝負できるが\nhttps://t.co/8CUSN7G8rn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989746234408701952/CGIjbFWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7963,
+          "following_count": 5528,
+          "like_count": 13740,
+          "listed_count": 17,
+          "media_count": 2537,
+          "tweet_count": 18482
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-07T15:08:16.000Z",
+        "description": "知的好奇心を満たすMotoGP/SBKの最新ニュースを世界中から拾い集めて投下中。きっと、もっとモトＧＰが楽しめるようになる…MMGPオンラインショップやってます！  https://t.co/kf6zni3Zup フォロー申請は場合によりリジェクトすることがあります。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mottomotogp.base.ec",
+                "end": 107,
+                "expanded_url": "http://mottomotogp.base.ec",
+                "start": 84,
+                "url": "https://t.co/kf6zni3Zup"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mottomotogp.base.ec",
+                "end": 23,
+                "expanded_url": "https://mottomotogp.base.ec",
+                "start": 0,
+                "url": "https://t.co/vEXhhGf9IT"
+              }
+            ]
+          }
+        },
+        "id": "130527611",
+        "location": "JAPAN",
+        "name": "MMGP",
+        "pinned_tweet_id": "1998999115930415488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1494952920324128770/KSJAffX7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47617,
+          "following_count": 560,
+          "like_count": 72633,
+          "listed_count": 522,
+          "media_count": 94942,
+          "tweet_count": 162732
+        },
+        "url": "https://t.co/vEXhhGf9IT",
+        "username": "motto_motogp",
+        "verified": true
+      }
+    ]
+  }
+}

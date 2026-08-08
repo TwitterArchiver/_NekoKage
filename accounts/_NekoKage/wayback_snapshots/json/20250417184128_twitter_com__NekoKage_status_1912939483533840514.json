@@ -1,0 +1,521 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912843480843575296"
+      ],
+      "media_source_tweet_id": [
+        "1912843489689424099"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1002576732971384832",
+          "name": "Marvel Universe"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1002576732971384832",
+          "name": "Marvel Universe"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1912939483533840514",
+    "created_at": "2025-04-17T18:41:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T19:41:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912939483533840514"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "アベンジャーズ",
+          "probability": 0.4163,
+          "start": 18,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1450484442225528834",
+          "start": 3,
+          "username": "_Sugar_photo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z15ujoCHNX",
+          "end": 49,
+          "expanded_url": "https://x.com/_Sugar_photo/status/1912843489689424099/photo/1",
+          "media_key": "3_1912843480843575296",
+          "start": 26,
+          "url": "https://t.co/Z15ujoCHNX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912939483533840514",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912843489689424099",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Sugar_photo: アベンジャーズ https://t.co/Z15ujoCHNX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2016,
+        "media_key": "3_1912843480843575296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GovJAtqaYAARVO6.jpg",
+        "width": 1512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912843480843575296"
+          ],
+          "media_source_tweet_id": [
+            "1912843489689424099"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1912939483533840514",
+        "created_at": "2025-04-17T18:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T19:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912939483533840514"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "アベンジャーズ",
+              "probability": 0.4163,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1450484442225528834",
+              "start": 3,
+              "username": "_Sugar_photo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z15ujoCHNX",
+              "end": 49,
+              "expanded_url": "https://x.com/_Sugar_photo/status/1912843489689424099/photo/1",
+              "media_key": "3_1912843480843575296",
+              "start": 26,
+              "url": "https://t.co/Z15ujoCHNX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912939483533840514",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912843489689424099",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Sugar_photo: アベンジャーズ https://t.co/Z15ujoCHNX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912843480843575296"
+          ]
+        },
+        "author_id": "1450484442225528834",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1912843489689424099",
+        "created_at": "2025-04-17T12:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T13:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912843489689424099"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "アベンジャーズ",
+              "probability": 0.3787,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z15ujoCHNX",
+              "end": 31,
+              "expanded_url": "https://x.com/_Sugar_photo/status/1912843489689424099/photo/1",
+              "media_key": "3_1912843480843575296",
+              "start": 8,
+              "url": "https://t.co/Z15ujoCHNX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912843489689424099",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2071,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "アベンジャーズ https://t.co/Z15ujoCHNX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠📢siren爱好者⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "_kagenone"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7573,
+          "following_count": 4534,
+          "like_count": 12431,
+          "listed_count": 20,
+          "media_count": 2178,
+          "tweet_count": 15258
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-19T15:30:24.000Z",
+        "description": "aichi.1995. Kodak dcsシリーズ集めてる人。 料理の写真は機材名書かれてない時はiPhoneで撮影してます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/_sugar_camera_…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/_sugar_camera_?igshid=OGQ5ZDc2ODk2ZA==",
+                "start": 0,
+                "url": "https://t.co/0Lb3exilR4"
+              }
+            ]
+          }
+        },
+        "id": "1450484442225528834",
+        "location": "Nagoya",
+        "name": "しゅがー",
+        "pinned_tweet_id": "1912516417020469585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788931219763376128/f416gF4y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2001,
+          "following_count": 793,
+          "like_count": 33880,
+          "listed_count": 25,
+          "media_count": 4175,
+          "tweet_count": 21443
+        },
+        "url": "https://t.co/0Lb3exilR4",
+        "username": "_Sugar_photo",
+        "verified": false
+      }
+    ]
+  }
+}

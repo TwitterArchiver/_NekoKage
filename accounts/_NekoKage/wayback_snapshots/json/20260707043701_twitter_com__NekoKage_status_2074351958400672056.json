@@ -1,0 +1,527 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2074177081655934976"
+      ],
+      "media_source_tweet_id": [
+        "2074177117257113792"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2074351958400672056",
+    "created_at": "2026-07-07T04:37:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T05:37:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074351958400672056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1540825757663912128",
+          "start": 3,
+          "username": "dd__cute"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4yqlcjPF15",
+          "end": 37,
+          "expanded_url": "https://x.com/dd__cute/status/2074177117257113792/photo/1",
+          "media_key": "16_2074177081655934976",
+          "start": 14,
+          "url": "https://t.co/4yqlcjPF15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074351958400672056",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 315
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074177117257113792",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dd__cute: https://t.co/4yqlcjPF15"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 832,
+        "media_key": "16_2074177081655934976",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMj1EPlbwAAwY0F.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMj1EPlbwAAwY0F.mp4"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2074177081655934976"
+          ],
+          "media_source_tweet_id": [
+            "2074177117257113792"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2074351958400672056",
+        "created_at": "2026-07-07T04:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074351958400672056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1540825757663912128",
+              "start": 3,
+              "username": "dd__cute"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4yqlcjPF15",
+              "end": 37,
+              "expanded_url": "https://x.com/dd__cute/status/2074177117257113792/photo/1",
+              "media_key": "16_2074177081655934976",
+              "start": 14,
+              "url": "https://t.co/4yqlcjPF15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074351958400672056",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 315
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074177117257113792",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dd__cute: https://t.co/4yqlcjPF15"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2074177081655934976"
+          ]
+        },
+        "author_id": "1540825757663912128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2074177117257113792",
+        "created_at": "2026-07-06T17:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074177117257113792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4yqlcjPF15",
+              "end": 23,
+              "expanded_url": "https://x.com/dd__cute/status/2074177117257113792/photo/1",
+              "media_key": "16_2074177081655934976",
+              "start": 0,
+              "url": "https://t.co/4yqlcjPF15"
+            },
+            {
+              "display_url": "x.com/ti111310/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/ti111310/status/2068316463774265496",
+              "start": 24,
+              "url": "https://t.co/OJfLKMjhYO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074177117257113792",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 312,
+          "impression_count": 28400,
+          "like_count": 2682,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 315
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068316463774265496",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/4yqlcjPF15 https://t.co/OJfLKMjhYO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病多病病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "_kagenone"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8715,
+          "following_count": 6688,
+          "like_count": 15875,
+          "listed_count": 17,
+          "media_count": 3021,
+          "tweet_count": 22171
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T22:34:30.000Z",
+        "description": "𝔦𝔩𝔩𝔲𝔰𝔱𝔯𝔞𝔱𝔦𝔬𝔫／無断転載禁止／＃堕怨FA／サブ▶@daon__d",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 20,
+                "tag": "堕怨FA"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 37,
+                "start": 29,
+                "username": "daon__d"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/whdonkk2dip5j9…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/whdonkk2dip5j9b?t=dtx4js&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/RpTXV5cxqu"
+              }
+            ]
+          }
+        },
+        "id": "1540825757663912128",
+        "location": "ご依頼受付中",
+        "name": "堕怨_ ．ご依頼募集中",
+        "pinned_tweet_id": "2072348718482030934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063975873704071168/jCaFWxK9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8336,
+          "following_count": 194,
+          "like_count": 56044,
+          "listed_count": 30,
+          "media_count": 212,
+          "tweet_count": 4074
+        },
+        "url": "https://t.co/RpTXV5cxqu",
+        "username": "dd__cute",
+        "verified": false
+      }
+    ]
+  }
+}

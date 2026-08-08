@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "conversation_id": "2011184637411017038",
+    "created_at": "2026-01-13T21:12:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T22:12:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011184637411017038"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 59,
+          "normalized_text": "Nicotine",
+          "probability": 0.3867,
+          "start": 52,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1478118039489028096",
+          "start": 3,
+          "username": "wnypoker"
+        },
+        {
+          "end": 29,
+          "id": "824766073782181888",
+          "start": 14,
+          "username": "3DPrintGeneral"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011184637411017038",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010909359249731596",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wnypoker: @3DPrintGeneral That's RFC 1149 [1] - Nicotine over IP (NoIP)\n\nit's a layer-4 protocol that operates atop UDP or TCP, allowin…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1434,
+        "media_key": "3_2010909116516954112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-gvL-2WcAAYgry.jpg",
+        "width": 1866
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "conversation_id": "2011184637411017038",
+        "created_at": "2026-01-13T21:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T22:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011184637411017038"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 59,
+              "normalized_text": "Nicotine",
+              "probability": 0.3867,
+              "start": 52,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1478118039489028096",
+              "start": 3,
+              "username": "wnypoker"
+            },
+            {
+              "end": 29,
+              "id": "824766073782181888",
+              "start": 14,
+              "username": "3DPrintGeneral"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011184637411017038",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010909359249731596",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wnypoker: @3DPrintGeneral That's RFC 1149 [1] - Nicotine over IP (NoIP)\n\nit's a layer-4 protocol that operates atop UDP or TCP, allowin…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010909116516954112"
+          ]
+        },
+        "author_id": "1478118039489028096",
+        "conversation_id": "2010888818606354836",
+        "created_at": "2026-01-13T02:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T03:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010909359249731596"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "RFC",
+              "probability": 0.5021,
+              "start": 23,
+              "type": "Other"
+            },
+            {
+              "end": 45,
+              "normalized_text": "Nicotine",
+              "probability": 0.5787,
+              "start": 38,
+              "type": "Other"
+            },
+            {
+              "end": 206,
+              "normalized_text": "NoIP",
+              "probability": 0.6048,
+              "start": 203,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "824766073782181888",
+              "start": 0,
+              "username": "3DPrintGeneral"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RxOH2aJUuw",
+              "end": 313,
+              "expanded_url": "https://x.com/wnypoker/status/2010909359249731596/photo/1",
+              "media_key": "3_2010909116516954112",
+              "start": 290,
+              "url": "https://t.co/RxOH2aJUuw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010909359249731596",
+        "in_reply_to_user_id": "824766073782181888",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "That's RFC 1149 [1] - Nicotine over IP (NoIP)\n\nit's a layer-4 protocol that operates atop UDP or TCP, allowing for the encapsulation and delivery of nicotine molecules in digital form. \n\nNoIP is designed to be compatible with existing IP infrastructure, with extensions for Tobacco over Ethernet (ToE) as a link-layer variant for local networks.\n\nThe primary use case is remote addiction fulfillment: a user in a smoke free office can request nicotine packets from a remote server, which are then \"inhaled\" via a compatible device. \n\nThis protocol addresses the growing demand for zero-emission vaping in virtual environments, such as metaverses where physical smoking is impractical.\n\nNoIP is experimental and should not be implemented without consulting local health authorities. \n\nSide effects may include dependency on stable Wi-Fi."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 4983,
+          "like_count": 116,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010888818606354836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3DPrintGeneral That's RFC 1149 [1] - Nicotine over IP (NoIP)\n\nit's a layer-4 protocol that operates atop UDP or TCP, allowing for the encapsulation and delivery of nicotine molecules in digital form. \n\nNoIP is designed to be compatible with existing IP infrastructure, with extensions for https://t.co/RxOH2aJUuw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7963,
+          "following_count": 5584,
+          "like_count": 13752,
+          "listed_count": 17,
+          "media_count": 2559,
+          "tweet_count": 18721
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-03T21:36:30.000Z",
+        "description": "I know this looks like a 3d printer, but Officer ..... it totally isn't..... I can explain.....",
+        "id": "1478118039489028096",
+        "name": "Wny Poker",
+        "pinned_tweet_id": "2005426404427710676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1527795078248407041/THdk2YQQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1177,
+          "following_count": 1112,
+          "like_count": 93756,
+          "listed_count": 3,
+          "media_count": 3812,
+          "tweet_count": 11263
+        },
+        "username": "wnypoker",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-26T23:48:50.000Z",
+        "description": "123k sub YouTube channel deleted for no reason. All of my links including other platforms I am on down below. Opinions are my own.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/3dprintgeneral",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/3dprintgeneral",
+                "start": 0,
+                "url": "https://t.co/yiDMn9YwMJ"
+              }
+            ]
+          }
+        },
+        "id": "824766073782181888",
+        "location": "Texas",
+        "name": "The 3D Print General",
+        "pinned_tweet_id": "1981723628682055739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612543286446530585/Vl5X4PE__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33536,
+          "following_count": 1539,
+          "like_count": 28899,
+          "listed_count": 193,
+          "media_count": 3107,
+          "tweet_count": 12287
+        },
+        "url": "https://t.co/yiDMn9YwMJ",
+        "username": "3DPrintGeneral",
+        "verified": true
+      }
+    ]
+  }
+}

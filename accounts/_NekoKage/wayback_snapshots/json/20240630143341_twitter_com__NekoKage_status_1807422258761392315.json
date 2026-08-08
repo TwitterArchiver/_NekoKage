@@ -1,0 +1,568 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1807422258761392315",
+    "created_at": "2024-06-30T14:33:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-30T15:33:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807422258761392315"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 109,
+          "start": 95,
+          "tag": "WeirdCampaign"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1636629701296029697",
+          "start": 3,
+          "username": "1998_lain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807422258761392315",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 230
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804831768941314478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1998_lain: 明日24日20時に展示を更新します。玲音の部屋の追加と同時に、第4話から第6話のアニメもご覧いただけます！ さらに、24日20時以降に玲音の部屋で写真を撮って【#WeirdCampaign】をつけて投稿し、応募フォームに登録すると、こちらの記念チケ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1807422258761392315",
+        "created_at": "2024-06-30T14:33:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T15:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807422258761392315"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 109,
+              "start": 95,
+              "tag": "WeirdCampaign"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1636629701296029697",
+              "start": 3,
+              "username": "1998_lain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807422258761392315",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 230
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804831768941314478",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1998_lain: 明日24日20時に展示を更新します。玲音の部屋の追加と同時に、第4話から第6話のアニメもご覧いただけます！ さらに、24日20時以降に玲音の部屋で写真を撮って【#WeirdCampaign】をつけて投稿し、応募フォームに登録すると、こちらの記念チケ…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804795148767014912",
+            "7_1804795103858532352"
+          ]
+        },
+        "author_id": "1636629701296029697",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1804831768941314478",
+        "created_at": "2024-06-23T11:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T12:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804831768941314478"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 80,
+              "tag": "WeirdCampaign"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/JyXRUjKdrE",
+              "end": 167,
+              "expanded_url": "https://twitter.com/1998_lain/status/1804831768941314478/video/1",
+              "media_key": "3_1804795148767014912",
+              "start": 144,
+              "url": "https://t.co/JyXRUjKdrE"
+            },
+            {
+              "display_url": "pic.twitter.com/JyXRUjKdrE",
+              "end": 167,
+              "expanded_url": "https://twitter.com/1998_lain/status/1804831768941314478/video/1",
+              "media_key": "7_1804795103858532352",
+              "start": 144,
+              "url": "https://t.co/JyXRUjKdrE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804831768941314478",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 85264,
+          "like_count": 717,
+          "quote_count": 10,
+          "reply_count": 0,
+          "retweet_count": 230
+        },
+        "reply_settings": "everyone",
+        "text": "明日24日20時に展示を更新します。玲音の部屋の追加と同時に、第4話から第6話のアニメもご覧いただけます！ さらに、24日20時以降に玲音の部屋で写真を撮って【#WeirdCampaign】をつけて投稿し、応募フォームに登録すると、こちらの記念チケットを抽選で30名にプレゼントします。 https://t.co/JyXRUjKdrE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid🎸聚乙烯乐队🎧HiFi糊烧🚬大烟鬼🔪刃物收藏⌚️入门表匠🚗JDM📷黑白摄影🚪88⚠️@_kagenone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "_kagenone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6944,
+          "following_count": 3941,
+          "like_count": 9646,
+          "listed_count": 20,
+          "tweet_count": 12147
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-17T07:25:42.000Z",
+        "description": "25周年プロジェクト オンライン展覧会「Weird展　ようこそWired へ」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vrchat.com/home/world/wrl…",
+                "end": 23,
+                "expanded_url": "https://vrchat.com/home/world/wrld_ed1acb6a-fc2e-4d07-8ce7-86c36420fe47",
+                "start": 0,
+                "url": "https://t.co/gFRpeH1CxO"
+              }
+            ]
+          }
+        },
+        "id": "1636629701296029697",
+        "name": "serial experiments lain",
+        "pinned_tweet_id": "1806260130486591821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797466263402496000/fT9gt0q8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31952,
+          "following_count": 9,
+          "like_count": 376,
+          "listed_count": 148,
+          "tweet_count": 434
+        },
+        "url": "https://t.co/gFRpeH1CxO",
+        "username": "1998_lain",
+        "verified": false
+      }
+    ]
+  }
+}

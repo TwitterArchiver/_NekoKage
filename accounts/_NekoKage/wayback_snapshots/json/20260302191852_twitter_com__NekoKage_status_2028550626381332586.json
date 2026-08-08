@@ -1,0 +1,612 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      }
+    ],
+    "conversation_id": "2028550626381332586",
+    "created_at": "2026-03-02T19:18:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T20:18:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028550626381332586"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 80,
+          "normalized_text": "85mm f1.4",
+          "probability": 0.4739,
+          "start": 72,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "716544355318665216",
+          "start": 3,
+          "username": "kujisan73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028550626381332586",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028095763100962935",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kujisan73: 【オールドレンズ購入報告・167本目（予定）】本日、世界の中古カメラ市でのタイムサービスで三協光機 Komura 85mm f1.4を購入。1960年代発売。ニコンFマウント？。Fマウントのリアキャップが着いていたので間違いない？ですが、手持ちのニ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2028095759808372736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCU-WSXaoAAaCqf.jpg",
+        "width": 1616
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2028095759602913280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCU-WRmbkAAYFUo.jpg",
+        "width": 1616
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2028095759804186624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCU-WSWawAAOE5k.jpg",
+        "width": 1616
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2028095760085209088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCU-WTZa0AAytz-.jpg",
+        "width": 1616
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "2028550626381332586",
+        "created_at": "2026-03-02T19:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T20:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028550626381332586"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 80,
+              "normalized_text": "85mm f1.4",
+              "probability": 0.4739,
+              "start": 72,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "716544355318665216",
+              "start": 3,
+              "username": "kujisan73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028550626381332586",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028095763100962935",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kujisan73: 【オールドレンズ購入報告・167本目（予定）】本日、世界の中古カメラ市でのタイムサービスで三協光機 Komura 85mm f1.4を購入。1960年代発売。ニコンFマウント？。Fマウントのリアキャップが着いていたので間違いない？ですが、手持ちのニ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028095759808372736",
+            "3_2028095759602913280",
+            "3_2028095759804186624",
+            "3_2028095760085209088"
+          ]
+        },
+        "author_id": "716544355318665216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "2028095763100962935",
+        "created_at": "2026-03-01T13:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T14:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028095763100962935"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 65,
+              "normalized_text": "85mm f1.4",
+              "probability": 0.4911,
+              "start": 57,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zvaZ1g3rb3",
+              "end": 177,
+              "expanded_url": "https://x.com/kujisan73/status/2028095763100962935/photo/1",
+              "media_key": "3_2028095759808372736",
+              "start": 154,
+              "url": "https://t.co/zvaZ1g3rb3"
+            },
+            {
+              "display_url": "pic.x.com/zvaZ1g3rb3",
+              "end": 177,
+              "expanded_url": "https://x.com/kujisan73/status/2028095763100962935/photo/1",
+              "media_key": "3_2028095759602913280",
+              "start": 154,
+              "url": "https://t.co/zvaZ1g3rb3"
+            },
+            {
+              "display_url": "pic.x.com/zvaZ1g3rb3",
+              "end": 177,
+              "expanded_url": "https://x.com/kujisan73/status/2028095763100962935/photo/1",
+              "media_key": "3_2028095759804186624",
+              "start": 154,
+              "url": "https://t.co/zvaZ1g3rb3"
+            },
+            {
+              "display_url": "pic.x.com/zvaZ1g3rb3",
+              "end": 177,
+              "expanded_url": "https://x.com/kujisan73/status/2028095763100962935/photo/1",
+              "media_key": "3_2028095760085209088",
+              "start": 154,
+              "url": "https://t.co/zvaZ1g3rb3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028095763100962935",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 13139,
+          "like_count": 92,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "【オールドレンズ購入報告・167本目（予定）】本日、世界の中古カメラ市でのタイムサービスで三協光機 Komura 85mm f1.4を購入。1960年代発売。ニコンFマウント？。Fマウントのリアキャップが着いていたので間違いない？ですが、手持ちのニコンFマウントのアダプターが装着出来ません🥲誰か助けて～🤣 https://t.co/zvaZ1g3rb3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 118,
+                "start": 113,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2026735481388675507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8189,
+          "following_count": 5896,
+          "like_count": 14001,
+          "listed_count": 17,
+          "media_count": 2641,
+          "tweet_count": 19470
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-03T08:34:21.000Z",
+        "description": "オールドレンズツイッタラー。東京都在住。カメラ歴10年。オールドレンズ沼にハマリ166本所有、現在は国産ノンライツレンズに夢中。「オールドレンズ・ライフ2019-2020」「オールドレンズ・ライフ2020-2021」に写真掲載。\n\n#オールドレンズ\n#α7III\n#Z5\n#Sony\n#oldlens",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 124,
+                "start": 116,
+                "tag": "オールドレンズ"
+              },
+              {
+                "end": 131,
+                "start": 125,
+                "tag": "α7III"
+              },
+              {
+                "end": 135,
+                "start": 132,
+                "tag": "Z5"
+              },
+              {
+                "end": 141,
+                "start": 136,
+                "tag": "Sony"
+              },
+              {
+                "end": 150,
+                "start": 142,
+                "tag": "oldlens"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kujisan73",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kujisan73",
+                "start": 0,
+                "url": "https://t.co/FKIpki55dN"
+              }
+            ]
+          }
+        },
+        "id": "716544355318665216",
+        "location": "日本 東京",
+        "name": "kujisan",
+        "pinned_tweet_id": "1443407148386451456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1443335161190309890/1XsG1fhB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9925,
+          "following_count": 5030,
+          "like_count": 881411,
+          "listed_count": 120,
+          "media_count": 13949,
+          "tweet_count": 104577
+        },
+        "url": "https://t.co/FKIpki55dN",
+        "username": "kujisan73",
+        "verified": true
+      }
+    ]
+  }
+}

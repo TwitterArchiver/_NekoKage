@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Kyoto",
+          "id": "855096052789026816",
+          "name": "Kyoto"
+        }
+      }
+    ],
+    "conversation_id": "2021167590177996922",
+    "created_at": "2026-02-10T10:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T11:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021167590177996922"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "京都店",
+          "probability": 0.6485,
+          "start": 19,
+          "type": "Place"
+        },
+        {
+          "end": 100,
+          "normalized_text": "CARL MEYER",
+          "probability": 0.29,
+          "start": 91,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3816302052",
+          "start": 3,
+          "username": "gnaniwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021167590177996922",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021149559867765205",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gnaniwa: こんにちは、京都店です。\n珍品が清掃から帰ってきたので紹介します。\n(インターネッツの海を色んな言語でさまよっても見つからなかったので恐らく珍品……。)\n\nCARL MEYERという銘のSPEED 35mm F2というL39マウントのレンズです。\n\n最…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2731,
+        "media_key": "3_2021149264932679680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAyQjEZasAA5vAa.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2731,
+        "media_key": "3_2021149284511645698",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAyQkNVaAAIBmCU.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "2021167590177996922",
+        "created_at": "2026-02-10T10:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T11:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021167590177996922"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "京都店",
+              "probability": 0.6485,
+              "start": 19,
+              "type": "Place"
+            },
+            {
+              "end": 100,
+              "normalized_text": "CARL MEYER",
+              "probability": 0.29,
+              "start": 91,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3816302052",
+              "start": 3,
+              "username": "gnaniwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021167590177996922",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021149559867765205",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gnaniwa: こんにちは、京都店です。\n珍品が清掃から帰ってきたので紹介します。\n(インターネッツの海を色んな言語でさまよっても見つからなかったので恐らく珍品……。)\n\nCARL MEYERという銘のSPEED 35mm F2というL39マウントのレンズです。\n\n最…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021149264932679680",
+            "3_2021149284511645698"
+          ]
+        },
+        "author_id": "3816302052",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "2021149559867765205",
+        "created_at": "2026-02-10T09:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T10:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021149559867765205"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "京都店",
+              "probability": 0.6118,
+              "start": 6,
+              "type": "Place"
+            },
+            {
+              "end": 87,
+              "normalized_text": "CARL MEYER",
+              "probability": 0.2809,
+              "start": 78,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PW0LIvH3H3",
+              "end": 182,
+              "expanded_url": "https://x.com/gnaniwa/status/2021149559867765205/photo/1",
+              "media_key": "3_2021149264932679680",
+              "start": 159,
+              "url": "https://t.co/PW0LIvH3H3"
+            },
+            {
+              "display_url": "pic.x.com/PW0LIvH3H3",
+              "end": 182,
+              "expanded_url": "https://x.com/gnaniwa/status/2021149559867765205/photo/1",
+              "media_key": "3_2021149284511645698",
+              "start": 159,
+              "url": "https://t.co/PW0LIvH3H3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021149559867765205",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "こんにちは、京都店です。\n珍品が清掃から帰ってきたので紹介します。\n(インターネッツの海を色んな言語でさまよっても見つからなかったので恐らく珍品……。)\n\nCARL MEYERという銘のSPEED 35mm F2というL39マウントのレンズです。\n\n最初目にした時は何が何だかわからずかなり混乱しました。\n\nCarl ZeissとMeyer Gölitzを混ぜたみたいな名前。「ひどいメドレー。名前じゃないわ。」って言われそう。\n\n頑張って調べた結果、CALR MEYERはアメリカの商社Burke & Jamesがかつて展開していたオリジナルブランドの模様。\n\n色んなメーカーにOEMを依頼していたみたいのなので、L39マウントの時代の35mm F2のスペックのレンズをしらみつぶしにチェックしたらFujinon 35mm F2が浮上してきました。\n\nたまたま、オリジナルの方も在庫が有ったので並べて見たらやっぱり瓜二つ。\n\nそもそもFujinon 35mm F2も良く写るレンズですが、誰ともレンズが被りたくない人にはCARL MEYER SPEED 35mm F2オススメです。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1966,
+          "like_count": 73,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "こんにちは、京都店です。\n珍品が清掃から帰ってきたので紹介します。\n(インターネッツの海を色んな言語でさまよっても見つからなかったので恐らく珍品……。)\n\nCARL MEYERという銘のSPEED 35mm F2というL39マウントのレンズです。\n\n最初目にした時は何が何だかわからずかなり混乱しました。\n\nCarl https://t.co/PW0LIvH3H3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7965,
+          "following_count": 5746,
+          "like_count": 13840,
+          "listed_count": 17,
+          "media_count": 2588,
+          "tweet_count": 19064
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-07T17:13:48.000Z",
+        "description": "カメラのナニワ、レモン社、タカチホカメラ、バナナレコードを運営するナニワグループの公式Twitterです。大阪梅田の中の人と全国のお店（https://t.co/VNzhIUpzFS）のスタッフがつぶやきます。できるかぎり返信しますのでぜひ話しかけてください♪(商品に関するご質問は店舗へお問い合わせください)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/2Y8ZMyH",
+                "end": 91,
+                "expanded_url": "http://bit.ly/2Y8ZMyH",
+                "start": 68,
+                "url": "https://t.co/VNzhIUpzFS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cameranonaniwa.co.jp/blogs/",
+                "end": 23,
+                "expanded_url": "https://www.cameranonaniwa.co.jp/blogs/",
+                "start": 0,
+                "url": "https://t.co/tjGuQ6mjkq"
+              }
+            ]
+          }
+        },
+        "id": "3816302052",
+        "location": "大阪府大阪市北区",
+        "name": "ナニワグループ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/971682918610321408/RkH-iEv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4676,
+          "following_count": 3151,
+          "like_count": 43503,
+          "listed_count": 53,
+          "media_count": 3663,
+          "tweet_count": 12268
+        },
+        "url": "https://t.co/tjGuQ6mjkq",
+        "username": "gnaniwa",
+        "verified": true
+      }
+    ]
+  }
+}

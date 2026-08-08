@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083127241584820224"
+      ],
+      "media_source_tweet_id": [
+        "2083127302163202131"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2083141484942156090",
+    "created_at": "2026-07-31T10:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T11:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083141484942156090"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 37,
+          "tag": "今月描いた絵を晒そう"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1135868286334144516",
+          "start": 3,
+          "username": "uryuuminene18"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NmjzkQZw0K",
+          "end": 72,
+          "expanded_url": "https://x.com/uryuuminene18/status/2083127302163202131/photo/1",
+          "media_key": "3_2083127241584820224",
+          "start": 49,
+          "url": "https://t.co/NmjzkQZw0K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083141484942156090",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 190
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083127302163202131",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uryuuminene18: 甘い匂いに惹きつけられたアリちゃん\n#今月描いた絵を晒そう https://t.co/NmjzkQZw0K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2200,
+        "media_key": "3_2083127241584820224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjBMHiaQAAC25u.jpg",
+        "width": 1556
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083127241584820224"
+          ]
+        },
+        "author_id": "1135868286334144516",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          }
+        ],
+        "conversation_id": "2083127302163202131",
+        "created_at": "2026-07-31T09:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083127302163202131"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 18,
+              "tag": "今月描いた絵を晒そう"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NmjzkQZw0K",
+              "end": 53,
+              "expanded_url": "https://x.com/uryuuminene18/status/2083127302163202131/photo/1",
+              "media_key": "3_2083127241584820224",
+              "start": 30,
+              "url": "https://t.co/NmjzkQZw0K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083127302163202131",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 24987,
+          "like_count": 2271,
+          "quote_count": 4,
+          "reply_count": 20,
+          "retweet_count": 190
+        },
+        "reply_settings": "everyone",
+        "text": "甘い匂いに惹きつけられたアリちゃん\n#今月描いた絵を晒そう https://t.co/NmjzkQZw0K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083127241584820224"
+          ],
+          "media_source_tweet_id": [
+            "2083127302163202131"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2083141484942156090",
+        "created_at": "2026-07-31T10:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083141484942156090"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 37,
+              "tag": "今月描いた絵を晒そう"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1135868286334144516",
+              "start": 3,
+              "username": "uryuuminene18"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NmjzkQZw0K",
+              "end": 72,
+              "expanded_url": "https://x.com/uryuuminene18/status/2083127302163202131/photo/1",
+              "media_key": "3_2083127241584820224",
+              "start": 49,
+              "url": "https://t.co/NmjzkQZw0K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083141484942156090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 190
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083127302163202131",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uryuuminene18: 甘い匂いに惹きつけられたアリちゃん\n#今月描いた絵を晒そう https://t.co/NmjzkQZw0K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病多病病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "_kagenone"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8734,
+          "following_count": 6712,
+          "like_count": 16024,
+          "listed_count": 17,
+          "media_count": 3056,
+          "tweet_count": 22466
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-04T11:17:57.000Z",
+        "description": "きまぐれ雑多垢\n❌ご本人様・その関係者様以外での無断転載禁止\n#Gブリちゃん 虫ちゃん関連で呟く際使ってほしいタグ\n#はるみなへ 他の作品の感想やリクエストなど私に伝えたい事があればこちらへ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 38,
+                "start": 31,
+                "tag": "Gブリちゃん"
+              },
+              {
+                "end": 64,
+                "start": 58,
+                "tag": "はるみなへ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/10738732",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/10738732",
+                "start": 0,
+                "url": "https://t.co/H75B0zMFM3"
+              }
+            ]
+          }
+        },
+        "id": "1135868286334144516",
+        "name": "はるみなまう📕Ｇブリ発売中",
+        "pinned_tweet_id": "1763127550782714351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1543478724779053057/f5hUE7uk_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359241,
+          "following_count": 41,
+          "like_count": 22445,
+          "listed_count": 1131,
+          "media_count": 1485,
+          "tweet_count": 3637
+        },
+        "url": "https://t.co/H75B0zMFM3",
+        "username": "uryuuminene18",
+        "verified": false
+      }
+    ]
+  }
+}

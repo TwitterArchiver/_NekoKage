@@ -1,0 +1,733 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Golfing action from the PGA Tour.",
+          "id": "10000280885",
+          "name": "PGA Tour Golf"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Golfing action from the PGA Tour.",
+          "id": "10029190485",
+          "name": "Live: The Masters PGA Tour Golf"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10054197026",
+          "name": "2018 PGA Championship"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television show episodes",
+          "id": "4",
+          "name": "TV Episodes"
+        },
+        "entity": {
+          "id": "10054215727",
+          "name": "Third Round"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "The PGA Championship all years.",
+          "id": "1798098389395005440",
+          "name": "The PGA Championship "
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "description": "PGA Tour",
+          "id": "1046519692813193216",
+          "name": "PGA Tour"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The PGA Championship all years.",
+          "id": "1798098389395005440",
+          "name": "The PGA Championship "
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Golf",
+          "id": "847901642087211009",
+          "name": "Golf"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "PGA Tour",
+          "id": "1046519692813193216",
+          "name": "PGA Tour"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Men's Golf",
+          "id": "1162028383393288198",
+          "name": "Men's golf"
+        }
+      }
+    ],
+    "conversation_id": "1979389025086771551",
+    "created_at": "2025-10-18T03:28:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T04:28:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979389025086771551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1396429621113999364",
+          "start": 3,
+          "username": "yuuki_ans"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979389025086771551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979256786910888087",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuuki_ans: 所以某种意义上我认为ISC的这种\nBGA芯片测试垫 ( 软PCB )\n实际上是一种LGA转PGA🤔🤔\n锡珠通过压力接触垫子上的触点\n然后再由触点与主板接触\n就不用上BGA焊台焊了可以直接测试\n---\n但是缺点很明显就是\n1.稳定性不够\n2.理论使用…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1979256774449328128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3e7jMBWcAAtUNR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1305,
+        "media_key": "3_1979256774394793985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3e7jL0WUAEqqxa.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1979256774612992000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3e7jMoXwAAMGO5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1979256774600368128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3e7jMlXIAAB5SO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Golfing action from the PGA Tour.",
+              "id": "10000280885",
+              "name": "PGA Tour Golf"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Golfing action from the PGA Tour.",
+              "id": "10029190485",
+              "name": "Live: The Masters PGA Tour Golf"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10054197026",
+              "name": "2018 PGA Championship"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television show episodes",
+              "id": "4",
+              "name": "TV Episodes"
+            },
+            "entity": {
+              "id": "10054215727",
+              "name": "Third Round"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The PGA Championship all years.",
+              "id": "1798098389395005440",
+              "name": "The PGA Championship "
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "PGA Tour",
+              "id": "1046519692813193216",
+              "name": "PGA Tour"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The PGA Championship all years.",
+              "id": "1798098389395005440",
+              "name": "The PGA Championship "
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Golf",
+              "id": "847901642087211009",
+              "name": "Golf"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "PGA Tour",
+              "id": "1046519692813193216",
+              "name": "PGA Tour"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Men's Golf",
+              "id": "1162028383393288198",
+              "name": "Men's golf"
+            }
+          }
+        ],
+        "conversation_id": "1979389025086771551",
+        "created_at": "2025-10-18T03:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T04:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979389025086771551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1396429621113999364",
+              "start": 3,
+              "username": "yuuki_ans"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979389025086771551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979256786910888087",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuuki_ans: 所以某种意义上我认为ISC的这种\nBGA芯片测试垫 ( 软PCB )\n实际上是一种LGA转PGA🤔🤔\n锡珠通过压力接触垫子上的触点\n然后再由触点与主板接触\n就不用上BGA焊台焊了可以直接测试\n---\n但是缺点很明显就是\n1.稳定性不够\n2.理论使用…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979256774449328128",
+            "3_1979256774394793985",
+            "3_1979256774612992000",
+            "3_1979256774600368128"
+          ]
+        },
+        "author_id": "1396429621113999364",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Golfing action from the PGA Tour.",
+              "id": "10000280885",
+              "name": "PGA Tour Golf"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Golfing action from the PGA Tour.",
+              "id": "10029190485",
+              "name": "Live: The Masters PGA Tour Golf"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10054197026",
+              "name": "2018 PGA Championship"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television show episodes",
+              "id": "4",
+              "name": "TV Episodes"
+            },
+            "entity": {
+              "id": "10054215727",
+              "name": "Third Round"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The PGA Championship all years.",
+              "id": "1798098389395005440",
+              "name": "The PGA Championship "
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "PGA Tour",
+              "id": "1046519692813193216",
+              "name": "PGA Tour"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The PGA Championship all years.",
+              "id": "1798098389395005440",
+              "name": "The PGA Championship "
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Golf",
+              "id": "847901642087211009",
+              "name": "Golf"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "PGA Tour",
+              "id": "1046519692813193216",
+              "name": "PGA Tour"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Men's Golf",
+              "id": "1162028383393288198",
+              "name": "Men's golf"
+            }
+          }
+        ],
+        "conversation_id": "1979256786910888087",
+        "created_at": "2025-10-17T18:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T19:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979256786910888087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pfVtIpdx7r",
+              "end": 179,
+              "expanded_url": "https://x.com/yuuki_ans/status/1979256786910888087/photo/1",
+              "media_key": "3_1979256774449328128",
+              "start": 156,
+              "url": "https://t.co/pfVtIpdx7r"
+            },
+            {
+              "display_url": "pic.x.com/pfVtIpdx7r",
+              "end": 179,
+              "expanded_url": "https://x.com/yuuki_ans/status/1979256786910888087/photo/1",
+              "media_key": "3_1979256774394793985",
+              "start": 156,
+              "url": "https://t.co/pfVtIpdx7r"
+            },
+            {
+              "display_url": "pic.x.com/pfVtIpdx7r",
+              "end": 179,
+              "expanded_url": "https://x.com/yuuki_ans/status/1979256786910888087/photo/1",
+              "media_key": "3_1979256774612992000",
+              "start": 156,
+              "url": "https://t.co/pfVtIpdx7r"
+            },
+            {
+              "display_url": "pic.x.com/pfVtIpdx7r",
+              "end": 179,
+              "expanded_url": "https://x.com/yuuki_ans/status/1979256786910888087/photo/1",
+              "media_key": "3_1979256774600368128",
+              "start": 156,
+              "url": "https://t.co/pfVtIpdx7r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979256786910888087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 618,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "所以某种意义上我认为ISC的这种\nBGA芯片测试垫 ( 软PCB )\n实际上是一种LGA转PGA🤔🤔\n锡珠通过压力接触垫子上的触点\n然后再由触点与主板接触\n就不用上BGA焊台焊了可以直接测试\n---\n但是缺点很明显就是\n1.稳定性不够\n2.理论使用寿命只有一年\n3.容易坏/容易弯\n4.得配合指定的压力扣具施压 https://t.co/pfVtIpdx7r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7917,
+          "following_count": 5180,
+          "like_count": 13373,
+          "listed_count": 17,
+          "media_count": 2450,
+          "tweet_count": 17586
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-23T11:35:53.000Z",
+        "description": "Maybe one day in the future, you will see another me ...",
+        "id": "1396429621113999364",
+        "location": "Polaris",
+        "name": "结城安穗-YuuKi_AnS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736811338348011520/Jyv2iFg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3775,
+          "following_count": 622,
+          "like_count": 150369,
+          "listed_count": 29,
+          "media_count": 1326,
+          "tweet_count": 7085
+        },
+        "username": "yuuki_ans",
+        "verified": true
+      }
+    ]
+  }
+}

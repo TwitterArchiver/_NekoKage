@@ -1,0 +1,570 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999923976894545922"
+      ],
+      "media_source_tweet_id": [
+        "1999923983760900150"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1404909205924966400",
+          "name": "Doki Doki Literature Club"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311309260597329921",
+          "name": "Visual novels"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1404909205924966400",
+          "name": "Doki Doki Literature Club"
+        }
+      }
+    ],
+    "conversation_id": "2000050214934315134",
+    "created_at": "2025-12-14T03:48:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T04:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000050214934315134"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "Sayori",
+          "probability": 0.5677,
+          "start": 15,
+          "type": "Person"
+        },
+        {
+          "end": 64,
+          "normalized_text": "DokiDokiLiteratureClub",
+          "probability": 0.8959,
+          "start": 43,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 65,
+          "start": 42,
+          "tag": "DokiDokiLiteratureClub"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781012272984252416",
+          "start": 3,
+          "username": "punkcorpz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oojqrVbLkZ",
+          "end": 89,
+          "expanded_url": "https://x.com/punkcorpz/status/1999923983760900150/photo/1",
+          "media_key": "3_1999923976894545922",
+          "start": 66,
+          "url": "https://t.co/oojqrVbLkZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000050214934315134",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2936
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999923983760900150",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @punkcorpz: Sayori was the first to go #DokiDokiLiteratureClub https://t.co/oojqrVbLkZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999923976894545922",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8EoQsyWAAIe3LP.jpg",
+        "width": 1293
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999923976894545922"
+          ],
+          "media_source_tweet_id": [
+            "1999923983760900150"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          }
+        ],
+        "conversation_id": "2000050214934315134",
+        "created_at": "2025-12-14T03:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T04:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000050214934315134"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Sayori",
+              "probability": 0.5677,
+              "start": 15,
+              "type": "Person"
+            },
+            {
+              "end": 64,
+              "normalized_text": "DokiDokiLiteratureClub",
+              "probability": 0.8959,
+              "start": 43,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 42,
+              "tag": "DokiDokiLiteratureClub"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781012272984252416",
+              "start": 3,
+              "username": "punkcorpz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oojqrVbLkZ",
+              "end": 89,
+              "expanded_url": "https://x.com/punkcorpz/status/1999923983760900150/photo/1",
+              "media_key": "3_1999923976894545922",
+              "start": 66,
+              "url": "https://t.co/oojqrVbLkZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000050214934315134",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2936
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999923983760900150",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @punkcorpz: Sayori was the first to go #DokiDokiLiteratureClub https://t.co/oojqrVbLkZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999923976894545922"
+          ]
+        },
+        "author_id": "1781012272984252416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          }
+        ],
+        "conversation_id": "1999923983760900150",
+        "created_at": "2025-12-13T19:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T20:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999923983760900150"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "Sayori",
+              "probability": 0.5397,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 49,
+              "normalized_text": "DokiDokiLiteratureClub",
+              "probability": 0.9144,
+              "start": 28,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 27,
+              "tag": "DokiDokiLiteratureClub"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oojqrVbLkZ",
+              "end": 74,
+              "expanded_url": "https://x.com/punkcorpz/status/1999923983760900150/photo/1",
+              "media_key": "3_1999923976894545922",
+              "start": 51,
+              "url": "https://t.co/oojqrVbLkZ"
+            },
+            {
+              "display_url": "x.com/punkcorpz/stat…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/punkcorpz/status/1999553891642310825",
+              "start": 75,
+              "url": "https://t.co/4A1Unof744"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999923983760900150",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1624,
+          "impression_count": 164021,
+          "like_count": 25811,
+          "quote_count": 20,
+          "reply_count": 16,
+          "retweet_count": 2936
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999553891642310825",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Sayori was the first to go #DokiDokiLiteratureClub https://t.co/oojqrVbLkZ https://t.co/4A1Unof744"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7958,
+          "following_count": 5551,
+          "like_count": 13766,
+          "listed_count": 17,
+          "media_count": 2543,
+          "tweet_count": 18548
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T17:30:03.000Z",
+        "description": "𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘄𝗲𝗹𝗰𝗼𝗺𝗲 ‼️ Call me Loser ☆ Autistic ⚧️ Lesbo 🚷 comms closed📭 Free🇵🇸🇺🇦🇨🇩🇸🇩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "punkcorpz.straw.page",
+                "end": 23,
+                "expanded_url": "https://punkcorpz.straw.page",
+                "start": 0,
+                "url": "https://t.co/EHiHS88o36"
+              }
+            ]
+          }
+        },
+        "id": "1781012272984252416",
+        "location": "21 ☢ any pronouns ☢ 🇸🇪",
+        "name": "(˼●̙̂ ̟ ̟̎ ̟ ̘●̂˻) ⁉️",
+        "pinned_tweet_id": "1896603006629720371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940043712622473216/9JGQ2Y1x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6753,
+          "following_count": 1405,
+          "like_count": 104927,
+          "listed_count": 17,
+          "media_count": 575,
+          "tweet_count": 2765
+        },
+        "url": "https://t.co/EHiHS88o36",
+        "username": "punkcorpz",
+        "verified": false
+      }
+    ]
+  }
+}

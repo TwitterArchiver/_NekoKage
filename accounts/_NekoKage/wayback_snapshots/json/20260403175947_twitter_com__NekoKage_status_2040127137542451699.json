@@ -1,0 +1,510 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      }
+    ],
+    "conversation_id": "2040127137542451699",
+    "created_at": "2026-04-03T17:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T18:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040127137542451699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "59734866",
+          "start": 3,
+          "username": "fujiyacamera_ht"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040127137542451699",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040003298917601499",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fujiyacamera_ht: Nikon weeeeeeek‼️ 春の陣‼️\nフジヤカメラとニコンさんが共同で行うタッチ&amp;トライイベント、『ニコンウィーク』を明日4月4日（土）と5日（日）に本店2階にて開催いたします！\n\n今回もニコンさんから直々に社員さんがいらっし…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2040003284124196865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-MLbLaYAEHvXW.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2040003284115890176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-MLbJboAA9Eq_.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "2040127137542451699",
+        "created_at": "2026-04-03T17:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T18:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040127137542451699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "59734866",
+              "start": 3,
+              "username": "fujiyacamera_ht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040127137542451699",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040003298917601499",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fujiyacamera_ht: Nikon weeeeeeek‼️ 春の陣‼️\nフジヤカメラとニコンさんが共同で行うタッチ&amp;トライイベント、『ニコンウィーク』を明日4月4日（土）と5日（日）に本店2階にて開催いたします！\n\n今回もニコンさんから直々に社員さんがいらっし…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040003284124196865",
+            "3_2040003284115890176"
+          ]
+        },
+        "author_id": "59734866",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "2040003298917601499",
+        "created_at": "2026-04-03T09:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T10:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040003298917601499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pa8VbHNVSF",
+              "end": 151,
+              "expanded_url": "https://x.com/fujiyacamera_ht/status/2040003298917601499/photo/1",
+              "media_key": "3_2040003284124196865",
+              "start": 128,
+              "url": "https://t.co/Pa8VbHNVSF"
+            },
+            {
+              "display_url": "pic.x.com/Pa8VbHNVSF",
+              "end": 151,
+              "expanded_url": "https://x.com/fujiyacamera_ht/status/2040003298917601499/photo/1",
+              "media_key": "3_2040003284115890176",
+              "start": 128,
+              "url": "https://t.co/Pa8VbHNVSF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040003298917601499",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "Nikon weeeeeeek‼️ 春の陣‼️\nフジヤカメラとニコンさんが共同で行うタッチ&トライイベント、『ニコンウィーク』を明日4月4日（土）と5日（日）に本店2階にて開催いたします！\n\n今回もニコンさんから直々に社員さんがいらっしゃいます！\n普段触れることの出来ない機材の試写や製品への要望など、アナタの熱い想いを直接メーカーさんに伝える事ができる2日間！\n\n今回はなんと！ Z58mmF0.95Noctにも触れちゃいます！\n見てくださいよ！ このケース！ この笑顔！\n\n本店2階にて、お待ちしております‼️‼️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 11442,
+          "like_count": 113,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "Nikon weeeeeeek‼️ 春の陣‼️\nフジヤカメラとニコンさんが共同で行うタッチ&amp;トライイベント、『ニコンウィーク』を明日4月4日（土）と5日（日）に本店2階にて開催いたします！\n\n今回もニコンさんから直々に社員さんがいらっしゃいます！ https://t.co/Pa8VbHNVSF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8201,
+          "following_count": 6125,
+          "like_count": 14269,
+          "listed_count": 17,
+          "media_count": 2740,
+          "tweet_count": 19993
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-24T09:16:10.000Z",
+        "description": "1938年設立 東京都中野駅北口 「長年の信頼と実績を誇る、新品・中古カメラ・動画配信機材の買取・販売専門店」初めてのお買取りも店舗までお気軽にご相談ください。\n※Twitter経由の商品在庫に関するご質問事項にはお応え致しておりません",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fujiya-camera.co.jp",
+                "end": 23,
+                "expanded_url": "http://www.fujiya-camera.co.jp/",
+                "start": 0,
+                "url": "https://t.co/lnSsuImTYR"
+              }
+            ]
+          }
+        },
+        "id": "59734866",
+        "location": "東京都中野区中野5-61-1",
+        "name": "フジヤカメラ店 本店",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675786644308512768/9-SzVXvh_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31011,
+          "following_count": 240,
+          "like_count": 2178,
+          "listed_count": 1132,
+          "media_count": 23644,
+          "tweet_count": 49166
+        },
+        "url": "https://t.co/lnSsuImTYR",
+        "username": "fujiyacamera_ht",
+        "verified": true
+      }
+    ]
+  }
+}

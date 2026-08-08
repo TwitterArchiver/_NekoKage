@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2068193900045742329",
+    "created_at": "2026-06-20T04:47:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T05:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068193900045742329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1418274451704061953",
+          "start": 3,
+          "username": "jiwun_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068193900045742329",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 299
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067933412082823387",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiwun_: 제가 갑자기 오버도즈 붐이 와버려서...\n\n오버도즈 관련해서는 역시 나이키 콜라보도 빠질 수 없겠죠\n\n저는 이 애니메이션을 보고 정말 \"가능\"을 느꼈습니다\n\n분명 트위터에 있었던 것 같은데 못 찾겠어서... 혹시 찾으신 분 계시…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20108,
+        "height": 720,
+        "media_key": "7_2067933384324907008",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2067933384324907008/pu/img/WYmLcV5Zp7f5T0Xz.jpg",
+        "public_metrics": {
+          "view_count": 40982
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067933384324907008/pu/vid/avc1/480x270/umqTxnz4ud_bCWre.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067933384324907008/pu/vid/avc1/640x360/xWv4ykco8tBTlfco.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067933384324907008/pu/vid/avc1/1280x720/DwJ3qMBGpwIIiMBb.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2067933384324907008/pu/pl/imPvPspbxioQidec.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2068193900045742329",
+        "created_at": "2026-06-20T04:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T05:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068193900045742329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418274451704061953",
+              "start": 3,
+              "username": "jiwun_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068193900045742329",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 299
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067933412082823387",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiwun_: 제가 갑자기 오버도즈 붐이 와버려서...\n\n오버도즈 관련해서는 역시 나이키 콜라보도 빠질 수 없겠죠\n\n저는 이 애니메이션을 보고 정말 \"가능\"을 느꼈습니다\n\n분명 트위터에 있었던 것 같은데 못 찾겠어서... 혹시 찾으신 분 계시…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2067933384324907008"
+          ]
+        },
+        "author_id": "1418274451704061953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2067933412082823387",
+        "created_at": "2026-06-19T11:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067933412082823387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fqOxEXZ1KG",
+              "end": 168,
+              "expanded_url": "https://x.com/jiwun_/status/2067933412082823387/video/1",
+              "media_key": "7_2067933384324907008",
+              "start": 145,
+              "url": "https://t.co/fqOxEXZ1KG"
+            },
+            {
+              "display_url": "x.com/jiwun_/status/…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/jiwun_/status/2067892484731289751",
+              "start": 169,
+              "url": "https://t.co/lIunEseBBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067933412082823387",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 511,
+          "impression_count": 131213,
+          "like_count": 2094,
+          "quote_count": 27,
+          "reply_count": 2,
+          "retweet_count": 299
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067892484731289751",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "제가 갑자기 오버도즈 붐이 와버려서...\n\n오버도즈 관련해서는 역시 나이키 콜라보도 빠질 수 없겠죠\n\n저는 이 애니메이션을 보고 정말 \"가능\"을 느꼈습니다\n\n분명 트위터에 있었던 것 같은데 못 찾겠어서... 혹시 찾으신 분 계시면 제발 저에게 알려주세요 ㅠㅠ https://t.co/fqOxEXZ1KG https://t.co/lIunEseBBX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病多病病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "_kagenone"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8667,
+          "following_count": 6610,
+          "like_count": 15532,
+          "listed_count": 17,
+          "media_count": 2976,
+          "tweet_count": 21620
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-22T18:19:24.000Z",
+        "description": "なとり | 🎹 | 07 | 🇰🇷ok, 🇯🇵little?...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/jiwun_",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/jiwun_",
+                "start": 0,
+                "url": "https://t.co/Iet2GZ31Ni"
+              }
+            ]
+          }
+        },
+        "id": "1418274451704061953",
+        "location": "i.지인",
+        "name": "지운",
+        "pinned_tweet_id": "2056730677706674581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065493182922772481/7Ei9PN5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 92,
+          "like_count": 672,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 504
+        },
+        "url": "https://t.co/Iet2GZ31Ni",
+        "username": "jiwun_",
+        "verified": false
+      }
+    ]
+  }
+}

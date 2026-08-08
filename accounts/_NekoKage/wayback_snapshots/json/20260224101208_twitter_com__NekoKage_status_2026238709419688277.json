@@ -1,0 +1,484 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026183628246695936"
+      ],
+      "media_source_tweet_id": [
+        "2026183739559338395"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899469046054924",
+          "name": "Virtual reality games"
+        }
+      }
+    ],
+    "conversation_id": "2026238709419688277",
+    "created_at": "2026-02-24T10:12:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T11:12:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026238709419688277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1135334039236145152",
+          "start": 3,
+          "username": "VR_NMZW"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K4J9wya05t",
+          "end": 52,
+          "expanded_url": "https://x.com/VR_NMZW/status/2026183739559338395/photo/1",
+          "media_key": "3_2026183628246695936",
+          "start": 29,
+          "url": "https://t.co/K4J9wya05t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026238709419688277",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 218
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026183739559338395",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VR_NMZW: これ　VRChatって感じだわ https://t.co/K4J9wya05t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2026183628246695936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB5zRlNbQAARY77.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026183628246695936"
+          ],
+          "media_source_tweet_id": [
+            "2026183739559338395"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2026238709419688277",
+        "created_at": "2026-02-24T10:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T11:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026238709419688277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1135334039236145152",
+              "start": 3,
+              "username": "VR_NMZW"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K4J9wya05t",
+              "end": 52,
+              "expanded_url": "https://x.com/VR_NMZW/status/2026183739559338395/photo/1",
+              "media_key": "3_2026183628246695936",
+              "start": 29,
+              "url": "https://t.co/K4J9wya05t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026238709419688277",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 218
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026183739559338395",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VR_NMZW: これ　VRChatって感じだわ https://t.co/K4J9wya05t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026183628246695936"
+          ]
+        },
+        "author_id": "1135334039236145152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          }
+        ],
+        "conversation_id": "2026183739559338395",
+        "created_at": "2026-02-24T06:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T07:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026183739559338395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K4J9wya05t",
+              "end": 39,
+              "expanded_url": "https://x.com/VR_NMZW/status/2026183739559338395/photo/1",
+              "media_key": "3_2026183628246695936",
+              "start": 16,
+              "url": "https://t.co/K4J9wya05t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026183739559338395",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 293,
+          "impression_count": 64968,
+          "like_count": 3626,
+          "quote_count": 8,
+          "reply_count": 1,
+          "retweet_count": 218
+        },
+        "reply_settings": "everyone",
+        "text": "これ　VRChatって感じだわ https://t.co/K4J9wya05t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7977,
+          "following_count": 5809,
+          "like_count": 13899,
+          "listed_count": 17,
+          "media_count": 2611,
+          "tweet_count": 19295
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-02T23:55:03.000Z",
+        "description": "こんにちは。私はたぬきで、デザイナーです\nデザインやイラスト依頼をお受けします\n\n📚ポートフォリオ\nhttps://t.co/19KL2BzgLy\n\n🖊ご依頼はこちら\nhttps://t.co/LeDAWQUaTJ\n\n改変記事や🔞支援箱\n@NMZFAN136306\n\nicon:@tylwing_vrc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "NMZFAN136306"
+              },
+              {
+                "end": 151,
+                "start": 139,
+                "username": "tylwing_vrc"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fori.io/nmz-vr",
+                "end": 73,
+                "expanded_url": "https://fori.io/nmz-vr",
+                "start": 50,
+                "url": "https://t.co/19KL2BzgLy"
+              },
+              {
+                "display_url": "x.gd/XLR0c",
+                "end": 107,
+                "expanded_url": "https://x.gd/XLR0c",
+                "start": 84,
+                "url": "https://t.co/LeDAWQUaTJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.gd/G38DZ",
+                "end": 23,
+                "expanded_url": "https://x.gd/G38DZ",
+                "start": 0,
+                "url": "https://t.co/9PSOfITGxG"
+              }
+            ]
+          }
+        },
+        "id": "1135334039236145152",
+        "location": "餌箱",
+        "name": "鯰田NMZ_VRC",
+        "pinned_tweet_id": "1808401200389541905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968895767046930432/h3JX_lef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12315,
+          "following_count": 3404,
+          "like_count": 68765,
+          "listed_count": 105,
+          "media_count": 6083,
+          "tweet_count": 78767
+        },
+        "url": "https://t.co/9PSOfITGxG",
+        "username": "VR_NMZW",
+        "verified": true
+      }
+    ]
+  }
+}

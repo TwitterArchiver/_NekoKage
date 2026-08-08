@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2013675190153093327",
+    "created_at": "2026-01-20T18:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T19:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013675190153093327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1069599820912910337",
+          "start": 3,
+          "username": "mubeitech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013675190153093327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013191103466312053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mubeitech: 而是靠物理隔绝。\n有匿名者分享了一套硬核方案，专门为那些被高度监控的“高威胁模型”用户设计。\n第一步，搞一台二手ThinkPad X270，大概150美元。\n为什么是它？\nLinux兼容性好，内存可拆，容易拆解。\n第二步是关键。\n动手拆掉所有可能被…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2013191085917458432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_BKoFUX0AAzYaF.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2013675190153093327",
+        "created_at": "2026-01-20T18:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T19:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013675190153093327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1069599820912910337",
+              "start": 3,
+              "username": "mubeitech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013675190153093327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013191103466312053",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mubeitech: 而是靠物理隔绝。\n有匿名者分享了一套硬核方案，专门为那些被高度监控的“高威胁模型”用户设计。\n第一步，搞一台二手ThinkPad X270，大概150美元。\n为什么是它？\nLinux兼容性好，内存可拆，容易拆解。\n第二步是关键。\n动手拆掉所有可能被…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013191085917458432"
+          ]
+        },
+        "author_id": "1069599820912910337",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2013191103466312053",
+        "created_at": "2026-01-19T10:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T11:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013191103466312053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vR0mwPcdSU",
+              "end": 182,
+              "expanded_url": "https://x.com/mubeitech/status/2013191103466312053/photo/1",
+              "media_key": "3_2013191085917458432",
+              "start": 159,
+              "url": "https://t.co/vR0mwPcdSU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013191103466312053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "而是靠物理隔绝。\n有匿名者分享了一套硬核方案，专门为那些被高度监控的“高威胁模型”用户设计。\n第一步，搞一台二手ThinkPad X270，大概150美元。\n为什么是它？\nLinux兼容性好，内存可拆，容易拆解。\n第二步是关键。\n动手拆掉所有可能被远程激活的硬件。\nWiFi模块。\n蓝牙模块。\n麦克风。\n网络摄像头。\n统统拔掉。\n这就从物理上釜底抽薪，让设备变成一个无法主动连接网络的孤岛。\n这种思路，和那些相信“深层政府”无孔不入的观点不谋而合。\n他们不信任任何软件层面的安全承诺，只相信自己能控制的物理实体。\n毕竟，后门程序和强制数据上传，在没有联网模块的情况下，几乎无法实现。\n第三步，在U盘上安装TailsOS操作系统。\n这是一个自带隐身功能的系统，所有网络流量强制通过Tor网络，不留痕迹。\n第四步，创建一个VeraCrypt加密卷。\n把它想象成一个数字保险箱，没有密码谁也打不开。\n最后，将密码管理器KeePassXC的数据库，存放在这个保险箱里。\n整套流程下来，你的敏感数据被层层包裹。\n操作系统不留痕迹，存储介质高度加密，硬件层面无法联网。\n这套方案的背后，是一种深刻的不信任。\n对大型科技公司的不信任。\n对全球情报网络监控能力的不信任。\n在全球主义精英鼓吹万物互联，数据共享的达沃斯议程下，这种物理主义的倒退，更像是一种清醒的抵抗。\n当所有人都被要求接入一个透明的、被统一监控的系统时，选择离线，就成了最彻底的反抗。\n这套操作，你觉得是杞人忧天，还是未雨绸缪？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 679,
+          "impression_count": 175777,
+          "like_count": 541,
+          "quote_count": 11,
+          "reply_count": 45,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "而是靠物理隔绝。\n有匿名者分享了一套硬核方案，专门为那些被高度监控的“高威胁模型”用户设计。\n第一步，搞一台二手ThinkPad X270，大概150美元。\n为什么是它？\nLinux兼容性好，内存可拆，容易拆解。\n第二步是关键。\n动手拆掉所有可能被远程激活的硬件。\nWiFi模块。\n蓝牙模块。\n麦克风。\n网络摄像头。 https://t.co/vR0mwPcdSU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7951,
+          "following_count": 5611,
+          "like_count": 13759,
+          "listed_count": 17,
+          "media_count": 2562,
+          "tweet_count": 18818
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-03T14:30:44.000Z",
+        "description": "人类的金色通道：Crypto → AI → Space",
+        "id": "1069599820912910337",
+        "name": "墓碑科技",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936440283094265856/FEwHZFDT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36988,
+          "following_count": 3335,
+          "like_count": 10207,
+          "listed_count": 219,
+          "media_count": 6195,
+          "tweet_count": 69964
+        },
+        "username": "mubeitech",
+        "verified": true
+      }
+    ]
+  }
+}

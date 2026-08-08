@@ -1,0 +1,586 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080620756296486912",
+        "3_2080620756304867328",
+        "3_2080620756325838849"
+      ],
+      "media_source_tweet_id": [
+        "2080620768636162532",
+        "2080620768636162532",
+        "2080620768636162532"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      }
+    ],
+    "conversation_id": "2080910770557362185",
+    "created_at": "2026-07-25T06:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T07:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080910770557362185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "139660356",
+          "start": 3,
+          "username": "murasakinasubi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CCcIS82jNP",
+          "end": 133,
+          "expanded_url": "https://x.com/murasakinasubi/status/2080620768636162532/photo/1",
+          "media_key": "3_2080620756296486912",
+          "start": 110,
+          "url": "https://t.co/CCcIS82jNP"
+        },
+        {
+          "display_url": "pic.x.com/CCcIS82jNP",
+          "end": 133,
+          "expanded_url": "https://x.com/murasakinasubi/status/2080620768636162532/photo/1",
+          "media_key": "3_2080620756304867328",
+          "start": 110,
+          "url": "https://t.co/CCcIS82jNP"
+        },
+        {
+          "display_url": "pic.x.com/CCcIS82jNP",
+          "end": 133,
+          "expanded_url": "https://x.com/murasakinasubi/status/2080620768636162532/photo/1",
+          "media_key": "3_2080620756325838849",
+          "start": 110,
+          "url": "https://t.co/CCcIS82jNP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080910770557362185",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080620768636162532",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @murasakinasubi: キヤノンのカメラに付いてるニッコール！マウントの距離計もニコン製？！レンズの脱着はニコンSマウント内爪とほぼ同じ構造みたいですね。ヘリコイドも距離計も問題無く動いてて驚きました。 https://t.co/CCcIS82jNP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1948,
+        "media_key": "3_2080620756296486912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_ZjeNbUAALWlB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1402,
+        "media_key": "3_2080620756304867328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_ZjePbMAAw46E.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1390,
+        "media_key": "3_2080620756325838849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_ZjeUbMAED5ax.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080620756296486912",
+            "3_2080620756304867328",
+            "3_2080620756325838849"
+          ]
+        },
+        "author_id": "139660356",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "2080620768636162532",
+        "created_at": "2026-07-24T11:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080620768636162532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CCcIS82jNP",
+              "end": 113,
+              "expanded_url": "https://x.com/murasakinasubi/status/2080620768636162532/photo/1",
+              "media_key": "3_2080620756296486912",
+              "start": 90,
+              "url": "https://t.co/CCcIS82jNP"
+            },
+            {
+              "display_url": "pic.x.com/CCcIS82jNP",
+              "end": 113,
+              "expanded_url": "https://x.com/murasakinasubi/status/2080620768636162532/photo/1",
+              "media_key": "3_2080620756304867328",
+              "start": 90,
+              "url": "https://t.co/CCcIS82jNP"
+            },
+            {
+              "display_url": "pic.x.com/CCcIS82jNP",
+              "end": 113,
+              "expanded_url": "https://x.com/murasakinasubi/status/2080620768636162532/photo/1",
+              "media_key": "3_2080620756325838849",
+              "start": 90,
+              "url": "https://t.co/CCcIS82jNP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080620768636162532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 3939,
+          "like_count": 138,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "キヤノンのカメラに付いてるニッコール！マウントの距離計もニコン製？！レンズの脱着はニコンSマウント内爪とほぼ同じ構造みたいですね。ヘリコイドも距離計も問題無く動いてて驚きました。 https://t.co/CCcIS82jNP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080620756296486912",
+            "3_2080620756304867328",
+            "3_2080620756325838849"
+          ],
+          "media_source_tweet_id": [
+            "2080620768636162532",
+            "2080620768636162532",
+            "2080620768636162532"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "2080910770557362185",
+        "created_at": "2026-07-25T06:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080910770557362185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "139660356",
+              "start": 3,
+              "username": "murasakinasubi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CCcIS82jNP",
+              "end": 133,
+              "expanded_url": "https://x.com/murasakinasubi/status/2080620768636162532/photo/1",
+              "media_key": "3_2080620756296486912",
+              "start": 110,
+              "url": "https://t.co/CCcIS82jNP"
+            },
+            {
+              "display_url": "pic.x.com/CCcIS82jNP",
+              "end": 133,
+              "expanded_url": "https://x.com/murasakinasubi/status/2080620768636162532/photo/1",
+              "media_key": "3_2080620756304867328",
+              "start": 110,
+              "url": "https://t.co/CCcIS82jNP"
+            },
+            {
+              "display_url": "pic.x.com/CCcIS82jNP",
+              "end": 133,
+              "expanded_url": "https://x.com/murasakinasubi/status/2080620768636162532/photo/1",
+              "media_key": "3_2080620756325838849",
+              "start": 110,
+              "url": "https://t.co/CCcIS82jNP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080910770557362185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080620768636162532",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @murasakinasubi: キヤノンのカメラに付いてるニッコール！マウントの距離計もニコン製？！レンズの脱着はニコンSマウント内爪とほぼ同じ構造みたいですね。ヘリコイドも距離計も問題無く動いてて驚きました。 https://t.co/CCcIS82jNP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病多病病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "_kagenone"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8723,
+          "following_count": 6717,
+          "like_count": 15981,
+          "listed_count": 17,
+          "media_count": 3044,
+          "tweet_count": 22379
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-03T08:52:27.000Z",
+        "description": "",
+        "id": "139660356",
+        "name": "紫　茄子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860711520973553664/5w2nfvSU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 9,
+          "like_count": 2,
+          "listed_count": 8,
+          "media_count": 3380,
+          "tweet_count": 4315
+        },
+        "url": "",
+        "username": "murasakinasubi",
+        "verified": false
+      }
+    ]
+  }
+}

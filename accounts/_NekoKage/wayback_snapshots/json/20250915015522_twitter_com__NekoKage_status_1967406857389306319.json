@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "conversation_id": "1967406857389306319",
+    "created_at": "2025-09-15T01:55:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T02:55:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967406857389306319"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "イタリア",
+          "probability": 0.9547,
+          "start": 13,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "185157259",
+          "start": 3,
+          "username": "oldlens"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967406857389306319",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967388940169879718",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oldlens: イタリアの光学メーカーは明るいレンズを製造していませんでしたが、1950年頃にレクタフレックス用に作られたガリレオ社のレンズ3本（Esar 52mm f2、Etar 50mm f2、Rectar 50mm f2.8）は素晴らしい例外だと思います。Rec…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1967388487927439360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G02RZ_YboAA3kxD.jpg",
+        "width": 2900
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1967388528175976448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G02RcVUbkAA9nA8.jpg",
+        "width": 2787
+      },
+      {
+        "height": 1611,
+        "media_key": "3_1967388898235236352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G02Rx35bwAAQUdF.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "conversation_id": "1967406857389306319",
+        "created_at": "2025-09-15T01:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T02:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967406857389306319"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "イタリア",
+              "probability": 0.9547,
+              "start": 13,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "185157259",
+              "start": 3,
+              "username": "oldlens"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967406857389306319",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967388940169879718",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oldlens: イタリアの光学メーカーは明るいレンズを製造していませんでしたが、1950年頃にレクタフレックス用に作られたガリレオ社のレンズ3本（Esar 52mm f2、Etar 50mm f2、Rectar 50mm f2.8）は素晴らしい例外だと思います。Rec…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967388487927439360",
+            "3_1967388528175976448",
+            "3_1967388898235236352"
+          ]
+        },
+        "author_id": "185157259",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1284106964167884800",
+              "name": "Leica"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284106964167884800",
+              "name": "Leica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "1967388940169879718",
+        "created_at": "2025-09-15T00:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T01:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967388940169879718"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "イタリア",
+              "probability": 0.9562,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 140,
+              "normalized_text": "Leica Mアダプター",
+              "probability": 0.3301,
+              "start": 129,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4d7Kjzbyf8",
+              "end": 199,
+              "expanded_url": "https://x.com/oldlens/status/1967388940169879718/photo/1",
+              "media_key": "3_1967388487927439360",
+              "start": 176,
+              "url": "https://t.co/4d7Kjzbyf8"
+            },
+            {
+              "display_url": "pic.x.com/4d7Kjzbyf8",
+              "end": 199,
+              "expanded_url": "https://x.com/oldlens/status/1967388940169879718/photo/1",
+              "media_key": "3_1967388528175976448",
+              "start": 176,
+              "url": "https://t.co/4d7Kjzbyf8"
+            },
+            {
+              "display_url": "pic.x.com/4d7Kjzbyf8",
+              "end": 199,
+              "expanded_url": "https://x.com/oldlens/status/1967388940169879718/photo/1",
+              "media_key": "3_1967388898235236352",
+              "start": 176,
+              "url": "https://t.co/4d7Kjzbyf8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967388940169879718",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 383,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "イタリアの光学メーカーは明るいレンズを製造していませんでしたが、1950年頃にレクタフレックス用に作られたガリレオ社のレンズ3本（Esar 52mm f2、Etar 50mm f2、Rectar 50mm f2.8）は素晴らしい例外だと思います。Recta-Leica Mアダプターを装着すれば今でも楽しめます。\n写真はEtar 50mm f2で撮影 https://t.co/4d7Kjzbyf8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7875,
+          "following_count": 5048,
+          "like_count": 13185,
+          "listed_count": 17,
+          "media_count": 2408,
+          "tweet_count": 17176
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-31T10:56:34.000Z",
+        "description": "古典レンズの研究と、収集、実写を行っています。ホームページはhttps://t.co/M6CEp57Fuf。ツイッターもoldlens＠oldlens です。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "oldlens.com",
+                "end": 53,
+                "expanded_url": "http://www.oldlens.com",
+                "start": 30,
+                "url": "https://t.co/M6CEp57Fuf"
+              }
+            ]
+          }
+        },
+        "id": "185157259",
+        "name": "oldlens",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1397933772004155399/b_qbi344_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5014,
+          "following_count": 2259,
+          "like_count": 1871,
+          "listed_count": 53,
+          "media_count": 1488,
+          "tweet_count": 2792
+        },
+        "username": "oldlens",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1928157701974151170"
+      ],
+      "media_source_tweet_id": [
+        "1928157787973984714"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "1928446153613353361",
+    "created_at": "2025-05-30T13:39:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T14:39:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928446153613353361"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "Word",
+          "probability": 0.5192,
+          "start": 16,
+          "type": "Other"
+        },
+        {
+          "end": 32,
+          "normalized_text": "BL-80",
+          "probability": 0.6483,
+          "start": 28,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2444425802",
+          "start": 3,
+          "username": "MachinePix"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rN5Mta3O95",
+          "end": 78,
+          "expanded_url": "https://x.com/MachinePix/status/1928157787973984714/video/1",
+          "media_key": "13_1928157701974151170",
+          "start": 55,
+          "url": "https://t.co/rN5Mta3O95"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928446153613353361",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928157787973984714",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MachinePix: Word Writer BL-80 handwriting machine. https://t.co/rN5Mta3O95"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26133,
+        "height": 1280,
+        "media_key": "13_1928157701974151170",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1928157701974151170/img/CuHeDey227L9dACL.jpg",
+        "public_metrics": {
+          "view_count": 20038
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928157701974151170/vid/avc1/320x568/Nf866eiB8KbGzO9q.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928157701974151170/vid/avc1/480x852/LOhdSIUKGywSc1Fv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928157701974151170/vid/avc1/720x1280/o7_aFpAH6_x7EccM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1928157701974151170/pl/EjxsnTDanNOqOtFl.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1928157701974151170"
+          ],
+          "media_source_tweet_id": [
+            "1928157787973984714"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "conversation_id": "1928446153613353361",
+        "created_at": "2025-05-30T13:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T14:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928446153613353361"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Word",
+              "probability": 0.5192,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 32,
+              "normalized_text": "BL-80",
+              "probability": 0.6483,
+              "start": 28,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2444425802",
+              "start": 3,
+              "username": "MachinePix"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rN5Mta3O95",
+              "end": 78,
+              "expanded_url": "https://x.com/MachinePix/status/1928157787973984714/video/1",
+              "media_key": "13_1928157701974151170",
+              "start": 55,
+              "url": "https://t.co/rN5Mta3O95"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928446153613353361",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928157787973984714",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MachinePix: Word Writer BL-80 handwriting machine. https://t.co/rN5Mta3O95"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1928157701974151170"
+          ]
+        },
+        "author_id": "2444425802",
+        "conversation_id": "1928157787973984714",
+        "created_at": "2025-05-29T18:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T19:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928157787973984714"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "Word",
+              "probability": 0.5867,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 16,
+              "normalized_text": "BL-80",
+              "probability": 0.7632,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rN5Mta3O95",
+              "end": 62,
+              "expanded_url": "https://x.com/MachinePix/status/1928157787973984714/video/1",
+              "media_key": "13_1928157701974151170",
+              "start": 39,
+              "url": "https://t.co/rN5Mta3O95"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928157787973984714",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 39016,
+          "like_count": 544,
+          "quote_count": 13,
+          "reply_count": 6,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "Word Writer BL-80 handwriting machine. https://t.co/rN5Mta3O95"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠📢siren爱好者⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "_kagenone"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7624,
+          "following_count": 4656,
+          "like_count": 12689,
+          "listed_count": 20,
+          "media_count": 2228,
+          "tweet_count": 15784
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-14T20:17:26.000Z",
+        "description": "Amazing feats of engineering. Tweeted by @kane and https://t.co/c2bRClqVy5.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 41,
+                "username": "kane"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "root.vc",
+                "end": 74,
+                "expanded_url": "http://root.vc",
+                "start": 51,
+                "url": "https://t.co/c2bRClqVy5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "root.vc",
+                "end": 23,
+                "expanded_url": "https://root.vc",
+                "start": 0,
+                "url": "https://t.co/swE0TiO42r"
+              }
+            ]
+          }
+        },
+        "id": "2444425802",
+        "name": "MachinePix",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/739515667737645056/Rg0anujY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208540,
+          "following_count": 74,
+          "like_count": 1175,
+          "listed_count": 1691,
+          "media_count": 2641,
+          "tweet_count": 3715
+        },
+        "url": "https://t.co/swE0TiO42r",
+        "username": "MachinePix",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,481 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2005064677525745664"
+      ],
+      "media_source_tweet_id": [
+        "2005064758404546699"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2005113016480907584",
+    "created_at": "2025-12-28T03:06:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T04:06:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005113016480907584"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 16,
+          "tag": "chainsawman"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1294215351966633984",
+          "start": 3,
+          "username": "ueno_ganma"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4eph3B9ylr",
+          "end": 57,
+          "expanded_url": "https://x.com/ueno_ganma/status/2005064758404546699/video/1",
+          "media_key": "13_2005064677525745664",
+          "start": 34,
+          "url": "https://t.co/4eph3B9ylr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005113016480907584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2824
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005064758404546699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ueno_ganma: #chainsawman \n目覚め https://t.co/4eph3B9ylr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16233,
+        "height": 716,
+        "media_key": "13_2005064677525745664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2005064677525745664/img/t1r5hMWXzBSoWsNt.jpg",
+        "public_metrics": {
+          "view_count": 536573
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005064677525745664/vid/avc1/482x270/nrTFoXvVFPabpH9K.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005064677525745664/vid/avc1/642x360/WVVkgAknef4xd2yF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005064677525745664/vid/avc1/1280x716/8lmgK1cL8biP5Jir.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2005064677525745664/pl/ZU4ZlaPLaGvXWz9F.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2005064677525745664"
+          ],
+          "media_source_tweet_id": [
+            "2005064758404546699"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2005113016480907584",
+        "created_at": "2025-12-28T03:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T04:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005113016480907584"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 16,
+              "tag": "chainsawman"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1294215351966633984",
+              "start": 3,
+              "username": "ueno_ganma"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4eph3B9ylr",
+              "end": 57,
+              "expanded_url": "https://x.com/ueno_ganma/status/2005064758404546699/video/1",
+              "media_key": "13_2005064677525745664",
+              "start": 34,
+              "url": "https://t.co/4eph3B9ylr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005113016480907584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2824
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005064758404546699",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ueno_ganma: #chainsawman \n目覚め https://t.co/4eph3B9ylr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2005064677525745664"
+          ]
+        },
+        "author_id": "1294215351966633984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2005064758404546699",
+        "created_at": "2025-12-27T23:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T00:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005064758404546699"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "chainsawman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4eph3B9ylr",
+              "end": 41,
+              "expanded_url": "https://x.com/ueno_ganma/status/2005064758404546699/video/1",
+              "media_key": "13_2005064677525745664",
+              "start": 18,
+              "url": "https://t.co/4eph3B9ylr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005064758404546699",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11703,
+          "impression_count": 966629,
+          "like_count": 42536,
+          "quote_count": 85,
+          "reply_count": 109,
+          "retweet_count": 2824
+        },
+        "reply_settings": "everyone",
+        "text": "#chainsawman \n目覚め https://t.co/4eph3B9ylr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7968,
+          "following_count": 5568,
+          "like_count": 13765,
+          "listed_count": 17,
+          "media_count": 2552,
+          "tweet_count": 18606
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-14T10:13:00.000Z",
+        "description": "高三⠀絵を描く。\nC102,C104 ウタカタ連合の作画担当。\n受験勉強の合間に描いているので遅筆。",
+        "id": "1294215351966633984",
+        "name": "上野 がんま",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995082329103216640/g_rQKZdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6236,
+          "following_count": 30,
+          "like_count": 58806,
+          "listed_count": 30,
+          "media_count": 70,
+          "tweet_count": 357
+        },
+        "username": "ueno_ganma",
+        "verified": false
+      }
+    ]
+  }
+}

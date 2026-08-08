@@ -1,0 +1,675 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2028025450652487680"
+      ],
+      "media_source_tweet_id": [
+        "2028025499209880022"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Travel novelty",
+          "id": "842061030951809024",
+          "name": "Travel novelty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity includes conversations about travel photography.",
+          "id": "842064906841026560",
+          "name": "Travel photography"
+        }
+      }
+    ],
+    "conversation_id": "2028589084751679550",
+    "created_at": "2026-03-02T21:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T22:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028589084751679550"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 45,
+          "normalized_text": "日本",
+          "probability": 0.4979,
+          "start": 44,
+          "type": "Place"
+        },
+        {
+          "end": 93,
+          "normalized_text": "日本旅行",
+          "probability": 0.5099,
+          "start": 90,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1171221685715886080",
+          "start": 3,
+          "username": "investorMM"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0MlpkRDVGh",
+          "end": 129,
+          "expanded_url": "https://x.com/interesting_aIl/status/2028025499209880022/video/1",
+          "media_key": "7_2028025450652487680",
+          "start": 106,
+          "url": "https://t.co/0MlpkRDVGh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028589084751679550",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2349
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028343470365270389",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @investorMM: 【エモい】「亡き祖父が30年隠し持っていた、1982年の日本」……。8万枚の写真を遺して逝った祖父のクローゼットから、1982年に撮影された大量の『日本旅行』のスライドを発見。\n\nhttps://t.co/0MlpkRDVGh…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 66800,
+        "height": 1280,
+        "media_key": "7_2028025450652487680",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2028025450652487680/pu/img/yFAPWnzuZ-J-IpY5.jpg",
+        "public_metrics": {
+          "view_count": 587693
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028025450652487680/pu/vid/avc1/320x568/YUJa-WHoqu0iE-aU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028025450652487680/pu/vid/avc1/480x852/LThBtG3GGEP9KNtE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028025450652487680/pu/vid/avc1/720x1280/n6X3erdpxr0EHB1c.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2028025450652487680/pu/pl/xx3m20k3axuj0zC0.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2028025450652487680"
+          ],
+          "media_source_tweet_id": [
+            "2028025499209880022"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Travel novelty",
+              "id": "842061030951809024",
+              "name": "Travel novelty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity includes conversations about travel photography.",
+              "id": "842064906841026560",
+              "name": "Travel photography"
+            }
+          }
+        ],
+        "conversation_id": "2028589084751679550",
+        "created_at": "2026-03-02T21:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T22:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028589084751679550"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "日本",
+              "probability": 0.4979,
+              "start": 44,
+              "type": "Place"
+            },
+            {
+              "end": 93,
+              "normalized_text": "日本旅行",
+              "probability": 0.5099,
+              "start": 90,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1171221685715886080",
+              "start": 3,
+              "username": "investorMM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0MlpkRDVGh",
+              "end": 129,
+              "expanded_url": "https://x.com/interesting_aIl/status/2028025499209880022/video/1",
+              "media_key": "7_2028025450652487680",
+              "start": 106,
+              "url": "https://t.co/0MlpkRDVGh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028589084751679550",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2349
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028343470365270389",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @investorMM: 【エモい】「亡き祖父が30年隠し持っていた、1982年の日本」……。8万枚の写真を遺して逝った祖父のクローゼットから、1982年に撮影された大量の『日本旅行』のスライドを発見。\n\nhttps://t.co/0MlpkRDVGh…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2028025450652487680"
+          ],
+          "media_source_tweet_id": [
+            "2028025499209880022"
+          ]
+        },
+        "author_id": "1171221685715886080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Travel novelty",
+              "id": "842061030951809024",
+              "name": "Travel novelty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity includes conversations about travel photography.",
+              "id": "842064906841026560",
+              "name": "Travel photography"
+            }
+          }
+        ],
+        "conversation_id": "2028343470365270389",
+        "created_at": "2026-03-02T05:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028343470365270389"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "日本",
+              "probability": 0.48,
+              "start": 28,
+              "type": "Place"
+            },
+            {
+              "end": 77,
+              "normalized_text": "日本旅行",
+              "probability": 0.5029,
+              "start": 74,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0MlpkRDVGh",
+              "end": 113,
+              "expanded_url": "https://x.com/interesting_aIl/status/2028025499209880022/video/1",
+              "media_key": "7_2028025450652487680",
+              "start": 90,
+              "url": "https://t.co/0MlpkRDVGh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028343470365270389",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/interesting_aI…",
+                "end": 113,
+                "expanded_url": "https://x.com/interesting_aIl/status/2028025499209880022/video/1",
+                "start": 90,
+                "url": "https://t.co/Fb4NE4DJQ4"
+              }
+            ]
+          },
+          "text": "【エモい】「亡き祖父が30年隠し持っていた、1982年の日本」……。8万枚の写真を遺して逝った祖父のクローゼットから、1982年に撮影された大量の『日本旅行』のスライドを発見。\n\nhttps://t.co/Fb4NE4DJQ4\n色鮮やかなネオン、当時の自販機、活気あふれる街角など、孫が発掘した“40年前の東京”がエモすぎると話題に"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3874,
+          "impression_count": 1051414,
+          "like_count": 15200,
+          "quote_count": 107,
+          "reply_count": 108,
+          "retweet_count": 2349
+        },
+        "reply_settings": "everyone",
+        "text": "【エモい】「亡き祖父が30年隠し持っていた、1982年の日本」……。8万枚の写真を遺して逝った祖父のクローゼットから、1982年に撮影された大量の『日本旅行』のスライドを発見。\n\nhttps://t.co/0MlpkRDVGh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 118,
+                "start": 113,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2026735481388675507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8190,
+          "following_count": 5896,
+          "like_count": 14005,
+          "listed_count": 17,
+          "media_count": 2642,
+          "tweet_count": 19477
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-10T00:39:55.000Z",
+        "description": "🕊️世界に平和を🕊️ 世界中から集めた迫力満点の動画や面白い映像🎥、おすすめ映画をどんどん発信！さらに、面白いと思った漫画も紹介していきます！📚 ポストの詳細は投稿者へお問い合わせを。",
+        "id": "1171221685715886080",
+        "name": "世界のど迫力映像@フォレスト(Forest)🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820078597048262656/PNxCvVck_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223964,
+          "following_count": 301,
+          "like_count": 12620,
+          "listed_count": 381,
+          "media_count": 22288,
+          "tweet_count": 32420
+        },
+        "username": "investorMM",
+        "verified": true
+      }
+    ]
+  }
+}

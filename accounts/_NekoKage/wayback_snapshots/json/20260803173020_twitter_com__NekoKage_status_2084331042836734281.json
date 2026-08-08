@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084151938866900992"
+      ],
+      "media_source_tweet_id": [
+        "2084151943786811449"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026738409",
+          "name": "Sony"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026738409",
+          "name": "Sony"
+        }
+      }
+    ],
+    "conversation_id": "2084331042836734281",
+    "created_at": "2026-08-03T17:30:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T18:30:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084331042836734281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "78524391",
+          "start": 3,
+          "username": "ari160"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7CICL7SVDI",
+          "end": 65,
+          "expanded_url": "https://x.com/ari160/status/2084151943786811449/photo/1",
+          "media_key": "3_2084151938866900992",
+          "start": 42,
+          "url": "https://t.co/7CICL7SVDI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084331042836734281",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084151943786811449",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ari160: 流石にデザインが露骨すぎではw\n…デンスケ復活しないかな… https://t.co/7CICL7SVDI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1091,
+        "media_key": "3_2084151938866900992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxlJWYacAADf_G.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084151938866900992"
+          ]
+        },
+        "author_id": "78524391",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          }
+        ],
+        "conversation_id": "2084151943786811449",
+        "created_at": "2026-08-03T05:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084151943786811449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7CICL7SVDI",
+              "end": 53,
+              "expanded_url": "https://x.com/ari160/status/2084151943786811449/photo/1",
+              "media_key": "3_2084151938866900992",
+              "start": 30,
+              "url": "https://t.co/7CICL7SVDI"
+            },
+            {
+              "display_url": "x.com/f_mp3tidalwave…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/f_mp3tidalwave/status/2084123010253156409",
+              "start": 54,
+              "url": "https://t.co/6evBUdPKEZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084151943786811449",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 9371,
+          "like_count": 137,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084123010253156409",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "流石にデザインが露骨すぎではw\n…デンスケ復活しないかな… https://t.co/7CICL7SVDI https://t.co/6evBUdPKEZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084151938866900992"
+          ],
+          "media_source_tweet_id": [
+            "2084151943786811449"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          }
+        ],
+        "conversation_id": "2084331042836734281",
+        "created_at": "2026-08-03T17:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084331042836734281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "78524391",
+              "start": 3,
+              "username": "ari160"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7CICL7SVDI",
+              "end": 65,
+              "expanded_url": "https://x.com/ari160/status/2084151943786811449/photo/1",
+              "media_key": "3_2084151938866900992",
+              "start": 42,
+              "url": "https://t.co/7CICL7SVDI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084331042836734281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084151943786811449",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ari160: 流石にデザインが露骨すぎではw\n…デンスケ復活しないかな… https://t.co/7CICL7SVDI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病多病病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "_kagenone"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8740,
+          "following_count": 6720,
+          "like_count": 16071,
+          "listed_count": 17,
+          "media_count": 3061,
+          "tweet_count": 22523
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-30T05:38:29.000Z",
+        "description": "ホムオデ、ポタオデを中心に呟いてます。ポタ用リケーブル作ったり、いろいろ弄ったりしてる人です。(10年近くアキバ情報取得ROM用だったので、本格稼働のフォロワーさん追加や呟きは2019年くらいからですw)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "thfactory.booth.pm",
+                "end": 23,
+                "expanded_url": "https://thfactory.booth.pm/",
+                "start": 0,
+                "url": "https://t.co/JYGF9k3X2u"
+              }
+            ]
+          }
+        },
+        "id": "78524391",
+        "name": "th",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629347294083690496/sWkkPkpS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1851,
+          "following_count": 1847,
+          "like_count": 62189,
+          "listed_count": 30,
+          "media_count": 9200,
+          "tweet_count": 56993
+        },
+        "url": "https://t.co/JYGF9k3X2u",
+        "username": "ari160",
+        "verified": false
+      }
+    ]
+  }
+}

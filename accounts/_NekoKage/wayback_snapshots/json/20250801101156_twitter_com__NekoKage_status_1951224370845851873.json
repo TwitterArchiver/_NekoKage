@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1950939550219722752"
+      ],
+      "media_source_tweet_id": [
+        "1950939605978812778"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "1951224370845851873",
+    "created_at": "2025-08-01T10:11:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T11:11:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951224370845851873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589564790628028417",
+          "start": 3,
+          "username": "c0sub"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PtPYDdYDDY",
+          "end": 50,
+          "expanded_url": "https://x.com/c0sub/status/1950939605978812778/video/1",
+          "media_key": "13_1950939550219722752",
+          "start": 27,
+          "url": "https://t.co/PtPYDdYDDY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951224370845851873",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 327
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950939605978812778",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @c0sub: だぼTボクサーパンツはいいぞ… https://t.co/PtPYDdYDDY"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1951224370845851873].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1951224370845851873",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1951224370845851873"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5488,
+        "height": 1440,
+        "media_key": "13_1950939550219722752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1950939550219722752/img/uiJkbOzeirZkvsmw.jpg",
+        "public_metrics": {
+          "view_count": 52040
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1950939550219722752/pl/pc5zz4KnzAnYkfOI.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950939550219722752/vid/avc1/320x426/Z33SoowZ__yszdhD.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950939550219722752/vid/avc1/480x640/ptRFxvgKeoMKUAyr.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950939550219722752/vid/avc1/1080x1440/fRX4lShO_HekfYJ4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950939550219722752/vid/avc1/720x960/MpuFHqzjs_fhvtxn.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1950939550219722752"
+          ]
+        },
+        "author_id": "1589564790628028417",
+        "conversation_id": "1950939605978812778",
+        "created_at": "2025-07-31T15:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T16:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950939605978812778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PtPYDdYDDY",
+              "end": 39,
+              "expanded_url": "https://x.com/c0sub/status/1950939605978812778/video/1",
+              "media_key": "13_1950939550219722752",
+              "start": 16,
+              "url": "https://t.co/PtPYDdYDDY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950939605978812778",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1941,
+          "impression_count": 56658,
+          "like_count": 8344,
+          "quote_count": 10,
+          "reply_count": 33,
+          "retweet_count": 327
+        },
+        "reply_settings": "everyone",
+        "text": "だぼTボクサーパンツはいいぞ… https://t.co/PtPYDdYDDY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🐈#RainWorld⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 107,
+                "tag": "RainWorld"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "_kagenone"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7809,
+          "following_count": 4921,
+          "like_count": 12994,
+          "listed_count": 18,
+          "media_count": 2345,
+          "tweet_count": 16668
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-07T10:26:02.000Z",
+        "description": "夏コミ【C106日曜東4ム-43a】 / main【@cos__YU_ 】❄️総合タグ #あいらぶ憂  🎨FAタグ #憂幻画",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 50,
+                "start": 44,
+                "tag": "あいらぶ憂"
+              },
+              {
+                "end": 62,
+                "start": 58,
+                "tag": "憂幻画"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "cos__YU_"
+              }
+            ]
+          }
+        },
+        "id": "1589564790628028417",
+        "name": "憂 sub",
+        "pinned_tweet_id": "1950505398508892180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920878394063155204/hC0YIb9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66936,
+          "following_count": 2228,
+          "like_count": 9520,
+          "listed_count": 227,
+          "media_count": 110,
+          "tweet_count": 7971
+        },
+        "username": "c0sub",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,517 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1994905979302154243"
+      ],
+      "media_source_tweet_id": [
+        "1994905988449931666"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "id": "1575491917986439171",
+          "name": "Social Media & Networking Company"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1586927984010592257",
+          "name": "Vine"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1587069325998886912",
+          "name": "Vine"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "id": "1577324397714493441",
+          "name": "Video Sharing app"
+        }
+      }
+    ],
+    "conversation_id": "1995185341192720786",
+    "created_at": "2025-11-30T17:37:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T18:37:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995185341192720786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1443852632808771586",
+          "start": 3,
+          "username": "shimejfications"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kno5XlI0Lk",
+          "end": 44,
+          "expanded_url": "https://x.com/shimejfications/status/1994905988449931666/video/1",
+          "media_key": "7_1994905979302154243",
+          "start": 21,
+          "url": "https://t.co/kno5XlI0Lk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995185341192720786",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 661
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994905988449931666",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shimejfications: https://t.co/kno5XlI0Lk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3818,
+        "height": 270,
+        "media_key": "7_1994905979302154243",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1994905979302154243/pu/img/9S24KXKDo7fNzNgX.jpg",
+        "public_metrics": {
+          "view_count": 24433
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994905979302154243/pu/vid/avc1/480x270/O3lveUxwqUnZPpGH.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1994905979302154243/pu/pl/_RtAYoiXl_8lEyhG.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1994905979302154243"
+          ],
+          "media_source_tweet_id": [
+            "1994905988449931666"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "id": "1575491917986439171",
+              "name": "Social Media & Networking Company"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1586927984010592257",
+              "name": "Vine"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1587069325998886912",
+              "name": "Vine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "id": "1577324397714493441",
+              "name": "Video Sharing app"
+            }
+          }
+        ],
+        "conversation_id": "1995185341192720786",
+        "created_at": "2025-11-30T17:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T18:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995185341192720786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1443852632808771586",
+              "start": 3,
+              "username": "shimejfications"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kno5XlI0Lk",
+              "end": 44,
+              "expanded_url": "https://x.com/shimejfications/status/1994905988449931666/video/1",
+              "media_key": "7_1994905979302154243",
+              "start": 21,
+              "url": "https://t.co/kno5XlI0Lk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995185341192720786",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 661
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994905988449931666",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shimejfications: https://t.co/kno5XlI0Lk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1994905979302154243"
+          ]
+        },
+        "author_id": "1443852632808771586",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "id": "1575491917986439171",
+              "name": "Social Media & Networking Company"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1586927984010592257",
+              "name": "Vine"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1587069325998886912",
+              "name": "Vine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "id": "1577324397714493441",
+              "name": "Video Sharing app"
+            }
+          }
+        ],
+        "conversation_id": "1994905988449931666",
+        "created_at": "2025-11-29T23:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T00:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994905988449931666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kno5XlI0Lk",
+              "end": 23,
+              "expanded_url": "https://x.com/shimejfications/status/1994905988449931666/video/1",
+              "media_key": "7_1994905979302154243",
+              "start": 0,
+              "url": "https://t.co/kno5XlI0Lk"
+            },
+            {
+              "display_url": "x.com/yuurichitoyuri…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/yuurichitoyuri/status/1994697873150415329",
+              "start": 24,
+              "url": "https://t.co/n4cnulTAzj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994905988449931666",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1293,
+          "impression_count": 62063,
+          "like_count": 4820,
+          "quote_count": 7,
+          "reply_count": 5,
+          "retweet_count": 661
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994697873150415329",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/kno5XlI0Lk https://t.co/n4cnulTAzj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989746234408701952/CGIjbFWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7967,
+          "following_count": 5389,
+          "like_count": 13621,
+          "listed_count": 17,
+          "media_count": 2503,
+          "tweet_count": 18209
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-01T08:18:07.000Z",
+        "description": "shimejipilled..\npriv: @kumorifications",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "kumorifications"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ramifications.straw.page",
+                "end": 23,
+                "expanded_url": "https://ramifications.straw.page/",
+                "start": 0,
+                "url": "https://t.co/sUeqikZxuc"
+              }
+            ]
+          }
+        },
+        "id": "1443852632808771586",
+        "location": "she/her 16",
+        "name": "ramifications",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989221522314342400/kkY-AY9Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 234,
+          "like_count": 69694,
+          "listed_count": 4,
+          "media_count": 293,
+          "tweet_count": 1848
+        },
+        "url": "https://t.co/sUeqikZxuc",
+        "username": "shimejfications",
+        "verified": false
+      }
+    ]
+  }
+}

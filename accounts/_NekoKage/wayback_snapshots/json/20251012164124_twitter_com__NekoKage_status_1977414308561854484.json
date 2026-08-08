@@ -1,0 +1,492 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977375422309343233"
+      ],
+      "media_source_tweet_id": [
+        "1977375563636465868"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Concept Art",
+          "id": "1046581724098912256",
+          "name": "Concept art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Concept Art",
+          "id": "1046581724098912256",
+          "name": "Concept art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1977414308561854484",
+    "created_at": "2025-10-12T16:41:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T17:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977414308561854484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1894190879168237569",
+          "start": 3,
+          "username": "mulch1muncher"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RrAByCSYNG",
+          "end": 57,
+          "expanded_url": "https://x.com/mulch1muncher/status/1977375563636465868/photo/1",
+          "media_key": "3_1977375422309343233",
+          "start": 34,
+          "url": "https://t.co/RrAByCSYNG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977414308561854484",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977375563636465868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mulch1muncher: worst art 2013 https://t.co/RrAByCSYNG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 742,
+        "media_key": "3_1977375422309343233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3EMeFJWIAEN7L1.png",
+        "width": 627
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977375422309343233"
+          ],
+          "media_source_tweet_id": [
+            "1977375563636465868"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Concept Art",
+              "id": "1046581724098912256",
+              "name": "Concept art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Concept Art",
+              "id": "1046581724098912256",
+              "name": "Concept art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1977414308561854484",
+        "created_at": "2025-10-12T16:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T17:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977414308561854484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1894190879168237569",
+              "start": 3,
+              "username": "mulch1muncher"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RrAByCSYNG",
+              "end": 57,
+              "expanded_url": "https://x.com/mulch1muncher/status/1977375563636465868/photo/1",
+              "media_key": "3_1977375422309343233",
+              "start": 34,
+              "url": "https://t.co/RrAByCSYNG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977414308561854484",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977375563636465868",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mulch1muncher: worst art 2013 https://t.co/RrAByCSYNG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977375422309343233"
+          ]
+        },
+        "author_id": "1894190879168237569",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Concept Art",
+              "id": "1046581724098912256",
+              "name": "Concept art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Concept Art",
+              "id": "1046581724098912256",
+              "name": "Concept art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1977375563636465868",
+        "created_at": "2025-10-12T14:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T15:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977375563636465868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RrAByCSYNG",
+              "end": 38,
+              "expanded_url": "https://x.com/mulch1muncher/status/1977375563636465868/photo/1",
+              "media_key": "3_1977375422309343233",
+              "start": 15,
+              "url": "https://t.co/RrAByCSYNG"
+            },
+            {
+              "display_url": "x.com/mulch1muncher/…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/mulch1muncher/status/1977096904388612431",
+              "start": 39,
+              "url": "https://t.co/4mOP2g7fhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977375563636465868",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1331,
+          "like_count": 172,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977096904388612431",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "worst art 2013 https://t.co/RrAByCSYNG https://t.co/4mOP2g7fhi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7911,
+          "following_count": 5134,
+          "like_count": 13329,
+          "listed_count": 17,
+          "media_count": 2441,
+          "tweet_count": 17517
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T01:01:45.000Z",
+        "description": "19. i aaaa ddbvbnm,vcnbvfgbhnjmk",
+        "id": "1894190879168237569",
+        "location": "fuckass nowhere land ",
+        "name": "evil mulch muncher",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973754911050338304/cniXLAhP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1038,
+          "following_count": 366,
+          "like_count": 27544,
+          "listed_count": 7,
+          "media_count": 845,
+          "tweet_count": 3653
+        },
+        "username": "mulch1muncher",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "1914073524253475051",
+    "created_at": "2025-04-20T21:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T22:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914073524253475051"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 61,
+          "normalized_text": "新宿北村",
+          "probability": 0.4525,
+          "start": 58,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "716544355318665216",
+          "start": 3,
+          "username": "kujisan73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914073524253475051",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913936475303121225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kujisan73: 【オールドレンズ購入報告・157本目】日本光学 Nikkor 5cm f3.5 沈胴を新宿北村写真機店で購入。1939年頃発売。ライカLマウント。戦時中のセイキキヤノン（精機光学）に装着されたJマウントのLマウントタイプだと思われます。改造ではなく…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1913936471498932224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go-rFJJbwAAO_U8.jpg",
+        "width": 1616
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1913936471708536832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go-rFJ7aEAAi7pk.jpg",
+        "width": 1616
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1913936472094466048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go-rFLXa4AAEPI-.jpg",
+        "width": 1616
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1913936472501317632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go-rFM4a8AAnE4T.jpg",
+        "width": 1616
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1914073524253475051",
+        "created_at": "2025-04-20T21:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T22:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914073524253475051"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 61,
+              "normalized_text": "新宿北村",
+              "probability": 0.4525,
+              "start": 58,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "716544355318665216",
+              "start": 3,
+              "username": "kujisan73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914073524253475051",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913936475303121225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kujisan73: 【オールドレンズ購入報告・157本目】日本光学 Nikkor 5cm f3.5 沈胴を新宿北村写真機店で購入。1939年頃発売。ライカLマウント。戦時中のセイキキヤノン（精機光学）に装着されたJマウントのLマウントタイプだと思われます。改造ではなく…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913936471498932224",
+            "3_1913936471708536832",
+            "3_1913936472094466048",
+            "3_1913936472501317632"
+          ]
+        },
+        "author_id": "716544355318665216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1913936475303121225",
+        "created_at": "2025-04-20T12:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T13:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913936475303121225"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "新宿北村",
+              "probability": 0.4037,
+              "start": 43,
+              "type": "Place"
+            },
+            {
+              "end": 135,
+              "normalized_text": "ニッポン",
+              "probability": 0.432,
+              "start": 132,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4IcKHCq0fI",
+              "end": 175,
+              "expanded_url": "https://x.com/kujisan73/status/1913936475303121225/photo/1",
+              "media_key": "3_1913936471498932224",
+              "start": 152,
+              "url": "https://t.co/4IcKHCq0fI"
+            },
+            {
+              "display_url": "pic.x.com/4IcKHCq0fI",
+              "end": 175,
+              "expanded_url": "https://x.com/kujisan73/status/1913936475303121225/photo/1",
+              "media_key": "3_1913936471708536832",
+              "start": 152,
+              "url": "https://t.co/4IcKHCq0fI"
+            },
+            {
+              "display_url": "pic.x.com/4IcKHCq0fI",
+              "end": 175,
+              "expanded_url": "https://x.com/kujisan73/status/1913936475303121225/photo/1",
+              "media_key": "3_1913936472094466048",
+              "start": 152,
+              "url": "https://t.co/4IcKHCq0fI"
+            },
+            {
+              "display_url": "pic.x.com/4IcKHCq0fI",
+              "end": 175,
+              "expanded_url": "https://x.com/kujisan73/status/1913936475303121225/photo/1",
+              "media_key": "3_1913936472501317632",
+              "start": 152,
+              "url": "https://t.co/4IcKHCq0fI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913936475303121225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1991,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "【オールドレンズ購入報告・157本目】日本光学 Nikkor 5cm f3.5 沈胴を新宿北村写真機店で購入。1939年頃発売。ライカLマウント。戦時中のセイキキヤノン（精機光学）に装着されたJマウントのLマウントタイプだと思われます。改造ではなく純正に見えるのでニッポンに装着されたのかもしれません。 https://t.co/4IcKHCq0fI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠📢siren爱好者⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "_kagenone"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7584,
+          "following_count": 4556,
+          "like_count": 12469,
+          "listed_count": 20,
+          "media_count": 2182,
+          "tweet_count": 15313
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-03T08:34:21.000Z",
+        "description": "オールドレンズツイッタラー。東京都在住。カメラ歴9年と少し。オールドレンズ沼にハマリ157本所有、現在は国産ノンライツレンズに夢中。「オールドレンズ・ライフ2019-2020」「オールドレンズ・ライフ2020-2021」に写真掲載。\n\n#オールドレンズ\n#α7III\n#Z5\n#Sony\n#Nikon",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 126,
+                "start": 118,
+                "tag": "オールドレンズ"
+              },
+              {
+                "end": 133,
+                "start": 127,
+                "tag": "α7III"
+              },
+              {
+                "end": 137,
+                "start": 134,
+                "tag": "Z5"
+              },
+              {
+                "end": 143,
+                "start": 138,
+                "tag": "Sony"
+              },
+              {
+                "end": 150,
+                "start": 144,
+                "tag": "Nikon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kujisan73",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kujisan73",
+                "start": 0,
+                "url": "https://t.co/FKIpki55dN"
+              }
+            ]
+          }
+        },
+        "id": "716544355318665216",
+        "location": "日本 東京",
+        "name": "kujisan",
+        "pinned_tweet_id": "1443407148386451456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1443335161190309890/1XsG1fhB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9194,
+          "following_count": 5038,
+          "like_count": 677037,
+          "listed_count": 115,
+          "media_count": 12532,
+          "tweet_count": 86686
+        },
+        "url": "https://t.co/FKIpki55dN",
+        "username": "kujisan73",
+        "verified": true
+      }
+    ]
+  }
+}

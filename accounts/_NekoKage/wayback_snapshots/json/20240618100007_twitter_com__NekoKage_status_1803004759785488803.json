@@ -1,0 +1,234 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "conversation_id": "1803004759785488803",
+    "created_at": "2024-06-18T10:00:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-18T11:00:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803004759785488803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1721736749926567936",
+          "start": 3,
+          "username": "Dr0gsneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803004759785488803",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802997535474434479",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dr0gsneko: I open the commission @.@// the price is 35 dollars and I need the character's design and the desired posture…!! I will comp…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1803004759785488803].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1803004759785488803",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1803004759785488803"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1802997528088150016",
+            "3_1802997528088178688",
+            "3_1802997528088236032",
+            "3_1802997528096600065"
+          ]
+        },
+        "author_id": "1721736749926567936",
+        "conversation_id": "1802997535474434479",
+        "created_at": "2024-06-18T09:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T10:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802997535474434479"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 162,
+              "normalized_text": "PayPal",
+              "probability": 0.6574,
+              "start": 157,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ISReFDE1ee",
+              "end": 188,
+              "expanded_url": "https://twitter.com/Dr0gsneko/status/1802997535474434479/photo/1",
+              "media_key": "3_1802997528088150016",
+              "start": 165,
+              "url": "https://t.co/ISReFDE1ee"
+            },
+            {
+              "display_url": "pic.twitter.com/ISReFDE1ee",
+              "end": 188,
+              "expanded_url": "https://twitter.com/Dr0gsneko/status/1802997535474434479/photo/1",
+              "media_key": "3_1802997528088178688",
+              "start": 165,
+              "url": "https://t.co/ISReFDE1ee"
+            },
+            {
+              "display_url": "pic.twitter.com/ISReFDE1ee",
+              "end": 188,
+              "expanded_url": "https://twitter.com/Dr0gsneko/status/1802997535474434479/photo/1",
+              "media_key": "3_1802997528088236032",
+              "start": 165,
+              "url": "https://t.co/ISReFDE1ee"
+            },
+            {
+              "display_url": "pic.twitter.com/ISReFDE1ee",
+              "end": 188,
+              "expanded_url": "https://twitter.com/Dr0gsneko/status/1802997535474434479/photo/1",
+              "media_key": "3_1802997528096600065",
+              "start": 165,
+              "url": "https://t.co/ISReFDE1ee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802997535474434479",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 591,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "I open the commission @.@// the price is 35 dollars and I need the character's design and the desired posture…!! I will complete it in 2 weeks:33 payment by PayPal! https://t.co/ISReFDE1ee"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏精神病🩸自傷🦿biid🎸聚乙烯乐队主音及主唱🎧HiFi糊烧🚬大烟鬼🔪刃物收藏⌚️入门表匠🚗JDM📷黑白摄影🚪88⚠️@_kagenone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 130,
+                "username": "_kagenone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6894,
+          "following_count": 3822,
+          "like_count": 9048,
+          "listed_count": 20,
+          "tweet_count": 11782
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T03:50:27.000Z",
+        "description": "🐼💉 #麻薬ねこ / @Drugsneko18 🥩",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 3,
+                "tag": "麻薬ねこ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "Drugsneko18"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dr0gsneko.carrd.co",
+                "end": 23,
+                "expanded_url": "https://dr0gsneko.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/FuVy59oADt"
+              }
+            ]
+          }
+        },
+        "id": "1721736749926567936",
+        "location": "Cm open",
+        "name": "Drugsneko",
+        "pinned_tweet_id": "1758206847855837321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799297019577872384/nBu2P9zv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15986,
+          "following_count": 39,
+          "like_count": 4171,
+          "listed_count": 17,
+          "tweet_count": 713
+        },
+        "url": "https://t.co/FuVy59oADt",
+        "username": "Dr0gsneko",
+        "verified": true
+      }
+    ]
+  }
+}

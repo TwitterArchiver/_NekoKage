@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2006938331947680164",
+    "created_at": "2026-01-02T03:59:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T04:59:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006938331947680164"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 124,
+          "start": 114,
+          "tag": "CSDN终于立功了"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "12643262",
+          "start": 3,
+          "username": "choicky"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006938331947680164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006756248084189397",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @choicky: 机械革命无界14x pro的无线网卡在linux下一直无法启用（一直Hard blocked: yes）的问题解决了，几个AI只有腾讯元宝说需要把网卡第 54​ 和 56​ 号引脚绝缘，出处是csdn。#CSDN终于立功了 \nhttps://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 526,
+        "media_key": "3_2006756048816975873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9lt_oCaMAEfajA.png",
+        "width": 392
+      },
+      {
+        "height": 512,
+        "media_key": "3_2006756160729427969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9luGI8asAEy-wG.png",
+        "width": 370
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2006938331947680164",
+        "created_at": "2026-01-02T03:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T04:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006938331947680164"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 114,
+              "tag": "CSDN终于立功了"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "12643262",
+              "start": 3,
+              "username": "choicky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006938331947680164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006756248084189397",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @choicky: 机械革命无界14x pro的无线网卡在linux下一直无法启用（一直Hard blocked: yes）的问题解决了，几个AI只有腾讯元宝说需要把网卡第 54​ 和 56​ 号引脚绝缘，出处是csdn。#CSDN终于立功了 \nhttps://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006756048816975873",
+            "3_2006756160729427969"
+          ]
+        },
+        "author_id": "12643262",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2006756248084189397",
+        "created_at": "2026-01-01T15:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T16:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006756248084189397"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 111,
+              "start": 101,
+              "tag": "CSDN终于立功了"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "blog.csdn.net/a506681571/art…",
+              "end": 136,
+              "expanded_url": "https://blog.csdn.net/a506681571/article/details/153901497",
+              "start": 113,
+              "status": 521,
+              "unwound_url": "https://blog.csdn.net/a506681571/article/details/153901497",
+              "url": "https://t.co/Rv9ZrkwaaF"
+            },
+            {
+              "display_url": "pic.x.com/K8nopUWAra",
+              "end": 160,
+              "expanded_url": "https://x.com/choicky/status/2006756248084189397/photo/1",
+              "media_key": "3_2006756048816975873",
+              "start": 137,
+              "url": "https://t.co/K8nopUWAra"
+            },
+            {
+              "display_url": "pic.x.com/K8nopUWAra",
+              "end": 160,
+              "expanded_url": "https://x.com/choicky/status/2006756248084189397/photo/1",
+              "media_key": "3_2006756160729427969",
+              "start": 137,
+              "url": "https://t.co/K8nopUWAra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006756248084189397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 25566,
+          "like_count": 119,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "机械革命无界14x pro的无线网卡在linux下一直无法启用（一直Hard blocked: yes）的问题解决了，几个AI只有腾讯元宝说需要把网卡第 54​ 和 56​ 号引脚绝缘，出处是csdn。#CSDN终于立功了 \nhttps://t.co/Rv9ZrkwaaF https://t.co/K8nopUWAra"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7964,
+          "following_count": 5566,
+          "like_count": 13770,
+          "listed_count": 17,
+          "media_count": 2555,
+          "tweet_count": 18638
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2008-01-24T15:41:59.000Z",
+        "description": "律师，专注于互联网、数据合规、知识产权与环境保护。Dokuwiki、Wiki.JS 程序的首批志愿翻译人员。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tesla.cn/referral/33681",
+                "end": 23,
+                "expanded_url": "https://www.tesla.cn/referral/33681",
+                "start": 0,
+                "url": "https://t.co/4hDzvCPGf3"
+              }
+            ]
+          }
+        },
+        "id": "12643262",
+        "location": "Shenzhen, China.",
+        "name": "Choicky",
+        "pinned_tweet_id": "1995114504573587524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1415106581935521792/QMW9cgcN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9529,
+          "following_count": 3484,
+          "like_count": 15830,
+          "listed_count": 110,
+          "media_count": 1922,
+          "tweet_count": 50485
+        },
+        "url": "https://t.co/4hDzvCPGf3",
+        "username": "choicky",
+        "verified": true
+      }
+    ]
+  }
+}

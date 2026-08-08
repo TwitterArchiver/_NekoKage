@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1693179868555730944"
+      ],
+      "media_source_tweet_id": [
+        "1693179921802358931"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "1820343591153319969",
+    "created_at": "2024-08-05T06:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-05T07:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820343591153319969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1557771330845802496",
+          "start": 3,
+          "username": "kili73592835"
+        },
+        {
+          "end": 29,
+          "id": "1529463809903296512",
+          "start": 18,
+          "username": "DrugsNeko_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/mP0xZN128r",
+          "end": 73,
+          "expanded_url": "https://twitter.com/kili73592835/status/1693179921802358931/video/1",
+          "media_key": "7_1693179868555730944",
+          "start": 50,
+          "url": "https://t.co/mP0xZN128r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820343591153319969",
+    "lang": "ko",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1693179921802358931",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kili73592835: @DrugsNeko_ \n라그트레인 네코님으로 짧게 패러디 https://t.co/mP0xZN128r"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [DrugsNeko_].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "DrugsNeko_",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "DrugsNeko_"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44951,
+        "height": 720,
+        "media_key": "7_1693179868555730944",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1693179868555730944/pu/img/DXZTR0F-p8e6XG_D.jpg",
+        "public_metrics": {
+          "view_count": 1429
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1693179868555730944/pu/vid/480x270/aOcYUrg3YBkw59K4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1693179868555730944/pu/vid/640x360/nKQRyFWkjURhgHmG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1693179868555730944/pu/vid/1280x720/1GtA7PLy23zLTXh-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1693179868555730944/pu/pl/SvlPN-T8HbPaXdAg.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1693179868555730944"
+          ],
+          "media_source_tweet_id": [
+            "1693179921802358931"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "conversation_id": "1820343591153319969",
+        "created_at": "2024-08-05T06:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T07:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820343591153319969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1557771330845802496",
+              "start": 3,
+              "username": "kili73592835"
+            },
+            {
+              "end": 29,
+              "id": "1529463809903296512",
+              "start": 18,
+              "username": "DrugsNeko_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/mP0xZN128r",
+              "end": 73,
+              "expanded_url": "https://twitter.com/kili73592835/status/1693179921802358931/video/1",
+              "media_key": "7_1693179868555730944",
+              "start": 50,
+              "url": "https://t.co/mP0xZN128r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820343591153319969",
+        "lang": "ko",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1693179921802358931",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kili73592835: @DrugsNeko_ \n라그트레인 네코님으로 짧게 패러디 https://t.co/mP0xZN128r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1693179868555730944"
+          ]
+        },
+        "author_id": "1557771330845802496",
+        "conversation_id": "1693179921802358931",
+        "created_at": "2023-08-20T08:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2023-08-20T09:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1693179921802358931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1529463809903296512",
+              "start": 0,
+              "username": "DrugsNeko_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/mP0xZN128r",
+              "end": 55,
+              "expanded_url": "https://twitter.com/kili73592835/status/1693179921802358931/video/1",
+              "media_key": "7_1693179868555730944",
+              "start": 32,
+              "url": "https://t.co/mP0xZN128r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1693179921802358931",
+        "in_reply_to_user_id": "1529463809903296512",
+        "lang": "ko",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5553,
+          "like_count": 139,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "@DrugsNeko_ \n라그트레인 네코님으로 짧게 패러디 https://t.co/mP0xZN128r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain📷膠片攝影🎧HiFi糊烧🚬大烟鬼🔪刃物收藏⌚️入门表匠🚪88⚠️里推:@_kagenone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "_kagenone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7017,
+          "following_count": 4066,
+          "like_count": 10258,
+          "listed_count": 18,
+          "tweet_count": 12695
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T16:51:23.000Z",
+        "description": "활동 ×",
+        "id": "1557771330845802496",
+        "name": "모찌",
+        "pinned_tweet_id": "1693299841781358770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1693265560396783616/2B9QttqU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 38,
+          "like_count": 940,
+          "listed_count": 0,
+          "tweet_count": 153
+        },
+        "username": "kili73592835",
+        "verified": false
+      }
+    ]
+  }
+}

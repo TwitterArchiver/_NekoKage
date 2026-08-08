@@ -1,0 +1,387 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "13_1798385594726313984"
+      ],
+      "media_source_tweet_id": [
+        "1798385668022030753"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      }
+    ],
+    "conversation_id": "1798707659274879438",
+    "created_at": "2024-06-06T13:24:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-06T14:24:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798707659274879438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1492677599390322689",
+          "start": 3,
+          "username": "weirddalle"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/ojpgA4LFCv",
+          "end": 39,
+          "expanded_url": "https://twitter.com/weirddalle/status/1798385668022030753/video/1",
+          "media_key": "13_1798385594726313984",
+          "start": 16,
+          "url": "https://t.co/ojpgA4LFCv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798707659274879438",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4354
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798385668022030753",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @weirddalle: https://t.co/ojpgA4LFCv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15039,
+        "height": 984,
+        "media_key": "13_1798385594726313984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1798385594726313984/img/YNfhHrlair7Xizag.jpg",
+        "public_metrics": {
+          "view_count": 1774844
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1798385594726313984/vid/avc1/320x436/TkKZQFdyXKKNVCj8.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1798385594726313984/vid/avc1/480x656/xc5xc_Vc9I7iQJvL.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1798385594726313984/vid/avc1/720x984/0iLTU7NED9LvZRb4.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1798385594726313984/pl/8D9iOc_0gNIaDJaV.m3u8?tag=16"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1798385594726313984"
+          ],
+          "media_source_tweet_id": [
+            "1798385668022030753"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1798707659274879438",
+        "created_at": "2024-06-06T13:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T14:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798707659274879438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1492677599390322689",
+              "start": 3,
+              "username": "weirddalle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ojpgA4LFCv",
+              "end": 39,
+              "expanded_url": "https://twitter.com/weirddalle/status/1798385668022030753/video/1",
+              "media_key": "13_1798385594726313984",
+              "start": 16,
+              "url": "https://t.co/ojpgA4LFCv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798707659274879438",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4354
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798385668022030753",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @weirddalle: https://t.co/ojpgA4LFCv"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1798385594726313984"
+          ]
+        },
+        "author_id": "1492677599390322689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1798385668022030753",
+        "created_at": "2024-06-05T16:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T17:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798385668022030753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ojpgA4LFCv",
+              "end": 23,
+              "expanded_url": "https://twitter.com/weirddalle/status/1798385668022030753/video/1",
+              "media_key": "13_1798385594726313984",
+              "start": 0,
+              "url": "https://t.co/ojpgA4LFCv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798385668022030753",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6906,
+          "impression_count": 3746506,
+          "like_count": 64372,
+          "quote_count": 84,
+          "reply_count": 529,
+          "retweet_count": 4354
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ojpgA4LFCv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏精神病🩸自傷🎸聚乙烯乐队主音及主唱🎧HiFi糊烧🚬大烟鬼🔪刃物收藏⌚️入门表匠🚗JDM📷黑白摄影🚪88可约（迫不得已）⚠️@_kagenone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 133,
+                "username": "_kagenone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6802,
+          "following_count": 3632,
+          "like_count": 8247,
+          "listed_count": 20,
+          "tweet_count": 11410
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T01:50:55.000Z",
+        "description": "memes and weird ai generations | dm for promo | @hardaipics | follow my IG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 48,
+                "username": "hardaipics"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/doctordumper?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/doctordumper?igsh=Y2pkYXM3a3N1eDdv",
+                "start": 0,
+                "url": "https://t.co/ekzYQs4Tz9"
+              }
+            ]
+          }
+        },
+        "id": "1492677599390322689",
+        "name": "no context memes",
+        "pinned_tweet_id": "1797859576030626244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1694331764091564032/My5iC3pg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1737698,
+          "following_count": 471,
+          "like_count": 6678,
+          "listed_count": 2756,
+          "tweet_count": 7755
+        },
+        "url": "https://t.co/ekzYQs4Tz9",
+        "username": "weirddalle",
+        "verified": true
+      }
+    ]
+  }
+}

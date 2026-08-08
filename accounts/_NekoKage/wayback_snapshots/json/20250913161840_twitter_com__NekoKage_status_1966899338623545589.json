@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "london",
+          "id": "855412191050121217",
+          "name": "London"
+        }
+      }
+    ],
+    "conversation_id": "1966899338623545589",
+    "created_at": "2025-09-13T16:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T17:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966899338623545589"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 44,
+          "normalized_text": "浜野道三郎",
+          "probability": 0.5896,
+          "start": 40,
+          "type": "Person"
+        },
+        {
+          "end": 111,
+          "normalized_text": "ロンドン",
+          "probability": 0.8048,
+          "start": 108,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "185157259",
+          "start": 3,
+          "username": "oldlens"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/bvgHE49N",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/bvgHE49N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966899338623545589",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966655464734912986",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oldlens: Zunow 5cm f1.1 ピンポンは伝説の設計者・浜野道三郎が何万枚もの図面を書いて試行錯誤して作りあげた日本初の大口径レンズ。その後の大手メーカーの大口径競争を招いた衝撃の1本でした。ロンドンの夕景を。 https://t.co/bvgHE49N…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2912,
+        "media_key": "3_1966655277295599616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0r2jg7aAAA5rNu.jpg",
+        "width": 3656
+      },
+      {
+        "height": 2000,
+        "media_key": "3_1966655408208285697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0r2rInbEAEB1MN.jpg",
+        "width": 3000
+      },
+      {
+        "height": 2000,
+        "media_key": "3_1966655430538776576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0r2sbzbUAAtG0I.jpg",
+        "width": 3000
+      },
+      {
+        "height": 2000,
+        "media_key": "3_1966655452827267072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0r2tu1asAAqyi0.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "london",
+              "id": "855412191050121217",
+              "name": "London"
+            }
+          }
+        ],
+        "conversation_id": "1966899338623545589",
+        "created_at": "2025-09-13T16:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T17:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966899338623545589"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "浜野道三郎",
+              "probability": 0.5896,
+              "start": 40,
+              "type": "Person"
+            },
+            {
+              "end": 111,
+              "normalized_text": "ロンドン",
+              "probability": 0.8048,
+              "start": 108,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "185157259",
+              "start": 3,
+              "username": "oldlens"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/bvgHE49N",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/bvgHE49N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966899338623545589",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966655464734912986",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oldlens: Zunow 5cm f1.1 ピンポンは伝説の設計者・浜野道三郎が何万枚もの図面を書いて試行錯誤して作りあげた日本初の大口径レンズ。その後の大手メーカーの大口径競争を招いた衝撃の1本でした。ロンドンの夕景を。 https://t.co/bvgHE49N…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966655277295599616",
+            "3_1966655408208285697",
+            "3_1966655430538776576",
+            "3_1966655452827267072"
+          ]
+        },
+        "author_id": "185157259",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "london",
+              "id": "855412191050121217",
+              "name": "London"
+            }
+          }
+        ],
+        "conversation_id": "1966655464734912986",
+        "created_at": "2025-09-13T00:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T01:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966655464734912986"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "浜野道三郎",
+              "probability": 0.6153,
+              "start": 27,
+              "type": "Person"
+            },
+            {
+              "end": 98,
+              "normalized_text": "ロンドン",
+              "probability": 0.782,
+              "start": 95,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bvgHE49Nyr",
+              "end": 128,
+              "expanded_url": "https://x.com/oldlens/status/1966655464734912986/photo/1",
+              "media_key": "3_1966655277295599616",
+              "start": 105,
+              "url": "https://t.co/bvgHE49Nyr"
+            },
+            {
+              "display_url": "pic.x.com/bvgHE49Nyr",
+              "end": 128,
+              "expanded_url": "https://x.com/oldlens/status/1966655464734912986/photo/1",
+              "media_key": "3_1966655408208285697",
+              "start": 105,
+              "url": "https://t.co/bvgHE49Nyr"
+            },
+            {
+              "display_url": "pic.x.com/bvgHE49Nyr",
+              "end": 128,
+              "expanded_url": "https://x.com/oldlens/status/1966655464734912986/photo/1",
+              "media_key": "3_1966655430538776576",
+              "start": 105,
+              "url": "https://t.co/bvgHE49Nyr"
+            },
+            {
+              "display_url": "pic.x.com/bvgHE49Nyr",
+              "end": 128,
+              "expanded_url": "https://x.com/oldlens/status/1966655464734912986/photo/1",
+              "media_key": "3_1966655452827267072",
+              "start": 105,
+              "url": "https://t.co/bvgHE49Nyr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966655464734912986",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 8021,
+          "like_count": 226,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "Zunow 5cm f1.1 ピンポンは伝説の設計者・浜野道三郎が何万枚もの図面を書いて試行錯誤して作りあげた日本初の大口径レンズ。その後の大手メーカーの大口径競争を招いた衝撃の1本でした。ロンドンの夕景を。 https://t.co/bvgHE49Nyr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7869,
+          "following_count": 5030,
+          "like_count": 13167,
+          "listed_count": 17,
+          "media_count": 2403,
+          "tweet_count": 17140
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-31T10:56:34.000Z",
+        "description": "古典レンズの研究と、収集、実写を行っています。ホームページはhttps://t.co/M6CEp57Fuf。ツイッターもoldlens＠oldlens です。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "oldlens.com",
+                "end": 53,
+                "expanded_url": "http://www.oldlens.com",
+                "start": 30,
+                "url": "https://t.co/M6CEp57Fuf"
+              }
+            ]
+          }
+        },
+        "id": "185157259",
+        "name": "oldlens",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1397933772004155399/b_qbi344_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5013,
+          "following_count": 2259,
+          "like_count": 1871,
+          "listed_count": 53,
+          "media_count": 1487,
+          "tweet_count": 2791
+        },
+        "username": "oldlens",
+        "verified": false
+      }
+    ]
+  }
+}

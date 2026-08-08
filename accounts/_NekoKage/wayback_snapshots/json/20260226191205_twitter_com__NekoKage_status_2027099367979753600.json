@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2026900026447089664"
+      ],
+      "media_source_tweet_id": [
+        "2026900089067942392"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2027099367979753600",
+    "created_at": "2026-02-26T19:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T20:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027099367979753600"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "OMDS",
+          "probability": 0.4533,
+          "start": 15,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "5431282",
+          "start": 3,
+          "username": "kazemachi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WrZO5Ozyvo",
+          "end": 96,
+          "expanded_url": "https://x.com/kazemachi/status/2026900089067942392/video/1",
+          "media_key": "13_2026900026447089664",
+          "start": 73,
+          "url": "https://t.co/WrZO5Ozyvo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027099367979753600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026900089067942392",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kazemachi: OMDSの技術展示。これはすごい。ボディIS、レンズIS、フォーカス、絞りの動作を体験できる。特殊機材を触れます。 https://t.co/WrZO5Ozyvo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26266,
+        "height": 1280,
+        "media_key": "13_2026900026447089664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026900026447089664/img/9IPKxy3ikhuQId-v.jpg",
+        "public_metrics": {
+          "view_count": 10561
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026900026447089664/vid/avc1/320x568/o1woC28oaEM4NAlZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026900026447089664/vid/avc1/480x852/Rf6qMOG4Nwm-Rx1S.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026900026447089664/vid/avc1/720x1280/3VkX9YqOO_U6t1qJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026900026447089664/pl/QzQTQf-Ptr4VQVJ-.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026900026447089664"
+          ],
+          "media_source_tweet_id": [
+            "2026900089067942392"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027099367979753600",
+        "created_at": "2026-02-26T19:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T20:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027099367979753600"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "OMDS",
+              "probability": 0.4533,
+              "start": 15,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "5431282",
+              "start": 3,
+              "username": "kazemachi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WrZO5Ozyvo",
+              "end": 96,
+              "expanded_url": "https://x.com/kazemachi/status/2026900089067942392/video/1",
+              "media_key": "13_2026900026447089664",
+              "start": 73,
+              "url": "https://t.co/WrZO5Ozyvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027099367979753600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026900089067942392",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kazemachi: OMDSの技術展示。これはすごい。ボディIS、レンズIS、フォーカス、絞りの動作を体験できる。特殊機材を触れます。 https://t.co/WrZO5Ozyvo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026900026447089664"
+          ]
+        },
+        "author_id": "5431282",
+        "conversation_id": "2026900089067942392",
+        "created_at": "2026-02-26T06:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T07:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026900089067942392"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "OMDS",
+              "probability": 0.4836,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WrZO5Ozyvo",
+              "end": 81,
+              "expanded_url": "https://x.com/kazemachi/status/2026900089067942392/video/1",
+              "media_key": "13_2026900026447089664",
+              "start": 58,
+              "url": "https://t.co/WrZO5Ozyvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026900089067942392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 22791,
+          "like_count": 318,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "OMDSの技術展示。これはすごい。ボディIS、レンズIS、フォーカス、絞りの動作を体験できる。特殊機材を触れます。 https://t.co/WrZO5Ozyvo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 118,
+                "start": 113,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2026735481388675507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8032,
+          "following_count": 5850,
+          "like_count": 13973,
+          "listed_count": 17,
+          "media_count": 2629,
+          "tweet_count": 19402
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2007-04-23T12:56:18.000Z",
+        "description": "月刊の家電/ガジェットレビュー誌 #家電批評 （ @Kaden_Hihyou ）の編集長です。昭和末期生まれ。都立豊多摩高校卒。 『NHKあさイチ』『爆笑問題の日曜サンデー』等で家電の解説をすることも。取材依頼などはお気軽にDMでどうぞ〜    根っこは📷カメラ、🎧オーディオ好きなのでそちらの話が多めのアカウント。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 17,
+                "tag": "家電批評"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "Kaden_Hihyou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twilog.org/kazemachi",
+                "end": 23,
+                "expanded_url": "http://twilog.org/kazemachi",
+                "start": 0,
+                "url": "https://t.co/tpBpvwmSG4"
+              }
+            ]
+          }
+        },
+        "id": "5431282",
+        "location": "Tokyo",
+        "name": "Jumpei Abe(テスト誌編集者）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1039519741755281413/aLbFzbGw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 1554,
+          "like_count": 8696,
+          "listed_count": 55,
+          "media_count": 1616,
+          "tweet_count": 36480
+        },
+        "url": "https://t.co/tpBpvwmSG4",
+        "username": "kazemachi",
+        "verified": true
+      }
+    ]
+  }
+}

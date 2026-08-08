@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2027302911974555648"
+      ],
+      "media_source_tweet_id": [
+        "2027303862986822078"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2027831782486511796",
+    "created_at": "2026-02-28T19:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T20:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027831782486511796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1721391606069379072",
+          "start": 3,
+          "username": "lao_jiang50163"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p5EoTB0Tk4",
+          "end": 75,
+          "expanded_url": "https://x.com/lao_jiang50163/status/2027303862986822078/video/1",
+          "media_key": "7_2027302911974555648",
+          "start": 52,
+          "url": "https://t.co/p5EoTB0Tk4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027831782486511796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 214
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027303862986822078",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lao_jiang50163: 为什么有人吃饭喜欢把碗端起来，而有些人却觉得这是没教养的表现? https://t.co/p5EoTB0Tk4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 202732,
+        "height": 720,
+        "media_key": "7_2027302911974555648",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2027302911974555648/pu/img/-EEtEvkpiN-eP3li.jpg",
+        "public_metrics": {
+          "view_count": 313440
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027302911974555648/pu/vid/avc1/480x270/E3zrm85FgPGSW5yp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027302911974555648/pu/vid/avc1/640x360/IlOYmY0kXPVlbavX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027302911974555648/pu/vid/avc1/1280x720/YHEA4_KftmYDFzSO.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2027302911974555648/pu/pl/O2z45lSivWFf7AiQ.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2027302911974555648"
+          ],
+          "media_source_tweet_id": [
+            "2027303862986822078"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027831782486511796",
+        "created_at": "2026-02-28T19:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T20:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027831782486511796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1721391606069379072",
+              "start": 3,
+              "username": "lao_jiang50163"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p5EoTB0Tk4",
+              "end": 75,
+              "expanded_url": "https://x.com/lao_jiang50163/status/2027303862986822078/video/1",
+              "media_key": "7_2027302911974555648",
+              "start": 52,
+              "url": "https://t.co/p5EoTB0Tk4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027831782486511796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 214
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027303862986822078",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lao_jiang50163: 为什么有人吃饭喜欢把碗端起来，而有些人却觉得这是没教养的表现? https://t.co/p5EoTB0Tk4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2027302911974555648"
+          ]
+        },
+        "author_id": "1721391606069379072",
+        "conversation_id": "2027303862986822078",
+        "created_at": "2026-02-27T08:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T09:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027303862986822078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p5EoTB0Tk4",
+              "end": 55,
+              "expanded_url": "https://x.com/lao_jiang50163/status/2027303862986822078/video/1",
+              "media_key": "7_2027302911974555648",
+              "start": 32,
+              "url": "https://t.co/p5EoTB0Tk4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027303862986822078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 900,
+          "impression_count": 222529,
+          "like_count": 1961,
+          "quote_count": 12,
+          "reply_count": 173,
+          "retweet_count": 214
+        },
+        "reply_settings": "everyone",
+        "text": "为什么有人吃饭喜欢把碗端起来，而有些人却觉得这是没教养的表现? https://t.co/p5EoTB0Tk4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 118,
+                "start": 113,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2026735481388675507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8068,
+          "following_count": 5871,
+          "like_count": 13985,
+          "listed_count": 17,
+          "media_count": 2632,
+          "tweet_count": 19422
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T04:58:45.000Z",
+        "description": "有太阳升起的地方就有客家人！\nWhere the sun rises, there are Hakkas!\n\n这里是全球客家人的心灵家园！\nThis is the spiritual home of Hakka people all over the world!",
+        "id": "1721391606069379072",
+        "location": "中国",
+        "name": "客家之光",
+        "pinned_tweet_id": "1992387455413354714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789880839985360896/4uMk4hoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30979,
+          "following_count": 8095,
+          "like_count": 33099,
+          "listed_count": 87,
+          "media_count": 3556,
+          "tweet_count": 5407
+        },
+        "username": "lao_jiang50163",
+        "verified": true
+      }
+    ]
+  }
+}

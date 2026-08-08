@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031721948020146176",
+        "3_2031721806445592577",
+        "3_2031721823176646656"
+      ],
+      "media_source_tweet_id": [
+        "2031721963803258940",
+        "2031721963803258940",
+        "2031721963803258940"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2032091079059837143",
+    "created_at": "2026-03-12T13:47:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T14:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032091079059837143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "59496218",
+          "start": 3,
+          "username": "str_dorobou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/id9nDW5maT",
+          "end": 64,
+          "expanded_url": "https://x.com/str_dorobou/status/2031721963803258940/photo/1",
+          "media_key": "3_2031721948020146176",
+          "start": 41,
+          "url": "https://t.co/id9nDW5maT"
+        },
+        {
+          "display_url": "pic.x.com/id9nDW5maT",
+          "end": 64,
+          "expanded_url": "https://x.com/str_dorobou/status/2031721963803258940/photo/1",
+          "media_key": "3_2031721806445592577",
+          "start": 41,
+          "url": "https://t.co/id9nDW5maT"
+        },
+        {
+          "display_url": "pic.x.com/id9nDW5maT",
+          "end": 64,
+          "expanded_url": "https://x.com/str_dorobou/status/2031721963803258940/photo/1",
+          "media_key": "3_2031721823176646656",
+          "start": 41,
+          "url": "https://t.co/id9nDW5maT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032091079059837143",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031721963803258940",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @str_dorobou: 世はまさに痩身肋骨（＋傷痕）の時代なんですわな https://t.co/id9nDW5maT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2032091079059837143].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2032091079059837143",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2032091079059837143"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 936,
+        "media_key": "3_2031721948020146176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDIgWOIbAAAlOre.png",
+        "width": 1200
+      },
+      {
+        "height": 900,
+        "media_key": "3_2031721806445592577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDIgN-uawAERnw3.png",
+        "width": 990
+      },
+      {
+        "height": 1800,
+        "media_key": "3_2031721823176646656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDIgO9DaYAArXPT.png",
+        "width": 1275
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031721948020146176",
+            "3_2031721806445592577",
+            "3_2031721823176646656"
+          ]
+        },
+        "author_id": "59496218",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          }
+        ],
+        "conversation_id": "2031721963803258940",
+        "created_at": "2026-03-11T13:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T14:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031721963803258940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/id9nDW5maT",
+              "end": 47,
+              "expanded_url": "https://x.com/str_dorobou/status/2031721963803258940/photo/1",
+              "media_key": "3_2031721948020146176",
+              "start": 24,
+              "url": "https://t.co/id9nDW5maT"
+            },
+            {
+              "display_url": "pic.x.com/id9nDW5maT",
+              "end": 47,
+              "expanded_url": "https://x.com/str_dorobou/status/2031721963803258940/photo/1",
+              "media_key": "3_2031721806445592577",
+              "start": 24,
+              "url": "https://t.co/id9nDW5maT"
+            },
+            {
+              "display_url": "pic.x.com/id9nDW5maT",
+              "end": 47,
+              "expanded_url": "https://x.com/str_dorobou/status/2031721963803258940/photo/1",
+              "media_key": "3_2031721823176646656",
+              "start": 24,
+              "url": "https://t.co/id9nDW5maT"
+            },
+            {
+              "display_url": "x.com/UkitaMilk/stat…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/UkitaMilk/status/2031027587712201069",
+              "start": 48,
+              "url": "https://t.co/YIzZUgxWTD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031721963803258940",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 15376,
+          "like_count": 326,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031027587712201069",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "世はまさに痩身肋骨（＋傷痕）の時代なんですわな https://t.co/id9nDW5maT https://t.co/YIzZUgxWTD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 118,
+                "start": 113,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8153,
+          "following_count": 5908,
+          "like_count": 14077,
+          "listed_count": 17,
+          "media_count": 2666,
+          "tweet_count": 19620
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-23T15:30:52.000Z",
+        "description": "薄い体や傷痕を愛する漫画家っぽい生物。マグコミに最新読切漫画掲載中。\nお仕事募集中→strdorobou@gmail.com\nFANBOX https://t.co/J4TA9pIo70\nskeb https://t.co/rgAwvPRe13\nほしいもの https://t.co/L6RL1YmAgm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "strdorobou.fanbox.cc",
+                "end": 93,
+                "expanded_url": "http://strdorobou.fanbox.cc",
+                "start": 70,
+                "url": "https://t.co/J4TA9pIo70"
+              },
+              {
+                "display_url": "skeb.jp/@str_dorobou",
+                "end": 122,
+                "expanded_url": "http://skeb.jp/@str_dorobou",
+                "start": 99,
+                "url": "https://t.co/rgAwvPRe13"
+              },
+              {
+                "display_url": "x.gd/QbBFS",
+                "end": 152,
+                "expanded_url": "https://x.gd/QbBFS",
+                "start": 129,
+                "url": "https://t.co/L6RL1YmAgm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/213038",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/213038",
+                "start": 0,
+                "url": "https://t.co/kU8wK4cdjm"
+              }
+            ]
+          }
+        },
+        "id": "59496218",
+        "location": "サークル「おしゃれどろぼう」",
+        "name": "色緒サトル@読切「ゾンビ・ソープランド」公開中",
+        "pinned_tweet_id": "1892772564486787189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013162441211793408/8jPUvKY8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8207,
+          "following_count": 535,
+          "like_count": 10388,
+          "listed_count": 249,
+          "media_count": 4703,
+          "tweet_count": 148935
+        },
+        "url": "https://t.co/kU8wK4cdjm",
+        "username": "str_dorobou",
+        "verified": false
+      }
+    ]
+  }
+}

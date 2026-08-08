@@ -1,0 +1,606 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1135913559727067136",
+          "name": "Rocket League"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1135913559727067136",
+          "name": "Rocket League"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197906382529294337",
+          "name": "Competitive games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898362609631238",
+          "name": "Sports games"
+        }
+      }
+    ],
+    "conversation_id": "2040292203202027667",
+    "created_at": "2026-04-04T04:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T05:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040292203202027667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "181426642",
+          "start": 3,
+          "username": "RobertDaleSmith"
+        },
+        {
+          "end": 48,
+          "id": "1239317486765584385",
+          "start": 34,
+          "username": "augmentaltech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040292203202027667",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 82
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040189382443876638",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RobertDaleSmith: Converted my @augmentaltech MouthPad^ from BLE to USB.\n\nMapped my head to Rocket League camera movement. 👅🎮 https://t.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19801,
+        "height": 1920,
+        "media_key": "13_2040189316228382720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040189316228382720/img/EBE0jnM35be1Ga0i.jpg",
+        "public_metrics": {
+          "view_count": 50274
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040189316228382720/vid/avc1/720x1280/UGSLXf4i51iMALHi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040189316228382720/vid/avc1/480x852/weLDfYxrKpFvsJFe.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040189316228382720/vid/avc1/320x568/pj3wSXJTFvlixe97.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040189316228382720/pl/Qg69Rzh4k0lVM2Jx.m3u8?v=aa2"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040189316228382720/vid/avc1/1080x1920/zyTfbEpWxg-Dd2nx.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040189316312551425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFA1X7FbUAEgkiQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1135913559727067136",
+              "name": "Rocket League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1135913559727067136",
+              "name": "Rocket League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898362609631238",
+              "name": "Sports games"
+            }
+          }
+        ],
+        "conversation_id": "2040292203202027667",
+        "created_at": "2026-04-04T04:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T05:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040292203202027667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "181426642",
+              "start": 3,
+              "username": "RobertDaleSmith"
+            },
+            {
+              "end": 48,
+              "id": "1239317486765584385",
+              "start": 34,
+              "username": "augmentaltech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040292203202027667",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040189382443876638",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RobertDaleSmith: Converted my @augmentaltech MouthPad^ from BLE to USB.\n\nMapped my head to Rocket League camera movement. 👅🎮 https://t.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040189316228382720",
+            "3_2040189316312551425"
+          ]
+        },
+        "author_id": "181426642",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1135913559727067136",
+              "name": "Rocket League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1135913559727067136",
+              "name": "Rocket League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898362609631238",
+              "name": "Sports games"
+            }
+          }
+        ],
+        "conversation_id": "2040189382443876638",
+        "created_at": "2026-04-03T22:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T23:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040189382443876638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1239317486765584385",
+              "start": 13,
+              "username": "augmentaltech"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZnhUlXw6NB",
+              "end": 131,
+              "expanded_url": "https://x.com/RobertDaleSmith/status/2040189382443876638/video/1",
+              "media_key": "13_2040189316228382720",
+              "start": 108,
+              "url": "https://t.co/ZnhUlXw6NB"
+            },
+            {
+              "display_url": "pic.x.com/ZnhUlXw6NB",
+              "end": 131,
+              "expanded_url": "https://x.com/RobertDaleSmith/status/2040189382443876638/video/1",
+              "media_key": "3_2040189316312551425",
+              "start": 108,
+              "url": "https://t.co/ZnhUlXw6NB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040189382443876638",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 302,
+          "impression_count": 106769,
+          "like_count": 1156,
+          "quote_count": 18,
+          "reply_count": 36,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "Converted my @augmentaltech MouthPad^ from BLE to USB.\n\nMapped my head to Rocket League camera movement. 👅🎮 https://t.co/ZnhUlXw6NB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8205,
+          "following_count": 6127,
+          "like_count": 14270,
+          "listed_count": 17,
+          "media_count": 2741,
+          "tweet_count": 20005
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-22T04:46:18.000Z",
+        "description": "Embodied AI Engineer @eidon_ai. Controller adapter @joypad_ai. Lover of computers, retro gaming, 3D printing, and embedded systems.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 21,
+                "username": "eidon_ai"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "joypad_ai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "joypad.ai",
+                "end": 23,
+                "expanded_url": "https://joypad.ai",
+                "start": 0,
+                "url": "https://t.co/7MQoBeqwMe"
+              }
+            ]
+          }
+        },
+        "id": "181426642",
+        "location": "Austin, TX",
+        "name": "Robert Dale Smith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964188505741152257/5oThrOux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12826,
+          "following_count": 2643,
+          "like_count": 42884,
+          "listed_count": 225,
+          "media_count": 2637,
+          "tweet_count": 18376
+        },
+        "url": "https://t.co/7MQoBeqwMe",
+        "username": "RobertDaleSmith",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-15T22:28:16.000Z",
+        "description": "Seamless interfaces for hands-free human-computer interaction",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "augmental.tech",
+                "end": 23,
+                "expanded_url": "http://augmental.tech",
+                "start": 0,
+                "url": "https://t.co/41jcCqwIzV"
+              }
+            ]
+          }
+        },
+        "id": "1239317486765584385",
+        "location": "San Francisco, CA",
+        "name": "Augmental",
+        "pinned_tweet_id": "1648316833014099970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647751188941803520/nPwDS4wE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2516,
+          "following_count": 8,
+          "like_count": 799,
+          "listed_count": 34,
+          "media_count": 35,
+          "tweet_count": 191
+        },
+        "url": "https://t.co/41jcCqwIzV",
+        "username": "augmentaltech",
+        "verified": true
+      }
+    ]
+  }
+}

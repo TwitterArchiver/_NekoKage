@@ -1,0 +1,563 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Starlink: Battle for Atlas",
+          "id": "1006264678878621696",
+          "name": "Starlink: Battle for Atlas"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Starlink: Battle for Atlas",
+          "id": "1006264678878621696",
+          "name": "Starlink: Battle for Atlas"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597222604800",
+          "name": "Beauty/Hygiene - CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "資生堂 (Shiseido)",
+          "id": "10048925525",
+          "name": "Shiseido"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "インテグレート",
+          "id": "10048925529",
+          "name": "インテグレート"
+        }
+      }
+    ],
+    "conversation_id": "2045609274135724352",
+    "created_at": "2026-04-18T21:03:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T22:03:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045609274135724352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "75232238",
+          "start": 3,
+          "username": "C6H5NH2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045609274135724352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2549
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045501886967738637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @C6H5NH2: 人工衛星の写り込みを排除しないとこうなります。\n\n衛星数の急激な増加で、特に低空を狙う彗星撮影では衛星の光跡を排除する複数画像によるインテグレート処理が、必須になってしまいました。\n\n双眼鏡で彗星を見ていると、衛星がビュンビュン視野を横切っていきます。…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2045497291344375808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMQ8u-a8AALq6v.jpg",
+        "width": 2738
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Starlink: Battle for Atlas",
+              "id": "1006264678878621696",
+              "name": "Starlink: Battle for Atlas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Starlink: Battle for Atlas",
+              "id": "1006264678878621696",
+              "name": "Starlink: Battle for Atlas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222604800",
+              "name": "Beauty/Hygiene - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "資生堂 (Shiseido)",
+              "id": "10048925525",
+              "name": "Shiseido"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "インテグレート",
+              "id": "10048925529",
+              "name": "インテグレート"
+            }
+          }
+        ],
+        "conversation_id": "2045609274135724352",
+        "created_at": "2026-04-18T21:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T22:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045609274135724352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "75232238",
+              "start": 3,
+              "username": "C6H5NH2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045609274135724352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2549
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045501886967738637",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @C6H5NH2: 人工衛星の写り込みを排除しないとこうなります。\n\n衛星数の急激な増加で、特に低空を狙う彗星撮影では衛星の光跡を排除する複数画像によるインテグレート処理が、必須になってしまいました。\n\n双眼鏡で彗星を見ていると、衛星がビュンビュン視野を横切っていきます。…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045497291344375808"
+          ]
+        },
+        "author_id": "75232238",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Starlink: Battle for Atlas",
+              "id": "1006264678878621696",
+              "name": "Starlink: Battle for Atlas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Starlink: Battle for Atlas",
+              "id": "1006264678878621696",
+              "name": "Starlink: Battle for Atlas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222604800",
+              "name": "Beauty/Hygiene - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "資生堂 (Shiseido)",
+              "id": "10048925525",
+              "name": "Shiseido"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "インテグレート",
+              "id": "10048925529",
+              "name": "インテグレート"
+            }
+          }
+        ],
+        "conversation_id": "2045501886967738637",
+        "created_at": "2026-04-18T13:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045501886967738637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BQE49unN7v",
+              "end": 167,
+              "expanded_url": "https://x.com/C6H5NH2/status/2045501886967738637/photo/1",
+              "media_key": "3_2045497291344375808",
+              "start": 144,
+              "url": "https://t.co/BQE49unN7v"
+            },
+            {
+              "display_url": "x.com/Hoshinavi/stat…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/Hoshinavi/status/2045423469048021030",
+              "start": 168,
+              "url": "https://t.co/vfjmUTM9ew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045501886967738637",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 996,
+          "impression_count": 380516,
+          "like_count": 6833,
+          "quote_count": 124,
+          "reply_count": 53,
+          "retweet_count": 2549
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045423469048021030",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人工衛星の写り込みを排除しないとこうなります。\n\n衛星数の急激な増加で、特に低空を狙う彗星撮影では衛星の光跡を排除する複数画像によるインテグレート処理が、必須になってしまいました。\n\n双眼鏡で彗星を見ていると、衛星がビュンビュン視野を横切っていきます。10年前を思うと切なさを感じます。 https://t.co/BQE49unN7v https://t.co/vfjmUTM9ew"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8406,
+          "following_count": 6383,
+          "like_count": 14617,
+          "listed_count": 17,
+          "media_count": 2813,
+          "tweet_count": 20570
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-18T08:21:52.000Z",
+        "description": "PLANETARIUM DIRECTOR - \nC6H5NH2はアニリンといいます。倉敷科学センターの学芸員（天文学）科学館のプラネタリウムでお仕事。人工衛星の予報計算がんばってます。奥さん乳がん闘病中。保健所お迎え3本足の愛犬たのすけ君とモフモフ生活。日本天文学会 天文教育普及賞（人工天体観測）をいただきました。",
+        "id": "75232238",
+        "location": "岡山県倉敷市",
+        "name": "三島和久・ｱﾆﾘﾝ・レモンパスタ部",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1527923987124064256/Ba6xvmf5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5182,
+          "following_count": 996,
+          "like_count": 22421,
+          "listed_count": 290,
+          "media_count": 7858,
+          "tweet_count": 38817
+        },
+        "username": "C6H5NH2",
+        "verified": false
+      }
+    ]
+  }
+}

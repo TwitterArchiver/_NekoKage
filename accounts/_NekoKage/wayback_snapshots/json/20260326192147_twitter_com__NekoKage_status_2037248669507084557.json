@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941525188236955648"
+      ],
+      "media_source_tweet_id": [
+        "1941525247334945073"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "2037248669507084557",
+    "created_at": "2026-03-26T19:21:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T20:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037248669507084557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1894468436342050816",
+          "start": 3,
+          "username": "Mk2S_Re2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p6vxYVAeKq",
+          "end": 48,
+          "expanded_url": "https://x.com/Mk2S_Re2/status/1941525247334945073/photo/1",
+          "media_key": "3_1941525188236955648",
+          "start": 25,
+          "url": "https://t.co/p6vxYVAeKq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037248669507084557",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941525247334945073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mk2S_Re2: 騎士ちゃんAfter https://t.co/p6vxYVAeKq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2037248669507084557].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2037248669507084557",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2037248669507084557"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_1941525188236955648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvGu3z9WUAA61IT.png",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941525188236955648"
+          ]
+        },
+        "author_id": "1894468436342050816",
+        "conversation_id": "1941525247334945073",
+        "created_at": "2025-07-05T15:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T16:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941525247334945073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p6vxYVAeKq",
+              "end": 34,
+              "expanded_url": "https://x.com/Mk2S_Re2/status/1941525247334945073/photo/1",
+              "media_key": "3_1941525188236955648",
+              "start": 11,
+              "url": "https://t.co/p6vxYVAeKq"
+            },
+            {
+              "display_url": "x.com/Mk2S_Re/status…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Mk2S_Re/status/1935837498330300586",
+              "start": 35,
+              "url": "https://t.co/p7XTLIyx4p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941525247334945073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 13295,
+          "like_count": 450,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935837498330300586",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "騎士ちゃんAfter https://t.co/p6vxYVAeKq https://t.co/p7XTLIyx4p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 118,
+                "start": 113,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8213,
+          "following_count": 6086,
+          "like_count": 14210,
+          "listed_count": 17,
+          "media_count": 2718,
+          "tweet_count": 19878
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T19:24:16.000Z",
+        "description": "メイン@Mk2S_Re\nちょっとエッチ用垢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "Mk2S_Re"
+              }
+            ]
+          }
+        },
+        "id": "1894468436342050816",
+        "name": "既決囚🔞",
+        "pinned_tweet_id": "1894656952116154771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894473532303880192/34AOjuOD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 11,
+          "like_count": 49,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 21
+        },
+        "username": "Mk2S_Re2",
+        "verified": false
+      }
+    ]
+  }
+}

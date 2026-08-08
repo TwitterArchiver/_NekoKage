@@ -1,0 +1,692 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2069338129706918097",
+    "created_at": "2026-06-23T08:33:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T09:33:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069338129706918097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2786677338",
+          "start": 3,
+          "username": "denfaminicogame"
+        }
+      ],
+      "urls": [
+        {
+          "description": "地上波の「オンエア版」と2種類の展開に。「邪竜解放版」はAnimeFesta、DMM TV、FOD、Hulu、Netflix、アニメタイムズなどで視聴可能",
+          "display_url": "news.denfaminicogamer.jp/news/2606232i",
+          "end": 96,
+          "expanded_url": "https://news.denfaminicogamer.jp/news/2606232i",
+          "images": [
+            {
+              "height": 1000,
+              "url": "https://pbs.twimg.com/news_img/2069243290374094848/3TZjspaW?format=jpg&name=orig",
+              "width": 714
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2069243290374094848/3TZjspaW?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 73,
+          "status": 200,
+          "title": "アニメ『ヤニねこ』原作の演出を尊重した「邪竜解放版」が放送決定。AT-Xと一部配信サービスにて視聴可能。地上波の「オンエア版」と2種類の展開に",
+          "unwound_url": "https://news.denfaminicogamer.jp/news/2606232i",
+          "url": "https://t.co/KqnN4VGDKR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069338129706918097",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1872
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069243270774034930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @denfaminicogame: アニメ『ヤニねこ』原作の演出を尊重した「邪竜解放版」が放送決定。AT-Xと一部配信サービスにて視聴可能\nhttps://t.co/KqnN4VGDKR\n\n地上波の「オンエア版」と2種類の展開に。「邪竜解放版」はAnimeFesta、DM…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2069243266600759296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLdtyaObcAA7U6k.jpg",
+        "width": 714
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2069338129706918097",
+        "created_at": "2026-06-23T08:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069338129706918097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2786677338",
+              "start": 3,
+              "username": "denfaminicogame"
+            }
+          ],
+          "urls": [
+            {
+              "description": "地上波の「オンエア版」と2種類の展開に。「邪竜解放版」はAnimeFesta、DMM TV、FOD、Hulu、Netflix、アニメタイムズなどで視聴可能",
+              "display_url": "news.denfaminicogamer.jp/news/2606232i",
+              "end": 96,
+              "expanded_url": "https://news.denfaminicogamer.jp/news/2606232i",
+              "images": [
+                {
+                  "height": 1000,
+                  "url": "https://pbs.twimg.com/news_img/2069243290374094848/3TZjspaW?format=jpg&name=orig",
+                  "width": 714
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2069243290374094848/3TZjspaW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 73,
+              "status": 200,
+              "title": "アニメ『ヤニねこ』原作の演出を尊重した「邪竜解放版」が放送決定。AT-Xと一部配信サービスにて視聴可能。地上波の「オンエア版」と2種類の展開に",
+              "unwound_url": "https://news.denfaminicogamer.jp/news/2606232i",
+              "url": "https://t.co/KqnN4VGDKR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069338129706918097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1872
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069243270774034930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @denfaminicogame: アニメ『ヤニねこ』原作の演出を尊重した「邪竜解放版」が放送決定。AT-Xと一部配信サービスにて視聴可能\nhttps://t.co/KqnN4VGDKR\n\n地上波の「オンエア版」と2種類の展開に。「邪竜解放版」はAnimeFesta、DM…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069243266600759296"
+          ]
+        },
+        "author_id": "2786677338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Channels",
+              "id": "23",
+              "name": "TV Channels"
+            },
+            "entity": {
+              "id": "1283512046085013504",
+              "name": "Hulu JP"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783337372406517762",
+              "name": "Online Services - Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Paravi",
+              "id": "1433098042106789888",
+              "name": "FOD"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1308923681956003841",
+              "name": "DMM Games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Reality TV",
+              "id": "847523721065537536",
+              "name": "Reality TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286400772033245184",
+              "name": "Movies & TV events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1308923681956003841",
+              "name": "DMM Games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Paravi",
+              "id": "1433098042106789888",
+              "name": "FOD"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026371049",
+              "name": "Hulu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026371049",
+              "name": "Hulu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          }
+        ],
+        "conversation_id": "2069243270774034930",
+        "created_at": "2026-06-23T02:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T03:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069243270774034930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "地上波の「オンエア版」と2種類の展開に。「邪竜解放版」はAnimeFesta、DMM TV、FOD、Hulu、Netflix、アニメタイムズなどで視聴可能",
+              "display_url": "news.denfaminicogamer.jp/news/2606232i",
+              "end": 75,
+              "expanded_url": "https://news.denfaminicogamer.jp/news/2606232i",
+              "images": [
+                {
+                  "height": 1000,
+                  "url": "https://pbs.twimg.com/news_img/2069243290374094848/3TZjspaW?format=jpg&name=orig",
+                  "width": 714
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2069243290374094848/3TZjspaW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 52,
+              "status": 200,
+              "title": "アニメ『ヤニねこ』原作の演出を尊重した「邪竜解放版」が放送決定。AT-Xと一部配信サービスにて視聴可能。地上波の「オンエア版」と2種類の展開に",
+              "unwound_url": "https://news.denfaminicogamer.jp/news/2606232i",
+              "url": "https://t.co/KqnN4VGDKR"
+            },
+            {
+              "display_url": "pic.x.com/rloTSi5UYO",
+              "end": 178,
+              "expanded_url": "https://x.com/denfaminicogame/status/2069243270774034930/photo/1",
+              "media_key": "3_2069243266600759296",
+              "start": 155,
+              "url": "https://t.co/rloTSi5UYO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069243270774034930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 910,
+          "impression_count": 709827,
+          "like_count": 5677,
+          "quote_count": 241,
+          "reply_count": 79,
+          "retweet_count": 1872
+        },
+        "reply_settings": "everyone",
+        "text": "アニメ『ヤニねこ』原作の演出を尊重した「邪竜解放版」が放送決定。AT-Xと一部配信サービスにて視聴可能\nhttps://t.co/KqnN4VGDKR\n\n地上波の「オンエア版」と2種類の展開に。「邪竜解放版」はAnimeFesta、DMM TV、FOD、Hulu、Netflix、アニメタイムズなどで視聴可能 https://t.co/rloTSi5UYO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病多病病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "_kagenone"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8673,
+          "following_count": 6620,
+          "like_count": 15597,
+          "listed_count": 17,
+          "media_count": 2985,
+          "tweet_count": 21709
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-02T21:20:04.000Z",
+        "description": "開発者への独占取材、制作秘話、業界分析など「他では読めない」記事を配信。ゲームの魅力を、作り手の想いとともにお伝えします。時にマニアック、時にポップに。すべてのゲームファンに向けて情報をお届けします。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.denfaminicogamer.jp",
+                "end": 23,
+                "expanded_url": "https://news.denfaminicogamer.jp/",
+                "start": 0,
+                "url": "https://t.co/8vJgkHBnTV"
+              }
+            ]
+          }
+        },
+        "id": "2786677338",
+        "location": "日本 東京都",
+        "name": "電ファミニコゲーマー",
+        "pinned_tweet_id": "2069254749535474015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1552262697852366848/KJN34d9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386431,
+          "following_count": 3450,
+          "like_count": 9018,
+          "listed_count": 5641,
+          "media_count": 89476,
+          "tweet_count": 98405
+        },
+        "url": "https://t.co/8vJgkHBnTV",
+        "username": "denfaminicogame",
+        "verified": true
+      }
+    ]
+  }
+}

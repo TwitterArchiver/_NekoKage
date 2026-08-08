@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Hospitality",
+          "id": "864938653063159808",
+          "name": "Hospitality"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Hotel/Motel",
+          "id": "864939492947275776",
+          "name": "Hotel/Motel"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Frankfurt",
+          "id": "864479651615318017",
+          "name": "Frankfurt"
+        }
+      }
+    ],
+    "conversation_id": "1938027957983055947",
+    "created_at": "2025-06-26T00:14:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T01:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938027957983055947"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/doshiro/status…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/doshiro/status/1937999479950430387",
+          "start": 10,
+          "url": "https://t.co/ZVg98e3CQC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938027957983055947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937999479950430387",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "蔡司依康还产门锁？ https://t.co/ZVg98e3CQC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1937999453387980800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuUoPCIXgAAK94x.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hospitality",
+              "id": "864938653063159808",
+              "name": "Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Hotel/Motel",
+              "id": "864939492947275776",
+              "name": "Hotel/Motel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Frankfurt",
+              "id": "864479651615318017",
+              "name": "Frankfurt"
+            }
+          }
+        ],
+        "conversation_id": "1938027957983055947",
+        "created_at": "2025-06-26T00:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T01:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938027957983055947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/doshiro/status…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/doshiro/status/1937999479950430387",
+              "start": 10,
+              "url": "https://t.co/ZVg98e3CQC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938027957983055947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937999479950430387",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蔡司依康还产门锁？ https://t.co/ZVg98e3CQC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937999453387980800"
+          ]
+        },
+        "author_id": "6418072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hospitality",
+              "id": "864938653063159808",
+              "name": "Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Hotel/Motel",
+              "id": "864939492947275776",
+              "name": "Hotel/Motel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Frankfurt",
+              "id": "864479651615318017",
+              "name": "Frankfurt"
+            }
+          }
+        ],
+        "conversation_id": "1937999479950430387",
+        "created_at": "2025-06-25T22:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T23:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937999479950430387"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "フランクフルト空港",
+              "probability": 0.557,
+              "start": 3,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BLblfYWfNp",
+              "end": 82,
+              "expanded_url": "https://x.com/doshiro/status/1937999479950430387/photo/1",
+              "media_key": "3_1937999453387980800",
+              "start": 59,
+              "url": "https://t.co/BLblfYWfNp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937999479950430387",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 744,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "初日はフランクフルト空港直結のホテル泊。綺麗で新しそうな内装なのに、ドア鍵にびっくり。長持ちすぎるだろという感想も。 https://t.co/BLblfYWfNp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🐈#RainWorld⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 107,
+                "tag": "RainWorld"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "_kagenone"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1938006225230434788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7650,
+          "following_count": 4728,
+          "like_count": 12814,
+          "listed_count": 20,
+          "media_count": 2266,
+          "tweet_count": 16081
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2007-05-29T15:41:42.000Z",
+        "description": "カメラ専門誌出身のフリーライター\n連載：YouTubeはじめました(Impress Watch)、心にライカを。(ライカスタイルマガジン)、新技術誕生のバックストーリー(フォトコン)\n📷日本カメラ財団「日本の歴史的カメラ」審査委員\n🎸ギター・マガジンで機材解説を執筆。ドラムも好き\n🚙ホンダS660でMT練習中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@suzukimakoto",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@suzukimakoto",
+                "start": 0,
+                "url": "https://t.co/RBfJWsLNPh"
+              }
+            ]
+          }
+        },
+        "id": "6418072",
+        "name": "鈴木 誠",
+        "pinned_tweet_id": "1937006323968925922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830863024615497729/21DOYP4h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 453,
+          "like_count": 2372,
+          "listed_count": 15,
+          "media_count": 831,
+          "tweet_count": 14478
+        },
+        "url": "https://t.co/RBfJWsLNPh",
+        "username": "doshiro",
+        "verified": false
+      }
+    ]
+  }
+}

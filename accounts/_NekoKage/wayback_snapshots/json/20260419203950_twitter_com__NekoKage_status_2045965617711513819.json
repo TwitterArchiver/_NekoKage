@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045823030878932992"
+      ],
+      "media_source_tweet_id": [
+        "2045823038906851608"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "2045965617711513819",
+    "created_at": "2026-04-19T20:39:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T21:39:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045965617711513819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1119909454621712384",
+          "start": 3,
+          "username": "rakugaki_37564"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/glqmclN1Vp",
+          "end": 63,
+          "expanded_url": "https://x.com/rakugaki_37564/status/2045823038906851608/photo/1",
+          "media_key": "3_2045823030878932992",
+          "start": 40,
+          "url": "https://t.co/glqmclN1Vp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045965617711513819",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045823038906851608",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rakugaki_37564: 両手欠損ちゃんと仲良くしたい人生でした https://t.co/glqmclN1Vp"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045965617711513819].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045965617711513819",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045965617711513819"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1412,
+        "media_key": "3_2045823030878932992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQ5NRTaEAAFYeN.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045823030878932992"
+          ]
+        },
+        "author_id": "1119909454621712384",
+        "conversation_id": "2045823038906851608",
+        "created_at": "2026-04-19T11:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045823038906851608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/glqmclN1Vp",
+              "end": 43,
+              "expanded_url": "https://x.com/rakugaki_37564/status/2045823038906851608/photo/1",
+              "media_key": "3_2045823030878932992",
+              "start": 20,
+              "url": "https://t.co/glqmclN1Vp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045823038906851608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 566,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "両手欠損ちゃんと仲良くしたい人生でした https://t.co/glqmclN1Vp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8426,
+          "following_count": 6393,
+          "like_count": 14652,
+          "listed_count": 17,
+          "media_count": 2818,
+          "tweet_count": 20614
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-21T10:23:15.000Z",
+        "description": "⚠️R-18G成人向けで閲覧自己責任なアカウントです⚠️\nセーラー服が好きです。\nskeb→https://t.co/Sk4OHiGV6l",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@rakugaki_37564",
+                "end": 69,
+                "expanded_url": "https://skeb.jp/@rakugaki_37564",
+                "start": 46,
+                "url": "https://t.co/Sk4OHiGV6l"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=3864787",
+                "start": 0,
+                "url": "https://t.co/FMCQiToZtO"
+              }
+            ]
+          }
+        },
+        "id": "1119909454621712384",
+        "location": "大阪",
+        "name": "落書職人",
+        "pinned_tweet_id": "2044427827886563764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1445230213789466627/azX2tcTO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6386,
+          "following_count": 974,
+          "like_count": 13492,
+          "listed_count": 60,
+          "media_count": 119,
+          "tweet_count": 2358
+        },
+        "url": "https://t.co/FMCQiToZtO",
+        "username": "rakugaki_37564",
+        "verified": true
+      }
+    ]
+  }
+}

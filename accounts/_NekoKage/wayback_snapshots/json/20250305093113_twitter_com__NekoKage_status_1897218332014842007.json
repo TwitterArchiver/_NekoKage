@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896957252046585856"
+      ],
+      "media_source_tweet_id": [
+        "1896957256882938289"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "1897218332014842007",
+    "created_at": "2025-03-05T09:31:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T10:31:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897218332014842007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1399512392606752768",
+          "start": 3,
+          "username": "chimidoroid"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iBR0rMl29P",
+          "end": 77,
+          "expanded_url": "https://x.com/chimidoroid/status/1896957256882938289/photo/1",
+          "media_key": "3_1896957252046585856",
+          "start": 54,
+          "url": "https://t.co/iBR0rMl29P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897218332014842007",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896957256882938289",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chimidoroid: 処刑シーン詰め合わせの予定です\nお待たせしちゃって申し訳ございません…😢 https://t.co/iBR0rMl29P"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1897218332014842007].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1897218332014842007",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1897218332014842007"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 934,
+        "media_key": "3_1896957252046585856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlNYkfpWgAAZNcK.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896957252046585856"
+          ]
+        },
+        "author_id": "1399512392606752768",
+        "conversation_id": "1896957256882938289",
+        "created_at": "2025-03-04T16:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T17:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896957256882938289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iBR0rMl29P",
+              "end": 60,
+              "expanded_url": "https://x.com/chimidoroid/status/1896957256882938289/photo/1",
+              "media_key": "3_1896957252046585856",
+              "start": 37,
+              "url": "https://t.co/iBR0rMl29P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896957256882938289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 3533,
+          "like_count": 209,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "処刑シーン詰め合わせの予定です\nお待たせしちゃって申し訳ございません…😢 https://t.co/iBR0rMl29P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠📢siren爱好者⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "_kagenone"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7523,
+          "following_count": 4475,
+          "like_count": 12387,
+          "listed_count": 19,
+          "media_count": 2158,
+          "tweet_count": 15040
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-31T23:45:43.000Z",
+        "description": "頭部破壊や臓物などのイラストを描いてます\n苦手な方はご注意ください\n\nリクエストはこちらからhttps://t.co/jmkGZ7DYho\nサービス外でのやり取りは禁止されているため、DM等でのお問い合わせには返答致しかねます。ご了承下さい",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@chimidoroid",
+                "end": 69,
+                "expanded_url": "http://skeb.jp/@chimidoroid",
+                "start": 46,
+                "url": "https://t.co/jmkGZ7DYho"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/41691321",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/41691321",
+                "start": 0,
+                "url": "https://t.co/ic1giC6okO"
+              }
+            ]
+          }
+        },
+        "id": "1399512392606752768",
+        "location": "三隅郡羽生蛇村大字波羅宿川崎方",
+        "name": "🔞みどろ(R-18G注意!!)🔞",
+        "pinned_tweet_id": "1894010934357618975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800174120740732928/eUVQkuOs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12942,
+          "following_count": 292,
+          "like_count": 10581,
+          "listed_count": 59,
+          "media_count": 490,
+          "tweet_count": 2379
+        },
+        "url": "https://t.co/ic1giC6okO",
+        "username": "chimidoroid",
+        "verified": false
+      }
+    ]
+  }
+}

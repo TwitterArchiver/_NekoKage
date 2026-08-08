@@ -1,0 +1,463 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042575368633327616"
+      ],
+      "media_source_tweet_id": [
+        "2042575389072200039"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Spa and Medical Spa",
+          "id": "855066047157649408",
+          "name": "Spas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Spa Bathing",
+          "id": "855073024814469120",
+          "name": "Spa Bathing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Spa Bathing",
+          "id": "855073024814469120",
+          "name": "Spa Bathing"
+        }
+      }
+    ],
+    "conversation_id": "2042694478243442955",
+    "created_at": "2026-04-10T20:01:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T21:01:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042694478243442955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1701616092563865600",
+          "start": 3,
+          "username": "seafree"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CkbAnBWnqE",
+          "end": 47,
+          "expanded_url": "https://x.com/seafree/status/2042575389072200039/photo/1",
+          "media_key": "3_2042575368633327616",
+          "start": 24,
+          "url": "https://t.co/CkbAnBWnqE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042694478243442955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042575389072200039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seafree: 想来和我一起泡温泉吗 https://t.co/CkbAnBWnqE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2042575368633327616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFivecpaIAAGWJP.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042575368633327616"
+          ],
+          "media_source_tweet_id": [
+            "2042575389072200039"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Spa and Medical Spa",
+              "id": "855066047157649408",
+              "name": "Spas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          }
+        ],
+        "conversation_id": "2042694478243442955",
+        "created_at": "2026-04-10T20:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T21:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042694478243442955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1701616092563865600",
+              "start": 3,
+              "username": "seafree"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CkbAnBWnqE",
+              "end": 47,
+              "expanded_url": "https://x.com/seafree/status/2042575389072200039/photo/1",
+              "media_key": "3_2042575368633327616",
+              "start": 24,
+              "url": "https://t.co/CkbAnBWnqE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042694478243442955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042575389072200039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seafree: 想来和我一起泡温泉吗 https://t.co/CkbAnBWnqE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042575368633327616"
+          ]
+        },
+        "author_id": "1701616092563865600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Spa and Medical Spa",
+              "id": "855066047157649408",
+              "name": "Spas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          }
+        ],
+        "conversation_id": "2042575389072200039",
+        "created_at": "2026-04-10T12:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T13:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042575389072200039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CkbAnBWnqE",
+              "end": 34,
+              "expanded_url": "https://x.com/seafree/status/2042575389072200039/photo/1",
+              "media_key": "3_2042575368633327616",
+              "start": 11,
+              "url": "https://t.co/CkbAnBWnqE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042575389072200039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 18959,
+          "like_count": 983,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "想来和我一起泡温泉吗 https://t.co/CkbAnBWnqE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8298,
+          "following_count": 6200,
+          "like_count": 14428,
+          "listed_count": 17,
+          "media_count": 2763,
+          "tweet_count": 20205
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T15:18:49.000Z",
+        "description": "kiger/vup 虚拟主播 「枫随梦起，自由无极」国内平台：bilibili，xhs，dy ｜ 常驻上海，想找饭搭子！旅游搭子！喜欢住酒店！最近好想找对象！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/35468239207163…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/3546823920716305",
+                "start": 0,
+                "url": "https://t.co/I409h9oktv"
+              }
+            ]
+          }
+        },
+        "id": "1701616092563865600",
+        "location": "Shanghai",
+        "name": "枫梦_seafree",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701617266230771712/mHxYrBau_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15897,
+          "following_count": 63,
+          "like_count": 39,
+          "listed_count": 38,
+          "media_count": 142,
+          "tweet_count": 147
+        },
+        "url": "https://t.co/I409h9oktv",
+        "username": "seafree",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,694 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491833436499107849",
+          "name": "Gaming hardware & accessories"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Design",
+          "id": "847872720331079681",
+          "name": "Design"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Virtual Reality",
+          "id": "898670051594649601",
+          "name": "Virtual reality"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "description": "Virtual Reality",
+          "id": "898670051594649601",
+          "name": "Virtual reality"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2013952673423433892",
+    "created_at": "2026-01-21T12:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T13:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013952673423433892"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "VR",
+          "probability": 0.5677,
+          "start": 30,
+          "type": "Other"
+        },
+        {
+          "end": 117,
+          "normalized_text": "moonshake3d",
+          "probability": 0.8056,
+          "start": 107,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "148424079",
+          "start": 3,
+          "username": "NathieVR"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/x7tyFMV",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/x7tyFMV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013952673423433892",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 141
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013675335183704385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NathieVR: Never thought a VR headset’s design could have me this obsessed but here we are.\n\nConcept by moonshake3d https://t.co/x7tyFMV…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13351,
+        "height": 686,
+        "media_key": "13_2013675099585490944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2013675099585490944/img/yIEID0rSTn6ITVUH.jpg",
+        "public_metrics": {
+          "view_count": 28727
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013675099585490944/vid/avc1/282x270/uVd8O_fn-V5emRm6.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013675099585490944/vid/avc1/376x360/9xOzo4dmsqJKRtQl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013675099585490944/vid/avc1/720x686/kaDcwnmObr--Ggor.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2013675099585490944/pl/K5PnJcBEWhc90N4q.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491833436499107849",
+              "name": "Gaming hardware & accessories"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Design",
+              "id": "847872720331079681",
+              "name": "Design"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Virtual Reality",
+              "id": "898670051594649601",
+              "name": "Virtual reality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Virtual Reality",
+              "id": "898670051594649601",
+              "name": "Virtual reality"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2013952673423433892",
+        "created_at": "2026-01-21T12:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T13:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013952673423433892"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "VR",
+              "probability": 0.5677,
+              "start": 30,
+              "type": "Other"
+            },
+            {
+              "end": 117,
+              "normalized_text": "moonshake3d",
+              "probability": 0.8056,
+              "start": 107,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "148424079",
+              "start": 3,
+              "username": "NathieVR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/x7tyFMV",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/x7tyFMV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013952673423433892",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013675335183704385",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NathieVR: Never thought a VR headset’s design could have me this obsessed but here we are.\n\nConcept by moonshake3d https://t.co/x7tyFMV…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2013675099585490944"
+          ]
+        },
+        "author_id": "148424079",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491833436499107849",
+              "name": "Gaming hardware & accessories"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Design",
+              "id": "847872720331079681",
+              "name": "Design"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Virtual Reality",
+              "id": "898670051594649601",
+              "name": "Virtual reality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Virtual Reality",
+              "id": "898670051594649601",
+              "name": "Virtual reality"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2013675335183704385",
+        "created_at": "2026-01-20T18:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T19:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013675335183704385"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "VR headset",
+              "probability": 0.5633,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 103,
+              "normalized_text": "moonshake3d",
+              "probability": 0.7685,
+              "start": 93,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x7tyFMVUPG",
+              "end": 128,
+              "expanded_url": "https://x.com/NathieVR/status/2013675335183704385/video/1",
+              "media_key": "13_2013675099585490944",
+              "start": 105,
+              "url": "https://t.co/x7tyFMVUPG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013675335183704385",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 630,
+          "impression_count": 59955,
+          "like_count": 2257,
+          "quote_count": 14,
+          "reply_count": 30,
+          "retweet_count": 141
+        },
+        "reply_settings": "everyone",
+        "text": "Never thought a VR headset’s design could have me this obsessed but here we are.\n\nConcept by moonshake3d https://t.co/x7tyFMVUPG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7948,
+          "following_count": 5613,
+          "like_count": 13763,
+          "listed_count": 17,
+          "media_count": 2564,
+          "tweet_count": 18830
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-26T17:20:26.000Z",
+        "description": "VR Content Creator | Spatial Expert | Apple Vision Pro, Meta Quest, Galaxy XR & More | 800k+ Subs | Proud Frisian",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/nathievr",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/nathievr",
+                "start": 0,
+                "url": "https://t.co/tyOt5KX2IR"
+              }
+            ]
+          }
+        },
+        "id": "148424079",
+        "name": "Nathie 🔜 MIT Reality Hack",
+        "pinned_tweet_id": "1038169918821335040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1567608510497652736/TvoiS4g6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65034,
+          "following_count": 346,
+          "like_count": 102012,
+          "listed_count": 739,
+          "media_count": 18375,
+          "tweet_count": 55339
+        },
+        "url": "https://t.co/tyOt5KX2IR",
+        "username": "NathieVR",
+        "verified": true
+      }
+    ]
+  }
+}

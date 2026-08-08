@@ -1,0 +1,488 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075221563331510272"
+      ],
+      "media_source_tweet_id": [
+        "2075221591697580469"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2075309113672864019",
+    "created_at": "2026-07-09T20:00:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T21:00:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075309113672864019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1225462582280015879",
+          "start": 3,
+          "username": "BasicAppleGuy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AQudqCMkXb",
+          "end": 69,
+          "expanded_url": "https://x.com/BasicAppleGuy/status/2075221591697580469/photo/1",
+          "media_key": "3_2075221563331510272",
+          "start": 46,
+          "url": "https://t.co/AQudqCMkXb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075309113672864019",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075221591697580469",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BasicAppleGuy: Forgotten macOS Apple Apps https://t.co/AQudqCMkXb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1514,
+        "media_key": "3_2075221563331510272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyrBFCbAAAYQHa.jpg",
+        "width": 1514
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075221563331510272"
+          ],
+          "media_source_tweet_id": [
+            "2075221591697580469"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2075309113672864019",
+        "created_at": "2026-07-09T20:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T21:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075309113672864019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1225462582280015879",
+              "start": 3,
+              "username": "BasicAppleGuy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AQudqCMkXb",
+              "end": 69,
+              "expanded_url": "https://x.com/BasicAppleGuy/status/2075221591697580469/photo/1",
+              "media_key": "3_2075221563331510272",
+              "start": 46,
+              "url": "https://t.co/AQudqCMkXb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075309113672864019",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075221591697580469",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BasicAppleGuy: Forgotten macOS Apple Apps https://t.co/AQudqCMkXb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075221563331510272"
+          ]
+        },
+        "author_id": "1225462582280015879",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2075221591697580469",
+        "created_at": "2026-07-09T14:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075221591697580469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AQudqCMkXb",
+              "end": 50,
+              "expanded_url": "https://x.com/BasicAppleGuy/status/2075221591697580469/photo/1",
+              "media_key": "3_2075221563331510272",
+              "start": 27,
+              "url": "https://t.co/AQudqCMkXb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075221591697580469",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 19709,
+          "like_count": 504,
+          "quote_count": 8,
+          "reply_count": 20,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "Forgotten macOS Apple Apps https://t.co/AQudqCMkXb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病多病病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "_kagenone"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8711,
+          "following_count": 6694,
+          "like_count": 15903,
+          "listed_count": 17,
+          "media_count": 3025,
+          "tweet_count": 22227
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-06T16:54:28.000Z",
+        "description": "Basic (ˈbeɪ.sɪk’; Adj): lover of all things mainstream, popular, & trending in the world of .",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "basicappleguy.com",
+                "end": 23,
+                "expanded_url": "https://www.basicappleguy.com",
+                "start": 0,
+                "url": "https://t.co/rpm4PM2RTT"
+              }
+            ]
+          }
+        },
+        "id": "1225462582280015879",
+        "location": "37º20'5.5674\"N 122º0'32.3274\"W",
+        "name": "Basic Apple Guy",
+        "pinned_tweet_id": "1925918857996144773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522623872717099013/h5fNVE5d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410058,
+          "following_count": 67,
+          "like_count": 28072,
+          "listed_count": 1529,
+          "media_count": 7786,
+          "tweet_count": 30121
+        },
+        "url": "https://t.co/rpm4PM2RTT",
+        "username": "BasicAppleGuy",
+        "verified": true
+      }
+    ]
+  }
+}

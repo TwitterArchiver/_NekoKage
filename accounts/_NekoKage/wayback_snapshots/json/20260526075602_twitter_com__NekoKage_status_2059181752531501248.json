@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050897210586673152",
+        "3_2050897210632814592",
+        "3_2050897210603339776",
+        "3_2050897210607562752"
+      ],
+      "media_source_tweet_id": [
+        "2050897348155572421",
+        "2050897348155572421",
+        "2050897348155572421",
+        "2050897348155572421"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2059181752531501248",
+    "created_at": "2026-05-26T07:56:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T08:56:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059181752531501248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1998587887244517376",
+          "start": 3,
+          "username": "some1else45"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wfwCTg5Bxk",
+          "end": 40,
+          "expanded_url": "https://x.com/some1else45/status/2050897348155572421/photo/1",
+          "media_key": "3_2050897210586673152",
+          "start": 17,
+          "url": "https://t.co/wfwCTg5Bxk"
+        },
+        {
+          "display_url": "pic.x.com/wfwCTg5Bxk",
+          "end": 40,
+          "expanded_url": "https://x.com/some1else45/status/2050897348155572421/photo/1",
+          "media_key": "3_2050897210632814592",
+          "start": 17,
+          "url": "https://t.co/wfwCTg5Bxk"
+        },
+        {
+          "display_url": "pic.x.com/wfwCTg5Bxk",
+          "end": 40,
+          "expanded_url": "https://x.com/some1else45/status/2050897348155572421/photo/1",
+          "media_key": "3_2050897210603339776",
+          "start": 17,
+          "url": "https://t.co/wfwCTg5Bxk"
+        },
+        {
+          "display_url": "pic.x.com/wfwCTg5Bxk",
+          "end": 40,
+          "expanded_url": "https://x.com/some1else45/status/2050897348155572421/photo/1",
+          "media_key": "3_2050897210607562752",
+          "start": 17,
+          "url": "https://t.co/wfwCTg5Bxk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059181752531501248",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1380
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050897348155572421",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @some1else45: https://t.co/wfwCTg5Bxk"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059181752531501248].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059181752531501248",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059181752531501248"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1929,
+        "media_key": "3_2050897210586673152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZAJZvbsAAnymC.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2017,
+        "media_key": "3_2050897210632814592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZAJZ6bwAAhI9L.jpg",
+        "width": 1679
+      },
+      {
+        "height": 1879,
+        "media_key": "3_2050897210603339776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZAJZzaAAA2uOS.jpg",
+        "width": 1528
+      },
+      {
+        "height": 973,
+        "media_key": "3_2050897210607562752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZAJZ0acAA-pJc.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050897210586673152",
+            "3_2050897210632814592",
+            "3_2050897210603339776",
+            "3_2050897210607562752"
+          ]
+        },
+        "author_id": "1998587887244517376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050897348155572421",
+        "created_at": "2026-05-03T11:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T12:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050897348155572421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wfwCTg5Bxk",
+              "end": 23,
+              "expanded_url": "https://x.com/some1else45/status/2050897348155572421/photo/1",
+              "media_key": "3_2050897210586673152",
+              "start": 0,
+              "url": "https://t.co/wfwCTg5Bxk"
+            },
+            {
+              "display_url": "pic.x.com/wfwCTg5Bxk",
+              "end": 23,
+              "expanded_url": "https://x.com/some1else45/status/2050897348155572421/photo/1",
+              "media_key": "3_2050897210632814592",
+              "start": 0,
+              "url": "https://t.co/wfwCTg5Bxk"
+            },
+            {
+              "display_url": "pic.x.com/wfwCTg5Bxk",
+              "end": 23,
+              "expanded_url": "https://x.com/some1else45/status/2050897348155572421/photo/1",
+              "media_key": "3_2050897210603339776",
+              "start": 0,
+              "url": "https://t.co/wfwCTg5Bxk"
+            },
+            {
+              "display_url": "pic.x.com/wfwCTg5Bxk",
+              "end": 23,
+              "expanded_url": "https://x.com/some1else45/status/2050897348155572421/photo/1",
+              "media_key": "3_2050897210607562752",
+              "start": 0,
+              "url": "https://t.co/wfwCTg5Bxk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050897348155572421",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6350,
+          "impression_count": 477945,
+          "like_count": 24396,
+          "quote_count": 10,
+          "reply_count": 20,
+          "retweet_count": 1380
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wfwCTg5Bxk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病多病病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "_kagenone"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8636,
+          "following_count": 6583,
+          "like_count": 15239,
+          "listed_count": 16,
+          "media_count": 2918,
+          "tweet_count": 21265
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T02:58:12.000Z",
+        "description": "世界平和のためにお絵描き引き続こ\n\nMore drawings\nPatreon: https://t.co/EM89thP7FT\nFanbox: https://t.co/jz2JnakeRE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/some1else45",
+                "end": 64,
+                "expanded_url": "https://www.patreon.com/some1else45",
+                "start": 41,
+                "url": "https://t.co/EM89thP7FT"
+              },
+              {
+                "display_url": "some1else45.fanbox.cc",
+                "end": 96,
+                "expanded_url": "https://some1else45.fanbox.cc/",
+                "start": 73,
+                "url": "https://t.co/jz2JnakeRE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/67815085",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/67815085",
+                "start": 0,
+                "url": "https://t.co/w29rJlSfhG"
+              }
+            ]
+          }
+        },
+        "id": "1998587887244517376",
+        "location": "SekoNaHipFhewe",
+        "name": "some1else45",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018137338229215232/bqdg8YSv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40078,
+          "following_count": 16,
+          "like_count": 323,
+          "listed_count": 231,
+          "media_count": 30,
+          "tweet_count": 32
+        },
+        "url": "https://t.co/w29rJlSfhG",
+        "username": "some1else45",
+        "verified": false
+      }
+    ]
+  }
+}

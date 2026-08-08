@@ -1,0 +1,695 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960410647889633281"
+      ],
+      "media_source_tweet_id": [
+        "1960410652054577641"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "1960731020304769161",
+    "created_at": "2025-08-27T15:47:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T16:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960731020304769161"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "iPhone 5s",
+          "probability": 0.9136,
+          "start": 17,
+          "type": "Product"
+        },
+        {
+          "end": 78,
+          "normalized_text": "iPhone5s",
+          "probability": 0.9708,
+          "start": 71,
+          "type": "Product"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 79,
+          "start": 70,
+          "tag": "iPhone5s"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1425258272584617986",
+          "start": 3,
+          "username": "itsiclassic"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZPaVNDsxhx",
+          "end": 103,
+          "expanded_url": "https://x.com/itsiclassic/status/1960410652054577641/photo/1",
+          "media_key": "3_1960410647889633281",
+          "start": 80,
+          "url": "https://t.co/ZPaVNDsxhx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960731020304769161",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960410652054577641",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itsiclassic: iPhone 5s invites are out!\n\nSee you all on 9.10.2013 #iPhone5s https://t.co/ZPaVNDsxhx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 425,
+        "media_key": "3_1960410647889633281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzTHGPla4AENt2Y.jpg",
+        "width": 560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960410647889633281"
+          ],
+          "media_source_tweet_id": [
+            "1960410652054577641"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1960731020304769161",
+        "created_at": "2025-08-27T15:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T16:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960731020304769161"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "iPhone 5s",
+              "probability": 0.9136,
+              "start": 17,
+              "type": "Product"
+            },
+            {
+              "end": 78,
+              "normalized_text": "iPhone5s",
+              "probability": 0.9708,
+              "start": 71,
+              "type": "Product"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 70,
+              "tag": "iPhone5s"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1425258272584617986",
+              "start": 3,
+              "username": "itsiclassic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZPaVNDsxhx",
+              "end": 103,
+              "expanded_url": "https://x.com/itsiclassic/status/1960410652054577641/photo/1",
+              "media_key": "3_1960410647889633281",
+              "start": 80,
+              "url": "https://t.co/ZPaVNDsxhx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960731020304769161",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960410652054577641",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itsiclassic: iPhone 5s invites are out!\n\nSee you all on 9.10.2013 #iPhone5s https://t.co/ZPaVNDsxhx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960410647889633281"
+          ]
+        },
+        "author_id": "1425258272584617986",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1960410652054577641",
+        "created_at": "2025-08-26T18:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T19:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960410652054577641"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "iPhone 5s",
+              "probability": 0.7685,
+              "start": 0,
+              "type": "Product"
+            },
+            {
+              "end": 61,
+              "normalized_text": "iPhone5s",
+              "probability": 0.9774,
+              "start": 54,
+              "type": "Product"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 53,
+              "tag": "iPhone5s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZPaVNDsxhx",
+              "end": 86,
+              "expanded_url": "https://x.com/itsiclassic/status/1960410652054577641/photo/1",
+              "media_key": "3_1960410647889633281",
+              "start": 63,
+              "url": "https://t.co/ZPaVNDsxhx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960410652054577641",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 24786,
+          "like_count": 788,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "iPhone 5s invites are out!\n\nSee you all on 9.10.2013 #iPhone5s https://t.co/ZPaVNDsxhx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7877,
+          "following_count": 5012,
+          "like_count": 13125,
+          "listed_count": 17,
+          "media_count": 2384,
+          "tweet_count": 17011
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-11T00:50:33.000Z",
+        "description": "the nostalgic side of apple",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/iclassic",
+                "end": 23,
+                "expanded_url": "http://youtube.com/iclassic",
+                "start": 0,
+                "url": "https://t.co/wz43sfxMYi"
+              }
+            ]
+          }
+        },
+        "id": "1425258272584617986",
+        "location": "Toronto/Phoenix",
+        "name": "iClassic",
+        "pinned_tweet_id": "1952900528075358643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860883506106171393/2wmG9z6B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9223,
+          "following_count": 44,
+          "like_count": 1920,
+          "listed_count": 38,
+          "media_count": 428,
+          "tweet_count": 930
+        },
+        "url": "https://t.co/wz43sfxMYi",
+        "username": "itsiclassic",
+        "verified": false
+      }
+    ]
+  }
+}

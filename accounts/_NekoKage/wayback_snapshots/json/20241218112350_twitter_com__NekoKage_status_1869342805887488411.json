@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1868749990392164352"
+      ],
+      "media_source_tweet_id": [
+        "1868750065394966684"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "1869342805887488411",
+    "created_at": "2024-12-18T11:23:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T12:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869342805887488411"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 50,
+          "normalized_text": "vtuber awards",
+          "probability": 0.702,
+          "start": 38,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1344228217104830464",
+          "start": 3,
+          "username": "chibidokii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uE9GS4vxae",
+          "end": 76,
+          "expanded_url": "https://x.com/chibidokii/status/1868750065394966684/video/1",
+          "media_key": "13_1868749990392164352",
+          "start": 53,
+          "url": "https://t.co/uE9GS4vxae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869342805887488411",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5338
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868750065394966684",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chibidokii: a lot happened at the vtuber awards… https://t.co/uE9GS4vxae"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 120733,
+        "height": 324,
+        "media_key": "13_1868749990392164352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1868749990392164352/img/sCzBp9tHD5_OUJSF.jpg",
+        "public_metrics": {
+          "view_count": 621845
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1868749990392164352/vid/avc1/480x270/fm884xRJ7wsvo5Lk.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1868749990392164352/vid/avc1/576x324/tHp035dPDyNM6dAv.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1868749990392164352/pl/0IUfOb_SmOUdsesf.m3u8?tag=16&v=04e"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1868749990392164352"
+          ],
+          "media_source_tweet_id": [
+            "1868750065394966684"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1869342805887488411",
+        "created_at": "2024-12-18T11:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T12:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869342805887488411"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 50,
+              "normalized_text": "vtuber awards",
+              "probability": 0.702,
+              "start": 38,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1344228217104830464",
+              "start": 3,
+              "username": "chibidokii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uE9GS4vxae",
+              "end": 76,
+              "expanded_url": "https://x.com/chibidokii/status/1868750065394966684/video/1",
+              "media_key": "13_1868749990392164352",
+              "start": 53,
+              "url": "https://t.co/uE9GS4vxae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869342805887488411",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5338
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868750065394966684",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chibidokii: a lot happened at the vtuber awards… https://t.co/uE9GS4vxae"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1868749990392164352"
+          ]
+        },
+        "author_id": "1344228217104830464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1868750065394966684",
+        "created_at": "2024-12-16T20:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T21:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868750065394966684"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "vtuber",
+              "probability": 0.8846,
+              "start": 22,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uE9GS4vxae",
+              "end": 60,
+              "expanded_url": "https://x.com/chibidokii/status/1868750065394966684/video/1",
+              "media_key": "13_1868749990392164352",
+              "start": 37,
+              "url": "https://t.co/uE9GS4vxae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868750065394966684",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13611,
+          "impression_count": 1123500,
+          "like_count": 62797,
+          "quote_count": 89,
+          "reply_count": 115,
+          "retweet_count": 5338
+        },
+        "reply_settings": "everyone",
+        "text": "a lot happened at the vtuber awards… https://t.co/uE9GS4vxae"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain📷膠片攝影/相机维修🚬大烟鬼🔪刃物收藏⌚️入门表匠⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "_kagenone"
+              },
+              {
+                "end": 137,
+                "start": 132,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7383,
+          "following_count": 4338,
+          "like_count": 11951,
+          "listed_count": 19,
+          "media_count": 2031,
+          "tweet_count": 14336
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-30T10:26:32.000Z",
+        "description": "♡ VTUBER ♡\n♡ fanart/memes/clips: #chibmin ♡\n♡ 2D: @honey_kub | h: hazakurachikori ♡\n♡ business: chibi@mythictalent.com ♡\n♡ https://t.co/TUCSWCzFxP ♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 33,
+                "tag": "chibmin"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "honey_kub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/chibidoki",
+                "end": 146,
+                "expanded_url": "http://twitch.tv/chibidoki",
+                "start": 123,
+                "url": "https://t.co/TUCSWCzFxP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chibidoki",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/chibidoki",
+                "start": 0,
+                "url": "https://t.co/eipO9PmQKD"
+              }
+            ]
+          }
+        },
+        "id": "1344228217104830464",
+        "location": "YOU'RE MY FRIEND NOW",
+        "name": "chibi 💕 Vtuber",
+        "pinned_tweet_id": "1865616473131036807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778346265404641280/9AM13XIr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455407,
+          "following_count": 1315,
+          "like_count": 66290,
+          "listed_count": 762,
+          "media_count": 6305,
+          "tweet_count": 32415
+        },
+        "url": "https://t.co/eipO9PmQKD",
+        "username": "chibidokii",
+        "verified": true
+      }
+    ]
+  }
+}

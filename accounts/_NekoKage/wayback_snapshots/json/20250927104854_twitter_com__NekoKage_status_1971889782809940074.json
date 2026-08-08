@@ -1,0 +1,764 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971594176094760960",
+        "3_1971594177453654016",
+        "3_1971594176736399361",
+        "3_1971594177214603265"
+      ],
+      "media_source_tweet_id": [
+        "1971594179567616193",
+        "1971594179567616193",
+        "1971594179567616193",
+        "1971594179567616193"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "1971889782809940074",
+    "created_at": "2025-09-27T10:48:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T11:48:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971889782809940074"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 51,
+          "normalized_text": "iPhone 17 Pro",
+          "probability": 0.7129,
+          "start": 39,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1632387326243651587",
+          "start": 3,
+          "username": "WorkaholicDavid"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CmdPZNZMqe",
+          "end": 117,
+          "expanded_url": "https://x.com/WorkaholicDavid/status/1971594179567616193/photo/1",
+          "media_key": "3_1971594176094760960",
+          "start": 94,
+          "url": "https://t.co/CmdPZNZMqe"
+        },
+        {
+          "display_url": "pic.x.com/CmdPZNZMqe",
+          "end": 117,
+          "expanded_url": "https://x.com/WorkaholicDavid/status/1971594179567616193/photo/1",
+          "media_key": "3_1971594177453654016",
+          "start": 94,
+          "url": "https://t.co/CmdPZNZMqe"
+        },
+        {
+          "display_url": "pic.x.com/CmdPZNZMqe",
+          "end": 117,
+          "expanded_url": "https://x.com/WorkaholicDavid/status/1971594179567616193/photo/1",
+          "media_key": "3_1971594176736399361",
+          "start": 94,
+          "url": "https://t.co/CmdPZNZMqe"
+        },
+        {
+          "display_url": "pic.x.com/CmdPZNZMqe",
+          "end": 117,
+          "expanded_url": "https://x.com/WorkaholicDavid/status/1971594179567616193/photo/1",
+          "media_key": "3_1971594177214603265",
+          "start": 94,
+          "url": "https://t.co/CmdPZNZMqe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971889782809940074",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971594179567616193",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WorkaholicDavid: Someone bought an iPhone 17 Pro and found dust inside the telephoto lens https://t.co/CmdPZNZMqe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1971594176094760960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1yCdQtbcAAN3fY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1971594177453654016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1yCdVxagAAXeKS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1971594176736399361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1yCdTGaEAEA8oC.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1971594177214603265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1yCdU4a4AEKmy3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971594176094760960",
+            "3_1971594177453654016",
+            "3_1971594176736399361",
+            "3_1971594177214603265"
+          ],
+          "media_source_tweet_id": [
+            "1971594179567616193",
+            "1971594179567616193",
+            "1971594179567616193",
+            "1971594179567616193"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1971889782809940074",
+        "created_at": "2025-09-27T10:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T11:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971889782809940074"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 51,
+              "normalized_text": "iPhone 17 Pro",
+              "probability": 0.7129,
+              "start": 39,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1632387326243651587",
+              "start": 3,
+              "username": "WorkaholicDavid"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CmdPZNZMqe",
+              "end": 117,
+              "expanded_url": "https://x.com/WorkaholicDavid/status/1971594179567616193/photo/1",
+              "media_key": "3_1971594176094760960",
+              "start": 94,
+              "url": "https://t.co/CmdPZNZMqe"
+            },
+            {
+              "display_url": "pic.x.com/CmdPZNZMqe",
+              "end": 117,
+              "expanded_url": "https://x.com/WorkaholicDavid/status/1971594179567616193/photo/1",
+              "media_key": "3_1971594177453654016",
+              "start": 94,
+              "url": "https://t.co/CmdPZNZMqe"
+            },
+            {
+              "display_url": "pic.x.com/CmdPZNZMqe",
+              "end": 117,
+              "expanded_url": "https://x.com/WorkaholicDavid/status/1971594179567616193/photo/1",
+              "media_key": "3_1971594176736399361",
+              "start": 94,
+              "url": "https://t.co/CmdPZNZMqe"
+            },
+            {
+              "display_url": "pic.x.com/CmdPZNZMqe",
+              "end": 117,
+              "expanded_url": "https://x.com/WorkaholicDavid/status/1971594179567616193/photo/1",
+              "media_key": "3_1971594177214603265",
+              "start": 94,
+              "url": "https://t.co/CmdPZNZMqe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971889782809940074",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971594179567616193",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WorkaholicDavid: Someone bought an iPhone 17 Pro and found dust inside the telephoto lens https://t.co/CmdPZNZMqe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971594176094760960",
+            "3_1971594177453654016",
+            "3_1971594176736399361",
+            "3_1971594177214603265"
+          ]
+        },
+        "author_id": "1632387326243651587",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1971594179567616193",
+        "created_at": "2025-09-26T15:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T16:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971594179567616193"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "iPhone 17 Pro",
+              "probability": 0.7437,
+              "start": 18,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CmdPZNZMqe",
+              "end": 96,
+              "expanded_url": "https://x.com/WorkaholicDavid/status/1971594179567616193/photo/1",
+              "media_key": "3_1971594176094760960",
+              "start": 73,
+              "url": "https://t.co/CmdPZNZMqe"
+            },
+            {
+              "display_url": "pic.x.com/CmdPZNZMqe",
+              "end": 96,
+              "expanded_url": "https://x.com/WorkaholicDavid/status/1971594179567616193/photo/1",
+              "media_key": "3_1971594177453654016",
+              "start": 73,
+              "url": "https://t.co/CmdPZNZMqe"
+            },
+            {
+              "display_url": "pic.x.com/CmdPZNZMqe",
+              "end": 96,
+              "expanded_url": "https://x.com/WorkaholicDavid/status/1971594179567616193/photo/1",
+              "media_key": "3_1971594176736399361",
+              "start": 73,
+              "url": "https://t.co/CmdPZNZMqe"
+            },
+            {
+              "display_url": "pic.x.com/CmdPZNZMqe",
+              "end": 96,
+              "expanded_url": "https://x.com/WorkaholicDavid/status/1971594179567616193/photo/1",
+              "media_key": "3_1971594177214603265",
+              "start": 73,
+              "url": "https://t.co/CmdPZNZMqe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971594179567616193",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 127,
+          "impression_count": 110212,
+          "like_count": 988,
+          "quote_count": 7,
+          "reply_count": 53,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "Someone bought an iPhone 17 Pro and found dust inside the telephoto lens https://t.co/CmdPZNZMqe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7895,
+          "following_count": 5098,
+          "like_count": 13261,
+          "listed_count": 17,
+          "media_count": 2428,
+          "tweet_count": 17349
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-05T14:27:29.000Z",
+        "description": "Engineer | I like Teslas, I like Apple, I like Samsung, basically everything tech related.\nBusiness: amirhojaiji@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "YouTube.com/@amirhojaiji",
+                "end": 23,
+                "expanded_url": "http://YouTube.com/@amirhojaiji",
+                "start": 0,
+                "url": "https://t.co/wRKtamd0nV"
+              }
+            ]
+          }
+        },
+        "id": "1632387326243651587",
+        "location": "United States",
+        "name": "Amir",
+        "pinned_tweet_id": "1969747585134116916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913772038063632384/nLhlE9Og_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8183,
+          "following_count": 2186,
+          "like_count": 79596,
+          "listed_count": 11,
+          "media_count": 5085,
+          "tweet_count": 35936
+        },
+        "url": "https://t.co/wRKtamd0nV",
+        "username": "WorkaholicDavid",
+        "verified": true
+      }
+    ]
+  }
+}

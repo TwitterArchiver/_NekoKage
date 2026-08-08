@@ -1,0 +1,605 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951496119365804032"
+      ],
+      "media_source_tweet_id": [
+        "1951496138496024981"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Food Blogs",
+          "id": "826817907946450944",
+          "name": "Food Blogs"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations that mention lunch.",
+          "id": "1006588701193879552",
+          "name": "Lunch"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Food Blogs",
+          "id": "826817907946450944",
+          "name": "Food Blogs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations that mention lunch.",
+          "id": "1006588701193879552",
+          "name": "Lunch"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      }
+    ],
+    "conversation_id": "1951630633652109349",
+    "created_at": "2025-08-02T13:06:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T14:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951630633652109349"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "NUC",
+          "probability": 0.6614,
+          "start": 15,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4900141844",
+          "start": 3,
+          "username": "teraytech"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0yPvjvqzFK",
+          "end": 85,
+          "expanded_url": "https://x.com/teraytech/status/1951496138496024981/photo/1",
+          "media_key": "3_1951496119365804032",
+          "start": 62,
+          "url": "https://t.co/0yPvjvqzFK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951630633652109349",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951496138496024981",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @teraytech: NUC is now on\ngonna start wiring after lunch 🤓 https://t.co/0yPvjvqzFK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1951496119365804032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxUbYY9aIAAR_5i.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951496119365804032"
+          ],
+          "media_source_tweet_id": [
+            "1951496138496024981"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Food Blogs",
+              "id": "826817907946450944",
+              "name": "Food Blogs"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations that mention lunch.",
+              "id": "1006588701193879552",
+              "name": "Lunch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food Blogs",
+              "id": "826817907946450944",
+              "name": "Food Blogs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations that mention lunch.",
+              "id": "1006588701193879552",
+              "name": "Lunch"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          }
+        ],
+        "conversation_id": "1951630633652109349",
+        "created_at": "2025-08-02T13:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T14:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951630633652109349"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "NUC",
+              "probability": 0.6614,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4900141844",
+              "start": 3,
+              "username": "teraytech"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0yPvjvqzFK",
+              "end": 85,
+              "expanded_url": "https://x.com/teraytech/status/1951496138496024981/photo/1",
+              "media_key": "3_1951496119365804032",
+              "start": 62,
+              "url": "https://t.co/0yPvjvqzFK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951630633652109349",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951496138496024981",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @teraytech: NUC is now on\ngonna start wiring after lunch 🤓 https://t.co/0yPvjvqzFK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951496119365804032"
+          ]
+        },
+        "author_id": "4900141844",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Food Blogs",
+              "id": "826817907946450944",
+              "name": "Food Blogs"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations that mention lunch.",
+              "id": "1006588701193879552",
+              "name": "Lunch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food Blogs",
+              "id": "826817907946450944",
+              "name": "Food Blogs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations that mention lunch.",
+              "id": "1006588701193879552",
+              "name": "Lunch"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          }
+        ],
+        "conversation_id": "1951496138496024981",
+        "created_at": "2025-08-02T04:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T05:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951496138496024981"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "NUC",
+              "probability": 0.5708,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0yPvjvqzFK",
+              "end": 70,
+              "expanded_url": "https://x.com/teraytech/status/1951496138496024981/photo/1",
+              "media_key": "3_1951496119365804032",
+              "start": 47,
+              "url": "https://t.co/0yPvjvqzFK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951496138496024981",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 4989,
+          "like_count": 183,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "NUC is now on\ngonna start wiring after lunch 🤓 https://t.co/0yPvjvqzFK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🐈#RainWorld⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 107,
+                "tag": "RainWorld"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "_kagenone"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7811,
+          "following_count": 4935,
+          "like_count": 13018,
+          "listed_count": 18,
+          "media_count": 2350,
+          "tweet_count": 16712
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-13T03:46:38.000Z",
+        "description": "Mixed Signal & RF || LinuxCNC || Master of Telecommunications @ University of Sydney || Armature Radio VK2PPP / BH5HLQ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vrchat.com/home/user/usr_…",
+                "end": 23,
+                "expanded_url": "https://vrchat.com/home/user/usr_47e1c7e8-02b0-494b-96b8-251f14581663",
+                "start": 0,
+                "url": "https://t.co/PxBdvbuuaH"
+              }
+            ]
+          }
+        },
+        "id": "4900141844",
+        "location": "Sydney, Australia",
+        "name": "Tτ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889730904723169282/Zk3AeKbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 374,
+          "like_count": 4833,
+          "listed_count": 13,
+          "media_count": 302,
+          "tweet_count": 869
+        },
+        "url": "https://t.co/PxBdvbuuaH",
+        "username": "teraytech",
+        "verified": false
+      }
+    ]
+  }
+}

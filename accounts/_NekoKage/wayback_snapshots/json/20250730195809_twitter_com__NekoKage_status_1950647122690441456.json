@@ -1,0 +1,502 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950390994400399360",
+        "3_1950390994467508224"
+      ],
+      "media_source_tweet_id": [
+        "1950391062612365534",
+        "1950391062612365534"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese actor",
+          "id": "1070724833342742528",
+          "name": "Koji Seto"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Japanese actor",
+          "id": "1070724833342742528",
+          "name": "Koji Seto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "description": "Japanese actor",
+          "id": "1070724833342742528",
+          "name": "Koji Seto"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese actor",
+          "id": "1070724833342742528",
+          "name": "Koji Seto"
+        }
+      }
+    ],
+    "conversation_id": "1950647122690441456",
+    "created_at": "2025-07-30T19:58:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T20:58:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950647122690441456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "115011024",
+          "start": 3,
+          "username": "eguri89"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TYxYiMtIfL",
+          "end": 44,
+          "expanded_url": "https://x.com/eguri89/status/1950391062612365534/photo/1",
+          "media_key": "3_1950390994400399360",
+          "start": 21,
+          "url": "https://t.co/TYxYiMtIfL"
+        },
+        {
+          "display_url": "pic.x.com/TYxYiMtIfL",
+          "end": 44,
+          "expanded_url": "https://x.com/eguri89/status/1950391062612365534/photo/1",
+          "media_key": "3_1950390994467508224",
+          "start": 21,
+          "url": "https://t.co/TYxYiMtIfL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950647122690441456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3937
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950391062612365534",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eguri89: 大活躍しそうだ https://t.co/TYxYiMtIfL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1950390994400399360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxEuRppbUAARth1.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1950390994467508224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxEuRp5bUAAjFeC.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950390994400399360",
+            "3_1950390994467508224"
+          ],
+          "media_source_tweet_id": [
+            "1950391062612365534",
+            "1950391062612365534"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese actor",
+              "id": "1070724833342742528",
+              "name": "Koji Seto"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese actor",
+              "id": "1070724833342742528",
+              "name": "Koji Seto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "description": "Japanese actor",
+              "id": "1070724833342742528",
+              "name": "Koji Seto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese actor",
+              "id": "1070724833342742528",
+              "name": "Koji Seto"
+            }
+          }
+        ],
+        "conversation_id": "1950647122690441456",
+        "created_at": "2025-07-30T19:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T20:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950647122690441456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "115011024",
+              "start": 3,
+              "username": "eguri89"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TYxYiMtIfL",
+              "end": 44,
+              "expanded_url": "https://x.com/eguri89/status/1950391062612365534/photo/1",
+              "media_key": "3_1950390994400399360",
+              "start": 21,
+              "url": "https://t.co/TYxYiMtIfL"
+            },
+            {
+              "display_url": "pic.x.com/TYxYiMtIfL",
+              "end": 44,
+              "expanded_url": "https://x.com/eguri89/status/1950391062612365534/photo/1",
+              "media_key": "3_1950390994467508224",
+              "start": 21,
+              "url": "https://t.co/TYxYiMtIfL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950647122690441456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3937
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950391062612365534",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eguri89: 大活躍しそうだ https://t.co/TYxYiMtIfL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950390994400399360",
+            "3_1950390994467508224"
+          ]
+        },
+        "author_id": "115011024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese actor",
+              "id": "1070724833342742528",
+              "name": "Koji Seto"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese actor",
+              "id": "1070724833342742528",
+              "name": "Koji Seto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "description": "Japanese actor",
+              "id": "1070724833342742528",
+              "name": "Koji Seto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese actor",
+              "id": "1070724833342742528",
+              "name": "Koji Seto"
+            }
+          }
+        ],
+        "conversation_id": "1950391062612365534",
+        "created_at": "2025-07-30T03:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T04:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950391062612365534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TYxYiMtIfL",
+              "end": 31,
+              "expanded_url": "https://x.com/eguri89/status/1950391062612365534/photo/1",
+              "media_key": "3_1950390994400399360",
+              "start": 8,
+              "url": "https://t.co/TYxYiMtIfL"
+            },
+            {
+              "display_url": "pic.x.com/TYxYiMtIfL",
+              "end": 31,
+              "expanded_url": "https://x.com/eguri89/status/1950391062612365534/photo/1",
+              "media_key": "3_1950390994467508224",
+              "start": 8,
+              "url": "https://t.co/TYxYiMtIfL"
+            },
+            {
+              "display_url": "x.com/eguri89/status…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/eguri89/status/1950389111568945487",
+              "start": 32,
+              "url": "https://t.co/J4eOkkOA7h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950391062612365534",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4829,
+          "impression_count": 2809456,
+          "like_count": 34744,
+          "quote_count": 531,
+          "reply_count": 36,
+          "retweet_count": 3937
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950389111568945487",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大活躍しそうだ https://t.co/TYxYiMtIfL https://t.co/J4eOkkOA7h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🐈#RainWorld⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 107,
+                "tag": "RainWorld"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "_kagenone"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7804,
+          "following_count": 4893,
+          "like_count": 13032,
+          "listed_count": 18,
+          "media_count": 2336,
+          "tweet_count": 16599
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-17T09:36:59.000Z",
+        "description": "2010年からYouTube開始。劇団天然工房、UUUM所属。 YouTube https://t.co/I1XLsLWiZu Instagram https://t.co/Qhpm58N3Wx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/eguri89",
+                "end": 63,
+                "expanded_url": "http://youtube.com/eguri89",
+                "start": 40,
+                "url": "https://t.co/I1XLsLWiZu"
+              },
+              {
+                "display_url": "instagram.com/eguri89",
+                "end": 97,
+                "expanded_url": "http://instagram.com/eguri89",
+                "start": 74,
+                "url": "https://t.co/Qhpm58N3Wx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/Kojiseto",
+                "end": 23,
+                "expanded_url": "https://youtube.com/c/Kojiseto",
+                "start": 0,
+                "url": "https://t.co/gKAUDibCke"
+              }
+            ]
+          }
+        },
+        "id": "115011024",
+        "location": "Tokyo",
+        "name": "瀬戸弘司 Koji Seto",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1593413342294528000/2jpxRqsL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438837,
+          "following_count": 1877,
+          "like_count": 6050,
+          "listed_count": 1757,
+          "media_count": 17423,
+          "tweet_count": 57579
+        },
+        "url": "https://t.co/gKAUDibCke",
+        "username": "eguri89",
+        "verified": true
+      }
+    ]
+  }
+}

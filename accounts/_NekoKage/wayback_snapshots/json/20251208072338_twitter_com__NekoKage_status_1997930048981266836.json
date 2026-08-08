@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Yokohama",
+          "id": "1009174794506399744",
+          "name": "Yokohama"
+        }
+      }
+    ],
+    "conversation_id": "1997930048981266836",
+    "created_at": "2025-12-08T07:23:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T08:23:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997930048981266836"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "横浜店",
+          "probability": 0.6841,
+          "start": 14,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "71209626",
+          "start": 3,
+          "username": "lemonsha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997930048981266836",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997880192086520009",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lemonsha: 横浜店です。\nあの伝説のカメラが…！\nミノルタの出したクレージュのディスクカメラが入荷しました。\n動作確認出来ない為ジャンク扱いですが、フィルムコンデジのコーナーにこっそりと置いておきます。\n\n是非店頭にチェックしに来てみてください～！ https:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1997879916663390208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7nlMvCbwAARZmH.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Yokohama",
+              "id": "1009174794506399744",
+              "name": "Yokohama"
+            }
+          }
+        ],
+        "conversation_id": "1997930048981266836",
+        "created_at": "2025-12-08T07:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T08:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997930048981266836"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "横浜店",
+              "probability": 0.6841,
+              "start": 14,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "71209626",
+              "start": 3,
+              "username": "lemonsha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997930048981266836",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997880192086520009",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lemonsha: 横浜店です。\nあの伝説のカメラが…！\nミノルタの出したクレージュのディスクカメラが入荷しました。\n動作確認出来ない為ジャンク扱いですが、フィルムコンデジのコーナーにこっそりと置いておきます。\n\n是非店頭にチェックしに来てみてください～！ https:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997879916663390208"
+          ]
+        },
+        "author_id": "71209626",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Yokohama",
+              "id": "1009174794506399744",
+              "name": "Yokohama"
+            }
+          }
+        ],
+        "conversation_id": "1997880192086520009",
+        "created_at": "2025-12-08T04:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T05:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997880192086520009"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "横浜店",
+              "probability": 0.5173,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MF4TrJbDyc",
+              "end": 142,
+              "expanded_url": "https://x.com/lemonsha/status/1997880192086520009/photo/1",
+              "media_key": "3_1997879916663390208",
+              "start": 119,
+              "url": "https://t.co/MF4TrJbDyc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997880192086520009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 500,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "横浜店です。\nあの伝説のカメラが…！\nミノルタの出したクレージュのディスクカメラが入荷しました。\n動作確認出来ない為ジャンク扱いですが、フィルムコンデジのコーナーにこっそりと置いておきます。\n\n是非店頭にチェックしに来てみてください～！ https://t.co/MF4TrJbDyc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989746234408701952/CGIjbFWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7971,
+          "following_count": 5487,
+          "like_count": 13678,
+          "listed_count": 17,
+          "media_count": 2527,
+          "tweet_count": 18378
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-03T08:55:54.000Z",
+        "description": "カメラ/時計/万年筆/など、大人の趣味の店を目指してるレモン社です🍋 銀座教会店・新宿店・渋谷店・秋葉原店・池袋店・横浜店・名古屋栄店 ※商品在庫状況に関してはナニワグループオンラインサイトまたは各店舗に直接ご確認ください※リプに返信出来ない場合もあります※ #レモン社 #ナニワグループオンライン #スペース728",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "レモン社"
+              },
+              {
+                "end": 149,
+                "start": 136,
+                "tag": "ナニワグループオンライン"
+              },
+              {
+                "end": 158,
+                "start": 150,
+                "tag": "スペース728"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lemonsha.com",
+                "end": 23,
+                "expanded_url": "http://www.lemonsha.com",
+                "start": 0,
+                "url": "https://t.co/w5VXfryuCL"
+              }
+            ]
+          }
+        },
+        "id": "71209626",
+        "location": "東京都中央区銀座4-2-1銀座教会堂ビル8F",
+        "name": "レモン社🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/877822668094849026/AkecVK6x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8067,
+          "following_count": 3564,
+          "like_count": 4652,
+          "listed_count": 314,
+          "media_count": 2064,
+          "tweet_count": 21149
+        },
+        "url": "https://t.co/w5VXfryuCL",
+        "username": "lemonsha",
+        "verified": false
+      }
+    ]
+  }
+}

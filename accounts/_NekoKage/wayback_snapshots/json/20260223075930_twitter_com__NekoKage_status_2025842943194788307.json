@@ -1,0 +1,598 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2025503803819085824"
+      ],
+      "media_source_tweet_id": [
+        "2025729823662841972"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597017083904",
+          "name": "QSR - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026319212",
+          "name": "McDonald's"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026319212",
+          "name": "McDonald's"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Fast food",
+          "id": "847865239886417922",
+          "name": "Fast food Restaurants"
+        }
+      }
+    ],
+    "conversation_id": "2025842943194788307",
+    "created_at": "2026-02-23T07:59:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T08:59:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025842943194788307"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 28,
+          "tag": "日替わり100円クーポン"
+        },
+        {
+          "end": 50,
+          "start": 42,
+          "tag": "公式アプリ限定"
+        },
+        {
+          "end": 66,
+          "start": 51,
+          "tag": "本日2月23日から7日間限定"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "184004752",
+          "start": 3,
+          "username": "McDonaldsJapan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CF20Bqf9gQ",
+          "end": 90,
+          "expanded_url": "https://x.com/McDonaldsJapan/status/2025729823662841972/video/1",
+          "media_key": "13_2025503803819085824",
+          "start": 67,
+          "url": "https://t.co/CF20Bqf9gQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025842943194788307",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4858
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025729823662841972",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @McDonaldsJapan: トクニーナルド\n#日替わり100円クーポン\n#公式アプリ限定\n#本日2月23日から7日間限定 https://t.co/CF20Bqf9gQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36369,
+        "height": 1080,
+        "media_key": "13_2025503803819085824",
+        "preview_image_url": "https://pbs.twimg.com/media/HBwJB69WwAAiazz.jpg",
+        "public_metrics": {
+          "view_count": 297630
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025503803819085824/vid/avc1/480x270/NyR1RwVg8i1-iQBH.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025503803819085824/vid/avc1/640x360/61YJZfasJUsagqjR.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025503803819085824/vid/avc1/1280x720/c4EovFWTpfZGCw6G.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2025503803819085824/pl/xGoIEbrJz-GL5PrM.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025503803819085824"
+          ],
+          "media_source_tweet_id": [
+            "2025729823662841972"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2025842943194788307",
+        "created_at": "2026-02-23T07:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T08:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025842943194788307"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 28,
+              "tag": "日替わり100円クーポン"
+            },
+            {
+              "end": 50,
+              "start": 42,
+              "tag": "公式アプリ限定"
+            },
+            {
+              "end": 66,
+              "start": 51,
+              "tag": "本日2月23日から7日間限定"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "184004752",
+              "start": 3,
+              "username": "McDonaldsJapan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CF20Bqf9gQ",
+              "end": 90,
+              "expanded_url": "https://x.com/McDonaldsJapan/status/2025729823662841972/video/1",
+              "media_key": "13_2025503803819085824",
+              "start": 67,
+              "url": "https://t.co/CF20Bqf9gQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025842943194788307",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4858
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025729823662841972",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @McDonaldsJapan: トクニーナルド\n#日替わり100円クーポン\n#公式アプリ限定\n#本日2月23日から7日間限定 https://t.co/CF20Bqf9gQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025503803819085824"
+          ]
+        },
+        "author_id": "184004752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2025729823662841972",
+        "created_at": "2026-02-23T00:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T01:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025729823662841972"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 8,
+              "tag": "日替わり100円クーポン"
+            },
+            {
+              "end": 30,
+              "start": 22,
+              "tag": "公式アプリ限定"
+            },
+            {
+              "end": 46,
+              "start": 31,
+              "tag": "本日2月23日から7日間限定"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CF20Bqf9gQ",
+              "end": 70,
+              "expanded_url": "https://x.com/McDonaldsJapan/status/2025729823662841972/video/1",
+              "media_key": "13_2025503803819085824",
+              "start": 47,
+              "url": "https://t.co/CF20Bqf9gQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025729823662841972",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2840,
+          "impression_count": 1042835,
+          "like_count": 22425,
+          "quote_count": 538,
+          "reply_count": 214,
+          "retweet_count": 4858
+        },
+        "reply_settings": "everyone",
+        "text": "トクニーナルド\n#日替わり100円クーポン\n#公式アプリ限定\n#本日2月23日から7日間限定 https://t.co/CF20Bqf9gQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7966,
+          "following_count": 5786,
+          "like_count": 13876,
+          "listed_count": 16,
+          "media_count": 2608,
+          "tweet_count": 19247
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-28T12:54:08.000Z",
+        "description": "日本マクドナルド公式アカウントです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mcdonalds.co.jp",
+                "end": 23,
+                "expanded_url": "http://www.mcdonalds.co.jp/",
+                "start": 0,
+                "url": "https://t.co/SnnrXbyVLG"
+              }
+            ]
+          }
+        },
+        "id": "184004752",
+        "name": "マクドナルド",
+        "pinned_tweet_id": "2016715423903891780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979852381320851456/_8KOocC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9923071,
+          "following_count": 24,
+          "like_count": 14209,
+          "listed_count": 10916,
+          "media_count": 21444,
+          "tweet_count": 31479
+        },
+        "url": "https://t.co/SnnrXbyVLG",
+        "username": "McDonaldsJapan",
+        "verified": true
+      }
+    ]
+  }
+}

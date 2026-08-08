@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1363194431084503049"
+      ],
+      "media_source_tweet_id": [
+        "1363194798690111491"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "id": "1575491919924187138",
+          "name": "Food Manufacturing Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168989718400225280",
+          "name": "AJINOMOTO"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1612832180647989248",
+          "name": "Anjinomoto"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168989718400225280",
+          "name": "AJINOMOTO"
+        }
+      }
+    ],
+    "conversation_id": "2004751790961816058",
+    "created_at": "2025-12-27T03:10:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T04:10:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004751790961816058"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 94,
+          "normalized_text": "Ajinomoto Build-up Film",
+          "probability": 0.3237,
+          "start": 72,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2559066672",
+          "start": 3,
+          "username": "love_kobato_all"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/beSu5uHE2o",
+          "end": 135,
+          "expanded_url": "https://x.com/love_kobato_all/status/1363194798690111491/photo/1",
+          "media_key": "3_1363194431084503049",
+          "start": 112,
+          "url": "https://t.co/beSu5uHE2o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004751790961816058",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3135
+    },
+    "referenced_tweets": [
+      {
+        "id": "1363194798690111491",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @love_kobato_all: 本当に世界を支配しているのはAMDでもなくTSMCでもなく味の素だった！！\nこの世のほぼ１００％の石にAjinomoto Build-up Film（名づけ何とかならんかったのか） https://t.co/beSu5uHE2o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 614,
+        "media_key": "3_1363194431084503049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/EusKHNCVIAkhwCX.jpg",
+        "width": 1389
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1363194431084503049"
+          ],
+          "media_source_tweet_id": [
+            "1363194798690111491"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "id": "1575491919924187138",
+              "name": "Food Manufacturing Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168989718400225280",
+              "name": "AJINOMOTO"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1612832180647989248",
+              "name": "Anjinomoto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168989718400225280",
+              "name": "AJINOMOTO"
+            }
+          }
+        ],
+        "conversation_id": "2004751790961816058",
+        "created_at": "2025-12-27T03:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T04:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004751790961816058"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 94,
+              "normalized_text": "Ajinomoto Build-up Film",
+              "probability": 0.3237,
+              "start": 72,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2559066672",
+              "start": 3,
+              "username": "love_kobato_all"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/beSu5uHE2o",
+              "end": 135,
+              "expanded_url": "https://x.com/love_kobato_all/status/1363194798690111491/photo/1",
+              "media_key": "3_1363194431084503049",
+              "start": 112,
+              "url": "https://t.co/beSu5uHE2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004751790961816058",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3135
+        },
+        "referenced_tweets": [
+          {
+            "id": "1363194798690111491",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @love_kobato_all: 本当に世界を支配しているのはAMDでもなくTSMCでもなく味の素だった！！\nこの世のほぼ１００％の石にAjinomoto Build-up Film（名づけ何とかならんかったのか） https://t.co/beSu5uHE2o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1363194431084503049"
+          ]
+        },
+        "author_id": "2559066672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168989718400225280",
+              "name": "AJINOMOTO"
+            }
+          }
+        ],
+        "conversation_id": "1363194798690111491",
+        "created_at": "2021-02-20T18:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2021-02-20T19:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1363194798690111491"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 73,
+              "normalized_text": "Ajinomoto Build-up Film",
+              "probability": 0.3193,
+              "start": 51,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/beSu5uHE2o",
+              "end": 114,
+              "expanded_url": "https://x.com/love_kobato_all/status/1363194798690111491/photo/1",
+              "media_key": "3_1363194431084503049",
+              "start": 91,
+              "url": "https://t.co/beSu5uHE2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1363194798690111491",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 199,
+          "impression_count": 0,
+          "like_count": 5722,
+          "quote_count": 102,
+          "reply_count": 10,
+          "retweet_count": 3135
+        },
+        "reply_settings": "everyone",
+        "text": "本当に世界を支配しているのはAMDでもなくTSMCでもなく味の素だった！！\nこの世のほぼ１００％の石にAjinomoto Build-up Film（名づけ何とかならんかったのか） https://t.co/beSu5uHE2o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7967,
+          "following_count": 5570,
+          "like_count": 13768,
+          "listed_count": 17,
+          "media_count": 2551,
+          "tweet_count": 18599
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-10T13:51:52.000Z",
+        "description": "WeaverseLab CTO いあぷろじぇくと 代表",
+        "id": "2559066672",
+        "location": "東京 調布市",
+        "name": "ここあ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1584365976518545408/racpT1EA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 1133,
+          "like_count": 70925,
+          "listed_count": 21,
+          "media_count": 4644,
+          "tweet_count": 21559
+        },
+        "username": "love_kobato_all",
+        "verified": false
+      }
+    ]
+  }
+}

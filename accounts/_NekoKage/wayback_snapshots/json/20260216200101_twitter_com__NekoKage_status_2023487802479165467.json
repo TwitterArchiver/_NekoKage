@@ -1,0 +1,529 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974753624996945920",
+        "3_1974753624959209474",
+        "3_1974753624950800384",
+        "3_1974753625026260992"
+      ],
+      "media_source_tweet_id": [
+        "1974753635109315036",
+        "1974753635109315036",
+        "1974753635109315036",
+        "1974753635109315036"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2023487802479165467",
+    "created_at": "2026-02-16T20:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T21:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023487802479165467"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "C",
+          "probability": 0.4457,
+          "start": 36,
+          "type": "Other"
+        },
+        {
+          "end": 79,
+          "normalized_text": "Apple",
+          "probability": 0.7584,
+          "start": 75,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 80,
+          "start": 74,
+          "tag": "Apple"
+        },
+        {
+          "end": 90,
+          "start": 81,
+          "tag": "AirPower"
+        },
+        {
+          "end": 101,
+          "start": 91,
+          "tag": "Lightning"
+        },
+        {
+          "end": 108,
+          "start": 102,
+          "tag": "cable"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1359775778804805632",
+          "start": 3,
+          "username": "hsuchingpo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xTpWx5UL6K",
+          "end": 132,
+          "expanded_url": "https://x.com/hsuchingpo/status/1974753635109315036/photo/1",
+          "media_key": "3_1974753624996945920",
+          "start": 109,
+          "url": "https://t.co/xTpWx5UL6K"
+        },
+        {
+          "display_url": "pic.x.com/xTpWx5UL6K",
+          "end": 132,
+          "expanded_url": "https://x.com/hsuchingpo/status/1974753635109315036/photo/1",
+          "media_key": "3_1974753624959209474",
+          "start": 109,
+          "url": "https://t.co/xTpWx5UL6K"
+        },
+        {
+          "display_url": "pic.x.com/xTpWx5UL6K",
+          "end": 132,
+          "expanded_url": "https://x.com/hsuchingpo/status/1974753635109315036/photo/1",
+          "media_key": "3_1974753624950800384",
+          "start": 109,
+          "url": "https://t.co/xTpWx5UL6K"
+        },
+        {
+          "display_url": "pic.x.com/xTpWx5UL6K",
+          "end": 132,
+          "expanded_url": "https://x.com/hsuchingpo/status/1974753635109315036/photo/1",
+          "media_key": "3_1974753625026260992",
+          "start": 109,
+          "url": "https://t.co/xTpWx5UL6K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023487802479165467",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974753635109315036",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsuchingpo: AirPower Cable \nUSB-C to Lightning 1.5m（C91）\nModel ：A1917\n#Apple #AirPower #Lightning #cable https://t.co/xTpWx5UL6K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1974753624996945920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2e79ZDboAAaB1U.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1974753624959209474",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2e79Y6b0AIjAkP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1974753624950800384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2e79Y4bgAA5Ol6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 582,
+        "media_key": "3_1974753625026260992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2e79ZKa8AANgV4.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974753624996945920",
+            "3_1974753624959209474",
+            "3_1974753624950800384",
+            "3_1974753625026260992"
+          ],
+          "media_source_tweet_id": [
+            "1974753635109315036",
+            "1974753635109315036",
+            "1974753635109315036",
+            "1974753635109315036"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2023487802479165467",
+        "created_at": "2026-02-16T20:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T21:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023487802479165467"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "C",
+              "probability": 0.4457,
+              "start": 36,
+              "type": "Other"
+            },
+            {
+              "end": 79,
+              "normalized_text": "Apple",
+              "probability": 0.7584,
+              "start": 75,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 74,
+              "tag": "Apple"
+            },
+            {
+              "end": 90,
+              "start": 81,
+              "tag": "AirPower"
+            },
+            {
+              "end": 101,
+              "start": 91,
+              "tag": "Lightning"
+            },
+            {
+              "end": 108,
+              "start": 102,
+              "tag": "cable"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1359775778804805632",
+              "start": 3,
+              "username": "hsuchingpo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xTpWx5UL6K",
+              "end": 132,
+              "expanded_url": "https://x.com/hsuchingpo/status/1974753635109315036/photo/1",
+              "media_key": "3_1974753624996945920",
+              "start": 109,
+              "url": "https://t.co/xTpWx5UL6K"
+            },
+            {
+              "display_url": "pic.x.com/xTpWx5UL6K",
+              "end": 132,
+              "expanded_url": "https://x.com/hsuchingpo/status/1974753635109315036/photo/1",
+              "media_key": "3_1974753624959209474",
+              "start": 109,
+              "url": "https://t.co/xTpWx5UL6K"
+            },
+            {
+              "display_url": "pic.x.com/xTpWx5UL6K",
+              "end": 132,
+              "expanded_url": "https://x.com/hsuchingpo/status/1974753635109315036/photo/1",
+              "media_key": "3_1974753624950800384",
+              "start": 109,
+              "url": "https://t.co/xTpWx5UL6K"
+            },
+            {
+              "display_url": "pic.x.com/xTpWx5UL6K",
+              "end": 132,
+              "expanded_url": "https://x.com/hsuchingpo/status/1974753635109315036/photo/1",
+              "media_key": "3_1974753625026260992",
+              "start": 109,
+              "url": "https://t.co/xTpWx5UL6K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023487802479165467",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974753635109315036",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsuchingpo: AirPower Cable \nUSB-C to Lightning 1.5m（C91）\nModel ：A1917\n#Apple #AirPower #Lightning #cable https://t.co/xTpWx5UL6K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974753624996945920",
+            "3_1974753624959209474",
+            "3_1974753624950800384",
+            "3_1974753625026260992"
+          ]
+        },
+        "author_id": "1359775778804805632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1974753635109315036",
+        "created_at": "2025-10-05T08:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T09:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974753635109315036"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "AirPower Cable \nUSB-C",
+              "probability": 0.4235,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 63,
+              "normalized_text": "Apple",
+              "probability": 0.7794,
+              "start": 59,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 58,
+              "tag": "Apple"
+            },
+            {
+              "end": 74,
+              "start": 65,
+              "tag": "AirPower"
+            },
+            {
+              "end": 85,
+              "start": 75,
+              "tag": "Lightning"
+            },
+            {
+              "end": 92,
+              "start": 86,
+              "tag": "cable"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xTpWx5UL6K",
+              "end": 116,
+              "expanded_url": "https://x.com/hsuchingpo/status/1974753635109315036/photo/1",
+              "media_key": "3_1974753624996945920",
+              "start": 93,
+              "url": "https://t.co/xTpWx5UL6K"
+            },
+            {
+              "display_url": "pic.x.com/xTpWx5UL6K",
+              "end": 116,
+              "expanded_url": "https://x.com/hsuchingpo/status/1974753635109315036/photo/1",
+              "media_key": "3_1974753624959209474",
+              "start": 93,
+              "url": "https://t.co/xTpWx5UL6K"
+            },
+            {
+              "display_url": "pic.x.com/xTpWx5UL6K",
+              "end": 116,
+              "expanded_url": "https://x.com/hsuchingpo/status/1974753635109315036/photo/1",
+              "media_key": "3_1974753624950800384",
+              "start": 93,
+              "url": "https://t.co/xTpWx5UL6K"
+            },
+            {
+              "display_url": "pic.x.com/xTpWx5UL6K",
+              "end": 116,
+              "expanded_url": "https://x.com/hsuchingpo/status/1974753635109315036/photo/1",
+              "media_key": "3_1974753625026260992",
+              "start": 93,
+              "url": "https://t.co/xTpWx5UL6K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974753635109315036",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "AirPower Cable \nUSB-C to Lightning 1.5m（C91）\nModel ：A1917\n#Apple #AirPower #Lightning #cable https://t.co/xTpWx5UL6K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7971,
+          "following_count": 5772,
+          "like_count": 13868,
+          "listed_count": 17,
+          "media_count": 2600,
+          "tweet_count": 19151
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-11T08:06:34.000Z",
+        "description": "hsuchingpo@icloud.com",
+        "id": "1359775778804805632",
+        "name": "徐静环境",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021473530131644417/hGI3bAA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 91,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 110
+        },
+        "username": "hsuchingpo",
+        "verified": false
+      }
+    ]
+  }
+}

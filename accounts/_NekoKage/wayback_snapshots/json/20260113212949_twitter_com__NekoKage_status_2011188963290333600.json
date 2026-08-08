@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "conversation_id": "2011188963290333600",
+    "created_at": "2026-01-13T21:29:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T22:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011188963290333600"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 46,
+          "normalized_text": "SDR",
+          "probability": 0.507,
+          "start": 44,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1454891808983506951",
+          "start": 3,
+          "username": "QVHenkel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011188963290333600",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010477501521199451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QVHenkel: Added a port to the Framework SDR compute module for control and data signals. That way I can interface the remote radar and…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1077,
+        "media_key": "3_2010476383701463042",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-alnnfWcAIFv-P.jpg",
+        "width": 1926
+      },
+      {
+        "height": 1081,
+        "media_key": "3_2010476396544462848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-aloXVXEAAsR2g.jpg",
+        "width": 1866
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2010476407659405312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-alpAvXoAAqSK_.jpg",
+        "width": 1773
+      },
+      {
+        "height": 1082,
+        "media_key": "3_2010476419642474496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-alptYWwAAZWK1.jpg",
+        "width": 1492
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "conversation_id": "2011188963290333600",
+        "created_at": "2026-01-13T21:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T22:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011188963290333600"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "SDR",
+              "probability": 0.507,
+              "start": 44,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1454891808983506951",
+              "start": 3,
+              "username": "QVHenkel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011188963290333600",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010477501521199451",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QVHenkel: Added a port to the Framework SDR compute module for control and data signals. That way I can interface the remote radar and…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010476383701463042",
+            "3_2010476396544462848",
+            "3_2010476407659405312",
+            "3_2010476419642474496"
+          ]
+        },
+        "author_id": "1454891808983506951",
+        "conversation_id": "2010477501521199451",
+        "created_at": "2026-01-11T22:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T23:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010477501521199451"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "SDR",
+              "probability": 0.5597,
+              "start": 30,
+              "type": "Other"
+            },
+            {
+              "end": 162,
+              "normalized_text": "SDR",
+              "probability": 0.6036,
+              "start": 160,
+              "type": "Other"
+            },
+            {
+              "end": 219,
+              "normalized_text": "GMSL",
+              "probability": 0.5808,
+              "start": 216,
+              "type": "Other"
+            },
+            {
+              "end": 223,
+              "normalized_text": "FPD",
+              "probability": 0.5488,
+              "start": 221,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qviuUzWCDu",
+              "end": 300,
+              "expanded_url": "https://x.com/QVHenkel/status/2010477501521199451/photo/1",
+              "media_key": "3_2010476383701463042",
+              "start": 277,
+              "url": "https://t.co/qviuUzWCDu"
+            },
+            {
+              "display_url": "pic.x.com/qviuUzWCDu",
+              "end": 300,
+              "expanded_url": "https://x.com/QVHenkel/status/2010477501521199451/photo/1",
+              "media_key": "3_2010476396544462848",
+              "start": 277,
+              "url": "https://t.co/qviuUzWCDu"
+            },
+            {
+              "display_url": "pic.x.com/qviuUzWCDu",
+              "end": 300,
+              "expanded_url": "https://x.com/QVHenkel/status/2010477501521199451/photo/1",
+              "media_key": "3_2010476407659405312",
+              "start": 277,
+              "url": "https://t.co/qviuUzWCDu"
+            },
+            {
+              "display_url": "pic.x.com/qviuUzWCDu",
+              "end": 300,
+              "expanded_url": "https://x.com/QVHenkel/status/2010477501521199451/photo/1",
+              "media_key": "3_2010476419642474496",
+              "start": 277,
+              "url": "https://t.co/qviuUzWCDu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010477501521199451",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 28822,
+          "like_count": 510,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "Added a port to the Framework SDR compute module for control and data signals. That way I can interface the remote radar and EO/IR head I´m working on with the SDR module. A small 90° overmolded board will break out GMSL/FPD Link as well as a bunch of LVDS and control signals https://t.co/qviuUzWCDu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7963,
+          "following_count": 5584,
+          "like_count": 13753,
+          "listed_count": 17,
+          "media_count": 2559,
+          "tweet_count": 18725
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-31T19:23:51.000Z",
+        "description": "All things 3D | Rendering | Simulation | Electronics | StartUp | CEO engineering services company - views are my own",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open-visions.com",
+                "end": 23,
+                "expanded_url": "https://www.open-visions.com/",
+                "start": 0,
+                "url": "https://t.co/AFoy5t1kgU"
+              }
+            ]
+          }
+        },
+        "id": "1454891808983506951",
+        "location": "Fürth, Deutschland",
+        "name": "Lukas Henkel",
+        "pinned_tweet_id": "1744831182745833904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1484688398401118214/RhVGZC4T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22700,
+          "following_count": 259,
+          "like_count": 953,
+          "listed_count": 157,
+          "media_count": 568,
+          "tweet_count": 1321
+        },
+        "url": "https://t.co/AFoy5t1kgU",
+        "username": "QVHenkel",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,491 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2044739713781927936"
+      ],
+      "media_source_tweet_id": [
+        "2044739809412083793"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2044860053233209354",
+    "created_at": "2026-04-16T19:26:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T20:26:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044860053233209354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2035311545484521472",
+          "start": 3,
+          "username": "sumi_m1nase"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I6CN7YTpA2",
+          "end": 55,
+          "expanded_url": "https://x.com/sumi_m1nase/status/2044739809412083793/video/1",
+          "media_key": "13_2044739713781927936",
+          "start": 32,
+          "url": "https://t.co/I6CN7YTpA2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044860053233209354",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044739809412083793",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sumi_m1nase: タバコに落書きしてみた2✌️ https://t.co/I6CN7YTpA2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27800,
+        "height": 1280,
+        "media_key": "13_2044739713781927936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044739713781927936/img/9IbGp_44D0XUjpB-.jpg",
+        "public_metrics": {
+          "view_count": 1795
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044739713781927936/vid/avc1/320x568/NngLH6Q1kZXnQlLE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044739713781927936/vid/avc1/480x852/3Alv7Y9vL0eDyyxm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044739713781927936/vid/avc1/720x1280/5GQBb8tDpsr0iuO4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044739713781927936/pl/f5UeQJ2Mt11A7kLz.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 27800,
+        "height": 1280,
+        "media_key": "13_2044739713781927936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044739713781927936/img/9IbGp_44D0XUjpB-.jpg",
+        "public_metrics": {
+          "view_count": 1841
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044739713781927936/vid/avc1/320x568/NngLH6Q1kZXnQlLE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044739713781927936/vid/avc1/480x852/3Alv7Y9vL0eDyyxm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044739713781927936/vid/avc1/720x1280/5GQBb8tDpsr0iuO4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044739713781927936/pl/f5UeQJ2Mt11A7kLz.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044739713781927936"
+          ],
+          "media_source_tweet_id": [
+            "2044739809412083793"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2044860053233209354",
+        "created_at": "2026-04-16T19:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T20:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044860053233209354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2035311545484521472",
+              "start": 3,
+              "username": "sumi_m1nase"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I6CN7YTpA2",
+              "end": 55,
+              "expanded_url": "https://x.com/sumi_m1nase/status/2044739809412083793/video/1",
+              "media_key": "13_2044739713781927936",
+              "start": 32,
+              "url": "https://t.co/I6CN7YTpA2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044860053233209354",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044739809412083793",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sumi_m1nase: タバコに落書きしてみた2✌️ https://t.co/I6CN7YTpA2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044739713781927936"
+          ]
+        },
+        "author_id": "2035311545484521472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2044739809412083793",
+        "created_at": "2026-04-16T11:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044739809412083793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I6CN7YTpA2",
+              "end": 38,
+              "expanded_url": "https://x.com/sumi_m1nase/status/2044739809412083793/video/1",
+              "media_key": "13_2044739713781927936",
+              "start": 15,
+              "url": "https://t.co/I6CN7YTpA2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044739809412083793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 5096,
+          "like_count": 214,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "タバコに落書きしてみた2✌️ https://t.co/I6CN7YTpA2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8398,
+          "following_count": 6348,
+          "like_count": 14599,
+          "listed_count": 17,
+          "media_count": 2799,
+          "tweet_count": 20473
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-21T11:04:32.000Z",
+        "description": "みなせすみです。色んなところに絵を書きます。普通に紙にも書きます。",
+        "id": "2035311545484521472",
+        "location": "東京 豊島区",
+        "name": "水瀬 澄_GL1TCH",
+        "pinned_tweet_id": "2040029722319720813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039674593850589186/su_GxQYK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 90,
+          "like_count": 909,
+          "listed_count": 3,
+          "media_count": 24,
+          "tweet_count": 115
+        },
+        "username": "sumi_m1nase",
+        "verified": false
+      }
+    ]
+  }
+}

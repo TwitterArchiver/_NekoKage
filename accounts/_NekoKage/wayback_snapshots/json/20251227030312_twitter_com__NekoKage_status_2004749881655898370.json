@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129035372757827584",
+          "name": "Robotics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129035372757827584",
+          "name": "Robotics"
+        }
+      }
+    ],
+    "conversation_id": "2004749881655898370",
+    "created_at": "2025-12-27T03:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T04:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004749881655898370"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 131,
+          "normalized_text": "TIG",
+          "probability": 0.4805,
+          "start": 129,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1642593118502502402",
+          "start": 3,
+          "username": "IlirAliu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004749881655898370",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 108
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004266668785045936",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IlirAliu_: Robotics has transformed welding speed.\nPrecision is great, but speed now matters just as much.\n\nAnd conventional TIG still…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20085,
+        "height": 640,
+        "media_key": "7_2004266647188602880",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2004266647188602880/pu/img/EhvXDCMsm-Xkg8_B.jpg",
+        "public_metrics": {
+          "view_count": 105188
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2004266647188602880/pu/vid/avc1/480x270/7_p4oZoslTjHDAf5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2004266647188602880/pu/vid/avc1/640x360/iMYx_0QLi_F-BTLb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2004266647188602880/pu/vid/avc1/1138x640/dB5tAoSxnKHvKH6-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2004266647188602880/pu/pl/SO_J-w6ay4S_N9eH.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1138
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129035372757827584",
+              "name": "Robotics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129035372757827584",
+              "name": "Robotics"
+            }
+          }
+        ],
+        "conversation_id": "2004749881655898370",
+        "created_at": "2025-12-27T03:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T04:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004749881655898370"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 131,
+              "normalized_text": "TIG",
+              "probability": 0.4805,
+              "start": 129,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1642593118502502402",
+              "start": 3,
+              "username": "IlirAliu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004749881655898370",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 108
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004266668785045936",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IlirAliu_: Robotics has transformed welding speed.\nPrecision is great, but speed now matters just as much.\n\nAnd conventional TIG still…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2004266647188602880"
+          ]
+        },
+        "author_id": "1642593118502502402",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129035372757827584",
+              "name": "Robotics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129035372757827584",
+              "name": "Robotics"
+            }
+          }
+        ],
+        "conversation_id": "2004266668785045936",
+        "created_at": "2025-12-25T19:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T20:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004266668785045936"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 116,
+              "normalized_text": "TIG",
+              "probability": 0.5695,
+              "start": 114,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z0v4nZl3Uk",
+              "end": 304,
+              "expanded_url": "https://x.com/IlirAliu_/status/2004266668785045936/video/1",
+              "media_key": "7_2004266647188602880",
+              "start": 281,
+              "url": "https://t.co/Z0v4nZl3Uk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004266668785045936",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "scalingdeep.tech",
+                "end": 739,
+                "expanded_url": "http://scalingdeep.tech",
+                "start": 716,
+                "url": "https://t.co/dsa6wcvq6n"
+              }
+            ]
+          },
+          "text": "Robotics has transformed welding speed.\nPrecision is great, but speed now matters just as much.\n\nAnd conventional TIG still lags behind...\n\nBalancing quality with speed, especially on pipe, pressure vessel, and roll welding projects.\n\nThis solution helps change that.\n\nIt delivers TIG-level quality with:\n✅ Up to 300% faster travel speeds\n✅ 4 lb/hr deposition rates\n✅ A compact footprint that fits right into tight production environments\n\nIt seems fast enough without compromising on quality and works across carbon steel, stainless, duplex, Inconel, etc.\n\nAaaaaand the welds still pass X-ray, hardness, and corrosion tests.\n\nFound this via Novarc Technologies\n\n—-\n\nWeekly robotics and AI insights.\nSubscribe free: https://t.co/dsa6wcvq6n"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 404,
+          "impression_count": 164821,
+          "like_count": 1361,
+          "quote_count": 3,
+          "reply_count": 28,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "Robotics has transformed welding speed.\nPrecision is great, but speed now matters just as much.\n\nAnd conventional TIG still lags behind...\n\nBalancing quality with speed, especially on pipe, pressure vessel, and roll welding projects.\n\nThis solution helps change that.\n\nIt delivers https://t.co/Z0v4nZl3Uk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7967,
+          "following_count": 5569,
+          "like_count": 13768,
+          "listed_count": 17,
+          "media_count": 2551,
+          "tweet_count": 18597
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-02T18:21:49.000Z",
+        "description": "AI & Robotics",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "22astronauts.com",
+                "end": 23,
+                "expanded_url": "https://22astronauts.com/",
+                "start": 0,
+                "url": "https://t.co/1MIf0KZO6U"
+              }
+            ]
+          }
+        },
+        "id": "1642593118502502402",
+        "location": "Zurich, Switzerland",
+        "name": "Ilir Aliu - eu/acc",
+        "pinned_tweet_id": "1954545511807012985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866636974339039232/YtrQjbyS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21137,
+          "following_count": 610,
+          "like_count": 7704,
+          "listed_count": 335,
+          "media_count": 2018,
+          "tweet_count": 7453
+        },
+        "url": "https://t.co/1MIf0KZO6U",
+        "username": "IlirAliu_",
+        "verified": true
+      }
+    ]
+  }
+}

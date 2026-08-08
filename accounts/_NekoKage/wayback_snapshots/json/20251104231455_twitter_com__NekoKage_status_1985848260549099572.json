@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "conversation_id": "1985848260549099572",
+    "created_at": "2025-11-04T23:14:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T00:14:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985848260549099572"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kfc_es/status/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/kfc_es/status/1985760452824219702",
+          "start": 4,
+          "url": "https://t.co/KaK2ZtVFEN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985848260549099572",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985760452824219702",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想吃 https://t.co/KaK2ZtVFEN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1985745339878342656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G47I3Z3WAAA9zkb.jpg",
+        "width": 663
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "conversation_id": "1985848260549099572",
+        "created_at": "2025-11-04T23:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T00:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985848260549099572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kfc_es/status/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/kfc_es/status/1985760452824219702",
+              "start": 4,
+              "url": "https://t.co/KaK2ZtVFEN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985848260549099572",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985760452824219702",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想吃 https://t.co/KaK2ZtVFEN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985745339878342656"
+          ]
+        },
+        "author_id": "3233838112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1985760452824219702",
+        "created_at": "2025-11-04T17:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T18:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985760452824219702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gk0NJpSjor",
+              "end": 40,
+              "expanded_url": "https://x.com/KFC_ES/status/1985760452824219702/photo/1",
+              "media_key": "3_1985745339878342656",
+              "start": 17,
+              "url": "https://t.co/gk0NJpSjor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985760452824219702",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 22958,
+          "like_count": 1590,
+          "quote_count": 1,
+          "reply_count": 26,
+          "retweet_count": 135
+        },
+        "reply_settings": "everyone",
+        "text": "mi cita de hoy 👍 https://t.co/gk0NJpSjor"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7963,
+          "following_count": 5244,
+          "like_count": 13433,
+          "listed_count": 17,
+          "media_count": 2467,
+          "tweet_count": 17795
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-04T16:49:23.000Z",
+        "description": "Kentucky Fried Chicken. El #PolloPollo 🍗 🍗 se hace en Kentucky.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 38,
+                "start": 27,
+                "tag": "PolloPollo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kfc.es",
+                "end": 23,
+                "expanded_url": "http://kfc.es",
+                "start": 0,
+                "url": "https://t.co/E4UZXk0Zo8"
+              }
+            ]
+          }
+        },
+        "id": "3233838112",
+        "location": "España",
+        "name": "KFC",
+        "pinned_tweet_id": "1972973421056471272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686729439630016512/lzqes6B8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1171158,
+          "following_count": 530,
+          "like_count": 24028,
+          "listed_count": 742,
+          "media_count": 7081,
+          "tweet_count": 19847
+        },
+        "url": "https://t.co/E4UZXk0Zo8",
+        "username": "KFC_ES",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,531 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+          "id": "1283453704088084480",
+          "name": "Manga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+          "id": "1283453704088084480",
+          "name": "Manga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "1805255627155128781",
+    "created_at": "2024-06-24T15:04:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-24T16:04:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805255627155128781"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 43,
+          "normalized_text": "OMORI manga",
+          "probability": 0.6947,
+          "start": 33,
+          "type": "Other"
+        },
+        {
+          "end": 106,
+          "normalized_text": "Comic",
+          "probability": 0.5407,
+          "start": 102,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1637186154",
+          "start": 3,
+          "username": "OMORI_GAME"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805255627155128781",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 493
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805254696896217504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OMORI_GAME: Chapter 1 of the OMORI manga is available to read now!\n\n (JP) \n📖 Monthly Afternoon \n💻 Comic DAYS \n\n(EN) \n💻 K MANGA https://…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1805255627155128781",
+        "created_at": "2024-06-24T15:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T16:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805255627155128781"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "OMORI manga",
+              "probability": 0.6947,
+              "start": 33,
+              "type": "Other"
+            },
+            {
+              "end": 106,
+              "normalized_text": "Comic",
+              "probability": 0.5407,
+              "start": 102,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1637186154",
+              "start": 3,
+              "username": "OMORI_GAME"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805255627155128781",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 493
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805254696896217504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OMORI_GAME: Chapter 1 of the OMORI manga is available to read now!\n\n (JP) \n📖 Monthly Afternoon \n💻 Comic DAYS \n\n(EN) \n💻 K MANGA https://…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1805254165683466240"
+          ]
+        },
+        "author_id": "1637186154",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1805254696896217504",
+        "created_at": "2024-06-24T15:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T16:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805254696896217504"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "OMORI manga",
+              "probability": 0.6786,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 95,
+              "normalized_text": "Comic DAYS",
+              "probability": 0.6403,
+              "start": 86,
+              "type": "Other"
+            },
+            {
+              "end": 113,
+              "normalized_text": "MANGA",
+              "probability": 0.3469,
+              "start": 109,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/5G39NtEtZ8",
+              "end": 138,
+              "expanded_url": "https://twitter.com/OMORI_GAME/status/1805254696896217504/photo/1",
+              "media_key": "3_1805254165683466240",
+              "start": 115,
+              "url": "https://t.co/5G39NtEtZ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805254696896217504",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 8105,
+          "like_count": 1352,
+          "quote_count": 87,
+          "reply_count": 14,
+          "retweet_count": 493
+        },
+        "reply_settings": "everyone",
+        "text": "Chapter 1 of the OMORI manga is available to read now!\n\n (JP) \n📖 Monthly Afternoon \n💻 Comic DAYS \n\n(EN) \n💻 K MANGA https://t.co/5G39NtEtZ8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏是個瘋子🩸自傷🦿biid🎸聚乙烯乐队主音及主唱🎧HiFi糊烧🚬大烟鬼🔪刃物收藏⌚️入门表匠🚗JDM📷黑白摄影🚪88⚠️@_kagenone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 131,
+                "username": "_kagenone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6916,
+          "following_count": 3893,
+          "like_count": 9419,
+          "listed_count": 20,
+          "tweet_count": 11990
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-01T05:35:25.000Z",
+        "description": "welcome to white space. you have been living here for as long as you can remember. | video game by @_OMOCAT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 99,
+                "username": "_OMOCAT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "omori-game.com",
+                "end": 23,
+                "expanded_url": "http://www.omori-game.com",
+                "start": 0,
+                "url": "https://t.co/EXcBw2maF7"
+              }
+            ]
+          }
+        },
+        "id": "1637186154",
+        "location": "white space",
+        "name": "OMORI",
+        "pinned_tweet_id": "1685055249286115328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642421467701997568/3WyyZ4g6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349850,
+          "following_count": 0,
+          "like_count": 7,
+          "listed_count": 622,
+          "tweet_count": 562
+        },
+        "url": "https://t.co/EXcBw2maF7",
+        "username": "OMORI_GAME",
+        "verified": false
+      }
+    ]
+  }
+}

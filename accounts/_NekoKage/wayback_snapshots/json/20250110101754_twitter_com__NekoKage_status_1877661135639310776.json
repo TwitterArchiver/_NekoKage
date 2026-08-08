@@ -1,0 +1,610 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      }
+    ],
+    "conversation_id": "1877661135639310776",
+    "created_at": "2025-01-10T10:17:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T11:17:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1877661135639310776"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kenjiueta/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/kenjiueta/status/1877519623240761812",
+          "start": 4,
+          "url": "https://t.co/nuvgfTrhjV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877661135639310776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877519623240761812",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇单轨 https://t.co/nuvgfTrhjV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          }
+        ],
+        "conversation_id": "1877661135639310776",
+        "created_at": "2025-01-10T10:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T11:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877661135639310776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kenjiueta/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/kenjiueta/status/1877519623240761812",
+              "start": 4,
+              "url": "https://t.co/nuvgfTrhjV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877661135639310776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877519623240761812",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇单轨 https://t.co/nuvgfTrhjV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877519615217250306",
+            "3_1877519614789517312",
+            "3_1877519614953025536",
+            "3_1877519615942971392"
+          ]
+        },
+        "author_id": "153637669",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          }
+        ],
+        "conversation_id": "1877519623240761812",
+        "created_at": "2025-01-10T00:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T01:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877519623240761812"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 50,
+              "tag": "コンタックス"
+            },
+            {
+              "end": 65,
+              "start": 58,
+              "tag": "CONTAX"
+            },
+            {
+              "end": 74,
+              "start": 66,
+              "tag": "YASHICA"
+            },
+            {
+              "end": 85,
+              "start": 75,
+              "tag": "コンタックスRTS"
+            },
+            {
+              "end": 91,
+              "start": 86,
+              "tag": "ベローズ"
+            },
+            {
+              "end": 100,
+              "start": 92,
+              "tag": "ベローズレンズ"
+            },
+            {
+              "end": 109,
+              "start": 101,
+              "tag": "フィルムカメラ"
+            },
+            {
+              "end": 115,
+              "start": 110,
+              "tag": "フィルム"
+            },
+            {
+              "end": 120,
+              "start": 116,
+              "tag": "カメラ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jvOE2hmNbr",
+              "end": 144,
+              "expanded_url": "https://x.com/kenjiueta/status/1877519623240761812/photo/1",
+              "media_key": "3_1877519615217250306",
+              "start": 121,
+              "url": "https://t.co/jvOE2hmNbr"
+            },
+            {
+              "display_url": "pic.x.com/jvOE2hmNbr",
+              "end": 144,
+              "expanded_url": "https://x.com/kenjiueta/status/1877519623240761812/photo/1",
+              "media_key": "3_1877519614789517312",
+              "start": 121,
+              "url": "https://t.co/jvOE2hmNbr"
+            },
+            {
+              "display_url": "pic.x.com/jvOE2hmNbr",
+              "end": 144,
+              "expanded_url": "https://x.com/kenjiueta/status/1877519623240761812/photo/1",
+              "media_key": "3_1877519614953025536",
+              "start": 121,
+              "url": "https://t.co/jvOE2hmNbr"
+            },
+            {
+              "display_url": "pic.x.com/jvOE2hmNbr",
+              "end": 144,
+              "expanded_url": "https://x.com/kenjiueta/status/1877519623240761812/photo/1",
+              "media_key": "3_1877519615942971392",
+              "start": 121,
+              "url": "https://t.co/jvOE2hmNbr"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "1b0cfebe3424e14f"
+        },
+        "id": "1877519623240761812",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 239,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "コンタックスRTS＋コンタックスベローズ＋ヤシカベローズレンズ100mmf4\n\n美しい機材です✨\n\n#コンタックス\n#CONTAX\n#YASHICA\n#コンタックスRTS\n#ベローズ\n#ベローズレンズ\n#フィルムカメラ\n#フィルム\n#カメラ https://t.co/jvOE2hmNbr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain📷膠片攝影/相机维修🚬大烟鬼🔪刃物收藏⌚️入门表匠⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "_kagenone"
+              },
+              {
+                "end": 137,
+                "start": 132,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7451,
+          "following_count": 4454,
+          "like_count": 12227,
+          "listed_count": 19,
+          "media_count": 2098,
+          "tweet_count": 14710
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-09T02:22:01.000Z",
+        "description": "心の笑顔を撮るカメラマン。\n家族、婚活、結婚式、終活、証明写真など、幅広く撮影しております。\n撮影ご依頼、お問い合わせはお気軽に♪\n公式ホームページ　https://t.co/3sODKquMiu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "uetakenji.net",
+                "end": 98,
+                "expanded_url": "https://uetakenji.net/",
+                "start": 75,
+                "url": "https://t.co/3sODKquMiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "uetakenji.net",
+                "end": 23,
+                "expanded_url": "https://uetakenji.net/",
+                "start": 0,
+                "url": "https://t.co/3sODKquMiu"
+              }
+            ]
+          }
+        },
+        "id": "153637669",
+        "location": "茨城県水戸市",
+        "name": "カメラマン上田健次",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860105975015075840/eqIbEreW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2579,
+          "following_count": 2739,
+          "like_count": 19384,
+          "listed_count": 73,
+          "media_count": 3375,
+          "tweet_count": 8004
+        },
+        "url": "https://t.co/3sODKquMiu",
+        "username": "kenjiueta",
+        "verified": false
+      }
+    ]
+  }
+}

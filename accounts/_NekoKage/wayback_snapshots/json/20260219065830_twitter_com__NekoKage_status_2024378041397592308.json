@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2024378041397592308",
+    "created_at": "2026-02-19T06:58:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T07:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024378041397592308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1625550501772201992",
+          "start": 3,
+          "username": "drunclenyc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024378041397592308",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024100743175708922",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @drunclenyc: 网上好多人在转载这个春节期间纽约唐人街，警民嬉戏玩耍的视频。评论区一个最扎心的提问是，这怎么和很多网上博主说的美国不一样啊？\n\n当你习惯了被喂养的仇恨与对立，真实的温情反而成了你眼中的荒诞。\n​最可怕的不是看不见真相，而是真相就在眼前，你却失去了…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 56797,
+        "height": 1280,
+        "media_key": "7_2024100676771414018",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2024100676771414018/pu/img/4ktqQjBXOnHyG9t6.jpg",
+        "public_metrics": {
+          "view_count": 57458
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024100676771414018/pu/vid/avc1/320x568/X31lxPG1_zbAmqJt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024100676771414018/pu/vid/avc1/480x852/v9aHqvFsf_hw2DyD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024100676771414018/pu/vid/avc1/720x1280/wqI1asYPFFFZgFsc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2024100676771414018/pu/pl/gHeqrF93wc9ZfSyy.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2024378041397592308",
+        "created_at": "2026-02-19T06:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T07:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024378041397592308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1625550501772201992",
+              "start": 3,
+              "username": "drunclenyc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024378041397592308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024100743175708922",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @drunclenyc: 网上好多人在转载这个春节期间纽约唐人街，警民嬉戏玩耍的视频。评论区一个最扎心的提问是，这怎么和很多网上博主说的美国不一样啊？\n\n当你习惯了被喂养的仇恨与对立，真实的温情反而成了你眼中的荒诞。\n​最可怕的不是看不见真相，而是真相就在眼前，你却失去了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2024100676771414018"
+          ]
+        },
+        "author_id": "1625550501772201992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2024100743175708922",
+        "created_at": "2026-02-18T12:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T13:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024100743175708922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BAnv5G3x7g",
+              "end": 154,
+              "expanded_url": "https://x.com/drunclenyc/status/2024100743175708922/video/1",
+              "media_key": "7_2024100676771414018",
+              "start": 131,
+              "url": "https://t.co/BAnv5G3x7g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024100743175708922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "网上好多人在转载这个春节期间纽约唐人街，警民嬉戏玩耍的视频。评论区一个最扎心的提问是，这怎么和很多网上博主说的美国不一样啊？\n\n当你习惯了被喂养的仇恨与对立，真实的温情反而成了你眼中的荒诞。\n​最可怕的不是看不见真相，而是真相就在眼前，你却失去了辨别它的逻辑。\n​认知如果是租来的，那么你对世界的判断，永远只是别人想让你看到的剧本。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 187,
+          "impression_count": 92437,
+          "like_count": 558,
+          "quote_count": 8,
+          "reply_count": 56,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "网上好多人在转载这个春节期间纽约唐人街，警民嬉戏玩耍的视频。评论区一个最扎心的提问是，这怎么和很多网上博主说的美国不一样啊？\n\n当你习惯了被喂养的仇恨与对立，真实的温情反而成了你眼中的荒诞。\n​最可怕的不是看不见真相，而是真相就在眼前，你却失去了辨别它的逻辑。 https://t.co/BAnv5G3x7g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7966,
+          "following_count": 5781,
+          "like_count": 13882,
+          "listed_count": 16,
+          "media_count": 2603,
+          "tweet_count": 19203
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-14T17:40:32.000Z",
+        "description": "定居纽约，Commodity Quant 量化分析师。生活日常推，偶尔随想杂谈，中间偏右但不极端",
+        "id": "1625550501772201992",
+        "location": "New York, NY",
+        "name": "纽约博叔",
+        "pinned_tweet_id": "2024359109424726485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687188596166406144/ONl4hSDD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29371,
+          "following_count": 1322,
+          "like_count": 7935,
+          "listed_count": 153,
+          "media_count": 2161,
+          "tweet_count": 12315
+        },
+        "username": "drunclenyc",
+        "verified": true
+      }
+    ]
+  }
+}

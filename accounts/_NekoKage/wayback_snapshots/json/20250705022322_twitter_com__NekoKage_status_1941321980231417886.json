@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "conversation_id": "1941110864599564466",
+    "created_at": "2025-07-05T02:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T03:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941321980231417886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1833730895750283264",
+          "start": 0,
+          "username": "32_aug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941321980231417886",
+    "in_reply_to_user_id": "1833730895750283264",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941110864599564466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@32_aug 🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1941110864599564466].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1941110864599564466",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1941110864599564466"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "conversation_id": "1941110864599564466",
+        "created_at": "2025-07-05T02:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T03:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941321980231417886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1833730895750283264",
+              "start": 0,
+              "username": "32_aug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941321980231417886",
+        "in_reply_to_user_id": "1833730895750283264",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941110864599564466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@32_aug 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🐈#RainWorld⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 107,
+                "tag": "RainWorld"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "_kagenone"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7682,
+          "following_count": 4775,
+          "like_count": 12871,
+          "listed_count": 20,
+          "media_count": 2276,
+          "tweet_count": 16208
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T04:54:59.000Z",
+        "description": "People look strange when you are a stranger.",
+        "id": "1833730895750283264",
+        "location": "Stockholm, Sweden",
+        "name": "Hachii",
+        "pinned_tweet_id": "1930616383534215168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940777603792506880/uNKiyDOl_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 543,
+          "like_count": 49564,
+          "listed_count": 2,
+          "media_count": 1378,
+          "tweet_count": 12368
+        },
+        "username": "32_aug",
+        "verified": false
+      }
+    ]
+  }
+}

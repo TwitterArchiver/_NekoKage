@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026339571",
+          "name": "Cisco"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026339571",
+          "name": "Cisco"
+        }
+      }
+    ],
+    "conversation_id": "1977420347826926045",
+    "created_at": "2025-10-12T17:05:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T18:05:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977420347826926045"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pink33n/status…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/pink33n/status/1969018073639174546",
+          "start": 11,
+          "url": "https://t.co/cZMiykZebm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977420347826926045",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969018073639174546",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "cisco还有相机？ https://t.co/cZMiykZebm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_1969018032417603584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Nbd9qXAAAsA_b.jpg",
+        "width": 400
+      },
+      {
+        "height": 400,
+        "media_key": "3_1969018032685998080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Nbd-qWYAAQq9q.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026339571",
+              "name": "Cisco"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026339571",
+              "name": "Cisco"
+            }
+          }
+        ],
+        "conversation_id": "1977420347826926045",
+        "created_at": "2025-10-12T17:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T18:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977420347826926045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pink33n/status…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/pink33n/status/1969018073639174546",
+              "start": 11,
+              "url": "https://t.co/cZMiykZebm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977420347826926045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969018073639174546",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "cisco还有相机？ https://t.co/cZMiykZebm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969018032417603584",
+            "3_1969018032685998080"
+          ]
+        },
+        "author_id": "580760859",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026339571",
+              "name": "Cisco"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026339571",
+              "name": "Cisco"
+            }
+          }
+        ],
+        "conversation_id": "1969018073639174546",
+        "created_at": "2025-09-19T12:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T13:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969018073639174546"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "Cisco",
+              "probability": 0.6825,
+              "start": 35,
+              "type": "Organization"
+            },
+            {
+              "end": 59,
+              "normalized_text": "HDMI",
+              "probability": 0.7474,
+              "start": 56,
+              "type": "Other"
+            },
+            {
+              "end": 65,
+              "normalized_text": "RS232",
+              "probability": 0.6021,
+              "start": 61,
+              "type": "Other"
+            },
+            {
+              "end": 98,
+              "normalized_text": "HDMI",
+              "probability": 0.7517,
+              "start": 95,
+              "type": "Other"
+            },
+            {
+              "end": 107,
+              "normalized_text": "RJ45",
+              "probability": 0.7526,
+              "start": 104,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1428336264441380875",
+              "start": 0,
+              "username": "cursedconnector"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BlLqSwucFw",
+              "end": 132,
+              "expanded_url": "https://x.com/pink33n/status/1969018073639174546/photo/1",
+              "media_key": "3_1969018032417603584",
+              "start": 109,
+              "url": "https://t.co/BlLqSwucFw"
+            },
+            {
+              "display_url": "pic.x.com/BlLqSwucFw",
+              "end": 132,
+              "expanded_url": "https://x.com/pink33n/status/1969018073639174546/photo/1",
+              "media_key": "3_1969018032685998080",
+              "start": 109,
+              "url": "https://t.co/BlLqSwucFw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969018073639174546",
+        "in_reply_to_user_id": "1428336264441380875",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 167282,
+          "like_count": 783,
+          "quote_count": 41,
+          "reply_count": 18,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "@cursedconnector Does this count?\n\nCisco camera cable - HDMI+RS232+Power combo splits out into HDMI and RJ45 https://t.co/BlLqSwucFw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7911,
+          "following_count": 5135,
+          "like_count": 13331,
+          "listed_count": 17,
+          "media_count": 2441,
+          "tweet_count": 17521
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-15T08:18:26.000Z",
+        "description": "",
+        "id": "580760859",
+        "location": "Krakow, Poland",
+        "name": "Filip Sobalski",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1105087596177379328/UXyR3lYl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 219,
+          "like_count": 2264,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 108
+        },
+        "username": "pink33n",
+        "verified": false
+      }
+    ]
+  }
+}

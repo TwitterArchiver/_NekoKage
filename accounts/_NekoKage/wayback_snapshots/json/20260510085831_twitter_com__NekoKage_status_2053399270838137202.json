@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2053321241977892864"
+      ],
+      "media_source_tweet_id": [
+        "2053321315541807399"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "2053399270838137202",
+    "created_at": "2026-05-10T08:58:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T09:58:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053399270838137202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "127231917",
+          "start": 3,
+          "username": "missile_39"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nfwKrpnJcG",
+          "end": 51,
+          "expanded_url": "https://x.com/missile_39/status/2053321315541807399/video/1",
+          "media_key": "7_2053321241977892864",
+          "start": 28,
+          "url": "https://t.co/nfwKrpnJcG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053399270838137202",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 320
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053321315541807399",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @missile_39: クレーンでお引越し便利 https://t.co/nfwKrpnJcG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053399270838137202].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053399270838137202",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053399270838137202"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9923,
+        "height": 1920,
+        "media_key": "7_2053321241977892864",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2053321241977892864/pu/img/GHRpV_mwjbtyXq_k.jpg",
+        "public_metrics": {
+          "view_count": 7703
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2053321241977892864/pu/pl/9MSZMfNX6KuSnmxb.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053321241977892864/pu/vid/avc1/480x852/NRDOqeiBjmWMkbta.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053321241977892864/pu/vid/avc1/320x568/i5V0ku0ItddIHoNB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053321241977892864/pu/vid/avc1/720x1280/HYv1srxTD0fh4uG3.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053321241977892864/pu/vid/avc1/1080x1920/Jw2XLYGvhueX2FwK.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2053321241977892864"
+          ]
+        },
+        "author_id": "127231917",
+        "conversation_id": "2053321315541807399",
+        "created_at": "2026-05-10T03:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T04:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053321315541807399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nfwKrpnJcG",
+              "end": 35,
+              "expanded_url": "https://x.com/missile_39/status/2053321315541807399/video/1",
+              "media_key": "7_2053321241977892864",
+              "start": 12,
+              "url": "https://t.co/nfwKrpnJcG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053321315541807399",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 23636,
+          "like_count": 1855,
+          "quote_count": 18,
+          "reply_count": 7,
+          "retweet_count": 320
+        },
+        "reply_settings": "everyone",
+        "text": "クレーンでお引越し便利 https://t.co/nfwKrpnJcG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病多病病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "_kagenone"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8593,
+          "following_count": 6533,
+          "like_count": 14974,
+          "listed_count": 18,
+          "media_count": 2864,
+          "tweet_count": 20957
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-28T14:31:23.000Z",
+        "description": "等身大ロボとか作ってる人です。好物は科学全般。ボーカロイド、VTuber、アニメすき。足立レイ＆合成音声開発中！\n日本大学理工学研究科精密機械工学専攻研究生\nメカニカルガール代表　　ニコニコ→https://t.co/eAph43cyBm\nyoutube→https://t.co/CxkGZy2DXP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/user/4333086",
+                "end": 119,
+                "expanded_url": "http://nicovideo.jp/user/4333086",
+                "start": 96,
+                "url": "https://t.co/eAph43cyBm"
+              },
+              {
+                "display_url": "onl.tw/8NgwZfx",
+                "end": 151,
+                "expanded_url": "http://onl.tw/8NgwZfx",
+                "start": 128,
+                "url": "https://t.co/CxkGZy2DXP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mechanicalgirl.jp",
+                "end": 23,
+                "expanded_url": "https://mechanicalgirl.jp/",
+                "start": 0,
+                "url": "https://t.co/ou6PtuiAT0"
+              }
+            ]
+          }
+        },
+        "id": "127231917",
+        "location": "サイト",
+        "name": "みさいる",
+        "pinned_tweet_id": "2017651627872948491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1488895740319772672/TsvxDjnz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75497,
+          "following_count": 763,
+          "like_count": 12596,
+          "listed_count": 296,
+          "media_count": 3914,
+          "tweet_count": 23322
+        },
+        "url": "https://t.co/ou6PtuiAT0",
+        "username": "missile_39",
+        "verified": true
+      }
+    ]
+  }
+}

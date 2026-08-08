@@ -1,0 +1,476 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Kickstarter",
+          "id": "872091627321401346",
+          "name": "Kickstarter"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Kickstarter",
+          "id": "872091627321401346",
+          "name": "Kickstarter"
+        }
+      }
+    ],
+    "conversation_id": "1927336013560512575",
+    "created_at": "2025-05-27T12:08:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T13:08:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927336013560512575"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "YASHICA FX-D",
+          "probability": 0.1905,
+          "start": 12,
+          "type": "Product"
+        },
+        {
+          "end": 47,
+          "normalized_text": "YASHICA City100",
+          "probability": 0.2315,
+          "start": 33,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "94062510",
+          "start": 3,
+          "username": "xkim99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927336013560512575",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927138283244417530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xkim99: YASHICA FX-D、FX-D100がYASHICA City100と同じIMX458センサー(1/3.08”)とFF換算25-76mm相当画角レンズ、FX-D300が現在開発中のCity300と同じ1/1.56\"センサーとFF換算画角24mm画角レ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2362,
+        "media_key": "3_1927138273006157825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr6SDIOXgAEDMD2.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2036,
+        "media_key": "3_1927138272993538048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr6SDILW8AAazmG.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2365,
+        "media_key": "3_1927138272976781312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr6SDIHXQAA0pG_.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1848,
+        "media_key": "3_1927138272997703680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr6SDIMWgAA1Fvy.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Kickstarter",
+              "id": "872091627321401346",
+              "name": "Kickstarter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Kickstarter",
+              "id": "872091627321401346",
+              "name": "Kickstarter"
+            }
+          }
+        ],
+        "conversation_id": "1927336013560512575",
+        "created_at": "2025-05-27T12:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T13:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927336013560512575"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "YASHICA FX-D",
+              "probability": 0.1905,
+              "start": 12,
+              "type": "Product"
+            },
+            {
+              "end": 47,
+              "normalized_text": "YASHICA City100",
+              "probability": 0.2315,
+              "start": 33,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "94062510",
+              "start": 3,
+              "username": "xkim99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927336013560512575",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927138283244417530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xkim99: YASHICA FX-D、FX-D100がYASHICA City100と同じIMX458センサー(1/3.08”)とFF換算25-76mm相当画角レンズ、FX-D300が現在開発中のCity300と同じ1/1.56\"センサーとFF換算画角24mm画角レ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927138273006157825",
+            "3_1927138272993538048",
+            "3_1927138272976781312",
+            "3_1927138272997703680"
+          ]
+        },
+        "author_id": "94062510",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Kickstarter",
+              "id": "872091627321401346",
+              "name": "Kickstarter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Kickstarter",
+              "id": "872091627321401346",
+              "name": "Kickstarter"
+            }
+          }
+        ],
+        "conversation_id": "1927138283244417530",
+        "created_at": "2025-05-26T23:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T00:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927138283244417530"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "YASHICA FX-D",
+              "probability": 0.1967,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 35,
+              "normalized_text": "YASHICA City100",
+              "probability": 0.3195,
+              "start": 21,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tWMqjcZeYL",
+              "end": 209,
+              "expanded_url": "https://x.com/xkim99/status/1927138283244417530/photo/1",
+              "media_key": "3_1927138273006157825",
+              "start": 186,
+              "url": "https://t.co/tWMqjcZeYL"
+            },
+            {
+              "display_url": "pic.x.com/tWMqjcZeYL",
+              "end": 209,
+              "expanded_url": "https://x.com/xkim99/status/1927138283244417530/photo/1",
+              "media_key": "3_1927138272993538048",
+              "start": 186,
+              "url": "https://t.co/tWMqjcZeYL"
+            },
+            {
+              "display_url": "pic.x.com/tWMqjcZeYL",
+              "end": 209,
+              "expanded_url": "https://x.com/xkim99/status/1927138283244417530/photo/1",
+              "media_key": "3_1927138272976781312",
+              "start": 186,
+              "url": "https://t.co/tWMqjcZeYL"
+            },
+            {
+              "display_url": "pic.x.com/tWMqjcZeYL",
+              "end": 209,
+              "expanded_url": "https://x.com/xkim99/status/1927138283244417530/photo/1",
+              "media_key": "3_1927138272997703680",
+              "start": 186,
+              "url": "https://t.co/tWMqjcZeYL"
+            },
+            {
+              "display_url": "x.com/xkim99/status/…",
+              "end": 233,
+              "expanded_url": "https://twitter.com/xkim99/status/1927006119097942413",
+              "start": 210,
+              "url": "https://t.co/ihIy2cEfvt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927138283244417530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2369,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927006119097942413",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "YASHICA FX-D、FX-D100がYASHICA City100と同じIMX458センサー(1/3.08”)とFF換算25-76mm相当画角レンズ、FX-D300が現在開発中のCity300と同じ1/1.56\"センサーとFF換算画角24mm画角レンズでフィルムFX-3風の外観に仕立てた物と推測\nフィルムシミュレーションをアピールするがどちらもEVFの記載は無し https://t.co/tWMqjcZeYL https://t.co/ihIy2cEfvt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠📢siren爱好者⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "_kagenone"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7616,
+          "following_count": 4643,
+          "like_count": 12645,
+          "listed_count": 0,
+          "media_count": 2223,
+          "tweet_count": 15706
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-02T10:20:23.000Z",
+        "description": "青森市内で趣味写真とかコップレとかやってます。NONS公式アンバサダーを拝命しましたが他メーカーカメラも手広く。自アカ宣伝目的のいいね/RT/フォロー/コメント等は迷惑行為/スパム行為として通報等しかるべき対応を行います。 過去のスズメ写真は@szmbotとして独立。製作したスズメ写真集同人誌は↓で製本通販しています。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 121,
+                "username": "szmbot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.livedoor.jp/xkim/archives/…",
+                "end": 23,
+                "expanded_url": "http://blog.livedoor.jp/xkim/archives/52283496.html",
+                "start": 0,
+                "url": "https://t.co/jVIatsbUSj"
+              }
+            ]
+          }
+        },
+        "id": "94062510",
+        "location": "青森県",
+        "name": "K.I.M C105 12/30(2日目)東5プ06a",
+        "pinned_tweet_id": "1870622706678534216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721511071356456960/8h9UaYEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 416,
+          "like_count": 316726,
+          "listed_count": 39,
+          "media_count": 40638,
+          "tweet_count": 144344
+        },
+        "url": "https://t.co/jVIatsbUSj",
+        "username": "xkim99",
+        "verified": false
+      }
+    ]
+  }
+}

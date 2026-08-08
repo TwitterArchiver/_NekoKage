@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1849648101256200194"
+      ],
+      "media_source_tweet_id": [
+        "1849648258852978884"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "1860653507633914172",
+    "created_at": "2024-11-24T11:55:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T12:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860653507633914172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1400080533581795328",
+          "start": 3,
+          "username": "Iloveuthewyuare"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dDgUp8g6Kh",
+          "end": 53,
+          "expanded_url": "https://x.com/Iloveuthewyuare/status/1849648258852978884/photo/1",
+          "media_key": "3_1849648101256200194",
+          "start": 30,
+          "url": "https://t.co/dDgUp8g6Kh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860653507633914172",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849648258852978884",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Iloveuthewyuare: 布団をめくったら https://t.co/dDgUp8g6Kh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1860653507633914172].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1860653507633914172",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1860653507633914172"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1849648101256200194",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GatFJfLaAAIlMg9.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1849648101256200194"
+          ]
+        },
+        "author_id": "1400080533581795328",
+        "conversation_id": "1849648258852978884",
+        "created_at": "2024-10-25T03:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-25T04:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1849648258852978884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dDgUp8g6Kh",
+              "end": 32,
+              "expanded_url": "https://x.com/Iloveuthewyuare/status/1849648258852978884/photo/1",
+              "media_key": "3_1849648101256200194",
+              "start": 9,
+              "url": "https://t.co/dDgUp8g6Kh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1849648258852978884",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 131,
+          "impression_count": 19707,
+          "like_count": 730,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "布団をめくったら https://t.co/dDgUp8g6Kh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain📷膠片攝影/相机维修🚬大烟鬼🔪刃物收藏⌚️入门表匠⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "_kagenone"
+              },
+              {
+                "end": 137,
+                "start": 132,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7320,
+          "following_count": 4266,
+          "like_count": 11748,
+          "listed_count": 18,
+          "tweet_count": 14053
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-02T13:24:43.000Z",
+        "description": "主に異形と女の子を描きます 。不定形の私@innocent_bloom【FANBOX】https://t.co/JAAP9DsPsm 【fantia】https://t.co/XynZVSMSGe 【ci-en】https://t.co/h60dBjl1fz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "innocent_bloom"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "innocent-bloom.fanbox.cc",
+                "end": 66,
+                "expanded_url": "http://innocent-bloom.fanbox.cc",
+                "start": 43,
+                "url": "https://t.co/JAAP9DsPsm"
+              },
+              {
+                "display_url": "fantia.jp/fanclubs/20289",
+                "end": 98,
+                "expanded_url": "http://fantia.jp/fanclubs/20289",
+                "start": 75,
+                "url": "https://t.co/XynZVSMSGe"
+              },
+              {
+                "display_url": "ci-en.dlsite.com/creator/7836",
+                "end": 129,
+                "expanded_url": "http://ci-en.dlsite.com/creator/7836",
+                "start": 106,
+                "url": "https://t.co/h60dBjl1fz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/2HSKHP8LUDTTD?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/mZ1TN6exbg"
+              }
+            ]
+          }
+        },
+        "id": "1400080533581795328",
+        "location": "May the tentacles be with you.",
+        "name": "触殖ゆう Shokushi Yuu 🐙🦑",
+        "pinned_tweet_id": "1845724157381894582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780309292152954882/1G0KcSeJ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62227,
+          "following_count": 3943,
+          "like_count": 100710,
+          "listed_count": 495,
+          "tweet_count": 12648
+        },
+        "url": "https://t.co/mZ1TN6exbg",
+        "username": "Iloveuthewyuare",
+        "verified": false
+      }
+    ]
+  }
+}

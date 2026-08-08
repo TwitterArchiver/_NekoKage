@@ -1,0 +1,671 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Nagoya",
+          "id": "859408970473066496",
+          "name": "Nagoya"
+        }
+      }
+    ],
+    "conversation_id": "2023350468395835673",
+    "created_at": "2026-02-16T10:55:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T11:55:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023350468395835673"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "名古屋栄店",
+          "probability": 0.5998,
+          "start": 14,
+          "type": "Place"
+        },
+        {
+          "end": 43,
+          "normalized_text": "ニコンS3Limited Edition",
+          "probability": 0.2426,
+          "start": 24,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "71209626",
+          "start": 3,
+          "username": "lemonsha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023350468395835673",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023241537782731095",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lemonsha: 名古屋栄店です🍋\nニコンS3Limited Editionを買取させていただきました✨\nシルバーは2000年に約6,000台、ブラックは2002年に2000台限定復刻販売されたものですね！\n元箱等付属品も揃っております😁(化粧箱のデザインもいいですよ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2731,
+        "media_key": "3_2023240637680943104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBP-o_AbgAAO-uG.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2731,
+        "media_key": "3_2023240658572701696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBP-qM1acAAoDrh.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2731,
+        "media_key": "3_2023240676851474433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBP-rQ7aYAEzoce.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Nagoya",
+              "id": "859408970473066496",
+              "name": "Nagoya"
+            }
+          }
+        ],
+        "conversation_id": "2023350468395835673",
+        "created_at": "2026-02-16T10:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T11:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023350468395835673"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "名古屋栄店",
+              "probability": 0.5998,
+              "start": 14,
+              "type": "Place"
+            },
+            {
+              "end": 43,
+              "normalized_text": "ニコンS3Limited Edition",
+              "probability": 0.2426,
+              "start": 24,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "71209626",
+              "start": 3,
+              "username": "lemonsha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023350468395835673",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023241537782731095",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lemonsha: 名古屋栄店です🍋\nニコンS3Limited Editionを買取させていただきました✨\nシルバーは2000年に約6,000台、ブラックは2002年に2000台限定復刻販売されたものですね！\n元箱等付属品も揃っております😁(化粧箱のデザインもいいですよ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023240637680943104",
+            "3_2023240658572701696",
+            "3_2023240676851474433"
+          ]
+        },
+        "author_id": "71209626",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Nagoya",
+              "id": "859408970473066496",
+              "name": "Nagoya"
+            }
+          }
+        ],
+        "conversation_id": "2023241537782731095",
+        "created_at": "2026-02-16T03:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T04:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023241537782731095"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "名古屋栄店",
+              "probability": 0.4995,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 162,
+              "start": 156,
+              "tag": "Nikon"
+            },
+            {
+              "end": 168,
+              "start": 163,
+              "tag": "レモン社"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/geqr4dJuxZ",
+              "end": 192,
+              "expanded_url": "https://x.com/lemonsha/status/2023241537782731095/photo/1",
+              "media_key": "3_2023240637680943104",
+              "start": 169,
+              "url": "https://t.co/geqr4dJuxZ"
+            },
+            {
+              "display_url": "pic.x.com/geqr4dJuxZ",
+              "end": 192,
+              "expanded_url": "https://x.com/lemonsha/status/2023241537782731095/photo/1",
+              "media_key": "3_2023240658572701696",
+              "start": 169,
+              "url": "https://t.co/geqr4dJuxZ"
+            },
+            {
+              "display_url": "pic.x.com/geqr4dJuxZ",
+              "end": 192,
+              "expanded_url": "https://x.com/lemonsha/status/2023241537782731095/photo/1",
+              "media_key": "3_2023240676851474433",
+              "start": 169,
+              "url": "https://t.co/geqr4dJuxZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023241537782731095",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1281,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "名古屋栄店です🍋\nニコンS3Limited Editionを買取させていただきました✨\nシルバーは2000年に約6,000台、ブラックは2002年に2000台限定復刻販売されたものですね！\n元箱等付属品も揃っております😁(化粧箱のデザインもいいですよね😌)\nオンライン掲載までは店頭限定販売となります💁‍♀️\n #Nikon #レモン社 https://t.co/geqr4dJuxZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7970,
+          "following_count": 5773,
+          "like_count": 13868,
+          "listed_count": 17,
+          "media_count": 2599,
+          "tweet_count": 19149
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-03T08:55:54.000Z",
+        "description": "カメラ/時計/万年筆/など、大人の趣味の店を目指してるレモン社です🍋 銀座教会店・新宿店・渋谷店・秋葉原店・池袋店・横浜店・名古屋栄店 ※商品在庫状況に関してはナニワグループオンラインサイトまたは各店舗に直接ご確認ください※リプに返信出来ない場合もあります※ #レモン社 #ナニワグループオンライン #スペース728",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "レモン社"
+              },
+              {
+                "end": 149,
+                "start": 136,
+                "tag": "ナニワグループオンライン"
+              },
+              {
+                "end": 158,
+                "start": 150,
+                "tag": "スペース728"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lemonsha.com",
+                "end": 23,
+                "expanded_url": "http://www.lemonsha.com",
+                "start": 0,
+                "url": "https://t.co/w5VXfryuCL"
+              }
+            ]
+          }
+        },
+        "id": "71209626",
+        "location": "東京都中央区銀座4-2-1銀座教会堂ビル8F",
+        "name": "レモン社🍋",
+        "pinned_tweet_id": "2019698802819764467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/877822668094849026/AkecVK6x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8225,
+          "following_count": 3557,
+          "like_count": 4721,
+          "listed_count": 310,
+          "media_count": 2199,
+          "tweet_count": 21346
+        },
+        "url": "https://t.co/w5VXfryuCL",
+        "username": "lemonsha",
+        "verified": false
+      }
+    ]
+  }
+}

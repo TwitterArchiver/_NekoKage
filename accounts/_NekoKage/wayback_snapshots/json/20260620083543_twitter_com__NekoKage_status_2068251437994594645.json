@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068231134320943104"
+      ],
+      "media_source_tweet_id": [
+        "2068231231524024389"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1400493319017222145",
+          "name": "Chain restaurants"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407432451467538432",
+          "name": "Family restaurants"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407775051349299200",
+          "name": "Saizeriya"
+        }
+      }
+    ],
+    "conversation_id": "2068251437994594645",
+    "created_at": "2026-06-20T08:35:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T09:35:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068251437994594645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1453692172759298057",
+          "start": 3,
+          "username": "Master_X_light"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0WGfdXpIQK",
+          "end": 62,
+          "expanded_url": "https://x.com/Master_X_light/status/2068231231524024389/photo/1",
+          "media_key": "3_2068231134320943104",
+          "start": 39,
+          "url": "https://t.co/0WGfdXpIQK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068251437994594645",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068231231524024389",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Master_X_light: サイゼに行くときのご近所カメラ決定版 https://t.co/0WGfdXpIQK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2068231134320943104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPVQjqaYAAOR7s.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068231134320943104"
+          ],
+          "media_source_tweet_id": [
+            "2068231231524024389"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400493319017222145",
+              "name": "Chain restaurants"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407432451467538432",
+              "name": "Family restaurants"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407775051349299200",
+              "name": "Saizeriya"
+            }
+          }
+        ],
+        "conversation_id": "2068251437994594645",
+        "created_at": "2026-06-20T08:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T09:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068251437994594645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1453692172759298057",
+              "start": 3,
+              "username": "Master_X_light"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0WGfdXpIQK",
+              "end": 62,
+              "expanded_url": "https://x.com/Master_X_light/status/2068231231524024389/photo/1",
+              "media_key": "3_2068231134320943104",
+              "start": 39,
+              "url": "https://t.co/0WGfdXpIQK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068251437994594645",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068231231524024389",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Master_X_light: サイゼに行くときのご近所カメラ決定版 https://t.co/0WGfdXpIQK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068231134320943104"
+          ]
+        },
+        "author_id": "1453692172759298057",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400493319017222145",
+              "name": "Chain restaurants"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407432451467538432",
+              "name": "Family restaurants"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407775051349299200",
+              "name": "Saizeriya"
+            }
+          }
+        ],
+        "conversation_id": "2068231231524024389",
+        "created_at": "2026-06-20T07:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068231231524024389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0WGfdXpIQK",
+              "end": 42,
+              "expanded_url": "https://x.com/Master_X_light/status/2068231231524024389/photo/1",
+              "media_key": "3_2068231134320943104",
+              "start": 19,
+              "url": "https://t.co/0WGfdXpIQK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068231231524024389",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "サイゼに行くときのご近所カメラ決定版 https://t.co/0WGfdXpIQK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病多病病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "_kagenone"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8670,
+          "following_count": 6614,
+          "like_count": 15551,
+          "listed_count": 17,
+          "media_count": 2977,
+          "tweet_count": 21643
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-28T11:56:44.000Z",
+        "description": "ランニング自転車音楽\n大体毎日漕ぐか走るかして大体毎日ギター弾いててたまに写真も撮ってます",
+        "id": "1453692172759298057",
+        "name": "えると",
+        "pinned_tweet_id": "1947520904474595335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065527139492073472/WjtKqosG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 222,
+          "like_count": 49017,
+          "listed_count": 6,
+          "media_count": 1007,
+          "tweet_count": 4637
+        },
+        "url": "",
+        "username": "Master_X_light",
+        "verified": false
+      }
+    ]
+  }
+}

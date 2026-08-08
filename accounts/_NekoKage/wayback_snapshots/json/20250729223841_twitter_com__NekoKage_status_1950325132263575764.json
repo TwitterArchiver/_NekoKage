@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      }
+    ],
+    "conversation_id": "1950123863830122902",
+    "created_at": "2025-07-29T22:38:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T23:38:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950325132263575764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "712921476945547264",
+          "start": 0,
+          "username": "rokkoo2013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950325132263575764",
+    "in_reply_to_user_id": "712921476945547264",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950123863830122902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rokkoo2013 Olympus &amp; Nikon"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4080,
+        "media_key": "3_1950121199541026816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxA45heaAAARGTH.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "1950123863830122902",
+        "created_at": "2025-07-29T22:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T23:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950325132263575764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "712921476945547264",
+              "start": 0,
+              "username": "rokkoo2013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950325132263575764",
+        "in_reply_to_user_id": "712921476945547264",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950123863830122902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rokkoo2013 Olympus &amp; Nikon"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950121199541026816"
+          ]
+        },
+        "author_id": "712921476945547264",
+        "conversation_id": "1950123863830122902",
+        "created_at": "2025-07-29T09:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T10:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950123863830122902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Blk7g78S0m",
+              "end": 166,
+              "expanded_url": "https://x.com/rokkoo2013/status/1950123863830122902/photo/1",
+              "media_key": "3_1950121199541026816",
+              "start": 143,
+              "url": "https://t.co/Blk7g78S0m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950123863830122902",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "今から40年以上前に作られたカメラには、モルトと呼ばれるスポンジが、遮光材として大量に使われていました。それが、ほぼもれなく画像のように加水分解により劣化して、カメラ内部に飛び散り、先ず、漏光の原因になり、更に困ったことに、ガラス面に蒸着した金属を犯し剥離させます。これが、SLRのペンタプリズムによく起こり、ファンダー内の雲状の汚物となります。現在本来状態を保っている個体は皆、既に対策が施されていると考えていいのですが、もし不安があるのなら、一度整備をお勧めします。症状が起きてしまうと、再蒸着か部品交換となり、いろいろ面倒な手当になります。この個体のプリズムは、整備のついでに交換します。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 998,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "今から40年以上前に作られたカメラには、モルトと呼ばれるスポンジが、遮光材として大量に使われていました。それが、ほぼもれなく画像のように加水分解により劣化して、カメラ内部に飛び散り、先ず、漏光の原因になり、更に困ったことに、ガラス面に蒸着した金属を犯し剥離させます。これが、SLRのペ https://t.co/Blk7g78S0m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🐈#RainWorld⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 107,
+                "tag": "RainWorld"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "_kagenone"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7803,
+          "following_count": 4890,
+          "like_count": 13024,
+          "listed_count": 18,
+          "media_count": 2335,
+          "tweet_count": 16588
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-24T08:38:20.000Z",
+        "description": "機械式フィルムカメラを自身で修理・整備、販売するネットショップ(https://t.co/rPqxdFv0aQ）です。当アカウントでは商品解説は勿論、分解実演・レンズ清掃等々を掲載します。商品問い合わせだけでなく、修理/整備ご相談等、ご遠慮なくメール等でご質問ください。\nrokkoo2013@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "j-camera.net",
+                "end": 55,
+                "expanded_url": "http://j-camera.net",
+                "start": 32,
+                "url": "https://t.co/rPqxdFv0aQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kameranorokkoo…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kameranorokkoo/?hl=ja#",
+                "start": 0,
+                "url": "https://t.co/uukwYLbdcL"
+              }
+            ]
+          }
+        },
+        "id": "712921476945547264",
+        "name": "カメラのロッコー　ペンタコンシックス始めカメラ修理お受けします。",
+        "pinned_tweet_id": "1721086680420200691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/713907009645625348/oSzHKIxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3315,
+          "following_count": 1013,
+          "like_count": 3021,
+          "listed_count": 0,
+          "media_count": 7830,
+          "tweet_count": 20507
+        },
+        "url": "https://t.co/uukwYLbdcL",
+        "username": "rokkoo2013",
+        "verified": true
+      }
+    ]
+  }
+}

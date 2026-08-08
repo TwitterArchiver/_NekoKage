@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129035621861773312",
+          "name": "3D printing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129035621861773312",
+          "name": "3D printing"
+        }
+      }
+    ],
+    "conversation_id": "2001038262782320853",
+    "created_at": "2025-12-16T21:14:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T22:14:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001038262782320853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1436009312078508034",
+          "start": 3,
+          "username": "lukas_m_ziegler"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001038262782320853",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000990494575214663",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lukas_m_ziegler: Supportless, free-form 3D printing! ⛓️\n\nBy using low-melting-point Fields' metal and shaping it through surface tensio…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36500,
+        "height": 818,
+        "media_key": "13_2000989677268938756",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000989677268938756/img/NLKtlOpmV9rN5Y6e.jpg",
+        "public_metrics": {
+          "view_count": 14933
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000989677268938756/vid/avc1/320x362/2rDmnlAZPhbwO3Q6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000989677268938756/vid/avc1/480x544/GCXgyzLgPEmRNG1X.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000989677268938756/vid/avc1/720x818/lHPw2MqQWgX9ly4g.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000989677268938756/pl/qpQ0Ni-gJ5uGBIhz.m3u8?v=a6c"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129035621861773312",
+              "name": "3D printing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129035621861773312",
+              "name": "3D printing"
+            }
+          }
+        ],
+        "conversation_id": "2001038262782320853",
+        "created_at": "2025-12-16T21:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T22:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001038262782320853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1436009312078508034",
+              "start": 3,
+              "username": "lukas_m_ziegler"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001038262782320853",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000990494575214663",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lukas_m_ziegler: Supportless, free-form 3D printing! ⛓️\n\nBy using low-melting-point Fields' metal and shaping it through surface tensio…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000989677268938756"
+          ]
+        },
+        "author_id": "1436009312078508034",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129035621861773312",
+              "name": "3D printing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129035621861773312",
+              "name": "3D printing"
+            }
+          }
+        ],
+        "conversation_id": "2000990494575214663",
+        "created_at": "2025-12-16T18:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T19:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000990494575214663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MNzKEgXAQh",
+              "end": 303,
+              "expanded_url": "https://x.com/lukas_m_ziegler/status/2000990494575214663/video/1",
+              "media_key": "13_2000989677268938756",
+              "start": 280,
+              "url": "https://t.co/MNzKEgXAQh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000990494575214663",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "ziegler.substack.com",
+                "end": 532,
+                "expanded_url": "http://ziegler.substack.com",
+                "start": 509,
+                "url": "https://t.co/GoA3ZuwoPB"
+              }
+            ]
+          },
+          "text": "Supportless, free-form 3D printing! ⛓️\n\nBy using low-melting-point Fields' metal and shaping it through surface tension, this process can create highly conductive 3D structures in a single pass, no supports, no post-processing. \n\nPretty interesting way of thinking about additive manufacturing, especially for electronics and functional metal parts.\n\nJust wow. I only know this is from Singapore, anyone has more information about them?\n\n~~ \n\n♻️ Join the weekly robotics newsletter, and never miss any news → https://t.co/GoA3ZuwoPB"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 26362,
+          "like_count": 141,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "Supportless, free-form 3D printing! ⛓️\n\nBy using low-melting-point Fields' metal and shaping it through surface tension, this process can create highly conductive 3D structures in a single pass, no supports, no post-processing. \n\nPretty interesting way of thinking about additive https://t.co/MNzKEgXAQh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7968,
+          "following_count": 5562,
+          "like_count": 13778,
+          "listed_count": 17,
+          "media_count": 2546,
+          "tweet_count": 18572
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-09T16:51:23.000Z",
+        "description": "robotics evangelist | riding the wave of robotics | angel investing & scouting 🕵🏼‍♂️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "botnanza.com",
+                "end": 23,
+                "expanded_url": "https://botnanza.com/",
+                "start": 0,
+                "url": "https://t.co/4OmED13Miu"
+              }
+            ]
+          }
+        },
+        "id": "1436009312078508034",
+        "location": "Europe",
+        "name": "Lukas Ziegler",
+        "pinned_tweet_id": "1998722968353177891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945929091875565569/sYEMYrQo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21488,
+          "following_count": 642,
+          "like_count": 4719,
+          "listed_count": 274,
+          "media_count": 1533,
+          "tweet_count": 4026
+        },
+        "url": "https://t.co/4OmED13Miu",
+        "username": "lukas_m_ziegler",
+        "verified": true
+      }
+    ]
+  }
+}

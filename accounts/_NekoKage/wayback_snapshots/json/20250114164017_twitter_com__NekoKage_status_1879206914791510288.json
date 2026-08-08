@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1878995798844641280"
+      ],
+      "media_source_tweet_id": [
+        "1879151482786009414"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026738409",
+          "name": "Sony"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026738409",
+          "name": "Sony"
+        }
+      }
+    ],
+    "conversation_id": "1879206914791510288",
+    "created_at": "2025-01-14T16:40:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-14T17:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879206914791510288"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 45,
+          "normalized_text": "Sony Microcassette Deck",
+          "probability": 0.5164,
+          "start": 23,
+          "type": "Organization"
+        },
+        {
+          "end": 52,
+          "normalized_text": "MR2",
+          "probability": 0.3686,
+          "start": 50,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1647428363965935617",
+          "start": 3,
+          "username": "ObsoleteSony"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z9efxz6RT7",
+          "end": 77,
+          "expanded_url": "https://x.com/ObsoleteSony/status/1879151482786009414/photo/1",
+          "media_key": "3_1878995798844641280",
+          "start": 54,
+          "url": "https://t.co/Z9efxz6RT7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879206914791510288",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879151482786009414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ObsoleteSony: 1979 Sony Microcassette Deck TC-MR2 https://t.co/Z9efxz6RT7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1878995798844641280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhOIuUSWEAAA3AQ.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878995798844641280"
+          ],
+          "media_source_tweet_id": [
+            "1879151482786009414"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          }
+        ],
+        "conversation_id": "1879206914791510288",
+        "created_at": "2025-01-14T16:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T17:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879206914791510288"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "Sony Microcassette Deck",
+              "probability": 0.5164,
+              "start": 23,
+              "type": "Organization"
+            },
+            {
+              "end": 52,
+              "normalized_text": "MR2",
+              "probability": 0.3686,
+              "start": 50,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647428363965935617",
+              "start": 3,
+              "username": "ObsoleteSony"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z9efxz6RT7",
+              "end": 77,
+              "expanded_url": "https://x.com/ObsoleteSony/status/1879151482786009414/photo/1",
+              "media_key": "3_1878995798844641280",
+              "start": 54,
+              "url": "https://t.co/Z9efxz6RT7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879206914791510288",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879151482786009414",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ObsoleteSony: 1979 Sony Microcassette Deck TC-MR2 https://t.co/Z9efxz6RT7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878995798844641280"
+          ]
+        },
+        "author_id": "1647428363965935617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          }
+        ],
+        "conversation_id": "1879151482786009414",
+        "created_at": "2025-01-14T13:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T14:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879151482786009414"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "Sony",
+              "probability": 0.7176,
+              "start": 5,
+              "type": "Organization"
+            },
+            {
+              "end": 27,
+              "normalized_text": "Deck",
+              "probability": 0.4626,
+              "start": 24,
+              "type": "Other"
+            },
+            {
+              "end": 34,
+              "normalized_text": "MR2",
+              "probability": 0.4353,
+              "start": 32,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z9efxz6RT7",
+              "end": 59,
+              "expanded_url": "https://x.com/ObsoleteSony/status/1879151482786009414/photo/1",
+              "media_key": "3_1878995798844641280",
+              "start": 36,
+              "url": "https://t.co/Z9efxz6RT7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879151482786009414",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 11590,
+          "like_count": 536,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "1979 Sony Microcassette Deck TC-MR2 https://t.co/Z9efxz6RT7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠📢siren爱好者⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "_kagenone"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7463,
+          "following_count": 4468,
+          "like_count": 12242,
+          "listed_count": 19,
+          "media_count": 2104,
+          "tweet_count": 14754
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-16T02:35:35.000Z",
+        "description": "Embark on a journey through the obscure world of forgotten, odd, and obsolete Sony devices.\nhttps://t.co/ttYHiNIrL8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/WBCAF3NwVr",
+                "end": 115,
+                "expanded_url": "https://discord.gg/WBCAF3NwVr",
+                "start": 92,
+                "url": "https://t.co/ttYHiNIrL8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "obsoletesony.com",
+                "end": 23,
+                "expanded_url": "https://www.obsoletesony.com/",
+                "start": 0,
+                "url": "https://t.co/c8KpRtInN1"
+              }
+            ]
+          }
+        },
+        "id": "1647428363965935617",
+        "name": "Obsolete Sony",
+        "pinned_tweet_id": "1877910260599415264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828847927948713984/ByMWXBYs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113321,
+          "following_count": 888,
+          "like_count": 40533,
+          "listed_count": 453,
+          "media_count": 4668,
+          "tweet_count": 7391
+        },
+        "url": "https://t.co/c8KpRtInN1",
+        "username": "ObsoleteSony",
+        "verified": true
+      }
+    ]
+  }
+}

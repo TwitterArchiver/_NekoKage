@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1927800879178043392"
+      ],
+      "media_source_tweet_id": [
+        "1927802054950498446"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1927986489427693861",
+    "created_at": "2025-05-29T07:12:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T08:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927986489427693861"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 57,
+          "normalized_text": "ASMR",
+          "probability": 0.6097,
+          "start": 54,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1036957264861585408",
+          "start": 3,
+          "username": "glitch_prod"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S5OzGkBSZC",
+          "end": 82,
+          "expanded_url": "https://x.com/glitch_prod/status/1927802054950498446/video/1",
+          "media_key": "7_1927800879178043392",
+          "start": 59,
+          "url": "https://t.co/S5OzGkBSZC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927986489427693861",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1601
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927802054950498446",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @glitch_prod: making hot chocolate with N but it's ASMR https://t.co/S5OzGkBSZC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41341,
+        "height": 1280,
+        "media_key": "7_1927800879178043392",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1927800879178043392/pu/img/W8GbC4xjqyH_cSw9.jpg",
+        "public_metrics": {
+          "view_count": 36497
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1927800879178043392/pu/vid/avc1/320x568/I56GWWr0UIzDP3ZI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1927800879178043392/pu/vid/avc1/480x852/75R6Hwqe7hjkZ8Yp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1927800879178043392/pu/vid/avc1/720x1280/caobZa47XPyK_j_N.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1927800879178043392/pu/pl/lreka7P8Pe5fF6aQ.m3u8?tag=12&v=cbf"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1927800879178043392"
+          ],
+          "media_source_tweet_id": [
+            "1927802054950498446"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1927986489427693861",
+        "created_at": "2025-05-29T07:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T08:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927986489427693861"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 57,
+              "normalized_text": "ASMR",
+              "probability": 0.6097,
+              "start": 54,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1036957264861585408",
+              "start": 3,
+              "username": "glitch_prod"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S5OzGkBSZC",
+              "end": 82,
+              "expanded_url": "https://x.com/glitch_prod/status/1927802054950498446/video/1",
+              "media_key": "7_1927800879178043392",
+              "start": 59,
+              "url": "https://t.co/S5OzGkBSZC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927986489427693861",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1601
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927802054950498446",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @glitch_prod: making hot chocolate with N but it's ASMR https://t.co/S5OzGkBSZC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1927800879178043392"
+          ]
+        },
+        "author_id": "1036957264861585408",
+        "conversation_id": "1927802054950498446",
+        "created_at": "2025-05-28T19:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T20:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927802054950498446"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "ASMR",
+              "probability": 0.5445,
+              "start": 37,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S5OzGkBSZC",
+              "end": 65,
+              "expanded_url": "https://x.com/glitch_prod/status/1927802054950498446/video/1",
+              "media_key": "7_1927800879178043392",
+              "start": 42,
+              "url": "https://t.co/S5OzGkBSZC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927802054950498446",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1432,
+          "impression_count": 148540,
+          "like_count": 8176,
+          "quote_count": 126,
+          "reply_count": 122,
+          "retweet_count": 1601
+        },
+        "reply_settings": "everyone",
+        "text": "making hot chocolate with N but it's ASMR https://t.co/S5OzGkBSZC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠📢siren爱好者⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "_kagenone"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7625,
+          "following_count": 4652,
+          "like_count": 12674,
+          "listed_count": 20,
+          "media_count": 2225,
+          "tweet_count": 15755
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-04T12:40:52.000Z",
+        "description": "Indie animation studio making fun, colorful shows with occasional violence and existential breakdowns :D | business@glitchprod.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@GLITCH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@GLITCH",
+                "start": 0,
+                "url": "https://t.co/RkKMHlvJod"
+              }
+            ]
+          }
+        },
+        "id": "1036957264861585408",
+        "name": "GLITCH",
+        "pinned_tweet_id": "1913351992207962601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922166790655758336/4S2_Nuj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646021,
+          "following_count": 205,
+          "like_count": 2517,
+          "listed_count": 397,
+          "media_count": 1049,
+          "tweet_count": 1774
+        },
+        "url": "https://t.co/RkKMHlvJod",
+        "username": "glitch_prod",
+        "verified": false
+      }
+    ]
+  }
+}

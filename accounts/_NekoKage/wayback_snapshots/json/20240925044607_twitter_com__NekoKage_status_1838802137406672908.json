@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "conversation_id": "1838602703112671558",
+    "created_at": "2024-09-25T04:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T05:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838802137406672908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746169774147776512",
+          "start": 0,
+          "username": "A1sakuMenh3ra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838802137406672908",
+    "in_reply_to_user_id": "1746169774147776512",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838633535521067319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A1sakuMenh3ra 啊？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1838633535521067319].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1838633535521067319",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1838633535521067319"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "conversation_id": "1838602703112671558",
+        "created_at": "2024-09-25T04:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T05:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838802137406672908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746169774147776512",
+              "start": 0,
+              "username": "A1sakuMenh3ra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838802137406672908",
+        "in_reply_to_user_id": "1746169774147776512",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838633535521067319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A1sakuMenh3ra 啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain💐omori📷膠片攝影/相机维修🚬大烟鬼🔪刃物收藏⌚️入门表匠🚪88⚠️里推:@_kagenone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 130,
+                "username": "_kagenone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7220,
+          "following_count": 4192,
+          "like_count": 11046,
+          "listed_count": 18,
+          "tweet_count": 13394
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T13:58:25.000Z",
+        "description": "🤍Interested in FPGA, ASIC & WBS\n🏥ADHD & ASD\n\n自我认同是鸟巢蕨 \n问性别一律当性骚扰处理\n童权 堕胎权是人权的基础\n性别/性取向歧视 &纯看黄号会拉黑\n食品工程 博物学 金融分析 爱好者\n\nWe are sick, fucked up and complicated",
+        "id": "1746169774147776512",
+        "location": "Enceladus",
+        "name": "🌘l92374y14n4X",
+        "pinned_tweet_id": "1828301292571439573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822660399034163200/Wndwgn1V_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 719,
+          "like_count": 28159,
+          "listed_count": 2,
+          "tweet_count": 27275
+        },
+        "username": "A1sakuMenh3ra",
+        "verified": false
+      }
+    ]
+  }
+}

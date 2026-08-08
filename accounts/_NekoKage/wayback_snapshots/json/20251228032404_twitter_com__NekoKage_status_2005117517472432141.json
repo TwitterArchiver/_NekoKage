@@ -1,0 +1,587 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Steve Jobs",
+          "id": "1032977830613676034",
+          "name": "Steve Jobs"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Leadership",
+          "id": "857878777191211008",
+          "name": "Leadership"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Steve Jobs",
+          "id": "1032977830613676034",
+          "name": "Steve Jobs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166406108623163392",
+          "name": "Business personalities"
+        }
+      }
+    ],
+    "conversation_id": "2005117517472432141",
+    "created_at": "2025-12-28T03:24:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T04:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005117517472432141"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 41,
+          "normalized_text": "スティーブ・ジョブズ",
+          "probability": 0.6654,
+          "start": 32,
+          "type": "Person"
+        },
+        {
+          "end": 65,
+          "normalized_text": "Macintosh",
+          "probability": 0.4526,
+          "start": 57,
+          "type": "Product"
+        },
+        {
+          "end": 86,
+          "normalized_text": "スティーブ・ジョブズ",
+          "probability": 0.9663,
+          "start": 77,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "3723201020",
+          "start": 3,
+          "username": "Dream_Library_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005117517472432141",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 286
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004882672838213704",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dream_Library_: 2026年 新企画展示「スティーブ・ジョブズを探せ！」\n伝説では、初期型 Macintosh のケースの内側には、スティーブ・ジョブズ氏の発案で、Macintosh開発チーム全員のサインが刻印されている、とされています。\n実際に、初期型……"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36522,
+        "height": 720,
+        "media_key": "13_2004881056290447360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2004881056290447360/img/1Z7lMLc6biAQsQ5m.jpg",
+        "public_metrics": {
+          "view_count": 75018
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004881056290447360/vid/avc1/480x270/51wuavVpcti05grb.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004881056290447360/vid/avc1/640x360/pV1JjKDXqGFtLzgv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004881056290447360/vid/avc1/1280x720/AnFC5ClywelARV-X.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2004881056290447360/pl/m4Vuxge_N0wDoR9-.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Steve Jobs",
+              "id": "1032977830613676034",
+              "name": "Steve Jobs"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Steve Jobs",
+              "id": "1032977830613676034",
+              "name": "Steve Jobs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2005117517472432141",
+        "created_at": "2025-12-28T03:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T04:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005117517472432141"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "スティーブ・ジョブズ",
+              "probability": 0.6654,
+              "start": 32,
+              "type": "Person"
+            },
+            {
+              "end": 65,
+              "normalized_text": "Macintosh",
+              "probability": 0.4526,
+              "start": 57,
+              "type": "Product"
+            },
+            {
+              "end": 86,
+              "normalized_text": "スティーブ・ジョブズ",
+              "probability": 0.9663,
+              "start": 77,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "3723201020",
+              "start": 3,
+              "username": "Dream_Library_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005117517472432141",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 286
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004882672838213704",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dream_Library_: 2026年 新企画展示「スティーブ・ジョブズを探せ！」\n伝説では、初期型 Macintosh のケースの内側には、スティーブ・ジョブズ氏の発案で、Macintosh開発チーム全員のサインが刻印されている、とされています。\n実際に、初期型……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2004881056290447360"
+          ]
+        },
+        "author_id": "3723201020",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Steve Jobs",
+              "id": "1032977830613676034",
+              "name": "Steve Jobs"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Steve Jobs",
+              "id": "1032977830613676034",
+              "name": "Steve Jobs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2004882672838213704",
+        "created_at": "2025-12-27T11:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T12:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004882672838213704"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "スティーブ・ジョブズ",
+              "probability": 0.4709,
+              "start": 12,
+              "type": "Person"
+            },
+            {
+              "end": 45,
+              "normalized_text": "Macintosh",
+              "probability": 0.3939,
+              "start": 37,
+              "type": "Product"
+            },
+            {
+              "end": 66,
+              "normalized_text": "スティーブ・ジョブズ",
+              "probability": 0.9684,
+              "start": 57,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VoSYdHwFPQ",
+              "end": 142,
+              "expanded_url": "https://x.com/Dream_Library_/status/2004882672838213704/video/1",
+              "media_key": "13_2004881056290447360",
+              "start": 119,
+              "url": "https://t.co/VoSYdHwFPQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004882672838213704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "2026年 新企画展示「スティーブ・ジョブズを探せ！」\n伝説では、初期型 Macintosh のケースの内側には、スティーブ・ジョブズ氏の発案で、Macintosh開発チーム全員のサインが刻印されている、とされています。\n実際に、初期型 Macintoshのケースを開けて、内側を見てみると、確かに多数のサインが見えます。\n\nこれらの開発者のサインは、貴重な技術歴史遺産ですので、マイコン博物館の展示に加える事にします。\n\nスティーブ・ジョブズ氏を始め、Macintosh開発チームの有名人達のサインを、ご自身の目で確かめてください。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 190,
+          "impression_count": 136654,
+          "like_count": 1133,
+          "quote_count": 25,
+          "reply_count": 10,
+          "retweet_count": 286
+        },
+        "reply_settings": "everyone",
+        "text": "2026年 新企画展示「スティーブ・ジョブズを探せ！」\n伝説では、初期型 Macintosh のケースの内側には、スティーブ・ジョブズ氏の発案で、Macintosh開発チーム全員のサインが刻印されている、とされています。\n実際に、初期型 https://t.co/VoSYdHwFPQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7969,
+          "following_count": 5569,
+          "like_count": 13766,
+          "listed_count": 17,
+          "media_count": 2552,
+          "tweet_count": 18607
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-29T07:02:46.000Z",
+        "description": "100年分3万冊の技術雑誌が在る私設の専門図書館&ブックカフェ。子供の頃にわくわくしながら読んでいた雑誌。夢に見た懐かしい雑誌にもう一度会える夢のような図書館です。「マイコン博物館」と「模型とラジオの博物館」を併設。夢の図書館はオンラインと東京青梅市にあるリアルの両方をご利用できます。 艦長は70年代月刊アスキー編集長",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "scitech.or.jp/micom_reserve/",
+                "end": 23,
+                "expanded_url": "https://scitech.or.jp/micom_reserve/",
+                "start": 0,
+                "url": "https://t.co/G0vEOSOdk4"
+              }
+            ]
+          }
+        },
+        "id": "3723201020",
+        "location": "東京 青梅市 青梅駅より徒歩2分",
+        "name": "夢の図書館+マイコン博物館+模ラ博物館(公式) Microcomputer Museum Japan",
+        "pinned_tweet_id": "1876054715605369069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/685020353194627072/bNy-1OPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17100,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 271,
+          "media_count": 4377,
+          "tweet_count": 7189
+        },
+        "url": "https://t.co/G0vEOSOdk4",
+        "username": "Dream_Library_",
+        "verified": true
+      }
+    ]
+  }
+}

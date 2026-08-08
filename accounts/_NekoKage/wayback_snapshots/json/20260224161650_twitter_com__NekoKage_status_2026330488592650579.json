@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1277995430236680192",
+          "name": "Outdoors"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Birdwatching",
+          "id": "847868900628774913",
+          "name": "Birdwatching"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Birdwatching",
+          "id": "847868900628774913",
+          "name": "Birdwatching"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1277995430236680192",
+          "name": "Outdoors"
+        }
+      }
+    ],
+    "conversation_id": "2026330488592650579",
+    "created_at": "2026-02-24T16:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T17:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026330488592650579"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 125,
+          "normalized_text": "MOD. VIENNA",
+          "probability": 0.4928,
+          "start": 115,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1069541014732398592",
+          "start": 3,
+          "username": "4x3ch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026330488592650579",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026326891737846090",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4x3ch: カメラレンズの至宝、「フォクトレンダー」創業270年の伝統を宿す。透過率90%・APO設計で、薄暮の野鳥観察から、暗いステージの隅々まで圧倒的没入感を。 堅牢マグネシウム合金で一生愛せるフラッグシップ双眼鏡「MOD. VIENNA」が日本初上陸 https…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Birdwatching",
+              "id": "847868900628774913",
+              "name": "Birdwatching"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Birdwatching",
+              "id": "847868900628774913",
+              "name": "Birdwatching"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          }
+        ],
+        "conversation_id": "2026330488592650579",
+        "created_at": "2026-02-24T16:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T17:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026330488592650579"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 125,
+              "normalized_text": "MOD. VIENNA",
+              "probability": 0.4928,
+              "start": 115,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1069541014732398592",
+              "start": 3,
+              "username": "4x3ch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026330488592650579",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026326891737846090",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4x3ch: カメラレンズの至宝、「フォクトレンダー」創業270年の伝統を宿す。透過率90%・APO設計で、薄暮の野鳥観察から、暗いステージの隅々まで圧倒的没入感を。 堅牢マグネシウム合金で一生愛せるフラッグシップ双眼鏡「MOD. VIENNA」が日本初上陸 https…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1069541014732398592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Birdwatching",
+              "id": "847868900628774913",
+              "name": "Birdwatching"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Birdwatching",
+              "id": "847868900628774913",
+              "name": "Birdwatching"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          }
+        ],
+        "conversation_id": "2026326891737846090",
+        "created_at": "2026-02-24T16:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T17:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026326891737846090"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 114,
+              "normalized_text": "MOD. VIENNA",
+              "probability": 0.5337,
+              "start": 104,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "description": "フォクトレンダーから一生愛せるフラッグシップ双眼鏡「MOD. VIENNA」が登場！",
+              "display_url": "greenfunding.jp/lab/projects/9…",
+              "end": 146,
+              "expanded_url": "https://greenfunding.jp/lab/projects/9223",
+              "images": [
+                {
+                  "height": 852,
+                  "url": "https://pbs.twimg.com/news_img/2026266084249325568/HpiDb5WH?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2026266084249325568/HpiDb5WH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 123,
+              "status": 200,
+              "title": "カメラレンズの至宝、「フォクトレンダー」創業270年の伝統を宿す。 透過率90%・APO設計で、薄暮の野鳥観察から、暗いステージの隅々まで圧倒的没入感を。 堅牢マグネシウム合金で一生愛せるフラッグシップ双眼鏡 「MOD. VIENNA」が日本初上陸",
+              "unwound_url": "https://greenfunding.jp/lab/projects/9223",
+              "url": "https://t.co/WQwoEZubok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026326891737846090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 100,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "カメラレンズの至宝、「フォクトレンダー」創業270年の伝統を宿す。透過率90%・APO設計で、薄暮の野鳥観察から、暗いステージの隅々まで圧倒的没入感を。 堅牢マグネシウム合金で一生愛せるフラッグシップ双眼鏡「MOD. VIENNA」が日本初上陸 https://t.co/WQwoEZubok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7980,
+          "following_count": 5815,
+          "like_count": 13928,
+          "listed_count": 17,
+          "media_count": 2617,
+          "tweet_count": 19338
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-03T10:37:03.000Z",
+        "description": "手持ちのライカは大体元ジャンク。ハイライトに写真はまとめてあります。(4Kで読み込んで！)",
+        "id": "1069541014732398592",
+        "location": "東京 豊島区",
+        "name": "四葉三丁目",
+        "pinned_tweet_id": "1731828699668889764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1531303894449803264/2yNO6TaA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1595,
+          "following_count": 1396,
+          "like_count": 67347,
+          "listed_count": 12,
+          "media_count": 3789,
+          "tweet_count": 24191
+        },
+        "username": "4x3ch",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2012206781779595264"
+      ],
+      "media_source_tweet_id": [
+        "2012206818664054902"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1402328512237752320",
+          "name": "Death Note"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1402328512237752320",
+          "name": "Death Note"
+        }
+      }
+    ],
+    "conversation_id": "2012800034903822486",
+    "created_at": "2026-01-18T08:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T09:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012800034903822486"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 22,
+          "tag": "DEATHNOTE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1942313927150391296",
+          "start": 3,
+          "username": "bunnywill0w"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wfRPFaoWTO",
+          "end": 56,
+          "expanded_url": "https://x.com/bunnywill0w/status/2012206818664054902/video/1",
+          "media_key": "13_2012206781779595264",
+          "start": 33,
+          "url": "https://t.co/wfRPFaoWTO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012800034903822486",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1844
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012206818664054902",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bunnywill0w: :( ? #DEATHNOTE https://t.co/wfRPFaoWTO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18198,
+        "height": 1080,
+        "media_key": "13_2012206781779595264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2012206781779595264/img/nF5TFq1uwzUh7VIP.jpg",
+        "public_metrics": {
+          "view_count": 259
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012206781779595264/vid/avc1/320x320/xyJrB7Bn4cbO7a22.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012206781779595264/vid/avc1/540x540/WGvbwBPJsAJ8n-G1.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012206781779595264/vid/avc1/720x720/qKe4GZlP3BQ8ViUM.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2012206781779595264/pl/bJ3RtKajCmf5f9NV.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2012206781779595264"
+          ],
+          "media_source_tweet_id": [
+            "2012206818664054902"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1402328512237752320",
+              "name": "Death Note"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1402328512237752320",
+              "name": "Death Note"
+            }
+          }
+        ],
+        "conversation_id": "2012800034903822486",
+        "created_at": "2026-01-18T08:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T09:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012800034903822486"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 22,
+              "tag": "DEATHNOTE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942313927150391296",
+              "start": 3,
+              "username": "bunnywill0w"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wfRPFaoWTO",
+              "end": 56,
+              "expanded_url": "https://x.com/bunnywill0w/status/2012206818664054902/video/1",
+              "media_key": "13_2012206781779595264",
+              "start": 33,
+              "url": "https://t.co/wfRPFaoWTO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012800034903822486",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1844
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012206818664054902",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bunnywill0w: :( ? #DEATHNOTE https://t.co/wfRPFaoWTO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2012206781779595264"
+          ]
+        },
+        "author_id": "1942313927150391296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1402328512237752320",
+              "name": "Death Note"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1402328512237752320",
+              "name": "Death Note"
+            }
+          }
+        ],
+        "conversation_id": "2012206818664054902",
+        "created_at": "2026-01-16T16:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T17:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012206818664054902"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 5,
+              "tag": "DEATHNOTE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wfRPFaoWTO",
+              "end": 39,
+              "expanded_url": "https://x.com/bunnywill0w/status/2012206818664054902/video/1",
+              "media_key": "13_2012206781779595264",
+              "start": 16,
+              "url": "https://t.co/wfRPFaoWTO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012206818664054902",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 957,
+          "impression_count": 71518,
+          "like_count": 12033,
+          "quote_count": 22,
+          "reply_count": 11,
+          "retweet_count": 1844
+        },
+        "reply_settings": "everyone",
+        "text": ":( ? #DEATHNOTE https://t.co/wfRPFaoWTO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7958,
+          "following_count": 5603,
+          "like_count": 13763,
+          "listed_count": 17,
+          "media_count": 2560,
+          "tweet_count": 18785
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T20:05:07.000Z",
+        "description": "why u so bitter !!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rentry.co/nearbunnie",
+                "end": 23,
+                "expanded_url": "https://rentry.co/nearbunnie",
+                "start": 0,
+                "url": "https://t.co/jcTOl4PWZP"
+              }
+            ]
+          }
+        },
+        "id": "1942313927150391296",
+        "location": "it/its ♡ 5/12",
+        "name": "willow",
+        "pinned_tweet_id": "2007031735826223180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005042522867830785/hIXWyyZP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 307,
+          "like_count": 8724,
+          "listed_count": 3,
+          "media_count": 2339,
+          "tweet_count": 8650
+        },
+        "url": "https://t.co/jcTOl4PWZP",
+        "username": "bunnywill0w",
+        "verified": false
+      }
+    ]
+  }
+}

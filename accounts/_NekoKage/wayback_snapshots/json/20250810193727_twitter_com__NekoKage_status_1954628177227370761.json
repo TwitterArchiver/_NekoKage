@@ -1,0 +1,475 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954506609939677184"
+      ],
+      "media_source_tweet_id": [
+        "1954506620052107537"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1284106964167884800",
+          "name": "Leica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1284106964167884800",
+          "name": "Leica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      }
+    ],
+    "conversation_id": "1954628177227370761",
+    "created_at": "2025-08-10T19:37:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T20:37:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954628177227370761"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 50,
+          "normalized_text": "Leica M9, Summicron 35mm",
+          "probability": 0.3936,
+          "start": 27,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1201112609468010497",
+          "start": 3,
+          "username": "fatelmarit"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6hAaiR6ILq",
+          "end": 85,
+          "expanded_url": "https://x.com/fatelmarit/status/1954506620052107537/photo/1",
+          "media_key": "3_1954506609939677184",
+          "start": 62,
+          "url": "https://t.co/6hAaiR6ILq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954628177227370761",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954506620052107537",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fatelmarit: 2011年の今頃。\n\nLeica M9, Summicron 35mm f/2 (1st) https://t.co/6hAaiR6ILq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1954506609939677184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx_NaASbgAA9hTr.jpg",
+        "width": 1362
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954506609939677184"
+          ],
+          "media_source_tweet_id": [
+            "1954506620052107537"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1284106964167884800",
+              "name": "Leica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284106964167884800",
+              "name": "Leica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "1954628177227370761",
+        "created_at": "2025-08-10T19:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T20:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954628177227370761"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 50,
+              "normalized_text": "Leica M9, Summicron 35mm",
+              "probability": 0.3936,
+              "start": 27,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1201112609468010497",
+              "start": 3,
+              "username": "fatelmarit"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6hAaiR6ILq",
+              "end": 85,
+              "expanded_url": "https://x.com/fatelmarit/status/1954506620052107537/photo/1",
+              "media_key": "3_1954506609939677184",
+              "start": 62,
+              "url": "https://t.co/6hAaiR6ILq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954628177227370761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954506620052107537",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fatelmarit: 2011年の今頃。\n\nLeica M9, Summicron 35mm f/2 (1st) https://t.co/6hAaiR6ILq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954506609939677184"
+          ]
+        },
+        "author_id": "1201112609468010497",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1284106964167884800",
+              "name": "Leica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284106964167884800",
+              "name": "Leica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "1954506620052107537",
+        "created_at": "2025-08-10T11:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T12:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954506620052107537"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "Leica M9, Summicron 35mm",
+              "probability": 0.3152,
+              "start": 11,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6hAaiR6ILq",
+              "end": 69,
+              "expanded_url": "https://x.com/fatelmarit/status/1954506620052107537/photo/1",
+              "media_key": "3_1954506609939677184",
+              "start": 46,
+              "url": "https://t.co/6hAaiR6ILq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954506620052107537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 741,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "2011年の今頃。\n\nLeica M9, Summicron 35mm f/2 (1st) https://t.co/6hAaiR6ILq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🐈#RainWorld⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 107,
+                "tag": "RainWorld"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "_kagenone"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7817,
+          "following_count": 4957,
+          "like_count": 13047,
+          "listed_count": 17,
+          "media_count": 2360,
+          "tweet_count": 16810
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-01T12:15:50.000Z",
+        "description": "デザインを生業として生きる人。 デジタルと銀塩を行ったり来たり。",
+        "id": "1201112609468010497",
+        "location": "Paris",
+        "name": "Rohisuya",
+        "pinned_tweet_id": "1923528301248671916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664710911104253953/TSL4Pajv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 260,
+          "like_count": 32672,
+          "listed_count": 5,
+          "media_count": 1063,
+          "tweet_count": 2976
+        },
+        "username": "fatelmarit",
+        "verified": true
+      }
+    ]
+  }
+}

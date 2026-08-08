@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032211940458786816",
+        "3_2032211940467228676",
+        "3_2032211940496588800",
+        "3_2032211940463034369"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "2032211952341303592",
+    "created_at": "2026-03-12T21:47:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T22:47:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032211952341303592"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bZGlW8FAiP",
+          "end": 96,
+          "expanded_url": "https://x.com/_NekoKage/status/2032211952341303592/photo/1",
+          "media_key": "3_2032211940458786816",
+          "start": 73,
+          "url": "https://t.co/bZGlW8FAiP"
+        },
+        {
+          "display_url": "pic.x.com/bZGlW8FAiP",
+          "end": 96,
+          "expanded_url": "https://x.com/_NekoKage/status/2032211952341303592/photo/1",
+          "media_key": "3_2032211940467228676",
+          "start": 73,
+          "url": "https://t.co/bZGlW8FAiP"
+        },
+        {
+          "display_url": "pic.x.com/bZGlW8FAiP",
+          "end": 96,
+          "expanded_url": "https://x.com/_NekoKage/status/2032211952341303592/photo/1",
+          "media_key": "3_2032211940496588800",
+          "start": 73,
+          "url": "https://t.co/bZGlW8FAiP"
+        },
+        {
+          "display_url": "pic.x.com/bZGlW8FAiP",
+          "end": 96,
+          "expanded_url": "https://x.com/_NekoKage/status/2032211952341303592/photo/1",
+          "media_key": "3_2032211940463034369",
+          "start": 73,
+          "url": "https://t.co/bZGlW8FAiP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032211952341303592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一般通过胶片佬\n会玩各种稀奇古怪的\n接胶片机/镜头维修\n也是摩托佬 在攒钱买复古\n残疾人 请不要欺负残疾人🥺\n想交到更多的朋友\n一起玩好玩的东西 https://t.co/bZGlW8FAiP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2032211952341303592].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2032211952341303592",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2032211952341303592"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032211940458786816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDPd_iNacAA-jGm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032211940467228676",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDPd_iPbQAQ9B4T.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032211940496588800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDPd_iWbQAA4prX.jpg",
+        "width": 1015
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032211940463034369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDPd_iObQAEM3gx.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 118,
+                "start": 113,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8150,
+          "following_count": 5913,
+          "like_count": 14081,
+          "listed_count": 17,
+          "media_count": 2670,
+          "tweet_count": 19639
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1891634853147443200"
+      ],
+      "media_source_tweet_id": [
+        "1891691611475804512"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2046006047878619357",
+    "created_at": "2026-04-19T23:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T00:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046006047878619357"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 16,
+          "tag": "ブルアカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "787683383807619072",
+          "start": 3,
+          "username": "jasonbrod3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/buHZVTwMYM",
+          "end": 69,
+          "expanded_url": "https://x.com/jasonbrod3/status/1891691611475804512/photo/1",
+          "media_key": "3_1891634853147443200",
+          "start": 46,
+          "url": "https://t.co/buHZVTwMYM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046006047878619357",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5977
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891691611475804512",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jasonbrod3: #ブルアカ\n\n五感全てで、今日を楽しむとよい………………。 https://t.co/buHZVTwMYM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2046006047878619357].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2046006047878619357",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2046006047878619357"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1891634853147443200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkBv4GqaAAA1vyc.jpg",
+        "width": 2900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891634853147443200"
+          ]
+        },
+        "author_id": "787683383807619072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1891691611475804512",
+        "created_at": "2025-02-18T03:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T04:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891691611475804512"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ブルアカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/buHZVTwMYM",
+              "end": 53,
+              "expanded_url": "https://x.com/jasonbrod3/status/1891691611475804512/photo/1",
+              "media_key": "3_1891634853147443200",
+              "start": 30,
+              "url": "https://t.co/buHZVTwMYM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891691611475804512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13967,
+          "impression_count": 1466271,
+          "like_count": 78047,
+          "quote_count": 63,
+          "reply_count": 53,
+          "retweet_count": 5977
+        },
+        "reply_settings": "everyone",
+        "text": "#ブルアカ\n\n五感全てで、今日を楽しむとよい………………。 https://t.co/buHZVTwMYM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8427,
+          "following_count": 6405,
+          "like_count": 14669,
+          "listed_count": 17,
+          "media_count": 2819,
+          "tweet_count": 20628
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-16T15:55:28.000Z",
+        "description": "Contact : jasonbrody000530@gmail.com\n\nhttps://t.co/fLg3sJWfjR ←  (fanbox-like)\n\nhttps://t.co/ixs3lq4jTR - streaming",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "shoulder.fan/@sharptosharp",
+                "end": 61,
+                "expanded_url": "https://shoulder.fan/@sharptosharp",
+                "start": 38,
+                "url": "https://t.co/fLg3sJWfjR"
+              },
+              {
+                "display_url": "buly.kr/1tzB9a",
+                "end": 103,
+                "expanded_url": "https://buly.kr/1tzB9a",
+                "start": 80,
+                "url": "https://t.co/ixs3lq4jTR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/12683635",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/12683635",
+                "start": 0,
+                "url": "https://t.co/ostF97iQoN"
+              }
+            ]
+          }
+        },
+        "id": "787683383807619072",
+        "name": "##/fevercell🎨",
+        "pinned_tweet_id": "1990704961760735427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816277568703848448/Euw1wy64_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75720,
+          "following_count": 1546,
+          "like_count": 86353,
+          "listed_count": 321,
+          "media_count": 5383,
+          "tweet_count": 97879
+        },
+        "url": "https://t.co/ostF97iQoN",
+        "username": "jasonbrod3",
+        "verified": true
+      }
+    ]
+  }
+}

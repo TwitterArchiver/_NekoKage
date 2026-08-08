@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045501463305355264"
+      ],
+      "media_source_tweet_id": [
+        "2045501471698076062"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "2045600100379148463",
+    "created_at": "2026-04-18T20:27:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T21:27:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045600100379148463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "869054683456733184",
+          "start": 3,
+          "username": "hypnoneko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A02fOFNBtm",
+          "end": 69,
+          "expanded_url": "https://x.com/hypnoneko/status/2045501471698076062/photo/1",
+          "media_key": "3_2045501463305355264",
+          "start": 46,
+          "url": "https://t.co/A02fOFNBtm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045600100379148463",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 127
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045501471698076062",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hypnoneko: 操り能力持ちの犯人に骨の髄まで利用される婦警さん描きました！ https://t.co/A02fOFNBtm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045600100379148463].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045600100379148463",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045600100379148463"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2045501463305355264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMUvkvbgAAuwfL.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045501463305355264"
+          ]
+        },
+        "author_id": "869054683456733184",
+        "conversation_id": "2045501471698076062",
+        "created_at": "2026-04-18T13:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045501471698076062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A02fOFNBtm",
+              "end": 54,
+              "expanded_url": "https://x.com/hypnoneko/status/2045501471698076062/photo/1",
+              "media_key": "3_2045501463305355264",
+              "start": 31,
+              "url": "https://t.co/A02fOFNBtm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045501471698076062",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 535,
+          "impression_count": 33400,
+          "like_count": 1606,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 127
+        },
+        "reply_settings": "everyone",
+        "text": "操り能力持ちの犯人に骨の髄まで利用される婦警さん描きました！ https://t.co/A02fOFNBtm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8403,
+          "following_count": 6377,
+          "like_count": 14608,
+          "listed_count": 17,
+          "media_count": 2813,
+          "tweet_count": 20562
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-29T04:55:57.000Z",
+        "description": "催眠・洗脳・制服フェチな絵を描きます \nお題箱【https://t.co/1HHznkefad】",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/hypnoneko",
+                "end": 47,
+                "expanded_url": "https://odaibako.net/u/hypnoneko",
+                "start": 24,
+                "url": "https://t.co/1HHznkefad"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/2211410",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/2211410",
+                "start": 0,
+                "url": "https://t.co/Um83QHgsBC"
+              }
+            ]
+          }
+        },
+        "id": "869054683456733184",
+        "name": "ネコちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027359917271826433/at09rG3i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1180,
+          "following_count": 170,
+          "like_count": 1902,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 1400
+        },
+        "url": "https://t.co/Um83QHgsBC",
+        "username": "hypnoneko",
+        "verified": false
+      }
+    ]
+  }
+}

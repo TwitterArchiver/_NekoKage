@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "conversation_id": "1936483496006144389",
+    "created_at": "2025-06-21T17:56:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T18:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936483496006144389"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 62,
+          "normalized_text": "Madagasc4r",
+          "probability": 0.9319,
+          "start": 53,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1773863662530236417",
+          "start": 3,
+          "username": "_axajaj_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/m4KuZKKa",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/m4KuZKKa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936483496006144389",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936157976915583380",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_axajaj_: || bc ||\nI'm gonna watch a gameplay of Madagasc4r to see if it had a minigame that involves tying knots https://t.co/m4KuZKKa…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1936483496006144389].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1936483496006144389",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1936483496006144389"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1936157972960276480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt6daw9WcAA4k--.jpg",
+        "width": 1931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1936157971576135680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt6darzWIAAo6y-.jpg",
+        "width": 1750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936157972960276480",
+            "3_1936157971576135680"
+          ]
+        },
+        "author_id": "1773863662530236417",
+        "conversation_id": "1936157976915583380",
+        "created_at": "2025-06-20T20:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T21:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936157976915583380"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "Madagasc4r",
+              "probability": 0.9554,
+              "start": 39,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m4KuZKKaua",
+              "end": 127,
+              "expanded_url": "https://x.com/_axajaj_/status/1936157976915583380/photo/1",
+              "media_key": "3_1936157972960276480",
+              "start": 104,
+              "url": "https://t.co/m4KuZKKaua"
+            },
+            {
+              "display_url": "pic.x.com/m4KuZKKaua",
+              "end": 127,
+              "expanded_url": "https://x.com/_axajaj_/status/1936157976915583380/photo/1",
+              "media_key": "3_1936157971576135680",
+              "start": 104,
+              "url": "https://t.co/m4KuZKKaua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936157976915583380",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 1509,
+          "like_count": 210,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "|| bc ||\nI'm gonna watch a gameplay of Madagasc4r to see if it had a minigame that involves tying knots https://t.co/m4KuZKKaua"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🐈#RainWorld⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 107,
+                "tag": "RainWorld"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "_kagenone"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7659,
+          "following_count": 4702,
+          "like_count": 12767,
+          "listed_count": 19,
+          "media_count": 2251,
+          "tweet_count": 15980
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T00:04:09.000Z",
+        "description": "°•.Call me Axa.•° Lesbian ||\nEng/Esp || 19yrs || Cbmi: 16.3 || Cw: 45.0kg || 166cm || Sh censored ♡",
+        "id": "1773863662530236417",
+        "location": "running to my grave",
+        "name": "Axajaj • edtwt",
+        "pinned_tweet_id": "1846406352341451053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822732761372737536/WvBJh5Go_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5876,
+          "following_count": 955,
+          "like_count": 6738,
+          "listed_count": 14,
+          "media_count": 1433,
+          "tweet_count": 2024
+        },
+        "username": "_axajaj_",
+        "verified": false
+      }
+    ]
+  }
+}

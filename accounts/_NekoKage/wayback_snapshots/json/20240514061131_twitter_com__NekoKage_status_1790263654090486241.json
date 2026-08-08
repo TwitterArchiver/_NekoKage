@@ -1,0 +1,497 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "13_1786444057730060288"
+      ],
+      "media_source_tweet_id": [
+        "1786606677808067047"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1273377348398661633",
+          "name": "2D animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1192082698568814592",
+          "name": "Animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1273377348398661633",
+          "name": "2D animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1273377348398661633",
+          "name": "2D animation"
+        }
+      }
+    ],
+    "conversation_id": "1790263654090486241",
+    "created_at": "2024-05-14T06:11:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-14T07:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790263654090486241"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 17,
+          "tag": "indie_anime"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "753438617041719300",
+          "start": 3,
+          "username": "ACREATIONJP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/T4CKM7H9PK",
+          "end": 53,
+          "expanded_url": "https://twitter.com/ACREATIONJP/status/1786606677808067047/video/1",
+          "media_key": "13_1786444057730060288",
+          "start": 30,
+          "url": "https://t.co/T4CKM7H9PK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790263654090486241",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1243
+    },
+    "referenced_tweets": [
+      {
+        "id": "1786606677808067047",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ACREATIONJP: #indie_anime https://t.co/T4CKM7H9PK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10500,
+        "height": 720,
+        "media_key": "13_1786444057730060288",
+        "preview_image_url": "https://pbs.twimg.com/media/GMq6DyiasAQZNkC.jpg",
+        "public_metrics": {
+          "view_count": 300322
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1786444057730060288/vid/avc1/390x270/4tejfKaeM8dJ_Bu1.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1786444057730060288/vid/avc1/522x360/L4MJkwBwxlcl8qxr.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1786444057730060288/vid/avc1/1044x720/eY1nUqkRhR-4wqcp.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1786444057730060288/pl/TuJKn-s2veTmt4QM.m3u8?tag=14&container=cmaf"
+          }
+        ],
+        "width": 1044
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1786444057730060288"
+          ],
+          "media_source_tweet_id": [
+            "1786606677808067047"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1273377348398661633",
+              "name": "2D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273377348398661633",
+              "name": "2D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1273377348398661633",
+              "name": "2D animation"
+            }
+          }
+        ],
+        "conversation_id": "1790263654090486241",
+        "created_at": "2024-05-14T06:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T07:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790263654090486241"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 17,
+              "tag": "indie_anime"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "753438617041719300",
+              "start": 3,
+              "username": "ACREATIONJP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/T4CKM7H9PK",
+              "end": 53,
+              "expanded_url": "https://twitter.com/ACREATIONJP/status/1786606677808067047/video/1",
+              "media_key": "13_1786444057730060288",
+              "start": 30,
+              "url": "https://t.co/T4CKM7H9PK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790263654090486241",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1243
+        },
+        "referenced_tweets": [
+          {
+            "id": "1786606677808067047",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ACREATIONJP: #indie_anime https://t.co/T4CKM7H9PK"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1786444057730060288"
+          ]
+        },
+        "author_id": "753438617041719300",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1273377348398661633",
+              "name": "2D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273377348398661633",
+              "name": "2D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1273377348398661633",
+              "name": "2D animation"
+            }
+          }
+        ],
+        "conversation_id": "1786606677808067047",
+        "created_at": "2024-05-04T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-04T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1786606677808067047"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "indie_anime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/T4CKM7H9PK",
+              "end": 36,
+              "expanded_url": "https://twitter.com/ACREATIONJP/status/1786606677808067047/video/1",
+              "media_key": "13_1786444057730060288",
+              "start": 13,
+              "url": "https://t.co/T4CKM7H9PK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1786606677808067047",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1863,
+          "impression_count": 905850,
+          "like_count": 10398,
+          "quote_count": 18,
+          "reply_count": 28,
+          "retweet_count": 1243
+        },
+        "reply_settings": "everyone",
+        "text": "#indie_anime https://t.co/T4CKM7H9PK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏精神病🩸自傷🎸聚乙烯乐队主音及主唱🎧HiFi糊烧🚬大烟鬼🔪刃物收藏⌚️入门表匠🚗JDM🏍️机车党📷黑白摄影🚪88CNY",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6772,
+          "following_count": 3564,
+          "like_count": 7919,
+          "listed_count": 20,
+          "tweet_count": 11162
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-14T03:58:59.000Z",
+        "description": "アニメショーン制作チーム「ACREATION」 \n現在「cso」「sxf」制作中\n 映像はyoutubeにて公開中\nhttps://t.co/CRQfy4WZKu @ichi_a @daikicam @soMEIzaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 82,
+                "username": "ichi_a"
+              },
+              {
+                "end": 99,
+                "start": 90,
+                "username": "daikicam"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "soMEIzaki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "acreationjp.fanbox.cc",
+                "end": 81,
+                "expanded_url": "https://acreationjp.fanbox.cc/",
+                "start": 58,
+                "url": "https://t.co/CRQfy4WZKu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC7OqK…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC7OqKy74ZEmyAFSEdq58ItA",
+                "start": 0,
+                "url": "https://t.co/HL1W7YKBv5"
+              }
+            ]
+          }
+        },
+        "id": "753438617041719300",
+        "location": "Tokyo",
+        "name": "ACREATION －アクリエーション－",
+        "pinned_tweet_id": "1786606677808067047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696009443316736001/BM3PQEUn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20291,
+          "following_count": 54,
+          "like_count": 353,
+          "listed_count": 160,
+          "tweet_count": 1049
+        },
+        "url": "https://t.co/HL1W7YKBv5",
+        "username": "ACREATIONJP",
+        "verified": true
+      }
+    ]
+  }
+}

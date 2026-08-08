@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999273172408164352"
+      ],
+      "media_source_tweet_id": [
+        "1999273176182980959"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1441472383211114515",
+          "name": "Stuffed toys"
+        }
+      }
+    ],
+    "conversation_id": "1999632042393502062",
+    "created_at": "2025-12-13T00:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T01:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999632042393502062"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "Alula",
+          "probability": 0.68,
+          "start": 31,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1681501090750275585",
+          "start": 3,
+          "username": "AlulaPlush"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X67rzAutxN",
+          "end": 68,
+          "expanded_url": "https://x.com/AlulaPlush/status/1999273176182980959/photo/1",
+          "media_key": "3_1999273172408164352",
+          "start": 45,
+          "url": "https://t.co/X67rzAutxN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999632042393502062",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999273176182980959",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AlulaPlush: Day #864 of no Alula plushie https://t.co/X67rzAutxN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1999273172408164352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G77YW5JbYAAiE2G.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999273172408164352"
+          ],
+          "media_source_tweet_id": [
+            "1999273176182980959"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "1999632042393502062",
+        "created_at": "2025-12-13T00:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T01:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999632042393502062"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "Alula",
+              "probability": 0.68,
+              "start": 31,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1681501090750275585",
+              "start": 3,
+              "username": "AlulaPlush"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X67rzAutxN",
+              "end": 68,
+              "expanded_url": "https://x.com/AlulaPlush/status/1999273176182980959/photo/1",
+              "media_key": "3_1999273172408164352",
+              "start": 45,
+              "url": "https://t.co/X67rzAutxN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999632042393502062",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999273176182980959",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AlulaPlush: Day #864 of no Alula plushie https://t.co/X67rzAutxN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999273172408164352"
+          ]
+        },
+        "author_id": "1681501090750275585",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "1999273176182980959",
+        "created_at": "2025-12-12T00:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T01:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999273176182980959"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Alula",
+              "probability": 0.6881,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X67rzAutxN",
+              "end": 52,
+              "expanded_url": "https://x.com/AlulaPlush/status/1999273176182980959/photo/1",
+              "media_key": "3_1999273172408164352",
+              "start": 29,
+              "url": "https://t.co/X67rzAutxN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999273176182980959",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 5810,
+          "like_count": 937,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "Day #864 of no Alula plushie https://t.co/X67rzAutxN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7961,
+          "following_count": 5537,
+          "like_count": 13745,
+          "listed_count": 17,
+          "media_count": 2539,
+          "tweet_count": 18493
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-19T03:08:17.000Z",
+        "description": "https://t.co/3rEKpwax3e\n\nFinished.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fangamer.com/collections/on…",
+                "end": 23,
+                "expanded_url": "https://www.fangamer.com/collections/oneshot/products/alula-oneshot-plush",
+                "start": 0,
+                "url": "https://t.co/3rEKpwax3e"
+              }
+            ]
+          }
+        },
+        "id": "1681501090750275585",
+        "name": "No Alula plushie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860103159341039616/7oGbcbBe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1653,
+          "following_count": 0,
+          "like_count": 47,
+          "listed_count": 1,
+          "media_count": 838,
+          "tweet_count": 849
+        },
+        "username": "AlulaPlush",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,548 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      }
+    ],
+    "conversation_id": "1989755181006033090",
+    "created_at": "2025-11-15T17:59:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T18:59:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989755181006033090"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "Nikon COOLPIX950 ニコン",
+          "probability": 0.2054,
+          "start": 15,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4902384493",
+          "start": 3,
+          "username": "shimkarom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989755181006033090",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 108
+    },
+    "referenced_tweets": [
+      {
+        "id": "1783061064999178259",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shimkarom: Nikon COOLPIX950\n\nニコンのスイバル式高級コンパクトデジタルカメラ。1999年のカメラですが自撮りもできます。\n単3電池で駆動、メディアはCFカードなので現代でも使いやすいクラシックデジカメです。当時のニコンらしくグリップに赤いワン…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_1783032878483558400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GL6a9MDa0AAERhh.jpg",
+        "width": 920
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1783032878491955200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GL6a9MFa8AAkr01.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "1989755181006033090",
+        "created_at": "2025-11-15T17:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T18:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989755181006033090"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "Nikon COOLPIX950 ニコン",
+              "probability": 0.2054,
+              "start": 15,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4902384493",
+              "start": 3,
+              "username": "shimkarom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989755181006033090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 108
+        },
+        "referenced_tweets": [
+          {
+            "id": "1783061064999178259",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shimkarom: Nikon COOLPIX950\n\nニコンのスイバル式高級コンパクトデジタルカメラ。1999年のカメラですが自撮りもできます。\n単3電池で駆動、メディアはCFカードなので現代でも使いやすいクラシックデジカメです。当時のニコンらしくグリップに赤いワン…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1783032878483558400",
+            "3_1783032878491955200"
+          ]
+        },
+        "author_id": "4902384493",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "1783061064999178259",
+        "created_at": "2024-04-24T09:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-04-24T10:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1783061064999178259"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Nikon COOLPIX950 ニコン",
+              "probability": 0.1859,
+              "start": 0,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EHAc088i5K",
+              "end": 154,
+              "expanded_url": "https://x.com/shimkarom/status/1783061064999178259/photo/1",
+              "media_key": "3_1783032878483558400",
+              "start": 131,
+              "url": "https://t.co/EHAc088i5K"
+            },
+            {
+              "display_url": "pic.x.com/EHAc088i5K",
+              "end": 154,
+              "expanded_url": "https://x.com/shimkarom/status/1783061064999178259/photo/1",
+              "media_key": "3_1783032878491955200",
+              "start": 131,
+              "url": "https://t.co/EHAc088i5K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1783061064999178259",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 41727,
+          "like_count": 484,
+          "quote_count": 9,
+          "reply_count": 5,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "Nikon COOLPIX950\n\nニコンのスイバル式高級コンパクトデジタルカメラ。1999年のカメラですが自撮りもできます。\n単3電池で駆動、メディアはCFカードなので現代でも使いやすいクラシックデジカメです。当時のニコンらしくグリップに赤いワンポイントが！ https://t.co/EHAc088i5K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989746234408701952/CGIjbFWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7954,
+          "following_count": 5267,
+          "like_count": 13498,
+          "listed_count": 17,
+          "media_count": 2478,
+          "tweet_count": 17943
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-13T14:51:11.000Z",
+        "description": "ちょっと古いもの、カメラと虫が好き。イラスト兼写真撮り。バイクはct125とSvartpilen401 支援サイトFANBOX→ https://t.co/jViZbmgG6T おしごと、依頼等詳しくはDMください。¥13,000〜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "shimkarom.fanbox.cc",
+                "end": 88,
+                "expanded_url": "https://shimkarom.fanbox.cc",
+                "start": 65,
+                "url": "https://t.co/jViZbmgG6T"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/109686205",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/109686205",
+                "start": 0,
+                "url": "https://t.co/5zX515m4VA"
+              }
+            ]
+          }
+        },
+        "id": "4902384493",
+        "location": "神奈川",
+        "name": "しんかろん",
+        "pinned_tweet_id": "1988892087719514180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791840674918338560/URDqWy0D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2055,
+          "following_count": 186,
+          "like_count": 8739,
+          "listed_count": 35,
+          "media_count": 204,
+          "tweet_count": 738
+        },
+        "url": "https://t.co/5zX515m4VA",
+        "username": "shimkarom",
+        "verified": false
+      }
+    ]
+  }
+}

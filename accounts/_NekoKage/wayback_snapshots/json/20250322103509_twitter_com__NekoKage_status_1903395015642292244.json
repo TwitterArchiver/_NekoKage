@@ -1,0 +1,596 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1902995821597208576"
+      ],
+      "media_source_tweet_id": [
+        "1902995951247298798"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "1903395015642292244",
+    "created_at": "2025-03-22T10:35:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T11:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903395015642292244"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "足立レイ",
+          "probability": 0.5935,
+          "start": 21,
+          "type": "Person"
+        },
+        {
+          "end": 29,
+          "normalized_text": "初音ミク",
+          "probability": 0.433,
+          "start": 26,
+          "type": "Person"
+        },
+        {
+          "end": 55,
+          "normalized_text": "the Hole",
+          "probability": 0.8092,
+          "start": 48,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "202998073",
+          "start": 3,
+          "username": "nico_nico_news"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k3UKAXSoXB",
+          "end": 81,
+          "expanded_url": "https://x.com/nico_nico_news/status/1902995951247298798/video/1",
+          "media_key": "7_1902995821597208576",
+          "start": 58,
+          "url": "https://t.co/k3UKAXSoXB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903395015642292244",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2285
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902995951247298798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nico_nico_news: 【足立レイ・初音ミク】中毒性がヤバいクラブミュージック『the Hole』 https://t.co/k3UKAXSoXB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30016,
+        "height": 720,
+        "media_key": "7_1902995821597208576",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1902995821597208576/pu/img/55aP5tkT5nBVYYzp.jpg",
+        "public_metrics": {
+          "view_count": 348734
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1902995821597208576/pu/vid/avc1/480x270/tv5Vu3sVl_OmzXMT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1902995821597208576/pu/vid/avc1/640x360/KqfEgFfPNWIKhItF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1902995821597208576/pu/vid/avc1/1280x720/WBJ-JgFbgrfZEFub.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1902995821597208576/pu/pl/JoEO86SlV7ZM4aH6.m3u8?tag=12&v=5df"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1902995821597208576"
+          ],
+          "media_source_tweet_id": [
+            "1902995951247298798"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1903395015642292244",
+        "created_at": "2025-03-22T10:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T11:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903395015642292244"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "足立レイ",
+              "probability": 0.5935,
+              "start": 21,
+              "type": "Person"
+            },
+            {
+              "end": 29,
+              "normalized_text": "初音ミク",
+              "probability": 0.433,
+              "start": 26,
+              "type": "Person"
+            },
+            {
+              "end": 55,
+              "normalized_text": "the Hole",
+              "probability": 0.8092,
+              "start": 48,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "202998073",
+              "start": 3,
+              "username": "nico_nico_news"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k3UKAXSoXB",
+              "end": 81,
+              "expanded_url": "https://x.com/nico_nico_news/status/1902995951247298798/video/1",
+              "media_key": "7_1902995821597208576",
+              "start": 58,
+              "url": "https://t.co/k3UKAXSoXB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903395015642292244",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2285
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902995951247298798",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nico_nico_news: 【足立レイ・初音ミク】中毒性がヤバいクラブミュージック『the Hole』 https://t.co/k3UKAXSoXB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1902995821597208576"
+          ]
+        },
+        "author_id": "202998073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1902995951247298798",
+        "created_at": "2025-03-21T08:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T09:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902995951247298798"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "足立レイ",
+              "probability": 0.6207,
+              "start": 1,
+              "type": "Person"
+            },
+            {
+              "end": 9,
+              "normalized_text": "初音ミク",
+              "probability": 0.5118,
+              "start": 6,
+              "type": "Person"
+            },
+            {
+              "end": 35,
+              "normalized_text": "the Hole",
+              "probability": 0.8336,
+              "start": 28,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k3UKAXSoXB",
+              "end": 61,
+              "expanded_url": "https://x.com/nico_nico_news/status/1902995951247298798/video/1",
+              "media_key": "7_1902995821597208576",
+              "start": 38,
+              "url": "https://t.co/k3UKAXSoXB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902995951247298798",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4724,
+          "impression_count": 508141,
+          "like_count": 19413,
+          "quote_count": 73,
+          "reply_count": 5,
+          "retweet_count": 2285
+        },
+        "reply_settings": "everyone",
+        "text": "【足立レイ・初音ミク】中毒性がヤバいクラブミュージック『the Hole』 https://t.co/k3UKAXSoXB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠📢siren爱好者⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "_kagenone"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7518,
+          "following_count": 4478,
+          "like_count": 12320,
+          "listed_count": 19,
+          "media_count": 2161,
+          "tweet_count": 15075
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-15T09:01:10.000Z",
+        "description": "ネットで話題の情報をお届けするニコニコのニュースアカウントです。\n#速報 #アニメ #ゲーム #芸能 #政治 #国会中継 #記者会見\n#ニコニコ動画 #ニコニコ生放送 #ニコニコ大百科 #ニコニコ実況\n#ニコ美 #ニコ響 #ニコニコバスツアー #ニコニコサイエンス\n■特集記事 https://t.co/2B1eXqcmBE",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 33,
+                "tag": "速報"
+              },
+              {
+                "end": 41,
+                "start": 37,
+                "tag": "アニメ"
+              },
+              {
+                "end": 46,
+                "start": 42,
+                "tag": "ゲーム"
+              },
+              {
+                "end": 50,
+                "start": 47,
+                "tag": "芸能"
+              },
+              {
+                "end": 54,
+                "start": 51,
+                "tag": "政治"
+              },
+              {
+                "end": 60,
+                "start": 55,
+                "tag": "国会中継"
+              },
+              {
+                "end": 66,
+                "start": 61,
+                "tag": "記者会見"
+              },
+              {
+                "end": 74,
+                "start": 67,
+                "tag": "ニコニコ動画"
+              },
+              {
+                "end": 83,
+                "start": 75,
+                "tag": "ニコニコ生放送"
+              },
+              {
+                "end": 92,
+                "start": 84,
+                "tag": "ニコニコ大百科"
+              },
+              {
+                "end": 100,
+                "start": 93,
+                "tag": "ニコニコ実況"
+              },
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "ニコ美"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "ニコ響"
+              },
+              {
+                "end": 121,
+                "start": 111,
+                "tag": "ニコニコバスツアー"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "tag": "ニコニコサイエンス"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/30LSDml",
+                "end": 162,
+                "expanded_url": "http://bit.ly/30LSDml",
+                "start": 139,
+                "url": "https://t.co/2B1eXqcmBE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.nicovideo.jp",
+                "end": 23,
+                "expanded_url": "https://news.nicovideo.jp/",
+                "start": 0,
+                "url": "https://t.co/S4BMBdlQKj"
+              }
+            ]
+          }
+        },
+        "id": "202998073",
+        "location": "ニコニコニュースTOP",
+        "name": "ニコニコニュース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/875589414323224576/sZYb5xyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200113,
+          "following_count": 8,
+          "like_count": 138,
+          "listed_count": 3133,
+          "media_count": 40515,
+          "tweet_count": 121462
+        },
+        "url": "https://t.co/S4BMBdlQKj",
+        "username": "nico_nico_news",
+        "verified": true
+      }
+    ]
+  }
+}

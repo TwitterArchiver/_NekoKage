@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2026157643849465856"
+      ],
+      "media_source_tweet_id": [
+        "2026157669480825047"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2026302976424611996",
+    "created_at": "2026-02-24T14:27:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T15:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026302976424611996"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "LAN",
+          "probability": 0.4958,
+          "start": 22,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1404933141542866946",
+          "start": 3,
+          "username": "nostalgiaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M7lbOBqGmr",
+          "end": 57,
+          "expanded_url": "https://x.com/nostalgiaa/status/2026157669480825047/video/1",
+          "media_key": "7_2026157643849465856",
+          "start": 34,
+          "url": "https://t.co/M7lbOBqGmr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026302976424611996",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1141
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026157669480825047",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nostalgiaa: 2000s LAN parties https://t.co/M7lbOBqGmr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19633,
+        "height": 538,
+        "media_key": "7_2026157643849465856",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2026157643849465856/pu/img/8B3Ed76uD7Um9zCS.jpg",
+        "public_metrics": {
+          "view_count": 125470
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026157643849465856/pu/vid/avc1/360x270/dC3PqZKcj0euf4mK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026157643849465856/pu/vid/avc1/480x360/0r_2Oa2e9hkaMId1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026157643849465856/pu/vid/avc1/720x538/kPFUHbIWVwmptStE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2026157643849465856/pu/pl/8ZoSsgJpG7VsrMCJ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2026157643849465856"
+          ],
+          "media_source_tweet_id": [
+            "2026157669480825047"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026302976424611996",
+        "created_at": "2026-02-24T14:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T15:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026302976424611996"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "LAN",
+              "probability": 0.4958,
+              "start": 22,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1404933141542866946",
+              "start": 3,
+              "username": "nostalgiaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M7lbOBqGmr",
+              "end": 57,
+              "expanded_url": "https://x.com/nostalgiaa/status/2026157669480825047/video/1",
+              "media_key": "7_2026157643849465856",
+              "start": 34,
+              "url": "https://t.co/M7lbOBqGmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026302976424611996",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1141
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026157669480825047",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nostalgiaa: 2000s LAN parties https://t.co/M7lbOBqGmr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2026157643849465856"
+          ]
+        },
+        "author_id": "1404933141542866946",
+        "conversation_id": "2026157669480825047",
+        "created_at": "2026-02-24T04:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T05:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026157669480825047"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "LAN",
+              "probability": 0.5938,
+              "start": 6,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M7lbOBqGmr",
+              "end": 41,
+              "expanded_url": "https://x.com/nostalgiaa/status/2026157669480825047/video/1",
+              "media_key": "7_2026157643849465856",
+              "start": 18,
+              "url": "https://t.co/M7lbOBqGmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026157669480825047",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1264,
+          "impression_count": 285624,
+          "like_count": 9640,
+          "quote_count": 102,
+          "reply_count": 75,
+          "retweet_count": 1141
+        },
+        "reply_settings": "everyone",
+        "text": "2000s LAN parties https://t.co/M7lbOBqGmr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7979,
+          "following_count": 5813,
+          "like_count": 13922,
+          "listed_count": 17,
+          "media_count": 2616,
+          "tweet_count": 19325
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-15T22:45:59.000Z",
+        "description": "nostalgic film & art",
+        "id": "1404933141542866946",
+        "name": "Nostalgia",
+        "pinned_tweet_id": "2026157669480825047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978917658595639296/ZoUS9vNc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726670,
+          "following_count": 0,
+          "like_count": 1451,
+          "listed_count": 1949,
+          "media_count": 5644,
+          "tweet_count": 5998
+        },
+        "username": "nostalgiaa",
+        "verified": true
+      }
+    ]
+  }
+}

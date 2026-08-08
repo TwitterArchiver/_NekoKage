@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1827059784543301634"
+      ],
+      "media_source_tweet_id": [
+        "1827059786925670689"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237004504219828224",
+          "name": "Computer hardware"
+        }
+      }
+    ],
+    "conversation_id": "1827434743513964920",
+    "created_at": "2024-08-24T19:56:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-24T20:56:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827434743513964920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1103317254702161921",
+          "start": 3,
+          "username": "radekemia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cjdykk9mbh",
+          "end": 59,
+          "expanded_url": "https://twitter.com/radekemia/status/1827059786925670689/photo/1",
+          "media_key": "3_1827059784543301634",
+          "start": 36,
+          "url": "https://t.co/CJdykK9mBH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827434743513964920",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827059786925670689",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @radekemia: Intel爆雷后仍然可以放心购买的CPU https://t.co/CJdykK9mBH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_1827059784543301634",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVsFMaEa8AIxAZv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827059784543301634"
+          ],
+          "media_source_tweet_id": [
+            "1827059786925670689"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "1827434743513964920",
+        "created_at": "2024-08-24T19:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T20:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827434743513964920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1103317254702161921",
+              "start": 3,
+              "username": "radekemia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cjdykk9mbh",
+              "end": 59,
+              "expanded_url": "https://twitter.com/radekemia/status/1827059786925670689/photo/1",
+              "media_key": "3_1827059784543301634",
+              "start": 36,
+              "url": "https://t.co/CJdykK9mBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827434743513964920",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827059786925670689",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @radekemia: Intel爆雷后仍然可以放心购买的CPU https://t.co/CJdykK9mBH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827059784543301634"
+          ]
+        },
+        "author_id": "1103317254702161921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "1827059786925670689",
+        "created_at": "2024-08-23T19:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T20:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827059786925670689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cjdykk9mbh",
+              "end": 44,
+              "expanded_url": "https://twitter.com/radekemia/status/1827059786925670689/photo/1",
+              "media_key": "3_1827059784543301634",
+              "start": 21,
+              "url": "https://t.co/CJdykK9mBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827059786925670689",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1905,
+          "like_count": 54,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Intel爆雷后仍然可以放心购买的CPU https://t.co/CJdykK9mBH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain📷膠片攝影/相机维修🎧HiFi糊烧🚬大烟鬼🔪刃物收藏⌚️入门表匠🚪88⚠️里推:@_kagenone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 131,
+                "username": "_kagenone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726682099284066304/1GXvKTcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7146,
+          "following_count": 4149,
+          "like_count": 10617,
+          "listed_count": 18,
+          "tweet_count": 13030
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-06T15:31:46.000Z",
+        "description": "a day in the life.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/radekemia",
+                "end": 23,
+                "expanded_url": "https://github.com/radekemia",
+                "start": 0,
+                "url": "https://t.co/LB2vYzfWUt"
+              }
+            ]
+          }
+        },
+        "id": "1103317254702161921",
+        "location": "上海铁路局合肥南动车所",
+        "name": "Radekemia Haruka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791506378059902976/VKyKOnSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 517,
+          "like_count": 5347,
+          "listed_count": 0,
+          "tweet_count": 1021
+        },
+        "url": "https://t.co/LB2vYzfWUt",
+        "username": "radekemia",
+        "verified": false
+      }
+    ]
+  }
+}

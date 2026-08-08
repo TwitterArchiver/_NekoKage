@@ -1,0 +1,538 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Car culture",
+          "id": "847528391163092993",
+          "name": "Automotive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Motorcycles",
+          "id": "847528885138870272",
+          "name": "Motorcycles"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Car culture",
+          "id": "847528391163092993",
+          "name": "Automotive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Motorcycles",
+          "id": "847528885138870272",
+          "name": "Motorcycles"
+        }
+      }
+    ],
+    "conversation_id": "1937599005615357998",
+    "created_at": "2025-06-24T19:49:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T20:49:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937599005615357998"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 83,
+          "normalized_text": "中村さん",
+          "probability": 0.879,
+          "start": 80,
+          "type": "Person"
+        },
+        {
+          "end": 114,
+          "normalized_text": "中村さん",
+          "probability": 0.8751,
+          "start": 111,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "989877033168588800",
+          "start": 3,
+          "username": "Grosses_Wasser"
+        },
+        {
+          "end": 28,
+          "id": "3816302052",
+          "start": 20,
+          "username": "gnaniwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937599005615357998",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937476650494754890",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Grosses_Wasser: @gnaniwa \"Zunow\"はさすがに僕も見つけた時そりゃずるいわってなりました🤣\n\n……ってすみません！！ 僕も中村さんをカメラに紹介したのに投稿するの忘れてましたぁ！！\n\n中村さんだよ……Ducati Simplex……\n\n#国産…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3840,
+        "media_key": "3_1937476645583216640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuNMvnSaYAAxnPh.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Motorcycles",
+              "id": "847528885138870272",
+              "name": "Motorcycles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Motorcycles",
+              "id": "847528885138870272",
+              "name": "Motorcycles"
+            }
+          }
+        ],
+        "conversation_id": "1937599005615357998",
+        "created_at": "2025-06-24T19:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T20:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937599005615357998"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 83,
+              "normalized_text": "中村さん",
+              "probability": 0.879,
+              "start": 80,
+              "type": "Person"
+            },
+            {
+              "end": 114,
+              "normalized_text": "中村さん",
+              "probability": 0.8751,
+              "start": 111,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "989877033168588800",
+              "start": 3,
+              "username": "Grosses_Wasser"
+            },
+            {
+              "end": 28,
+              "id": "3816302052",
+              "start": 20,
+              "username": "gnaniwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937599005615357998",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937476650494754890",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Grosses_Wasser: @gnaniwa \"Zunow\"はさすがに僕も見つけた時そりゃずるいわってなりました🤣\n\n……ってすみません！！ 僕も中村さんをカメラに紹介したのに投稿するの忘れてましたぁ！！\n\n中村さんだよ……Ducati Simplex……\n\n#国産…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937476645583216640"
+          ]
+        },
+        "author_id": "989877033168588800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Motorcycles",
+              "id": "847528885138870272",
+              "name": "Motorcycles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Motorcycles",
+              "id": "847528885138870272",
+              "name": "Motorcycles"
+            }
+          }
+        ],
+        "conversation_id": "1937471428527616475",
+        "created_at": "2025-06-24T11:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T12:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937476650494754890"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 63,
+              "normalized_text": "中村さん",
+              "probability": 0.8724,
+              "start": 60,
+              "type": "Person"
+            },
+            {
+              "end": 94,
+              "normalized_text": "中村さん",
+              "probability": 0.875,
+              "start": 91,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 128,
+              "start": 116,
+              "tag": "国産中判フィルム写真展"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3816302052",
+              "start": 0,
+              "username": "gnaniwa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LxmqHDrRvb",
+              "end": 152,
+              "expanded_url": "https://x.com/Grosses_Wasser/status/1937476650494754890/photo/1",
+              "media_key": "3_1937476645583216640",
+              "start": 129,
+              "url": "https://t.co/LxmqHDrRvb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937476650494754890",
+        "in_reply_to_user_id": "3816302052",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1475,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937474842078707947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gnaniwa \"Zunow\"はさすがに僕も見つけた時そりゃずるいわってなりました🤣\n\n……ってすみません！！ 僕も中村さんをカメラに紹介したのに投稿するの忘れてましたぁ！！\n\n中村さんだよ……Ducati Simplex……\n\n#国産中判フィルム写真展 https://t.co/LxmqHDrRvb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🐈#RainWorld⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 107,
+                "tag": "RainWorld"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "_kagenone"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7653,
+          "following_count": 4724,
+          "like_count": 12808,
+          "listed_count": 20,
+          "media_count": 2261,
+          "tweet_count": 16055
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-27T14:40:50.000Z",
+        "description": "干物 よく寝落ちします\nオーディオはポータブル中心\n最近写真はフィルムで撮ることのほうが多い\nスニーカーも好き\n聴く音楽はそれなりに雑多…かもしれません\n酒クズではありません",
+        "id": "989877033168588800",
+        "location": "あの辺",
+        "name": "子耳(小耳)",
+        "pinned_tweet_id": "1867148974463021386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877552638910410753/R65v8UZW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 831,
+          "like_count": 507511,
+          "listed_count": 12,
+          "media_count": 9257,
+          "tweet_count": 92642
+        },
+        "username": "Grosses_Wasser",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-07T17:13:48.000Z",
+        "description": "カメラのナニワ、レモン社、タカチホカメラ、バナナレコードを運営するナニワグループの公式Twitterです。大阪梅田の中の人と全国のお店（https://t.co/VNzhIUpzFS）のスタッフがつぶやきます。できるかぎり返信しますのでぜひ話しかけてください♪(商品に関するご質問は店舗へお問い合わせください)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/2Y8ZMyH",
+                "end": 91,
+                "expanded_url": "http://bit.ly/2Y8ZMyH",
+                "start": 68,
+                "url": "https://t.co/VNzhIUpzFS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cameranonaniwa.co.jp/blogs/",
+                "end": 23,
+                "expanded_url": "https://www.cameranonaniwa.co.jp/blogs/",
+                "start": 0,
+                "url": "https://t.co/tjGuQ6mjkq"
+              }
+            ]
+          }
+        },
+        "id": "3816302052",
+        "location": "大阪府大阪市北区",
+        "name": "ナニワグループ",
+        "pinned_tweet_id": "1936983404685484113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/971682918610321408/RkH-iEv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4438,
+          "following_count": 3044,
+          "like_count": 29475,
+          "listed_count": 55,
+          "media_count": 3277,
+          "tweet_count": 9594
+        },
+        "url": "https://t.co/tjGuQ6mjkq",
+        "username": "gnaniwa",
+        "verified": true
+      }
+    ]
+  }
+}

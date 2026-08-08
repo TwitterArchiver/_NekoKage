@@ -1,0 +1,520 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783350882985385984",
+          "name": "Home - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026738409",
+          "name": "Sony"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "SHARP (シャープ)",
+          "id": "1037033316552081408",
+          "name": "SHARP (シャープ)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026738409",
+          "name": "Sony"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "SHARP (シャープ)",
+          "id": "1037033316552081408",
+          "name": "SHARP (シャープ)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446727181500416",
+          "name": "Tech industry"
+        }
+      }
+    ],
+    "conversation_id": "2039624773509197825",
+    "created_at": "2026-04-02T08:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T09:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039624773509197825"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oldlens/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/oldlens/status/2039544720167469303",
+          "start": 5,
+          "url": "https://t.co/ixFnhdDhqX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039624773509197825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039544720167469303",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "褐马鸡！ https://t.co/ixFnhdDhqX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2159,
+        "media_key": "3_2039544707517472768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE3rGwMbYAA4jd7.jpg",
+        "width": 2152
+      },
+      {
+        "height": 1787,
+        "media_key": "3_2039544707634831360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE3rGwoaIAAazfU.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1417,
+        "media_key": "3_2039544707945205760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE3rGxyaEAAv1z-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783350882985385984",
+              "name": "Home - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "SHARP (シャープ)",
+              "id": "1037033316552081408",
+              "name": "SHARP (シャープ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "SHARP (シャープ)",
+              "id": "1037033316552081408",
+              "name": "SHARP (シャープ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446727181500416",
+              "name": "Tech industry"
+            }
+          }
+        ],
+        "conversation_id": "2039624773509197825",
+        "created_at": "2026-04-02T08:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T09:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039624773509197825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oldlens/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/oldlens/status/2039544720167469303",
+              "start": 5,
+              "url": "https://t.co/ixFnhdDhqX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039624773509197825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039544720167469303",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "褐马鸡！ https://t.co/ixFnhdDhqX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039544707517472768",
+            "3_2039544707634831360",
+            "3_2039544707945205760"
+          ]
+        },
+        "author_id": "185157259",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783350882985385984",
+              "name": "Home - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "SHARP (シャープ)",
+              "id": "1037033316552081408",
+              "name": "SHARP (シャープ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "SHARP (シャープ)",
+              "id": "1037033316552081408",
+              "name": "SHARP (シャープ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446727181500416",
+              "name": "Tech industry"
+            }
+          }
+        ],
+        "conversation_id": "2039544720167469303",
+        "created_at": "2026-04-02T03:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T04:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039544720167469303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/epksRljoFX",
+              "end": 178,
+              "expanded_url": "https://x.com/oldlens/status/2039544720167469303/photo/1",
+              "media_key": "3_2039544707517472768",
+              "start": 155,
+              "url": "https://t.co/epksRljoFX"
+            },
+            {
+              "display_url": "pic.x.com/epksRljoFX",
+              "end": 178,
+              "expanded_url": "https://x.com/oldlens/status/2039544720167469303/photo/1",
+              "media_key": "3_2039544707634831360",
+              "start": 155,
+              "url": "https://t.co/epksRljoFX"
+            },
+            {
+              "display_url": "pic.x.com/epksRljoFX",
+              "end": 178,
+              "expanded_url": "https://x.com/oldlens/status/2039544720167469303/photo/1",
+              "media_key": "3_2039544707945205760",
+              "start": 155,
+              "url": "https://t.co/epksRljoFX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039544720167469303",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1096,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "スピードグラフィックにフォトディオックスのスライドアダプターを取り付け、ソニーα7Cで6cm×8cmのデジタルRAW画像を撮影しました\nHermagisの風景用貼り合わせ単玉レンズは、約150年前のレンズにもかかわらずシャープです\n1800年代後半に作られたクラシックレンズの視野をある程度測定・検証できそう https://t.co/epksRljoFX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8200,
+          "following_count": 6113,
+          "like_count": 14260,
+          "listed_count": 17,
+          "media_count": 2734,
+          "tweet_count": 19966
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-31T10:56:34.000Z",
+        "description": "古典レンズの研究と、収集、実写を行っています。ホームページはhttps://t.co/M6CEp57Fuf。ツイッターもoldlens＠oldlens です。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "oldlens.com",
+                "end": 53,
+                "expanded_url": "http://www.oldlens.com",
+                "start": 30,
+                "url": "https://t.co/M6CEp57Fuf"
+              }
+            ]
+          }
+        },
+        "id": "185157259",
+        "name": "oldlens",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1397933772004155399/b_qbi344_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5195,
+          "following_count": 2262,
+          "like_count": 1896,
+          "listed_count": 52,
+          "media_count": 1552,
+          "tweet_count": 2879
+        },
+        "username": "oldlens",
+        "verified": false
+      }
+    ]
+  }
+}

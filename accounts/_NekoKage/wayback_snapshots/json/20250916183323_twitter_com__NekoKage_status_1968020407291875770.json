@@ -1,0 +1,499 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1968020407291875770",
+    "created_at": "2025-09-16T18:33:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T19:33:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968020407291875770"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 78,
+          "normalized_text": "macOS Tahoe",
+          "probability": 0.6554,
+          "start": 68,
+          "type": "Other"
+        },
+        {
+          "end": 132,
+          "normalized_text": "iPod",
+          "probability": 0.7573,
+          "start": 129,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "624683",
+          "start": 3,
+          "username": "Stammy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968020407291875770",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967805061154947139",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Stammy: i don’t know who needs to hear this but don’t update to macOS Tahoe if you use 3 dongles to connect to your original iPod via F…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1967805054418862080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G08MRWfawAAaT8H.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1968020407291875770",
+        "created_at": "2025-09-16T18:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T19:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968020407291875770"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 78,
+              "normalized_text": "macOS Tahoe",
+              "probability": 0.6554,
+              "start": 68,
+              "type": "Other"
+            },
+            {
+              "end": 132,
+              "normalized_text": "iPod",
+              "probability": 0.7573,
+              "start": 129,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "624683",
+              "start": 3,
+              "username": "Stammy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968020407291875770",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967805061154947139",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Stammy: i don’t know who needs to hear this but don’t update to macOS Tahoe if you use 3 dongles to connect to your original iPod via F…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967805054418862080"
+          ]
+        },
+        "author_id": "624683",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1967805061154947139",
+        "created_at": "2025-09-16T04:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T05:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967805061154947139"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 66,
+              "normalized_text": "macOS Tahoe",
+              "probability": 0.5984,
+              "start": 56,
+              "type": "Other"
+            },
+            {
+              "end": 120,
+              "normalized_text": "iPod",
+              "probability": 0.7303,
+              "start": 117,
+              "type": "Product"
+            },
+            {
+              "end": 133,
+              "normalized_text": "FireWire",
+              "probability": 0.9395,
+              "start": 126,
+              "type": "Other"
+            },
+            {
+              "end": 140,
+              "normalized_text": "Tahoe",
+              "probability": 0.4227,
+              "start": 136,
+              "type": "Other"
+            },
+            {
+              "end": 157,
+              "normalized_text": "FireWire",
+              "probability": 0.891,
+              "start": 150,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1mfHvzudor",
+              "end": 190,
+              "expanded_url": "https://x.com/Stammy/status/1967805061154947139/photo/1",
+              "media_key": "3_1967805054418862080",
+              "start": 167,
+              "url": "https://t.co/1mfHvzudor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967805061154947139",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 56806,
+          "like_count": 1746,
+          "quote_count": 19,
+          "reply_count": 63,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "i don’t know who needs to hear this but don’t update to macOS Tahoe if you use 3 dongles to connect to your original iPod via FireWire. Tahoe removes FireWire support https://t.co/1mfHvzudor"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7881,
+          "following_count": 5056,
+          "like_count": 13200,
+          "listed_count": 17,
+          "media_count": 2412,
+          "tweet_count": 17208
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2007-01-11T08:14:35.000Z",
+        "description": "head of design @sesame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "sesame"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "paulstamatiou.com/about",
+                "end": 23,
+                "expanded_url": "https://paulstamatiou.com/about",
+                "start": 0,
+                "url": "https://t.co/EvNWajKUdh"
+              }
+            ]
+          }
+        },
+        "id": "624683",
+        "location": "San Francisco, CA",
+        "name": "Stammy",
+        "pinned_tweet_id": "1942246133834846312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1499826420591304708/Wa6rdm24_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58119,
+          "following_count": 718,
+          "like_count": 71933,
+          "listed_count": 2278,
+          "media_count": 8149,
+          "tweet_count": 47494
+        },
+        "url": "https://t.co/EvNWajKUdh",
+        "username": "Stammy",
+        "verified": true
+      }
+    ]
+  }
+}

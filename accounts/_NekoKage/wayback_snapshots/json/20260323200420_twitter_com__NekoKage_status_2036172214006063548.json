@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+          "id": "847543836330958848",
+          "name": "Global security & terrorism"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "New York City",
+          "id": "907978531350519809",
+          "name": "New York City"
+        }
+      }
+    ],
+    "conversation_id": "2036172214006063548",
+    "created_at": "2026-03-23T20:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T21:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036172214006063548"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bgatesisapysch…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/bgatesisapyscho/status/2035986324788777243",
+          "start": 6,
+          "url": "https://t.co/d5PmSLngOy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036172214006063548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035986324788777243",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🐈是这样的 https://t.co/d5PmSLngOy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23719,
+        "height": 1676,
+        "media_key": "13_2035986216957440000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035986216957440000/img/3XtXtO1PnI6IsQGB.jpg",
+        "public_metrics": {
+          "view_count": 1361127
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035986216957440000/vid/avc1/320x462/FoGCrYEUxRMFKPKG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035986216957440000/vid/avc1/720x1042/DQQlvGMKN931h-V3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035986216957440000/pl/MNImi15iYVjXicO0.m3u8?v=e11"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035986216957440000/vid/avc1/480x694/LxOcc5mRSE14TexG.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035986216957440000/vid/avc1/1158x1676/NaH7Ph08c8PUbH0w.mp4"
+          }
+        ],
+        "width": 1158
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+              "id": "847543836330958848",
+              "name": "Global security & terrorism"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "New York City",
+              "id": "907978531350519809",
+              "name": "New York City"
+            }
+          }
+        ],
+        "conversation_id": "2036172214006063548",
+        "created_at": "2026-03-23T20:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T21:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036172214006063548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bgatesisapysch…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/bgatesisapyscho/status/2035986324788777243",
+              "start": 6,
+              "url": "https://t.co/d5PmSLngOy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036172214006063548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035986324788777243",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🐈是这样的 https://t.co/d5PmSLngOy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035986216957440000"
+          ]
+        },
+        "author_id": "629698642",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+              "id": "847543836330958848",
+              "name": "Global security & terrorism"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "New York City",
+              "id": "907978531350519809",
+              "name": "New York City"
+            }
+          }
+        ],
+        "conversation_id": "2035986324788777243",
+        "created_at": "2026-03-23T07:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T08:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035986324788777243"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "New York City",
+              "probability": 0.9832,
+              "start": 1,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yeyg8Fj8YG",
+              "end": 162,
+              "expanded_url": "https://x.com/BGatesIsaPyscho/status/2035986324788777243/video/1",
+              "media_key": "13_2035986216957440000",
+              "start": 139,
+              "url": "https://t.co/yeyg8Fj8YG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035986324788777243",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2429,
+          "impression_count": 3187510,
+          "like_count": 9427,
+          "quote_count": 118,
+          "reply_count": 346,
+          "retweet_count": 522
+        },
+        "reply_settings": "everyone",
+        "text": "“New York City it’s not a real place.”  \n\nUnsuccessful retired suicide bomber now tries selling the remaining parts of her body for crack. https://t.co/yeyg8Fj8YG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 118,
+                "start": 113,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8206,
+          "following_count": 6025,
+          "like_count": 14187,
+          "listed_count": 17,
+          "media_count": 2711,
+          "tweet_count": 19849
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-07T22:30:30.000Z",
+        "description": "Documenting & 🤣@🤡🌎 through collapse of the West. STOP GeoEngineering. Covid was a SCAM.Reject Woke Ideology. No Wars. Conspiracy Realist/Coincidence Analyser",
+        "id": "629698642",
+        "location": "In Between The Atlantic",
+        "name": "Concerned Citizen",
+        "pinned_tweet_id": "2035995958400393346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534905804368879621/R5xYZeL5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178050,
+          "following_count": 7231,
+          "like_count": 30866,
+          "listed_count": 4065,
+          "media_count": 52625,
+          "tweet_count": 62398
+        },
+        "username": "BGatesIsaPyscho",
+        "verified": true
+      }
+    ]
+  }
+}

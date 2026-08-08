@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941776943205978112"
+      ],
+      "media_source_tweet_id": [
+        "1941777317874823646"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1941981468416192982",
+    "created_at": "2025-07-06T22:03:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T23:03:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941981468416192982"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "Junga",
+          "probability": 0.6382,
+          "start": 19,
+          "type": "Other"
+        },
+        {
+          "end": 28,
+          "normalized_text": "Eva",
+          "probability": 0.3627,
+          "start": 26,
+          "type": "Other"
+        },
+        {
+          "end": 74,
+          "normalized_text": "Ukrainian",
+          "probability": 0.4945,
+          "start": 66,
+          "type": "Other"
+        },
+        {
+          "end": 81,
+          "normalized_text": "Rubizh",
+          "probability": 0.3695,
+          "start": 76,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1517815891274121216",
+          "start": 3,
+          "username": "Heroiam_Slava"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MBYUMHbL2c",
+          "end": 115,
+          "expanded_url": "https://x.com/Heroiam_Slava/status/1941777317874823646/photo/1",
+          "media_key": "3_1941776943205978112",
+          "start": 92,
+          "url": "https://t.co/MBYUMHbL2c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941981468416192982",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 532
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941777317874823646",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Heroiam_Slava: Junga (Eva) is a 19-year-old FPV operator from Ukrainian Rubizh brigade. https://t.co/MBYUMHbL2c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_1941776943205978112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvKT14TWEAAQSa-.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941776943205978112"
+          ],
+          "media_source_tweet_id": [
+            "1941777317874823646"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1941981468416192982",
+        "created_at": "2025-07-06T22:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T23:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941981468416192982"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Junga",
+              "probability": 0.6382,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 28,
+              "normalized_text": "Eva",
+              "probability": 0.3627,
+              "start": 26,
+              "type": "Other"
+            },
+            {
+              "end": 74,
+              "normalized_text": "Ukrainian",
+              "probability": 0.4945,
+              "start": 66,
+              "type": "Other"
+            },
+            {
+              "end": 81,
+              "normalized_text": "Rubizh",
+              "probability": 0.3695,
+              "start": 76,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1517815891274121216",
+              "start": 3,
+              "username": "Heroiam_Slava"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MBYUMHbL2c",
+              "end": 115,
+              "expanded_url": "https://x.com/Heroiam_Slava/status/1941777317874823646/photo/1",
+              "media_key": "3_1941776943205978112",
+              "start": 92,
+              "url": "https://t.co/MBYUMHbL2c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941981468416192982",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 532
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941777317874823646",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Heroiam_Slava: Junga (Eva) is a 19-year-old FPV operator from Ukrainian Rubizh brigade. https://t.co/MBYUMHbL2c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941776943205978112"
+          ]
+        },
+        "author_id": "1517815891274121216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1941777317874823646",
+        "created_at": "2025-07-06T08:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T09:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941777317874823646"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "Junga",
+              "probability": 0.5811,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 9,
+              "normalized_text": "Eva",
+              "probability": 0.3653,
+              "start": 7,
+              "type": "Other"
+            },
+            {
+              "end": 31,
+              "normalized_text": "FPV",
+              "probability": 0.4323,
+              "start": 29,
+              "type": "Other"
+            },
+            {
+              "end": 62,
+              "normalized_text": "Rubizh",
+              "probability": 0.395,
+              "start": 57,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MBYUMHbL2c",
+              "end": 96,
+              "expanded_url": "https://x.com/Heroiam_Slava/status/1941777317874823646/photo/1",
+              "media_key": "3_1941776943205978112",
+              "start": 73,
+              "url": "https://t.co/MBYUMHbL2c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941777317874823646",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 175,
+          "impression_count": 100838,
+          "like_count": 5704,
+          "quote_count": 22,
+          "reply_count": 88,
+          "retweet_count": 532
+        },
+        "reply_settings": "everyone",
+        "text": "Junga (Eva) is a 19-year-old FPV operator from Ukrainian Rubizh brigade. https://t.co/MBYUMHbL2c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🐈#RainWorld⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 107,
+                "tag": "RainWorld"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "_kagenone"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7674,
+          "following_count": 4813,
+          "like_count": 12901,
+          "listed_count": 20,
+          "media_count": 2279,
+          "tweet_count": 16246
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-23T10:41:48.000Z",
+        "description": "Passionate Ukrainian news sharer, championing Ukraine’s fight for sovereignty and NATO integration while exposing Russian aggression Tip: PAYPAL@ATACMS.BUZZ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "coff.ee/heroiamslava",
+                "end": 23,
+                "expanded_url": "http://coff.ee/heroiamslava",
+                "start": 0,
+                "url": "https://t.co/H5eYvhFgMz"
+              }
+            ]
+          }
+        },
+        "id": "1517815891274121216",
+        "name": "Slava 🇺🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735767064449572864/s8CdJ5MA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101835,
+          "following_count": 39,
+          "like_count": 14150,
+          "listed_count": 731,
+          "media_count": 11021,
+          "tweet_count": 21580
+        },
+        "url": "https://t.co/H5eYvhFgMz",
+        "username": "Heroiam_Slava",
+        "verified": true
+      }
+    ]
+  }
+}

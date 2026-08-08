@@ -1,0 +1,440 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027682984460226562"
+      ],
+      "media_source_tweet_id": [
+        "2027682992144191701"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1284106964167884800",
+          "name": "Leica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1284106964167884800",
+          "name": "Leica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      }
+    ],
+    "conversation_id": "2027913384541491520",
+    "created_at": "2026-03-01T01:06:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T02:06:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027913384541491520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1590130645614743552",
+          "start": 3,
+          "username": "e_srtz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qurC1CjsxF",
+          "end": 122,
+          "expanded_url": "https://x.com/e_srtz/status/2027682992144191701/photo/1",
+          "media_key": "3_2027682984460226562",
+          "start": 99,
+          "url": "https://t.co/qurC1CjsxF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027913384541491520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027682992144191701",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @e_srtz: Leica Summarit 5cm f/1.5の絞り羽根不良修理のためオーバーホールしました。分解するとわかりますが、さすがにライカレンズは細部まで丁寧に作られています。 https://t.co/qurC1CjsxF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1372,
+        "media_key": "3_2027682984460226562",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPG7mXbEAIz2ug.jpg",
+        "width": 1940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027682984460226562"
+          ],
+          "media_source_tweet_id": [
+            "2027682992144191701"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1284106964167884800",
+              "name": "Leica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284106964167884800",
+              "name": "Leica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "2027913384541491520",
+        "created_at": "2026-03-01T01:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T02:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027913384541491520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1590130645614743552",
+              "start": 3,
+              "username": "e_srtz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qurC1CjsxF",
+              "end": 122,
+              "expanded_url": "https://x.com/e_srtz/status/2027682992144191701/photo/1",
+              "media_key": "3_2027682984460226562",
+              "start": 99,
+              "url": "https://t.co/qurC1CjsxF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027913384541491520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027682992144191701",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @e_srtz: Leica Summarit 5cm f/1.5の絞り羽根不良修理のためオーバーホールしました。分解するとわかりますが、さすがにライカレンズは細部まで丁寧に作られています。 https://t.co/qurC1CjsxF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027682984460226562"
+          ]
+        },
+        "author_id": "1590130645614743552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1284106964167884800",
+              "name": "Leica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284106964167884800",
+              "name": "Leica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "2027682992144191701",
+        "created_at": "2026-02-28T09:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T10:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027682992144191701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qurC1CjsxF",
+              "end": 110,
+              "expanded_url": "https://x.com/e_srtz/status/2027682992144191701/photo/1",
+              "media_key": "3_2027682984460226562",
+              "start": 87,
+              "url": "https://t.co/qurC1CjsxF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027682992144191701",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 515,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Leica Summarit 5cm f/1.5の絞り羽根不良修理のためオーバーホールしました。分解するとわかりますが、さすがにライカレンズは細部まで丁寧に作られています。 https://t.co/qurC1CjsxF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 118,
+                "start": 113,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2026735481388675507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8090,
+          "following_count": 5884,
+          "like_count": 13984,
+          "listed_count": 17,
+          "media_count": 2633,
+          "tweet_count": 19434
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T23:54:39.000Z",
+        "description": "レンズのバルサム処理が得意な修理会社。ニコンやCanon、オリンパスおよびLeica,Hasselblad,Rolleiflexなどのフィルムカメラ（一眼レフ、レンジファインダー、中判、二眼レフ）や、国産レンズやLeicaレンズ、Hasselbladレンズの修理を行なっています。",
+        "id": "1590130645614743552",
+        "location": "東京　江戸川区",
+        "name": "クロスロードカメラ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684794996485201920/PYpbqGpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 875,
+          "like_count": 355,
+          "listed_count": 10,
+          "media_count": 106,
+          "tweet_count": 290
+        },
+        "username": "e_srtz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,522 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      }
+    ],
+    "conversation_id": "1928915606121885898",
+    "created_at": "2025-05-31T20:44:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T21:44:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928915606121885898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "716544355318665216",
+          "start": 3,
+          "username": "kujisan73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928915606121885898",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928688302095225146",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kujisan73: 某中古カメラ店のジャンクコーナーにて日本光学（Nikon銘ではなく日本光学銘です！）純正のフィルターを100円でゲット！200円でしたが半額セール中で100円！ガラスも綺麗です！ヤフオクでも5,000円くらいするので超お買い得ですね。雨の日に中古カ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_1928688299801251840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsQTykAbEAAsDQf.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "1928915606121885898",
+        "created_at": "2025-05-31T20:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T21:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928915606121885898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "716544355318665216",
+              "start": 3,
+              "username": "kujisan73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928915606121885898",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928688302095225146",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kujisan73: 某中古カメラ店のジャンクコーナーにて日本光学（Nikon銘ではなく日本光学銘です！）純正のフィルターを100円でゲット！200円でしたが半額セール中で100円！ガラスも綺麗です！ヤフオクでも5,000円くらいするので超お買い得ですね。雨の日に中古カ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928688299801251840"
+          ]
+        },
+        "author_id": "716544355318665216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "1928688302095225146",
+        "created_at": "2025-05-31T05:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T06:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928688302095225146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dCan0Lq1z5",
+              "end": 172,
+              "expanded_url": "https://x.com/kujisan73/status/1928688302095225146/photo/1",
+              "media_key": "3_1928688299801251840",
+              "start": 149,
+              "url": "https://t.co/dCan0Lq1z5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928688302095225146",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5575,
+          "like_count": 201,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "某中古カメラ店のジャンクコーナーにて日本光学（Nikon銘ではなく日本光学銘です！）純正のフィルターを100円でゲット！200円でしたが半額セール中で100円！ガラスも綺麗です！ヤフオクでも5,000円くらいするので超お買い得ですね。雨の日に中古カメラ店巡りをすると良いことがあるかもしれません！ https://t.co/dCan0Lq1z5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠📢siren爱好者⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "_kagenone"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7629,
+          "following_count": 4660,
+          "like_count": 12692,
+          "listed_count": 20,
+          "media_count": 2228,
+          "tweet_count": 15792
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-03T08:34:21.000Z",
+        "description": "オールドレンズツイッタラー。東京都在住。カメラ歴10年。オールドレンズ沼にハマリ157本所有、現在は国産ノンライツレンズに夢中。「オールドレンズ・ライフ2019-2020」「オールドレンズ・ライフ2020-2021」に写真掲載。\n\n#オールドレンズ\n#α7III\n#Z5\n#Sony\n#oldlens",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 124,
+                "start": 116,
+                "tag": "オールドレンズ"
+              },
+              {
+                "end": 131,
+                "start": 125,
+                "tag": "α7III"
+              },
+              {
+                "end": 135,
+                "start": 132,
+                "tag": "Z5"
+              },
+              {
+                "end": 141,
+                "start": 136,
+                "tag": "Sony"
+              },
+              {
+                "end": 150,
+                "start": 142,
+                "tag": "oldlens"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kujisan73",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kujisan73",
+                "start": 0,
+                "url": "https://t.co/FKIpki55dN"
+              }
+            ]
+          }
+        },
+        "id": "716544355318665216",
+        "location": "日本 東京",
+        "name": "kujisan",
+        "pinned_tweet_id": "1443407148386451456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1443335161190309890/1XsG1fhB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9261,
+          "following_count": 5042,
+          "like_count": 707737,
+          "listed_count": 114,
+          "media_count": 12720,
+          "tweet_count": 88992
+        },
+        "url": "https://t.co/FKIpki55dN",
+        "username": "kujisan73",
+        "verified": true
+      }
+    ]
+  }
+}

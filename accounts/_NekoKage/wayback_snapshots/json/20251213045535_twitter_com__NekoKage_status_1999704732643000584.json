@@ -1,0 +1,576 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "839543390668673024",
+          "name": "Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Accessories",
+          "id": "846447164880433152",
+          "name": "Fashion accessories"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Fashion",
+          "id": "846449261914996736",
+          "name": "Watches"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fashion",
+          "id": "846449261914996736",
+          "name": "Watches"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Fashion",
+          "id": "846449261914996736",
+          "name": "Watches"
+        }
+      }
+    ],
+    "conversation_id": "1999704732643000584",
+    "created_at": "2025-12-13T04:55:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T05:55:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999704732643000584"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sora_ni_muchu/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/sora_ni_muchu/status/1999481392464560222",
+          "start": 9,
+          "url": "https://t.co/mGRb0UVthT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999704732643000584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999481392464560222",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老百年灵真好看啊 https://t.co/mGRb0UVthT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2918,
+        "media_key": "3_1999481381899137024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7-VuR8a8AAk8mu.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3076,
+        "media_key": "3_1999481381928468490",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7-VuSDagAoPxZy.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Accessories",
+              "id": "846447164880433152",
+              "name": "Fashion accessories"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "846449261914996736",
+              "name": "Watches"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "846449261914996736",
+              "name": "Watches"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "846449261914996736",
+              "name": "Watches"
+            }
+          }
+        ],
+        "conversation_id": "1999704732643000584",
+        "created_at": "2025-12-13T04:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T05:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999704732643000584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sora_ni_muchu/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/sora_ni_muchu/status/1999481392464560222",
+              "start": 9,
+              "url": "https://t.co/mGRb0UVthT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999704732643000584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999481392464560222",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老百年灵真好看啊 https://t.co/mGRb0UVthT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999481381899137024",
+            "3_1999481381928468490"
+          ]
+        },
+        "author_id": "940164434",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Accessories",
+              "id": "846447164880433152",
+              "name": "Fashion accessories"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "846449261914996736",
+              "name": "Watches"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "846449261914996736",
+              "name": "Watches"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "846449261914996736",
+              "name": "Watches"
+            }
+          }
+        ],
+        "conversation_id": "1999481392464560222",
+        "created_at": "2025-12-12T14:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T15:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999481392464560222"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 53,
+              "tag": "腕時計"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JDYInDieUw",
+              "end": 81,
+              "expanded_url": "https://x.com/sora_ni_muchu/status/1999481392464560222/photo/1",
+              "media_key": "3_1999481381899137024",
+              "start": 58,
+              "url": "https://t.co/JDYInDieUw"
+            },
+            {
+              "display_url": "pic.x.com/JDYInDieUw",
+              "end": 81,
+              "expanded_url": "https://x.com/sora_ni_muchu/status/1999481392464560222/photo/1",
+              "media_key": "3_1999481381928468490",
+              "start": 58,
+              "url": "https://t.co/JDYInDieUw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999481392464560222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 592,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "真面目な話､\nアナログ多針の機械式腕時計が好きです｡\n\n欲を言えば…あと一つ機械式クロノグラフが欲しいw\n#腕時計 https://t.co/JDYInDieUw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7962,
+          "following_count": 5541,
+          "like_count": 13747,
+          "listed_count": 17,
+          "media_count": 2540,
+          "tweet_count": 18507
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-10T23:28:48.000Z",
+        "description": "写真愛好家 フィルムカメラ/中判/大判/たまにデジタル。 食べ物/乗り物/アニメ関係も好き。 気軽に話しかけて貰えると嬉しいです。鍵アカからのフォローはブロックします｡ アイコン@photo_jellyfish さん撮影。 note 始めました♪ https://t.co/EJMmWmGPiX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 89,
+                "username": "photo_jellyfish"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "note.com/sora_ni_muchu",
+                "end": 147,
+                "expanded_url": "https://note.com/sora_ni_muchu",
+                "start": 124,
+                "url": "https://t.co/EJMmWmGPiX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.co.jp/hz/wishlist/dl…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.co.jp/hz/wishlist/dl/invite/9pyklBk?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/Blvq5NLtAc"
+              }
+            ]
+          }
+        },
+        "id": "940164434",
+        "location": "欲しいものリスト→",
+        "name": "そらに夢中",
+        "pinned_tweet_id": "1128004434284257280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1023937711516790784/qcWepvth_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 1469,
+          "like_count": 257140,
+          "listed_count": 35,
+          "media_count": 6343,
+          "tweet_count": 69239
+        },
+        "url": "https://t.co/Blvq5NLtAc",
+        "username": "sora_ni_muchu",
+        "verified": false
+      }
+    ]
+  }
+}

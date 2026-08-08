@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1981655399452303360"
+      ],
+      "media_source_tweet_id": [
+        "1981655520357564568"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Osaka",
+          "id": "859408738544791552",
+          "name": "Osaka"
+        }
+      }
+    ],
+    "conversation_id": "1982094001198317915",
+    "created_at": "2025-10-25T14:36:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T15:36:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982094001198317915"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "大阪",
+          "probability": 0.9783,
+          "start": 24,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1934131445871853568",
+          "start": 3,
+          "username": "Sora2Movies"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GYMuxXg1Df",
+          "end": 62,
+          "expanded_url": "https://x.com/Sora2Movies/status/1981655520357564568/video/1",
+          "media_key": "7_1981655399452303360",
+          "start": 39,
+          "url": "https://t.co/GYMuxXg1Df"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982094001198317915",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1225
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981655520357564568",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sora2Movies: 残クレランド、大阪にオープンしてしまう…… https://t.co/GYMuxXg1Df"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24079,
+        "height": 1048,
+        "media_key": "7_1981655399452303360",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1981655399452303360/pu/img/V7eKlVoVvJbyTDiZ.jpg",
+        "public_metrics": {
+          "view_count": 176130
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981655399452303360/pu/vid/avc1/320x582/v80cBrCAbc58O7_q.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981655399452303360/pu/vid/avc1/480x872/hchoT2BfIxxD4QGB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981655399452303360/pu/vid/avc1/576x1048/zw9vqJAeOZ07OV6V.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1981655399452303360/pu/pl/HwzLRmgJFYjQk-Ih.m3u8?tag=12&v=eb8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1981655399452303360"
+          ],
+          "media_source_tweet_id": [
+            "1981655520357564568"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1982094001198317915",
+        "created_at": "2025-10-25T14:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T15:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982094001198317915"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "大阪",
+              "probability": 0.9783,
+              "start": 24,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1934131445871853568",
+              "start": 3,
+              "username": "Sora2Movies"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GYMuxXg1Df",
+              "end": 62,
+              "expanded_url": "https://x.com/Sora2Movies/status/1981655520357564568/video/1",
+              "media_key": "7_1981655399452303360",
+              "start": 39,
+              "url": "https://t.co/GYMuxXg1Df"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982094001198317915",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1225
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981655520357564568",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sora2Movies: 残クレランド、大阪にオープンしてしまう…… https://t.co/GYMuxXg1Df"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1981655399452303360"
+          ]
+        },
+        "author_id": "1934131445871853568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1981655520357564568",
+        "created_at": "2025-10-24T09:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T10:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981655520357564568"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "大阪",
+              "probability": 0.9806,
+              "start": 7,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GYMuxXg1Df",
+              "end": 45,
+              "expanded_url": "https://x.com/Sora2Movies/status/1981655520357564568/video/1",
+              "media_key": "7_1981655399452303360",
+              "start": 22,
+              "url": "https://t.co/GYMuxXg1Df"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981655520357564568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1096,
+          "impression_count": 148516,
+          "like_count": 6239,
+          "quote_count": 164,
+          "reply_count": 25,
+          "retweet_count": 1225
+        },
+        "reply_settings": "everyone",
+        "text": "残クレランド、大阪にオープンしてしまう…… https://t.co/GYMuxXg1Df"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7962,
+          "following_count": 5219,
+          "like_count": 13394,
+          "listed_count": 17,
+          "media_count": 2452,
+          "tweet_count": 17663
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T06:10:58.000Z",
+        "description": "AI #Sora2 ネタ提供はDMまで",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 3,
+                "tag": "Sora2"
+              }
+            ]
+          }
+        },
+        "id": "1934131445871853568",
+        "name": "Sora2迷動画集",
+        "pinned_tweet_id": "1981655520357564568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974166698417872896/VpPQVz2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2197,
+          "following_count": 10,
+          "like_count": 36,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 43
+        },
+        "username": "Sora2Movies",
+        "verified": false
+      }
+    ]
+  }
+}

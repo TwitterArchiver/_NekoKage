@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045386997112643584"
+      ],
+      "media_source_tweet_id": [
+        "2045387196577042880"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "2045393493632389569",
+    "created_at": "2026-04-18T06:46:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T07:46:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045393493632389569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1867186987888971776",
+          "start": 3,
+          "username": "eye1390396"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z0R4cMCZVS",
+          "end": 50,
+          "expanded_url": "https://x.com/eye1390396/status/2045387196577042880/photo/1",
+          "media_key": "3_2045386997112643584",
+          "start": 27,
+          "url": "https://t.co/Z0R4cMCZVS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045393493632389569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045387196577042880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eye1390396: 瘦せ型片腕欠損ピース https://t.co/Z0R4cMCZVS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045393493632389569].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045393493632389569",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045393493632389569"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1637,
+        "media_key": "3_2045386997112643584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKsow8aIAAJijl.jpg",
+        "width": 1158
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045386997112643584"
+          ]
+        },
+        "author_id": "1867186987888971776",
+        "conversation_id": "2045387196577042880",
+        "created_at": "2026-04-18T06:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T07:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045387196577042880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z0R4cMCZVS",
+              "end": 34,
+              "expanded_url": "https://x.com/eye1390396/status/2045387196577042880/photo/1",
+              "media_key": "3_2045386997112643584",
+              "start": 11,
+              "url": "https://t.co/Z0R4cMCZVS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045387196577042880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 41,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "瘦せ型片腕欠損ピース https://t.co/Z0R4cMCZVS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8399,
+          "following_count": 6367,
+          "like_count": 14651,
+          "listed_count": 17,
+          "media_count": 2806,
+          "tweet_count": 20521
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T12:37:37.000Z",
+        "description": "me",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/112548438",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/112548438",
+                "start": 0,
+                "url": "https://t.co/jdg1fSgRLs"
+              }
+            ]
+          }
+        },
+        "id": "1867186987888971776",
+        "name": "匙eye",
+        "pinned_tweet_id": "1957765102213689707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867187046391144448/VIi5uSdA_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1468,
+          "following_count": 89,
+          "like_count": 69,
+          "listed_count": 7,
+          "media_count": 45,
+          "tweet_count": 127
+        },
+        "url": "https://t.co/jdg1fSgRLs",
+        "username": "eye1390396",
+        "verified": false
+      }
+    ]
+  }
+}

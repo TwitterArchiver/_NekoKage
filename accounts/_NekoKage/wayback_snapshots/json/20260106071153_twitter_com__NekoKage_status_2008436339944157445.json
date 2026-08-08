@@ -1,0 +1,625 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2008163127184297984"
+      ],
+      "media_source_tweet_id": [
+        "2008163153683914837"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1336313466894761986",
+          "name": "Xiaomi Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cell phones",
+          "id": "848920700073123840",
+          "name": "Cell Phones"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      }
+    ],
+    "conversation_id": "2008436339944157445",
+    "created_at": "2026-01-06T07:11:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T08:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008436339944157445"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 41,
+          "normalized_text": "Xiaomi",
+          "probability": 0.6215,
+          "start": 36,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1578745073696935936",
+          "start": 3,
+          "username": "enough_yt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JwZRONMYmS",
+          "end": 91,
+          "expanded_url": "https://x.com/enough_yt/status/2008163153683914837/video/1",
+          "media_key": "7_2008163127184297984",
+          "start": 68,
+          "url": "https://t.co/JwZRONMYmS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008436339944157445",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008163153683914837",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @enough_yt: Imagine Booting your Xiaomi Phone in Public Places 💀 https://t.co/JwZRONMYmS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15187,
+        "height": 1280,
+        "media_key": "7_2008163127184297984",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2008163127184297984/pu/img/IYUDcLQVmzXsFCcI.jpg",
+        "public_metrics": {
+          "view_count": 31209
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008163127184297984/pu/vid/avc1/320x568/LhM0YNMN5oQwrdHO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008163127184297984/pu/vid/avc1/480x852/fIghH08JvL6p5UkY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008163127184297984/pu/vid/avc1/720x1280/iJzbsRrA6lDudHA0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2008163127184297984/pu/pl/hjf_WPFLwTMyLRUb.m3u8?v=c53"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2008163127184297984"
+          ],
+          "media_source_tweet_id": [
+            "2008163153683914837"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1336313466894761986",
+              "name": "Xiaomi Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          }
+        ],
+        "conversation_id": "2008436339944157445",
+        "created_at": "2026-01-06T07:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T08:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008436339944157445"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "Xiaomi",
+              "probability": 0.6215,
+              "start": 36,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1578745073696935936",
+              "start": 3,
+              "username": "enough_yt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JwZRONMYmS",
+              "end": 91,
+              "expanded_url": "https://x.com/enough_yt/status/2008163153683914837/video/1",
+              "media_key": "7_2008163127184297984",
+              "start": 68,
+              "url": "https://t.co/JwZRONMYmS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008436339944157445",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008163153683914837",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @enough_yt: Imagine Booting your Xiaomi Phone in Public Places 💀 https://t.co/JwZRONMYmS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2008163127184297984"
+          ]
+        },
+        "author_id": "1578745073696935936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1336313466894761986",
+              "name": "Xiaomi Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          }
+        ],
+        "conversation_id": "2008163153683914837",
+        "created_at": "2026-01-05T13:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T14:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008163153683914837"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "Xiaomi",
+              "probability": 0.7033,
+              "start": 21,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JwZRONMYmS",
+              "end": 76,
+              "expanded_url": "https://x.com/enough_yt/status/2008163153683914837/video/1",
+              "media_key": "7_2008163127184297984",
+              "start": 53,
+              "url": "https://t.co/JwZRONMYmS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008163153683914837",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 250,
+          "impression_count": 57869,
+          "like_count": 706,
+          "quote_count": 10,
+          "reply_count": 47,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "Imagine Booting your Xiaomi Phone in Public Places 💀 https://t.co/JwZRONMYmS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7963,
+          "following_count": 5572,
+          "like_count": 13768,
+          "listed_count": 17,
+          "media_count": 2555,
+          "tweet_count": 18658
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-08T13:52:28.000Z",
+        "description": "19 Tech nerd. Smartphone addict. Reviews, Rants.\nInterested in 한글\nK-POP,Anime,Customizations,UwU\nOneUI Fan boi.\nProud BLINK & Swiftie.\n📧:mnbsthegamer@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/enoughyt",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/enoughyt",
+                "start": 0,
+                "url": "https://t.co/QAhdiDa77h"
+              }
+            ]
+          }
+        },
+        "id": "1578745073696935936",
+        "location": "Knox Security Headquarter",
+        "name": "Tatya Bichoo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954427870002212864/XdZtmAvr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5959,
+          "following_count": 880,
+          "like_count": 108965,
+          "listed_count": 15,
+          "media_count": 8522,
+          "tweet_count": 86482
+        },
+        "url": "https://t.co/QAhdiDa77h",
+        "username": "enough_yt",
+        "verified": true
+      }
+    ]
+  }
+}

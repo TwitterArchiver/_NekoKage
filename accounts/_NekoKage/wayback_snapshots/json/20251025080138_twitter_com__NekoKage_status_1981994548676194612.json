@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1981306809647329280"
+      ],
+      "media_source_tweet_id": [
+        "1981329768529190939"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "conversation_id": "1981994548676194612",
+    "created_at": "2025-10-25T08:01:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T09:01:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981994548676194612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1729822030068146176",
+          "start": 3,
+          "username": "vrcbiyaareal"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xym4SSXXn4",
+          "end": 44,
+          "expanded_url": "https://x.com/vrcbiyaareal/status/1981329768529190939/video/1",
+          "media_key": "13_1981306809647329280",
+          "start": 21,
+          "url": "https://t.co/xym4SSXXn4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981994548676194612",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 686
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981329768529190939",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vrcbiyaareal: 👏😩 https://t.co/xym4SSXXn4"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1981994548676194612].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1981994548676194612",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1981994548676194612"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7233,
+        "height": 1280,
+        "media_key": "13_1981306809647329280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1981306809647329280/img/PRswH7z2CAjUbTi_.jpg",
+        "public_metrics": {
+          "view_count": 176718
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981306809647329280/vid/avc1/1440x1280/S6NAi91t6oRvez1Z.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1981306809647329280/pl/ZzVCLF8b5gkbAPLJ.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981306809647329280/vid/avc1/404x360/dNKG2XoRVsCQrMkH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981306809647329280/vid/avc1/810x720/v72ExcZ_0Neiadmr.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981306809647329280/vid/avc1/302x270/fK3TczMe4t79zSKK.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1981306809647329280"
+          ]
+        },
+        "author_id": "1729822030068146176",
+        "conversation_id": "1981329768529190939",
+        "created_at": "2025-10-23T12:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T13:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981329768529190939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xym4SSXXn4",
+              "end": 26,
+              "expanded_url": "https://x.com/vrcbiyaareal/status/1981329768529190939/video/1",
+              "media_key": "13_1981306809647329280",
+              "start": 3,
+              "url": "https://t.co/xym4SSXXn4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981329768529190939",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3818,
+          "impression_count": 272303,
+          "like_count": 11572,
+          "quote_count": 44,
+          "reply_count": 57,
+          "retweet_count": 686
+        },
+        "reply_settings": "everyone",
+        "text": "👏😩 https://t.co/xym4SSXXn4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7957,
+          "following_count": 5217,
+          "like_count": 13395,
+          "listed_count": 17,
+          "media_count": 2452,
+          "tweet_count": 17659
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T11:18:09.000Z",
+        "description": "ばか猫",
+        "id": "1729822030068146176",
+        "name": "Yabi",
+        "pinned_tweet_id": "1962289302177759454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795854073176133632/lnwvC8fa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41170,
+          "following_count": 330,
+          "like_count": 15364,
+          "listed_count": 54,
+          "media_count": 803,
+          "tweet_count": 3172
+        },
+        "username": "vrcbiyaareal",
+        "verified": true
+      }
+    ]
+  }
+}

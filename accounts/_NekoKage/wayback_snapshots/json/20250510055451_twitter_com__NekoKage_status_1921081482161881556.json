@@ -1,0 +1,526 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1284106964167884800",
+          "name": "Leica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1284106964167884800",
+          "name": "Leica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407811550987972617",
+          "name": "Industries"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      }
+    ],
+    "conversation_id": "1921081482161881556",
+    "created_at": "2025-05-10T05:54:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T06:54:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921081482161881556"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 131,
+          "start": 125,
+          "tag": "leica"
+        },
+        {
+          "end": 136,
+          "start": 132,
+          "tag": "ライカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "837030144",
+          "start": 3,
+          "username": "flashback_staff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921081482161881556",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920787152528388579",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @flashback_staff: 白と黒、お猪口が揃いました！\n富士写真工業社製フジノンノン♫\n白はプロト的位置づけ、後の黒とは少しつくりが異なります。\n\nFujinon 50mm f1.2 LTM Chrome &amp; Black.\n\n#leica #ライカ #nonle…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1803,
+        "media_key": "3_1920785174163582980",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqf_8GvbcAQwmwL.jpg",
+        "width": 1803
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1284106964167884800",
+              "name": "Leica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284106964167884800",
+              "name": "Leica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "1921081482161881556",
+        "created_at": "2025-05-10T05:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T06:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921081482161881556"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 131,
+              "start": 125,
+              "tag": "leica"
+            },
+            {
+              "end": 136,
+              "start": 132,
+              "tag": "ライカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "837030144",
+              "start": 3,
+              "username": "flashback_staff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921081482161881556",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920787152528388579",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @flashback_staff: 白と黒、お猪口が揃いました！\n富士写真工業社製フジノンノン♫\n白はプロト的位置づけ、後の黒とは少しつくりが異なります。\n\nFujinon 50mm f1.2 LTM Chrome &amp; Black.\n\n#leica #ライカ #nonle…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920785174163582980"
+          ]
+        },
+        "author_id": "837030144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1284106964167884800",
+              "name": "Leica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284106964167884800",
+              "name": "Leica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "1920787152528388579",
+        "created_at": "2025-05-09T10:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T11:17:53.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920785285006197169",
+          "1920787152528388579"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 104,
+              "tag": "leica"
+            },
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "ライカ"
+            },
+            {
+              "end": 125,
+              "start": 116,
+              "tag": "nonleitz"
+            },
+            {
+              "end": 134,
+              "start": 126,
+              "tag": "fujinon"
+            },
+            {
+              "end": 140,
+              "start": 135,
+              "tag": "フジノン"
+            },
+            {
+              "end": 149,
+              "start": 141,
+              "tag": "oldlens"
+            },
+            {
+              "end": 158,
+              "start": 150,
+              "tag": "オールドレンズ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bpJz0b7T2D",
+              "end": 182,
+              "expanded_url": "https://x.com/flashback_staff/status/1920787152528388579/photo/1",
+              "media_key": "3_1920785174163582980",
+              "start": 159,
+              "url": "https://t.co/bpJz0b7T2D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920787152528388579",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2258,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "白と黒、お猪口が揃いました！\n富士写真工業社製フジノンノン♫\n白はプロト的位置づけ、後の黒とは少しつくりが異なります。\n\nFujinon 50mm f1.2 LTM Chrome &amp; Black.\n\n#leica #ライカ #nonleitz #fujinon #フジノン #oldlens #オールドレンズ https://t.co/bpJz0b7T2D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠📢siren爱好者⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "_kagenone"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7620,
+          "following_count": 4604,
+          "like_count": 12536,
+          "listed_count": 20,
+          "media_count": 2209,
+          "tweet_count": 15485
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-21T05:06:16.000Z",
+        "description": "ヴィンテージカメラ専門店。美品、レア品を中心に扱っています。ライカや珍品アイテムの買い取りも大歓迎です❗\n営業時間：火〜土 11〜18時 (日祝・月曜休み) \nご来店はご予約制です → TEL 04-7155-6000\n最新情報はLINEで配信しています → https://t.co/NJSHcK4xat",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "page.line.me/flashback",
+                "end": 153,
+                "expanded_url": "http://page.line.me/flashback",
+                "start": 130,
+                "url": "https://t.co/NJSHcK4xat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "flashbackcamera.jp",
+                "end": 23,
+                "expanded_url": "https://flashbackcamera.jp/",
+                "start": 0,
+                "url": "https://t.co/pgrYvpYiDx"
+              }
+            ]
+          }
+        },
+        "id": "837030144",
+        "location": "千葉県流山市おおたかの森西１−６−６ 1F",
+        "name": "FLASHBACK CAMERA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1256702560037027841/qncHsMLS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3193,
+          "following_count": 50,
+          "like_count": 1596,
+          "listed_count": 83,
+          "media_count": 4391,
+          "tweet_count": 4883
+        },
+        "url": "https://t.co/pgrYvpYiDx",
+        "username": "flashback_staff",
+        "verified": false
+      }
+    ]
+  }
+}

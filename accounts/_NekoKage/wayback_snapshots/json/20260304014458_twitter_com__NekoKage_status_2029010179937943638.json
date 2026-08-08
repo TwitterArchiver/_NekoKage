@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028964009920147456"
+      ],
+      "media_source_tweet_id": [
+        "2028964015179706687"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2029010179937943638",
+    "created_at": "2026-03-04T01:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T02:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029010179937943638"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 68,
+          "normalized_text": "US",
+          "probability": 0.4164,
+          "start": 67,
+          "type": "Other"
+        },
+        {
+          "end": 94,
+          "normalized_text": "China",
+          "probability": 0.9585,
+          "start": 90,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1261506966498705408",
+          "start": 3,
+          "username": "jacobfuknjones"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8VQotBvbXV",
+          "end": 119,
+          "expanded_url": "https://x.com/jacobfuknjones/status/2028964015179706687/photo/1",
+          "media_key": "3_2028964009920147456",
+          "start": 96,
+          "url": "https://t.co/8VQotBvbXV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029010179937943638",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028964015179706687",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jacobfuknjones: Double Happiness Hard Pack Cigarettes from the US Market, but Made in China https://t.co/8VQotBvbXV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028964009920147456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HChUBGFXsAAitri.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028964009920147456"
+          ],
+          "media_source_tweet_id": [
+            "2028964015179706687"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2029010179937943638",
+        "created_at": "2026-03-04T01:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T02:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029010179937943638"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 68,
+              "normalized_text": "US",
+              "probability": 0.4164,
+              "start": 67,
+              "type": "Other"
+            },
+            {
+              "end": 94,
+              "normalized_text": "China",
+              "probability": 0.9585,
+              "start": 90,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1261506966498705408",
+              "start": 3,
+              "username": "jacobfuknjones"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8VQotBvbXV",
+              "end": 119,
+              "expanded_url": "https://x.com/jacobfuknjones/status/2028964015179706687/photo/1",
+              "media_key": "3_2028964009920147456",
+              "start": 96,
+              "url": "https://t.co/8VQotBvbXV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029010179937943638",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028964015179706687",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jacobfuknjones: Double Happiness Hard Pack Cigarettes from the US Market, but Made in China https://t.co/8VQotBvbXV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028964009920147456"
+          ]
+        },
+        "author_id": "1261506966498705408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2028964015179706687",
+        "created_at": "2026-03-03T22:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T23:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028964015179706687"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "US",
+              "probability": 0.4951,
+              "start": 47,
+              "type": "Other"
+            },
+            {
+              "end": 74,
+              "normalized_text": "China",
+              "probability": 0.9652,
+              "start": 70,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8VQotBvbXV",
+              "end": 99,
+              "expanded_url": "https://x.com/jacobfuknjones/status/2028964015179706687/photo/1",
+              "media_key": "3_2028964009920147456",
+              "start": 76,
+              "url": "https://t.co/8VQotBvbXV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028964015179706687",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3006,
+          "like_count": 155,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Double Happiness Hard Pack Cigarettes from the US Market, but Made in China https://t.co/8VQotBvbXV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 118,
+                "start": 113,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2026735481388675507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8188,
+          "following_count": 5907,
+          "like_count": 14021,
+          "listed_count": 17,
+          "media_count": 2643,
+          "tweet_count": 19511
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-16T04:01:21.000Z",
+        "description": "jacobfuckingjones / jacobjonesMONEY on YouTube  i love cigarettes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jacobfuckingjones.com",
+                "end": 23,
+                "expanded_url": "https://www.jacobfuckingjones.com/",
+                "start": 0,
+                "url": "https://t.co/DoSnugNk8B"
+              }
+            ]
+          }
+        },
+        "id": "1261506966498705408",
+        "name": "jacob jones",
+        "pinned_tweet_id": "1722138757485228322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1331976652927229952/_K3OB2u2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108373,
+          "following_count": 53,
+          "like_count": 408,
+          "listed_count": 25,
+          "media_count": 1423,
+          "tweet_count": 3831
+        },
+        "url": "https://t.co/DoSnugNk8B",
+        "username": "jacobfuknjones",
+        "verified": false
+      }
+    ]
+  }
+}

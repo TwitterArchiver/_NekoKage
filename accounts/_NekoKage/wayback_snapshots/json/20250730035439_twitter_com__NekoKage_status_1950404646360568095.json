@@ -1,0 +1,767 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950313411855994880",
+        "3_1950313456101675008",
+        "3_1950313482848751616"
+      ],
+      "media_source_tweet_id": [
+        "1950313492839592310",
+        "1950313492839592310",
+        "1950313492839592310"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Aerospace",
+          "id": "872801340224806912",
+          "name": "Aerospace"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "NASA",
+          "id": "872802352448667648",
+          "name": "NASA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Space and astronomy",
+          "id": "847899255880564736",
+          "name": "Space"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Space and astronomy",
+          "id": "847899255880564736",
+          "name": "Space"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "NASA",
+          "id": "872802352448667648",
+          "name": "NASA"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1352681651516567553",
+          "name": "Space agencies & companies"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1950404646360568095",
+    "created_at": "2025-07-30T03:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T04:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950404646360568095"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "NASA",
+          "probability": 0.9653,
+          "start": 19,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1231867688219070465",
+          "start": 3,
+          "username": "suwashashinki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zke29qPhA2",
+          "end": 55,
+          "expanded_url": "https://x.com/suwashashinki/status/1950313492839592310/photo/1",
+          "media_key": "3_1950313411855994880",
+          "start": 32,
+          "url": "https://t.co/zke29qPhA2"
+        },
+        {
+          "display_url": "pic.x.com/zke29qPhA2",
+          "end": 55,
+          "expanded_url": "https://x.com/suwashashinki/status/1950313492839592310/photo/1",
+          "media_key": "3_1950313456101675008",
+          "start": 32,
+          "url": "https://t.co/zke29qPhA2"
+        },
+        {
+          "display_url": "pic.x.com/zke29qPhA2",
+          "end": 55,
+          "expanded_url": "https://x.com/suwashashinki/status/1950313492839592310/photo/1",
+          "media_key": "3_1950313482848751616",
+          "start": 32,
+          "url": "https://t.co/zke29qPhA2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950404646360568095",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950313492839592310",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @suwashashinki: NASA special https://t.co/zke29qPhA2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1959,
+        "media_key": "3_1950313411855994880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxDntwJbUAAdbwa.jpg",
+        "width": 2943
+      },
+      {
+        "height": 2060,
+        "media_key": "3_1950313456101675008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxDnwU-a0AAcOCx.jpg",
+        "width": 3096
+      },
+      {
+        "height": 2726,
+        "media_key": "3_1950313482848751616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxDnx4na0AADduX.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950313411855994880",
+            "3_1950313456101675008",
+            "3_1950313482848751616"
+          ],
+          "media_source_tweet_id": [
+            "1950313492839592310",
+            "1950313492839592310",
+            "1950313492839592310"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Aerospace",
+              "id": "872801340224806912",
+              "name": "Aerospace"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "NASA",
+              "id": "872802352448667648",
+              "name": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NASA",
+              "id": "872802352448667648",
+              "name": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352681651516567553",
+              "name": "Space agencies & companies"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1950404646360568095",
+        "created_at": "2025-07-30T03:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T04:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950404646360568095"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "NASA",
+              "probability": 0.9653,
+              "start": 19,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1231867688219070465",
+              "start": 3,
+              "username": "suwashashinki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zke29qPhA2",
+              "end": 55,
+              "expanded_url": "https://x.com/suwashashinki/status/1950313492839592310/photo/1",
+              "media_key": "3_1950313411855994880",
+              "start": 32,
+              "url": "https://t.co/zke29qPhA2"
+            },
+            {
+              "display_url": "pic.x.com/zke29qPhA2",
+              "end": 55,
+              "expanded_url": "https://x.com/suwashashinki/status/1950313492839592310/photo/1",
+              "media_key": "3_1950313456101675008",
+              "start": 32,
+              "url": "https://t.co/zke29qPhA2"
+            },
+            {
+              "display_url": "pic.x.com/zke29qPhA2",
+              "end": 55,
+              "expanded_url": "https://x.com/suwashashinki/status/1950313492839592310/photo/1",
+              "media_key": "3_1950313482848751616",
+              "start": 32,
+              "url": "https://t.co/zke29qPhA2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950404646360568095",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950313492839592310",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @suwashashinki: NASA special https://t.co/zke29qPhA2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950313411855994880",
+            "3_1950313456101675008",
+            "3_1950313482848751616"
+          ]
+        },
+        "author_id": "1231867688219070465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Aerospace",
+              "id": "872801340224806912",
+              "name": "Aerospace"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "NASA",
+              "id": "872802352448667648",
+              "name": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NASA",
+              "id": "872802352448667648",
+              "name": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352681651516567553",
+              "name": "Space agencies & companies"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1950313492839592310",
+        "created_at": "2025-07-29T21:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T22:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950313492839592310"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "NASA",
+              "probability": 0.9632,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zke29qPhA2",
+              "end": 36,
+              "expanded_url": "https://x.com/suwashashinki/status/1950313492839592310/photo/1",
+              "media_key": "3_1950313411855994880",
+              "start": 13,
+              "url": "https://t.co/zke29qPhA2"
+            },
+            {
+              "display_url": "pic.x.com/zke29qPhA2",
+              "end": 36,
+              "expanded_url": "https://x.com/suwashashinki/status/1950313492839592310/photo/1",
+              "media_key": "3_1950313456101675008",
+              "start": 13,
+              "url": "https://t.co/zke29qPhA2"
+            },
+            {
+              "display_url": "pic.x.com/zke29qPhA2",
+              "end": 36,
+              "expanded_url": "https://x.com/suwashashinki/status/1950313492839592310/photo/1",
+              "media_key": "3_1950313482848751616",
+              "start": 13,
+              "url": "https://t.co/zke29qPhA2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950313492839592310",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1020,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "NASA special https://t.co/zke29qPhA2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🐈#RainWorld⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 107,
+                "tag": "RainWorld"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "_kagenone"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7803,
+          "following_count": 4893,
+          "like_count": 13028,
+          "listed_count": 18,
+          "media_count": 2335,
+          "tweet_count": 16593
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-24T09:05:29.000Z",
+        "description": "東京新宿、新宿御苑の近くにあるちっぽけな中古カメラ店です。高価買取目指して頑張りますので、機材ご売却の際はぜひ当店にご用命ください。宅配・ご来店大歓迎です。査定見積はこちらから、\nhttps://t.co/n1AakEujEV\n在庫は\nhttps://t.co/yYUmYtcFOg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "suwashashinki.com/purchase_items",
+                "end": 113,
+                "expanded_url": "http://suwashashinki.com/purchase_items",
+                "start": 90,
+                "url": "https://t.co/n1AakEujEV"
+              },
+              {
+                "display_url": "suwashashinki.com/product",
+                "end": 141,
+                "expanded_url": "https://suwashashinki.com/product",
+                "start": 118,
+                "url": "https://t.co/yYUmYtcFOg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "suwashashinki.com",
+                "end": 23,
+                "expanded_url": "https://suwashashinki.com/",
+                "start": 0,
+                "url": "https://t.co/tFVIB54EBe"
+              }
+            ]
+          }
+        },
+        "id": "1231867688219070465",
+        "location": "東京都新宿区新宿1-2-11  日東ビル2F",
+        "name": "諏訪写真機📸（東京新宿の中古カメラ店です）📷",
+        "pinned_tweet_id": "1950043831925112978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1300379008752783360/ULv_24_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4296,
+          "following_count": 69,
+          "like_count": 50625,
+          "listed_count": 81,
+          "media_count": 4677,
+          "tweet_count": 8597
+        },
+        "url": "https://t.co/tFVIB54EBe",
+        "username": "suwashashinki",
+        "verified": false
+      }
+    ]
+  }
+}

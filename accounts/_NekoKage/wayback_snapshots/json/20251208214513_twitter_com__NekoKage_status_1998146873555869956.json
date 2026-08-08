@@ -1,0 +1,575 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1284106964167884800",
+          "name": "Leica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1284106964167884800",
+          "name": "Leica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      }
+    ],
+    "conversation_id": "1998146873555869956",
+    "created_at": "2025-12-08T21:45:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T22:45:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998146873555869956"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "PPP",
+          "probability": 0.5282,
+          "start": 17,
+          "type": "Other"
+        },
+        {
+          "end": 74,
+          "normalized_text": "Leica M EV1",
+          "probability": 0.7119,
+          "start": 64,
+          "type": "Other"
+        },
+        {
+          "end": 87,
+          "normalized_text": "Leica M9",
+          "probability": 0.688,
+          "start": 80,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "20833230",
+          "start": 3,
+          "username": "LeicaRumors"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998146873555869956",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998066783325188357",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LeicaRumors: PPP Cameras released new screen covers for the Leica M EV1 and Leica M9 cameras (10% off coupon code included):\nhttps://t.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 830,
+        "media_key": "3_1998066673677418496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7qPDbIWwAAkJsQ.jpg",
+        "width": 1200
+      },
+      {
+        "height": 811,
+        "media_key": "3_1998066673694216197",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7qPDbMXEAUdp4_.jpg",
+        "width": 1160
+      },
+      {
+        "height": 855,
+        "media_key": "3_1998066673706799112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7qPDbPXEAguMmZ.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1998066673694216193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7qPDbMXEAEjuC1.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1284106964167884800",
+              "name": "Leica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284106964167884800",
+              "name": "Leica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "1998146873555869956",
+        "created_at": "2025-12-08T21:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T22:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998146873555869956"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "PPP",
+              "probability": 0.5282,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 74,
+              "normalized_text": "Leica M EV1",
+              "probability": 0.7119,
+              "start": 64,
+              "type": "Other"
+            },
+            {
+              "end": 87,
+              "normalized_text": "Leica M9",
+              "probability": 0.688,
+              "start": 80,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "20833230",
+              "start": 3,
+              "username": "LeicaRumors"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998146873555869956",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998066783325188357",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LeicaRumors: PPP Cameras released new screen covers for the Leica M EV1 and Leica M9 cameras (10% off coupon code included):\nhttps://t.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998066673677418496",
+            "3_1998066673694216197",
+            "3_1998066673706799112",
+            "3_1998066673694216193"
+          ]
+        },
+        "author_id": "20833230",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1284106964167884800",
+              "name": "Leica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284106964167884800",
+              "name": "Leica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "1998066783325188357",
+        "created_at": "2025-12-08T16:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T17:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998066783325188357"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "PPP",
+              "probability": 0.6531,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 57,
+              "normalized_text": "Leica M EV1",
+              "probability": 0.7224,
+              "start": 47,
+              "type": "Other"
+            },
+            {
+              "end": 70,
+              "normalized_text": "Leica M9",
+              "probability": 0.629,
+              "start": 63,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "PPP Cameras released two new screen covers for the latest Leica M EV1 and the Leica M9 cameras (two different versions of the screen covers are available – with and without a thumb grip): Leica M EV1 screen cover Leica M9 screen cover: PPP Cameras is currently offering 10% off with the coupon code CHRITSMAS10 […]",
+              "display_url": "leicarumors.com/2025/12/08/ppp…",
+              "end": 135,
+              "expanded_url": "https://leicarumors.com/2025/12/08/ppp-cameras-released-a-new-screen-covers-for-the-leica-m-ev1-and-leica-m9-cameras-10-off-coupon-code-included.aspx/",
+              "images": [
+                {
+                  "height": 855,
+                  "url": "https://pbs.twimg.com/news_img/1998066785476907008/7lL_mUh8?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1998066785476907008/7lL_mUh8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 112,
+              "status": 200,
+              "title": "PPP Cameras released new screen covers for the Leica M EV1 and Leica M9 cameras (10% off coupon code included) - Leica Rumors",
+              "unwound_url": "https://leicarumors.com/2025/12/08/ppp-cameras-released-a-new-screen-covers-for-the-leica-m-ev1-and-leica-m9-cameras-10-off-coupon-code-included.aspx/",
+              "url": "https://t.co/eTZve1sVLx"
+            },
+            {
+              "display_url": "pic.x.com/izbjkMCAO7",
+              "end": 159,
+              "expanded_url": "https://x.com/LeicaRumors/status/1998066783325188357/photo/1",
+              "media_key": "3_1998066673677418496",
+              "start": 136,
+              "url": "https://t.co/izbjkMCAO7"
+            },
+            {
+              "display_url": "pic.x.com/izbjkMCAO7",
+              "end": 159,
+              "expanded_url": "https://x.com/LeicaRumors/status/1998066783325188357/photo/1",
+              "media_key": "3_1998066673694216197",
+              "start": 136,
+              "url": "https://t.co/izbjkMCAO7"
+            },
+            {
+              "display_url": "pic.x.com/izbjkMCAO7",
+              "end": 159,
+              "expanded_url": "https://x.com/LeicaRumors/status/1998066783325188357/photo/1",
+              "media_key": "3_1998066673706799112",
+              "start": 136,
+              "url": "https://t.co/izbjkMCAO7"
+            },
+            {
+              "display_url": "pic.x.com/izbjkMCAO7",
+              "end": 159,
+              "expanded_url": "https://x.com/LeicaRumors/status/1998066783325188357/photo/1",
+              "media_key": "3_1998066673694216193",
+              "start": 136,
+              "url": "https://t.co/izbjkMCAO7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998066783325188357",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 648,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "PPP Cameras released new screen covers for the Leica M EV1 and Leica M9 cameras (10% off coupon code included):\nhttps://t.co/eTZve1sVLx https://t.co/izbjkMCAO7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989746234408701952/CGIjbFWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7967,
+          "following_count": 5493,
+          "like_count": 13682,
+          "listed_count": 17,
+          "media_count": 2527,
+          "tweet_count": 18393
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-14T05:29:34.000Z",
+        "description": "Leica news, before it happens",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "leicarumors.com",
+                "end": 22,
+                "expanded_url": "http://leicarumors.com",
+                "start": 0,
+                "url": "http://t.co/RX87HMWPDr"
+              }
+            ]
+          }
+        },
+        "id": "20833230",
+        "name": "Leica Rumors",
+        "pinned_tweet_id": "1995662298372080040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1007469058747400192/BLM-80ii_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26639,
+          "following_count": 10,
+          "like_count": 2321,
+          "listed_count": 564,
+          "media_count": 4003,
+          "tweet_count": 13051
+        },
+        "url": "http://t.co/RX87HMWPDr",
+        "username": "LeicaRumors",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2084284549161156608"
+      ],
+      "media_source_tweet_id": [
+        "2084285885458117014"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2084385775115026833",
+    "created_at": "2026-08-03T21:07:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T22:07:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084385775115026833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1961472973531131904",
+          "start": 3,
+          "username": "dumbfrenchrat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ssLnXcxR9Y",
+          "end": 69,
+          "expanded_url": "https://x.com/dumbfrenchrat/status/2084285885458117014/video/1",
+          "media_key": "13_2084284549161156608",
+          "start": 46,
+          "url": "https://t.co/ssLnXcxR9Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084385775115026833",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 178
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084285885458117014",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dumbfrenchrat: outdoor date with a tomboy https://t.co/ssLnXcxR9Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 119536,
+        "height": 1920,
+        "media_key": "13_2084284549161156608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084284549161156608/img/LZx_QSDRkWbDLOw_.jpg",
+        "public_metrics": {
+          "view_count": 237636
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084284549161156608/vid/avc1/320x568/Max0fzwXRbPlva46.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084284549161156608/pl/C6Ks2cGIcadIIzwN.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084284549161156608/vid/avc1/480x852/ka2vH1RAG-Qw2iIg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084284549161156608/vid/avc1/720x1280/It5Pc9xr7SvmEFkK.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084284549161156608/vid/avc1/1080x1920/fdY7PAtGujzAvhzr.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 119536,
+        "height": 1920,
+        "media_key": "13_2084284549161156608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084284549161156608/img/LZx_QSDRkWbDLOw_.jpg",
+        "public_metrics": {
+          "view_count": 232969
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084284549161156608/vid/avc1/320x568/Max0fzwXRbPlva46.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084284549161156608/pl/C6Ks2cGIcadIIzwN.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084284549161156608/vid/avc1/480x852/ka2vH1RAG-Qw2iIg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084284549161156608/vid/avc1/720x1280/It5Pc9xr7SvmEFkK.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084284549161156608/vid/avc1/1080x1920/fdY7PAtGujzAvhzr.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084284549161156608"
+          ]
+        },
+        "author_id": "1961472973531131904",
+        "conversation_id": "2084285885458117014",
+        "created_at": "2026-08-03T14:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084285885458117014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ssLnXcxR9Y",
+              "end": 50,
+              "expanded_url": "https://x.com/dumbfrenchrat/status/2084285885458117014/video/1",
+              "media_key": "13_2084284549161156608",
+              "start": 27,
+              "url": "https://t.co/ssLnXcxR9Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084285885458117014",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2778,
+          "impression_count": 415148,
+          "like_count": 9137,
+          "quote_count": 3,
+          "reply_count": 72,
+          "retweet_count": 178
+        },
+        "reply_settings": "everyone",
+        "text": "outdoor date with a tomboy https://t.co/ssLnXcxR9Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084284549161156608"
+          ],
+          "media_source_tweet_id": [
+            "2084285885458117014"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2084385775115026833",
+        "created_at": "2026-08-03T21:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T22:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084385775115026833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1961472973531131904",
+              "start": 3,
+              "username": "dumbfrenchrat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ssLnXcxR9Y",
+              "end": 69,
+              "expanded_url": "https://x.com/dumbfrenchrat/status/2084285885458117014/video/1",
+              "media_key": "13_2084284549161156608",
+              "start": 46,
+              "url": "https://t.co/ssLnXcxR9Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084385775115026833",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 178
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084285885458117014",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dumbfrenchrat: outdoor date with a tomboy https://t.co/ssLnXcxR9Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病多病病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "_kagenone"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8739,
+          "following_count": 6724,
+          "like_count": 16077,
+          "listed_count": 17,
+          "media_count": 3061,
+          "tweet_count": 22533
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-29T16:56:22.000Z",
+        "description": "Outdoor tomboy rat Vtuber & Bird nerd 🌱 https://t.co/k37jq6yqXH 🎨 Fanart #ririrart 🧀 Clips #cheesyclips 🪤 https://t.co/6ZcpkkFwtN",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 73,
+                "tag": "ririrart"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "tag": "cheesyclips"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/ririgaki",
+                "end": 63,
+                "expanded_url": "http://twitch.tv/ririgaki",
+                "start": 40,
+                "url": "https://t.co/k37jq6yqXH"
+              },
+              {
+                "display_url": "discord.gg/riripipsqueak",
+                "end": 129,
+                "expanded_url": "http://discord.gg/riripipsqueak",
+                "start": 106,
+                "url": "https://t.co/6ZcpkkFwtN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "riripipsqueak.carrd.co",
+                "end": 23,
+                "expanded_url": "https://riripipsqueak.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/gemQFtPaCI"
+              }
+            ]
+          }
+        },
+        "id": "1961472973531131904",
+        "location": "eating your walls",
+        "name": "Riri Pipsqueak 🐀🍃",
+        "pinned_tweet_id": "2037192070528442492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076386760154636288/gcdB6UeN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61312,
+          "following_count": 781,
+          "like_count": 30059,
+          "listed_count": 68,
+          "media_count": 1298,
+          "tweet_count": 7664
+        },
+        "url": "https://t.co/gemQFtPaCI",
+        "username": "dumbfrenchrat",
+        "verified": true
+      }
+    ]
+  }
+}

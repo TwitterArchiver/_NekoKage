@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026738409",
+          "name": "Sony"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1582737213132918785",
+          "name": "McNeil-PPC, Inc"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1585051683389702144",
+          "name": "NYSE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026738409",
+          "name": "Sony"
+        }
+      }
+    ],
+    "conversation_id": "2016964727004680520",
+    "created_at": "2026-01-29T20:00:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T21:00:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016964727004680520"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 52,
+          "normalized_text": "Sony Group Corporation",
+          "probability": 0.6783,
+          "start": 31,
+          "type": "Organization"
+        },
+        {
+          "end": 58,
+          "normalized_text": "NYSE",
+          "probability": 0.5919,
+          "start": 55,
+          "type": "Place"
+        },
+        {
+          "end": 134,
+          "normalized_text": "Sony Electronics Inc",
+          "probability": 0.6702,
+          "start": 115,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1764216516369661952",
+          "start": 3,
+          "username": "BlackDumpling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016964727004680520",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 285
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016088978672275954",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BlackDumpling: 🚨BREAKING🚨: Sony Group Corporation (NYSE: SONY; TSE: 6758), through its wholly owned subsidiary Sony Electronics Inc., t…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17229,
+        "height": 720,
+        "media_key": "13_2016086900449083392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016086900449083392/img/034CBZdtNvaSPaxY.jpg",
+        "public_metrics": {
+          "view_count": 200643
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016086900449083392/vid/avc1/320x320/wl97vTRowUcMYbAO.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016086900449083392/vid/avc1/540x540/-JPnhZfSeR67JWN2.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016086900449083392/vid/avc1/720x720/9zEHQPGPWfW5EZ1L.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016086900449083392/pl/FXbLJSCPK12Tzubc.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1582737213132918785",
+              "name": "McNeil-PPC, Inc"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1585051683389702144",
+              "name": "NYSE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          }
+        ],
+        "conversation_id": "2016964727004680520",
+        "created_at": "2026-01-29T20:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T21:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016964727004680520"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 52,
+              "normalized_text": "Sony Group Corporation",
+              "probability": 0.6783,
+              "start": 31,
+              "type": "Organization"
+            },
+            {
+              "end": 58,
+              "normalized_text": "NYSE",
+              "probability": 0.5919,
+              "start": 55,
+              "type": "Place"
+            },
+            {
+              "end": 134,
+              "normalized_text": "Sony Electronics Inc",
+              "probability": 0.6702,
+              "start": 115,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1764216516369661952",
+              "start": 3,
+              "username": "BlackDumpling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016964727004680520",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 285
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016088978672275954",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BlackDumpling: 🚨BREAKING🚨: Sony Group Corporation (NYSE: SONY; TSE: 6758), through its wholly owned subsidiary Sony Electronics Inc., t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016086900449083392"
+          ]
+        },
+        "author_id": "1764216516369661952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1582737213132918785",
+              "name": "McNeil-PPC, Inc"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1585051683389702144",
+              "name": "NYSE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          }
+        ],
+        "conversation_id": "2016088978672275954",
+        "created_at": "2026-01-27T10:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T11:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016088978672275954"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "Sony Group Corporation",
+              "probability": 0.6104,
+              "start": 12,
+              "type": "Organization"
+            },
+            {
+              "end": 39,
+              "normalized_text": "NYSE",
+              "probability": 0.5678,
+              "start": 36,
+              "type": "Place"
+            },
+            {
+              "end": 115,
+              "normalized_text": "Sony Electronics Inc",
+              "probability": 0.5962,
+              "start": 96,
+              "type": "Organization"
+            },
+            {
+              "end": 271,
+              "normalized_text": "David Vitali",
+              "probability": 0.8518,
+              "start": 260,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zuxIe3vZre",
+              "end": 297,
+              "expanded_url": "https://x.com/BlackDumpling/status/2016088978672275954/video/1",
+              "media_key": "13_2016086900449083392",
+              "start": 274,
+              "url": "https://t.co/zuxIe3vZre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016088978672275954",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1441,
+          "impression_count": 323364,
+          "like_count": 2870,
+          "quote_count": 39,
+          "reply_count": 86,
+          "retweet_count": 285
+        },
+        "reply_settings": "everyone",
+        "text": "🚨BREAKING🚨: Sony Group Corporation (NYSE: SONY; TSE: 6758), through its wholly owned subsidiary Sony Electronics Inc., today announced the release of conceptual artwork depicting \"a machine to calculate what she means when she says 'It’s nothing I’m fine.'\" - David Vitali. https://t.co/zuxIe3vZre"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7956,
+          "following_count": 5663,
+          "like_count": 13779,
+          "listed_count": 17,
+          "media_count": 2573,
+          "tweet_count": 18878
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T09:09:39.000Z",
+        "description": "Cyberpunk Libertarian Fairy Bard.",
+        "id": "1764216516369661952",
+        "location": "The Island of the Moon?",
+        "name": "BLACK DUMPLING™",
+        "pinned_tweet_id": "2004235281751523720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995045834031853569/zuhDRuwp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11015,
+          "following_count": 500,
+          "like_count": 38301,
+          "listed_count": 27,
+          "media_count": 12032,
+          "tweet_count": 54874
+        },
+        "username": "BlackDumpling",
+        "verified": true
+      }
+    ]
+  }
+}

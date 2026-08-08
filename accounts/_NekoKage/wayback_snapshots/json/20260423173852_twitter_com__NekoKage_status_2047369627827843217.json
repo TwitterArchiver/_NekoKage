@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "conversation_id": "2047271736467685623",
+    "created_at": "2026-04-23T17:38:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T18:38:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047369627827843217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1545898408858161154",
+          "start": 0,
+          "username": "D3XTR0M3TH_0w0"
+        },
+        {
+          "end": 24,
+          "id": "1915124824126427137",
+          "start": 16,
+          "username": "Grtr_nk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047369627827843217",
+    "in_reply_to_user_id": "1545898408858161154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047330193992483108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D3XTR0M3TH_0w0 @Grtr_nk 我启动障碍好严重，，"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2047330193992483108].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2047330193992483108",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2047330193992483108"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "conversation_id": "2047271736467685623",
+        "created_at": "2026-04-23T17:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T18:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047369627827843217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1545898408858161154",
+              "start": 0,
+              "username": "D3XTR0M3TH_0w0"
+            },
+            {
+              "end": 24,
+              "id": "1915124824126427137",
+              "start": 16,
+              "username": "Grtr_nk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047369627827843217",
+        "in_reply_to_user_id": "1545898408858161154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047330193992483108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D3XTR0M3TH_0w0 @Grtr_nk 我启动障碍好严重，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid📷膠片攝影/相机维修🚬烟⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_kagenone"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8438,
+          "following_count": 6466,
+          "like_count": 14801,
+          "listed_count": 17,
+          "media_count": 2833,
+          "tweet_count": 20756
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T22:31:24.000Z",
+        "description": "【锁推是防止被推送出去】关注人=喜欢你的内容!/同类想互关喵\n成分：🏳️‍🌈🏳️‍⚧️💛🤍💜🖤｜退役ODer｜■tFtMtXtM(猫)｜色胺重度依赖\n这边是混中推用的，画画大号 @StrawberryC208",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 89,
+                "username": "StrawberryC208"
+              }
+            ]
+          }
+        },
+        "id": "1545898408858161154",
+        "location": "they/them｜💉2025.8.25｜AuDHD",
+        "name": "🐱",
+        "pinned_tweet_id": "2045977962999332890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044323229310038019/MSC4klcl_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 1166,
+          "like_count": 5260,
+          "listed_count": 1,
+          "media_count": 561,
+          "tweet_count": 3468
+        },
+        "username": "D3XTR0M3TH_0w0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T19:25:21.000Z",
+        "description": "暴论bot\n翻车顺女HRT23.05.29/多意识体OSDD+cptsd/od💊ed BMI14.2😇/ pfp @LeonRui_ / 里帐 @Luminme_Vas 互关请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "LeonRui_"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Luminme_Vas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://confess.ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/C5qsiDuDPc"
+              }
+            ]
+          }
+        },
+        "id": "1915124824126427137",
+        "name": "🐱🍥灰尾猫🍥🐱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998235803676463104/qPOn02np_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 686,
+          "like_count": 258,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 473
+        },
+        "url": "https://t.co/C5qsiDuDPc",
+        "username": "Grtr_nk",
+        "verified": false
+      }
+    ]
+  }
+}

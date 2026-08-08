@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "conversation_id": "1877086922960457848",
+    "created_at": "2025-01-08T20:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T21:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877086922960457848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2814334224",
+          "start": 3,
+          "username": "ShotenKobo"
+        }
+      ],
+      "urls": [
+        {
+          "description": "/* 2画像並列 */ .image-container { display: flex; justify-content: space-between; max-width: 100%; margin-top: 1.5em; } .image-container img { width: calc(50% - 4px); /* 画像の幅を親要素の50%から余白分を引いた値に設定 */ box-sizing: border-box; margin-right: 4px; /* 画像の間に4pxのスペースを追加 */ } .image-container img:last-child { margin-right: 0; /* 最後の画像の余白をなくす */ } /* 2画像並列にテキストが必要な時、以下を追記 */ .image-wrapper { width: calc(50% - 4px); /* 画像と同じ幅に設定 */ text-align: left; /* テキストを中央揃え */ } .image-wrapper img { width: 100%; /* 画像の幅を親要素に合わせる */ box-sizing: border-box; } .image-wrapper p { margin-top: 8px; /* 画像とテキストの間に余白 */ font-size: 12px; /* テキストサイズを調整 */ color: #666; /* テキストカラーを設定 */ } /* 単体画像のスタイル（リンク付き）もしサンプルなど入れたい場合 */ .single-image-container { display: flex; justify-content: center; /* 中央寄せ */ max-width: 714px; margin-top: 1.5em; } .single-image-container a { width: 50%; /* リンクの幅を50%に設定 */ display: flex; /* Flexboxを有効化 */ } .single-image-container img { width: 100%; /* 画像をリンク内でフル幅に */ flex-grow: 1; box-sizing: border-b",
+          "display_url": "stkb.jp/shopdetail/000…",
+          "end": 137,
+          "expanded_url": "https://www.stkb.jp/shopdetail/000000002169",
+          "images": [
+            {
+              "height": 1444,
+              "url": "https://pbs.twimg.com/news_img/1876943447539486721/akPvvEeS?format=jpg&name=orig",
+              "width": 1444
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1876943447539486721/akPvvEeS?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 114,
+          "status": 200,
+          "title": "Schneider-Kreuznach Componon-S 50mm F2.8 \"Mマウント改\" 【焦点工房オンラインストア｜数量限定】-焦点工房オンラインストア",
+          "unwound_url": "https://www.stkb.jp/shopdetail/000000002169",
+          "url": "https://t.co/uKUqZu4NVY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877086922960457848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876943403323154458",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShotenKobo: 帰郷した際に、シュナイダーコンポノンを使ってきました。\nシャープな写り。興味深いレンズです。\n\nSchneider-Kreuznach Componon-S 50mm F2.8 \"Mマウント改\"\nhttps://t.co/uKUqZu4NVY…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "conversation_id": "1877086922960457848",
+        "created_at": "2025-01-08T20:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T21:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877086922960457848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2814334224",
+              "start": 3,
+              "username": "ShotenKobo"
+            }
+          ],
+          "urls": [
+            {
+              "description": "/* 2画像並列 */ .image-container { display: flex; justify-content: space-between; max-width: 100%; margin-top: 1.5em; } .image-container img { width: calc(50% - 4px); /* 画像の幅を親要素の50%から余白分を引いた値に設定 */ box-sizing: border-box; margin-right: 4px; /* 画像の間に4pxのスペースを追加 */ } .image-container img:last-child { margin-right: 0; /* 最後の画像の余白をなくす */ } /* 2画像並列にテキストが必要な時、以下を追記 */ .image-wrapper { width: calc(50% - 4px); /* 画像と同じ幅に設定 */ text-align: left; /* テキストを中央揃え */ } .image-wrapper img { width: 100%; /* 画像の幅を親要素に合わせる */ box-sizing: border-box; } .image-wrapper p { margin-top: 8px; /* 画像とテキストの間に余白 */ font-size: 12px; /* テキストサイズを調整 */ color: #666; /* テキストカラーを設定 */ } /* 単体画像のスタイル（リンク付き）もしサンプルなど入れたい場合 */ .single-image-container { display: flex; justify-content: center; /* 中央寄せ */ max-width: 714px; margin-top: 1.5em; } .single-image-container a { width: 50%; /* リンクの幅を50%に設定 */ display: flex; /* Flexboxを有効化 */ } .single-image-container img { width: 100%; /* 画像をリンク内でフル幅に */ flex-grow: 1; box-sizing: border-b",
+              "display_url": "stkb.jp/shopdetail/000…",
+              "end": 137,
+              "expanded_url": "https://www.stkb.jp/shopdetail/000000002169",
+              "images": [
+                {
+                  "height": 1444,
+                  "url": "https://pbs.twimg.com/news_img/1876943447539486721/akPvvEeS?format=jpg&name=orig",
+                  "width": 1444
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1876943447539486721/akPvvEeS?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 114,
+              "status": 200,
+              "title": "Schneider-Kreuznach Componon-S 50mm F2.8 \"Mマウント改\" 【焦点工房オンラインストア｜数量限定】-焦点工房オンラインストア",
+              "unwound_url": "https://www.stkb.jp/shopdetail/000000002169",
+              "url": "https://t.co/uKUqZu4NVY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877086922960457848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876943403323154458",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShotenKobo: 帰郷した際に、シュナイダーコンポノンを使ってきました。\nシャープな写り。興味深いレンズです。\n\nSchneider-Kreuznach Componon-S 50mm F2.8 \"Mマウント改\"\nhttps://t.co/uKUqZu4NVY…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876942818633244672",
+            "3_1876942893241552897",
+            "3_1876942932521218048",
+            "3_1876943233584140288"
+          ]
+        },
+        "author_id": "2814334224",
+        "conversation_id": "1876943403323154458",
+        "created_at": "2025-01-08T10:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T11:45:21.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876943268195262868",
+          "1876943403323154458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "/* 2画像並列 */ .image-container { display: flex; justify-content: space-between; max-width: 100%; margin-top: 1.5em; } .image-container img { width: calc(50% - 4px); /* 画像の幅を親要素の50%から余白分を引いた値に設定 */ box-sizing: border-box; margin-right: 4px; /* 画像の間に4pxのスペースを追加 */ } .image-container img:last-child { margin-right: 0; /* 最後の画像の余白をなくす */ } /* 2画像並列にテキストが必要な時、以下を追記 */ .image-wrapper { width: calc(50% - 4px); /* 画像と同じ幅に設定 */ text-align: left; /* テキストを中央揃え */ } .image-wrapper img { width: 100%; /* 画像の幅を親要素に合わせる */ box-sizing: border-box; } .image-wrapper p { margin-top: 8px; /* 画像とテキストの間に余白 */ font-size: 12px; /* テキストサイズを調整 */ color: #666; /* テキストカラーを設定 */ } /* 単体画像のスタイル（リンク付き）もしサンプルなど入れたい場合 */ .single-image-container { display: flex; justify-content: center; /* 中央寄せ */ max-width: 714px; margin-top: 1.5em; } .single-image-container a { width: 50%; /* リンクの幅を50%に設定 */ display: flex; /* Flexboxを有効化 */ } .single-image-container img { width: 100%; /* 画像をリンク内でフル幅に */ flex-grow: 1; box-sizing: border-b",
+              "display_url": "stkb.jp/shopdetail/000…",
+              "end": 121,
+              "expanded_url": "https://www.stkb.jp/shopdetail/000000002169",
+              "images": [
+                {
+                  "height": 1444,
+                  "url": "https://pbs.twimg.com/news_img/1876943447539486721/akPvvEeS?format=jpg&name=orig",
+                  "width": 1444
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1876943447539486721/akPvvEeS?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 98,
+              "status": 200,
+              "title": "Schneider-Kreuznach Componon-S 50mm F2.8 \"Mマウント改\" 【焦点工房オンラインストア｜数量限定】-焦点工房オンラインストア",
+              "unwound_url": "https://www.stkb.jp/shopdetail/000000002169",
+              "url": "https://t.co/uKUqZu4NVY"
+            },
+            {
+              "description": "詳しくは投稿をご覧ください。",
+              "display_url": "stkb.co.jp/info/?page_id=…",
+              "end": 157,
+              "expanded_url": "https://stkb.co.jp/info/?page_id=37470",
+              "images": [
+                {
+                  "height": 270,
+                  "url": "https://pbs.twimg.com/news_img/1876943280513921024/_sdqL7BS?format=png&name=orig",
+                  "width": 270
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1876943280513921024/_sdqL7BS?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 134,
+              "status": 200,
+              "title": "Schneider-Kreuznach Componon-S 50mm F2.8 M",
+              "unwound_url": "https://stkb.co.jp/info/?page_id=37470",
+              "url": "https://t.co/YFzzNDnXhi"
+            },
+            {
+              "display_url": "pic.x.com/3OnCBeAOLN",
+              "end": 181,
+              "expanded_url": "https://x.com/ShotenKobo/status/1876943403323154458/photo/1",
+              "media_key": "3_1876942818633244672",
+              "start": 158,
+              "url": "https://t.co/3OnCBeAOLN"
+            },
+            {
+              "display_url": "pic.x.com/3OnCBeAOLN",
+              "end": 181,
+              "expanded_url": "https://x.com/ShotenKobo/status/1876943403323154458/photo/1",
+              "media_key": "3_1876942893241552897",
+              "start": 158,
+              "url": "https://t.co/3OnCBeAOLN"
+            },
+            {
+              "display_url": "pic.x.com/3OnCBeAOLN",
+              "end": 181,
+              "expanded_url": "https://x.com/ShotenKobo/status/1876943403323154458/photo/1",
+              "media_key": "3_1876942932521218048",
+              "start": 158,
+              "url": "https://t.co/3OnCBeAOLN"
+            },
+            {
+              "display_url": "pic.x.com/3OnCBeAOLN",
+              "end": 181,
+              "expanded_url": "https://x.com/ShotenKobo/status/1876943403323154458/photo/1",
+              "media_key": "3_1876943233584140288",
+              "start": 158,
+              "url": "https://t.co/3OnCBeAOLN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876943403323154458",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2322,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "帰郷した際に、シュナイダーコンポノンを使ってきました。\nシャープな写り。興味深いレンズです。\n\nSchneider-Kreuznach Componon-S 50mm F2.8 \"Mマウント改\"\nhttps://t.co/uKUqZu4NVY\n\nサンプル加えました。\nhttps://t.co/YFzzNDnXhi https://t.co/3OnCBeAOLN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid💾lain📷膠片攝影/相机维修🚬大烟鬼🔪刃物收藏⌚️入门表匠⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "_kagenone"
+              },
+              {
+                "end": 137,
+                "start": 132,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1762895453220430335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7446,
+          "following_count": 4449,
+          "like_count": 12207,
+          "listed_count": 19,
+          "media_count": 2095,
+          "tweet_count": 14695
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-17T06:39:59.000Z",
+        "description": "マウントアダプターやカメラレンズ、アクセサリーなど、カメラ用品の輸入販売を行なっています。 新たなマウントアダプター開発への協力も行なっており、日本のカメラ文化への貢献を果たしていきたいと考えています。\n\nYoutube：https://t.co/cdHY9JahFO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@shotenkobo1270",
+                "end": 134,
+                "expanded_url": "https://www.youtube.com/@shotenkobo1270",
+                "start": 111,
+                "url": "https://t.co/cdHY9JahFO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stkb.jp",
+                "end": 23,
+                "expanded_url": "http://www.stkb.jp",
+                "start": 0,
+                "url": "https://t.co/GUZZbYLWl4"
+              }
+            ]
+          }
+        },
+        "id": "2814334224",
+        "location": "〒465-0012 愛知県名古屋市名東区文教台2-203-2",
+        "name": "焦点工房 〜カメラと写真の愉しみ・喜びをもっと身近に〜",
+        "pinned_tweet_id": "1872584237033099339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/512131579125043200/RilkYQ17_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12572,
+          "following_count": 427,
+          "like_count": 3091,
+          "listed_count": 185,
+          "media_count": 2494,
+          "tweet_count": 5003
+        },
+        "url": "https://t.co/GUZZbYLWl4",
+        "username": "ShotenKobo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Hospitality",
+          "id": "864938653063159808",
+          "name": "Hospitality"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Hotel/Motel",
+          "id": "864939492947275776",
+          "name": "Hotel/Motel"
+        }
+      }
+    ],
+    "conversation_id": "2070483032688259399",
+    "created_at": "2026-06-26T12:23:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T13:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070483032688259399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1460606892934193162",
+          "start": 3,
+          "username": "POYOTA_KOKI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070483032688259399",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070441300294578630",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @POYOTA_KOKI: フランク・ロイド・ライト氏がデザインした旧帝国ホテル用の灰皿… だったらいいなぁと思っているガラスの塊。\n改めて365nmのUVライトで照射したら蛍光反応強し！\n同じものを３つ持っているけど他の２つは殆ど蛍光反応なし。\n刻み模様も手作り感十分、…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27378,
+        "height": 1920,
+        "media_key": "13_2070440801331818496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070440801331818496/img/jeCKY2mCik9SeSwQ.jpg",
+        "public_metrics": {
+          "view_count": 56
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070440801331818496/vid/avc1/320x568/BLHQTjJ3yEPqEAWV.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070440801331818496/vid/avc1/480x852/1vH2gJ69RWeWVBTF.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070440801331818496/vid/avc1/720x1280/a3_kKUDoYt_bFoXe.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070440801331818496/pl/wun6ky1odNpjoLE2.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 723,
+        "media_key": "3_2070440893577076736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuvBeYaoAAQzp_.jpg",
+        "width": 887
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hospitality",
+              "id": "864938653063159808",
+              "name": "Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Hotel/Motel",
+              "id": "864939492947275776",
+              "name": "Hotel/Motel"
+            }
+          }
+        ],
+        "conversation_id": "2070483032688259399",
+        "created_at": "2026-06-26T12:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070483032688259399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1460606892934193162",
+              "start": 3,
+              "username": "POYOTA_KOKI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070483032688259399",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070441300294578630",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @POYOTA_KOKI: フランク・ロイド・ライト氏がデザインした旧帝国ホテル用の灰皿… だったらいいなぁと思っているガラスの塊。\n改めて365nmのUVライトで照射したら蛍光反応強し！\n同じものを３つ持っているけど他の２つは殆ど蛍光反応なし。\n刻み模様も手作り感十分、…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070440801331818496",
+            "3_2070440893577076736"
+          ]
+        },
+        "author_id": "1460606892934193162",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hospitality",
+              "id": "864938653063159808",
+              "name": "Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Hotel/Motel",
+              "id": "864939492947275776",
+              "name": "Hotel/Motel"
+            }
+          }
+        ],
+        "conversation_id": "2070441300294578630",
+        "created_at": "2026-06-26T09:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070441300294578630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uljs4qpopm",
+              "end": 169,
+              "expanded_url": "https://x.com/POYOTA_KOKI/status/2070441300294578630/video/1",
+              "media_key": "13_2070440801331818496",
+              "start": 146,
+              "url": "https://t.co/uljs4qpopm"
+            },
+            {
+              "display_url": "pic.x.com/uljs4qpopm",
+              "end": 169,
+              "expanded_url": "https://x.com/POYOTA_KOKI/status/2070441300294578630/video/1",
+              "media_key": "3_2070440893577076736",
+              "start": 146,
+              "url": "https://t.co/uljs4qpopm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070441300294578630",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "フランク・ロイド・ライト氏がデザインした旧帝国ホテル用の灰皿… だったらいいなぁと思っているガラスの塊。\n改めて365nmのUVライトで照射したら蛍光反応強し！\n同じものを３つ持っているけど他の２つは殆ど蛍光反応なし。\n刻み模様も手作り感十分、個体差もあって、中々古い時代のガラスは面白い！ https://t.co/uljs4qpopm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病多病病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "_kagenone"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8680,
+          "following_count": 6643,
+          "like_count": 15656,
+          "listed_count": 17,
+          "media_count": 2995,
+          "tweet_count": 21821
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-16T13:53:42.000Z",
+        "description": "POYOTA (@Mikuroid)のカメラネタが中心な別アカウントです。\n中古カメラ買ったり撮ったり分解したりと色々と彷徨っています。\nあとアニメ、模型、ガジェットいろいろ思いついたことを呟きます。無言フォローOKです。\n↓放置気味のブログ「カメラの箱庭」はこちら",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "Mikuroid"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "latitune.seesaa.net",
+                "end": 23,
+                "expanded_url": "http://latitune.seesaa.net/",
+                "start": 0,
+                "url": "https://t.co/WNE2X7fxau"
+              }
+            ]
+          }
+        },
+        "id": "1460606892934193162",
+        "name": "POYOTA光機",
+        "pinned_tweet_id": "1725521643685236928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001153967632605184/FQVj-kh4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 287,
+          "like_count": 11765,
+          "listed_count": 0,
+          "media_count": 1315,
+          "tweet_count": 3354
+        },
+        "url": "https://t.co/WNE2X7fxau",
+        "username": "POYOTA_KOKI",
+        "verified": false
+      }
+    ]
+  }
+}
