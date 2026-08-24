@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Design",
+          "id": "847872720331079681",
+          "name": "Design"
+        }
+      }
+    ],
+    "conversation_id": "2088790978287239321",
+    "created_at": "2026-08-16T00:52:31.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T01:52:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088790978287239321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "82194828",
+          "start": 3,
+          "username": "julihespenheide"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088790978287239321",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088637085301305806",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @julihespenheide: working fully (except that one dude, last row. fixing it as i write this) and i love everything about: the aesthetic,…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21737,
+        "height": 1920,
+        "media_key": "13_2088636516654292992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088636516654292992/img/ONCtwpbkihkTHosp.jpg",
+        "public_metrics": {
+          "view_count": 10644
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088636516654292992/vid/avc1/320x568/wEjWnmFK_GkfXwsU.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088636516654292992/vid/avc1/480x852/fRHxLqejwGGKs8gM.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088636516654292992/vid/avc1/720x1280/TTu0H2Oykj7Y22Q2.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088636516654292992/pl/Zl7nef2J4dfCb6x0.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Design",
+              "id": "847872720331079681",
+              "name": "Design"
+            }
+          }
+        ],
+        "conversation_id": "2088790978287239321",
+        "created_at": "2026-08-16T00:52:31.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T01:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088790978287239321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "82194828",
+              "start": 3,
+              "username": "julihespenheide"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088790978287239321",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088637085301305806",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @julihespenheide: working fully (except that one dude, last row. fixing it as i write this) and i love everything about: the aesthetic,…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088636516654292992"
+          ]
+        },
+        "author_id": "82194828",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Design",
+              "id": "847872720331079681",
+              "name": "Design"
+            }
+          }
+        ],
+        "conversation_id": "2088637085301305806",
+        "created_at": "2026-08-15T14:41:00.000Z",
+        "display_text_range": [
+          0,
+          274
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T15:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088637085301305806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jKeU6C0s9i",
+              "end": 298,
+              "expanded_url": "https://x.com/julihespenheide/status/2088637085301305806/video/1",
+              "media_key": "13_2088636516654292992",
+              "start": 275,
+              "url": "https://t.co/jKeU6C0s9i"
+            },
+            {
+              "display_url": "x.com/julihespenheid…",
+              "end": 322,
+              "expanded_url": "https://twitter.com/julihespenheide/status/2088286083284885581",
+              "start": 299,
+              "url": "https://t.co/YlHVPn7tCe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088637085301305806",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2088636516654292992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 29836,
+          "like_count": 351,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088286083284885581",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "working fully (except that one dude, last row. fixing it as i write this) and i love everything about: the aesthetic, its weight (it's glass, so it's got some heft to it) and just running on 5v. low power, too!\n\nnow to some programming and this baby is ready for TAKEOVER 8! https://t.co/jKeU6C0s9i https://t.co/YlHVPn7tCe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病多病病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推×:@_kagenone❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 116,
+                "username": "_kagenone"
+              },
+              {
+                "end": 143,
+                "start": 128,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "is_identity_verified": false,
+        "location": "中国 河北省 邯郸市",
+        "most_recent_tweet_id": "2088790978287239321",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/878794367103676416/1784999152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9054,
+          "following_count": 6778,
+          "like_count": 16161,
+          "listed_count": 18,
+          "media_count": 3076,
+          "tweet_count": 22728
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-10-13T21:18:18.000Z",
+        "description": "Creative Technologist, Media Arts\n\nhttps://t.co/JlVjJsdSNA\nhttps://t.co/KYqAOcEhOh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "raster.art/artist/julian-…",
+                "end": 58,
+                "expanded_url": "https://www.raster.art/artist/julian-hespenheide",
+                "start": 35,
+                "url": "https://t.co/JlVjJsdSNA"
+              },
+              {
+                "display_url": "links.julian-h.de",
+                "end": 82,
+                "expanded_url": "http://links.julian-h.de",
+                "start": 59,
+                "url": "https://t.co/KYqAOcEhOh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "julian-h.de",
+                "end": 23,
+                "expanded_url": "https://julian-h.de",
+                "start": 0,
+                "url": "https://t.co/onXV2FpB2B"
+              }
+            ]
+          }
+        },
+        "id": "82194828",
+        "is_identity_verified": false,
+        "location": "Berlin",
+        "most_recent_tweet_id": "2088731896280756665",
+        "name": "Julian Hespenheide",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/82194828/1674075881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1551587153792180226/RBxxVoGm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3528,
+          "following_count": 624,
+          "like_count": 11161,
+          "listed_count": 78,
+          "media_count": 1829,
+          "tweet_count": 4655
+        },
+        "url": "https://t.co/onXV2FpB2B",
+        "username": "julihespenheide",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

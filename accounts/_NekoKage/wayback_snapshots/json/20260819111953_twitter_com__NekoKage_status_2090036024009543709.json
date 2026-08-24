@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "conversation_id": "2085917248007381299",
+    "created_at": "2026-08-19T11:19:53.000Z",
+    "display_text_range": [
+      38,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T12:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090036024009543709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1905142973702033408",
+          "start": 0,
+          "username": "xenoruidismo"
+        },
+        {
+          "end": 26,
+          "id": "1836175469680406528",
+          "start": 14,
+          "username": "coolboi_123"
+        },
+        {
+          "end": 37,
+          "id": "1793588955902050304",
+          "start": 27,
+          "username": "_kagenone"
+        },
+        {
+          "end": 56,
+          "id": "2090034196496723968",
+          "start": 46,
+          "username": "Kage_Spec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090036024009543709",
+    "in_reply_to_user_id": "878794367103676416",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086065708220510504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xenoruidismo @coolboi_123 @_kagenone now its @Kage_Spec"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [_kagenone].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "_kagenone",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "_kagenone"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "conversation_id": "2085917248007381299",
+        "created_at": "2026-08-19T11:19:53.000Z",
+        "display_text_range": [
+          38,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T12:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090036024009543709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905142973702033408",
+              "start": 0,
+              "username": "xenoruidismo"
+            },
+            {
+              "end": 26,
+              "id": "1836175469680406528",
+              "start": 14,
+              "username": "coolboi_123"
+            },
+            {
+              "end": 37,
+              "id": "1793588955902050304",
+              "start": 27,
+              "username": "_kagenone"
+            },
+            {
+              "end": 56,
+              "id": "2090034196496723968",
+              "start": 46,
+              "username": "Kage_Spec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090036024009543709",
+        "in_reply_to_user_id": "878794367103676416",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086065708220510504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xenoruidismo @coolboi_123 @_kagenone now its @Kage_Spec"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "conversation_id": "2085917248007381299",
+        "created_at": "2026-08-08T12:23:16.000Z",
+        "display_text_range": [
+          27,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T13:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086065708220510504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905142973702033408",
+              "start": 0,
+              "username": "xenoruidismo"
+            },
+            {
+              "end": 26,
+              "id": "1836175469680406528",
+              "start": 14,
+              "username": "coolboi_123"
+            },
+            {
+              "end": 49,
+              "id": "1793588955902050304",
+              "start": 39,
+              "username": "_kagenone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086065708220510504",
+        "in_reply_to_user_id": "1905142973702033408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 12036,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085925236235526288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xenoruidismo @coolboi_123 这个账号被封禁了 现在是@_kagenone"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病癌症病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_Kage_Spec❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "_Kage_Spec"
+              },
+              {
+                "end": 143,
+                "start": 128,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "is_identity_verified": false,
+        "location": "中国 河北省 邯郸市",
+        "most_recent_tweet_id": "2090036024009543709",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/878794367103676416/1784999152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9041,
+          "following_count": 6782,
+          "like_count": 16224,
+          "listed_count": 18,
+          "media_count": 3084,
+          "tweet_count": 22783
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-27T06:21:01.000Z",
+        "description": "ㅤ      ㅤ   \n෧  #leileitwt   𐂯   🇵🇸\nㅤㅤㅤㅤㅤㅤㅤㅤ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 15,
+                "tag": "leileitwt"
+              }
+            ]
+          }
+        },
+        "id": "1905142973702033408",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090005740635275764",
+        "name": "𑁯miau lvs leilei ഒ",
+        "pinned_tweet_id": "1922895979893641323",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1905142973702033408/1787061458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089713331749695488/V3b3b1uP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 140,
+          "like_count": 21040,
+          "listed_count": 5,
+          "media_count": 1422,
+          "tweet_count": 10524
+        },
+        "url": "",
+        "username": "xenoruidismo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T22:49:02.000Z",
+        "description": "joven sensible moe | estudiante de japones, me gustan los caracteres chinos 🇦🇷 |２年前から日本語を勉強している！2nd: @MangoBlud_6741",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 101,
+                "username": "MangoBlud_6741"
+              }
+            ]
+          }
+        },
+        "id": "1836175469680406528",
+        "is_identity_verified": false,
+        "location": "#SeñorGatotwt",
+        "most_recent_tweet_id": "2089939260484780388",
+        "name": "señor gato",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836175469680406528/1771621686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065959855039320064/ix_4u4QB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 414,
+          "like_count": 98588,
+          "listed_count": 7,
+          "media_count": 1212,
+          "tweet_count": 17215
+        },
+        "url": "",
+        "username": "coolboi_123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T11:13:22.000Z",
+        "description": "🏳️‍⚧️She/They🌏Eng/中文🩸💊shtwt/edtwt/drugtwt🦿Body Intergrity Identity Disorder #BIID🦻🏻🦯Hearing/Visual Impairment💕bipolar disorder🐈main account:@_NekoKage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 81,
+                "start": 76,
+                "tag": "BIID"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 150,
+                "start": 140,
+                "username": "_NekoKage"
+              }
+            ]
+          }
+        },
+        "id": "2090034196496723968",
+        "is_identity_verified": false,
+        "name": "Kage",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090034196496723968/1787138078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090034600370450433/2jsuc_Fo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "url": "",
+        "username": "Kage_Spec",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

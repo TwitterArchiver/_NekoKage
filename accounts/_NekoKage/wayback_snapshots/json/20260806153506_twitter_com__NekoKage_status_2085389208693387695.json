@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "conversation_id": "2081555862443999289",
+    "created_at": "2026-08-06T15:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T16:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085389208693387695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1894288961771900933",
+          "start": 0,
+          "username": "yangnaisam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085389208693387695",
+    "in_reply_to_user_id": "1894288961771900933",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081555862443999289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yangnaisam 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2220,
+        "media_key": "3_2081555850808938496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOMsBIuaUAAZYTe.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2220,
+        "media_key": "3_2081555857939349504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOMsBjSbwAAxlVI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1708,
+        "media_key": "3_2081555854051151872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOMsBUzakAAHiyi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "conversation_id": "2081555862443999289",
+        "created_at": "2026-08-06T15:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T16:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085389208693387695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1894288961771900933",
+              "start": 0,
+              "username": "yangnaisam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085389208693387695",
+        "in_reply_to_user_id": "1894288961771900933",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081555862443999289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangnaisam 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081555850808938496",
+            "3_2081555857939349504",
+            "3_2081555854051151872"
+          ]
+        },
+        "author_id": "1894288961771900933",
+        "conversation_id": "2081555862443999289",
+        "created_at": "2026-07-27T01:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T02:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081555862443999289"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "mtf"
+            },
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "男娘"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "xyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IKbpmNpsjl",
+              "end": 83,
+              "expanded_url": "https://x.com/yangnaisam/status/2081555862443999289/photo/1",
+              "media_key": "3_2081555850808938496",
+              "start": 60,
+              "url": "https://t.co/IKbpmNpsjl"
+            },
+            {
+              "display_url": "pic.x.com/IKbpmNpsjl",
+              "end": 83,
+              "expanded_url": "https://x.com/yangnaisam/status/2081555862443999289/photo/1",
+              "media_key": "3_2081555857939349504",
+              "start": 60,
+              "url": "https://t.co/IKbpmNpsjl"
+            },
+            {
+              "display_url": "pic.x.com/IKbpmNpsjl",
+              "end": 83,
+              "expanded_url": "https://x.com/yangnaisam/status/2081555862443999289/photo/1",
+              "media_key": "3_2081555854051151872",
+              "start": 60,
+              "url": "https://t.co/IKbpmNpsjl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081555862443999289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 25232,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我姥姥陪着我去买内衣和内裤 阿巴 店员姐姐问我该上高中了吧（其实我大一了已经）被叫小美女了）#mtf #男娘 #xyn https://t.co/IKbpmNpsjl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病多病病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "_kagenone"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8744,
+          "following_count": 6733,
+          "like_count": 16104,
+          "listed_count": 17,
+          "media_count": 3065,
+          "tweet_count": 22574
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T07:31:35.000Z",
+        "description": "166cm 56.1kg /// 喜欢同类贴的/无精神问题丨2007.1023 小可爱  持证含糖丨🍥🏳‍⚧ 丨需要55 基础过🚪哦 基础🚪不可涩黄哦丨（先天体质雌高雄低性腺发育不良）半家长党 清纯高中生 咱的好闺蜜妹妹  @zhu99421",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "zhu99421"
+              }
+            ]
+          }
+        },
+        "id": "1894288961771900933",
+        "location": "🚪55 不过🚪勿扰",
+        "name": "小奈奈子酱Sam🍥🏳‍⚧",
+        "pinned_tweet_id": "2011823995071709318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969634991492775938/enytBYzz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3318,
+          "following_count": 57,
+          "like_count": 8,
+          "listed_count": 8,
+          "media_count": 109,
+          "tweet_count": 227
+        },
+        "url": "",
+        "username": "yangnaisam",
+        "verified": false
+      }
+    ]
+  }
+}
