@@ -1,0 +1,542 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094434378667675648"
+      ],
+      "media_source_tweet_id": [
+        "2094434387056295975"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+          "id": "1010244637770985472",
+          "name": "Neon Genesis Evangelion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+          "id": "1010244637770985472",
+          "name": "Neon Genesis Evangelion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2094777023285915803",
+    "created_at": "2026-09-01T13:18:56.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T14:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094777023285915803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1308437205325471744",
+          "start": 3,
+          "username": "janjan_510"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kokv90Nw6T",
+          "end": 70,
+          "expanded_url": "https://x.com/janjan_510/status/2094434387056295975/photo/1",
+          "media_key": "3_2094434378667675648",
+          "start": 47,
+          "url": "https://t.co/Kokv90Nw6T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094777023285915803",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2094434378667675648"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1777
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094434387056295975",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @janjan_510: うちの綾波レイ、閉店後電子タバコ吸ってくるんで撤去しようかな https://t.co/Kokv90Nw6T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2094434378667675648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDs-HnaUAA0eT4.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094434378667675648"
+          ],
+          "media_source_tweet_id": [
+            "2094434387056295975"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2094777023285915803",
+        "created_at": "2026-09-01T13:18:56.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T14:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094777023285915803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1308437205325471744",
+              "start": 3,
+              "username": "janjan_510"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kokv90Nw6T",
+              "end": 70,
+              "expanded_url": "https://x.com/janjan_510/status/2094434387056295975/photo/1",
+              "media_key": "3_2094434378667675648",
+              "start": 47,
+              "url": "https://t.co/Kokv90Nw6T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094777023285915803",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094434378667675648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1777
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094434387056295975",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @janjan_510: うちの綾波レイ、閉店後電子タバコ吸ってくるんで撤去しようかな https://t.co/Kokv90Nw6T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094434378667675648"
+          ]
+        },
+        "author_id": "1308437205325471744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2094434387056295975",
+        "created_at": "2026-08-31T14:37:25.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094434387056295975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kokv90Nw6T",
+              "end": 54,
+              "expanded_url": "https://x.com/janjan_510/status/2094434387056295975/photo/1",
+              "media_key": "3_2094434378667675648",
+              "start": 31,
+              "url": "https://t.co/Kokv90Nw6T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094434387056295975",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094434378667675648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1514,
+          "impression_count": 897395,
+          "like_count": 22113,
+          "quote_count": 113,
+          "reply_count": 34,
+          "retweet_count": 1778
+        },
+        "reply_settings": "everyone",
+        "text": "うちの綾波レイ、閉店後電子タバコ吸ってくるんで撤去しようかな https://t.co/Kokv90Nw6T"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病癌症病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@Kage_Spec❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "Kage_Spec"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "is_identity_verified": false,
+        "location": "中国 河北省 邯郸市",
+        "most_recent_tweet_id": "2094777023285915803",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/878794367103676416/1784999152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9061,
+          "following_count": 6810,
+          "like_count": 16428,
+          "listed_count": 19,
+          "media_count": 3121,
+          "tweet_count": 23011
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-22T16:05:27.000Z",
+        "description": "ジャンジャン高島平駅前店のスロット店長！LINEは https://t.co/4jzr2zNTRd B'zファン。スト6好きの30代スロット店長✌パチンコ店界隈で一番強いザンギエフ目指してます！ 最高1750※DMは返信できません。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lin.ee/0CzGkd3",
+                "end": 49,
+                "expanded_url": "https://lin.ee/0CzGkd3",
+                "start": 26,
+                "url": "https://t.co/4jzr2zNTRd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/user/janjantak…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/user/janjantakashima",
+                "start": 0,
+                "url": "https://t.co/7fuTKodyyB"
+              }
+            ]
+          }
+        },
+        "id": "1308437205325471744",
+        "is_identity_verified": false,
+        "location": "東京都板橋区高島平8-4-1",
+        "most_recent_tweet_id": "2094734598567809207",
+        "name": "スロット店長@なんちゃん。ジャンジャン高島平駅前店",
+        "pinned_tweet_id": "2094023870089146380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1308437205325471744/1600876714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1527918769007230976/lOiRJ4IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8103,
+          "following_count": 7875,
+          "like_count": 63030,
+          "listed_count": 34,
+          "media_count": 2585,
+          "tweet_count": 7619
+        },
+        "url": "https://t.co/7fuTKodyyB",
+        "username": "janjan_510",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
