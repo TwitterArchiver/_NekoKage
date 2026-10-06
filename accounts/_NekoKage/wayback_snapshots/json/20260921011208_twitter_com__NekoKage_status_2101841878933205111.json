@@ -1,0 +1,484 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2101710462291185664"
+      ],
+      "media_source_tweet_id": [
+        "2101710481576640756"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1676746772255850496",
+          "name": "Threads (Meta)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1453808088054525953",
+          "name": "Meta"
+        }
+      }
+    ],
+    "conversation_id": "2101841878933205111",
+    "created_at": "2026-09-21T01:12:08.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T02:12:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101841878933205111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1067379237722689538",
+          "start": 3,
+          "username": "space_jm_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S5Sv5uVOif",
+          "end": 50,
+          "expanded_url": "https://x.com/space_jm_/status/2101710481576640756/video/1",
+          "media_key": "13_2101710462291185664",
+          "start": 27,
+          "url": "https://t.co/S5Sv5uVOif"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101841878933205111",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2101710462291185664"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101710481576640756",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @space_jm_: Threads gem https://t.co/S5Sv5uVOif"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27000,
+        "height": 360,
+        "media_key": "13_2101710462291185664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101710462291185664/img/keFVtygA0Aaw6G_n.jpg",
+        "public_metrics": {
+          "view_count": 268
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101710462291185664/vid/avc1/476x270/boJhh1RLsz4zfgHd.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101710462291185664/vid/avc1/636x360/K_kvO3fh6o3Pt6OW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101710462291185664/pl/RqJ_9IFsiJCPcSwi.m3u8"
+          }
+        ],
+        "width": 636
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101710462291185664"
+          ],
+          "media_source_tweet_id": [
+            "2101710481576640756"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2101841878933205111",
+        "created_at": "2026-09-21T01:12:08.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T02:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101841878933205111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1067379237722689538",
+              "start": 3,
+              "username": "space_jm_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S5Sv5uVOif",
+              "end": 50,
+              "expanded_url": "https://x.com/space_jm_/status/2101710481576640756/video/1",
+              "media_key": "13_2101710462291185664",
+              "start": 27,
+              "url": "https://t.co/S5Sv5uVOif"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101841878933205111",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2101710462291185664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101710481576640756",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @space_jm_: Threads gem https://t.co/S5Sv5uVOif"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101710462291185664"
+          ]
+        },
+        "author_id": "1067379237722689538",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2101710481576640756",
+        "created_at": "2026-09-20T16:30:01.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T17:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101710481576640756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S5Sv5uVOif",
+              "end": 35,
+              "expanded_url": "https://x.com/space_jm_/status/2101710481576640756/video/1",
+              "media_key": "13_2101710462291185664",
+              "start": 12,
+              "url": "https://t.co/S5Sv5uVOif"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101710481576640756",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2101710462291185664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 523,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Threads gem https://t.co/S5Sv5uVOif"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病癌症病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@Kage_Spec",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "Kage_Spec"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "is_identity_verified": false,
+        "location": "中国 河北省 邯郸市",
+        "most_recent_tweet_id": "2101841878933205111",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/878794367103676416/1784999152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9085,
+          "following_count": 6805,
+          "like_count": 16572,
+          "listed_count": 20,
+          "media_count": 3151,
+          "tweet_count": 23257
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-11-27T11:26:56.000Z",
+        "description": "24 | 🇸🇮🇪🇺 | 🚀✨✈️ | ⚜️🏕️✌🏼\n\nCopenhagen Suborbitals are awesome 🧡 Don't take me too seriously 😉 priv: @jmsalt24 🖕🏼 fuck chat control",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 100,
+                "username": "jmsalt24"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "perigeeaero.shop",
+                "end": 23,
+                "expanded_url": "http://perigeeaero.shop",
+                "start": 0,
+                "url": "https://t.co/2eRjhU0Pfl"
+              }
+            ]
+          }
+        },
+        "id": "1067379237722689538",
+        "is_identity_verified": false,
+        "location": "Arcadia Planitia",
+        "most_recent_tweet_id": "2101812439360655786",
+        "name": "✨Space JM🚀",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067379237722689538/1779840510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059426081417883648/5knDJ9kT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 1608,
+          "like_count": 172538,
+          "listed_count": 11,
+          "media_count": 5649,
+          "tweet_count": 50766
+        },
+        "url": "https://t.co/2eRjhU0Pfl",
+        "username": "space_jm_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,714 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2098962740211515392"
+      ],
+      "media_source_tweet_id": [
+        "2098962834554003727"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2099645323249594790",
+    "created_at": "2026-09-14T23:43:49.000Z",
+    "display_text_range": [
+      0,
+      82
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T00:43:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099645323249594790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "869300057492905984",
+          "start": 3,
+          "username": "AnxiousHolly"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K4XMj49lzz",
+          "end": 82,
+          "expanded_url": "https://x.com/AnxiousHolly/status/2098962834554003727/video/1",
+          "media_key": "13_2098962740211515392",
+          "start": 59,
+          "url": "https://t.co/K4XMj49lzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099645323249594790",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2098962740211515392"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 453
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098962834554003727",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AnxiousHolly: this video makes me want an iPhone duo 😭 https://t.co/K4XMj49lzz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22666,
+        "height": 2230,
+        "media_key": "13_2098962740211515392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098962740211515392/img/ueyjHSWzoJO2lJFc.jpg",
+        "public_metrics": {
+          "view_count": 7402448
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098962740211515392/pl/pTse9N7aRQ0V3NPU.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098962740211515392/vid/avc1/720x1216/jU1jkysHynGeQS6x.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098962740211515392/vid/avc1/1320x2230/xnyBQOoG-lyofGFM.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098962740211515392/vid/avc1/320x540/mGNg-raPErZ9cY0a.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098962740211515392/vid/avc1/480x810/LI5o8v7QaI8jPG9z.mp4"
+          }
+        ],
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098962740211515392"
+          ],
+          "media_source_tweet_id": [
+            "2098962834554003727"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2099645323249594790",
+        "created_at": "2026-09-14T23:43:49.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T00:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099645323249594790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "869300057492905984",
+              "start": 3,
+              "username": "AnxiousHolly"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K4XMj49lzz",
+              "end": 82,
+              "expanded_url": "https://x.com/AnxiousHolly/status/2098962834554003727/video/1",
+              "media_key": "13_2098962740211515392",
+              "start": 59,
+              "url": "https://t.co/K4XMj49lzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099645323249594790",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2098962740211515392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 453
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098962834554003727",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AnxiousHolly: this video makes me want an iPhone duo 😭 https://t.co/K4XMj49lzz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098962740211515392"
+          ]
+        },
+        "author_id": "869300057492905984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2098962834554003727",
+        "created_at": "2026-09-13T02:31:51.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T03:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098962834554003727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K4XMj49lzz",
+              "end": 64,
+              "expanded_url": "https://x.com/AnxiousHolly/status/2098962834554003727/video/1",
+              "media_key": "13_2098962740211515392",
+              "start": 41,
+              "url": "https://t.co/K4XMj49lzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098962834554003727",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2098962740211515392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2678,
+          "impression_count": 25258817,
+          "like_count": 12455,
+          "quote_count": 507,
+          "reply_count": 374,
+          "retweet_count": 454
+        },
+        "reply_settings": "everyone",
+        "text": "this video makes me want an iPhone duo 😭 https://t.co/K4XMj49lzz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病癌症病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@Kage_Spec",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "Kage_Spec"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "is_identity_verified": false,
+        "location": "中国 河北省 邯郸市",
+        "most_recent_tweet_id": "2099645323249594790",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/878794367103676416/1784999152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9083,
+          "following_count": 6807,
+          "like_count": 16516,
+          "listed_count": 19,
+          "media_count": 3140,
+          "tweet_count": 23148
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-05-29T21:10:59.000Z",
+        "description": "Fan of iOS & iPhone & Samsung and Android also Pixel | mobile photography, a tech enthusiast ☕️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@anxiousholly1…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@anxiousholly1?si=Jx7LObvpDS1-0NQS",
+                "start": 0,
+                "url": "https://t.co/PormjBQ3rZ"
+              }
+            ]
+          }
+        },
+        "id": "869300057492905984",
+        "is_identity_verified": true,
+        "location": "United Kingdom",
+        "most_recent_tweet_id": "2099633055702855883",
+        "name": "Holly - I like tech",
+        "pinned_tweet_id": "2076735097701605441",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/869300057492905984/1752747429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611755694071373825/Lpdk9B5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47689,
+          "following_count": 357,
+          "like_count": 83224,
+          "listed_count": 157,
+          "media_count": 10123,
+          "tweet_count": 46476
+        },
+        "url": "https://t.co/PormjBQ3rZ",
+        "username": "AnxiousHolly",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

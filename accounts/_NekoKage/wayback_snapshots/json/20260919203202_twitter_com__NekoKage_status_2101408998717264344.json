@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "George MacKay",
+          "id": "950439591189688320",
+          "name": "George MacKay"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "George MacKay",
+          "id": "950439591189688320",
+          "name": "George MacKay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "George MacKay",
+          "id": "950439591189688320",
+          "name": "George MacKay"
+        }
+      }
+    ],
+    "conversation_id": "2101408998717264344",
+    "created_at": "2026-09-19T20:32:02.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T21:32:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101408998717264344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1569409963990351874",
+          "start": 3,
+          "username": "Argenpoirot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101408998717264344",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1511
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100810828047954368",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Argenpoirot: Durante la filmacion de \"1917\", George MacKay choco accidentalmente con dos extras, el director decidió dejar las tomas po…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57421,
+        "height": 640,
+        "media_key": "13_2100810799799222272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100810799799222272/img/zSGvjY7gGhoqAHYG.jpg",
+        "public_metrics": {
+          "view_count": 1157479
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100810799799222272/vid/avc1/320x320/QNtsKmMEBPihQ1fX.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100810799799222272/vid/avc1/540x540/M1X1kwaYTaAVCgVv.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100810799799222272/vid/avc1/640x640/p46Nkf8zI_tt9tZn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100810799799222272/pl/MMcbMwKmfT9w3Y0C.m3u8?v=cfc"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "George MacKay",
+              "id": "950439591189688320",
+              "name": "George MacKay"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "George MacKay",
+              "id": "950439591189688320",
+              "name": "George MacKay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "George MacKay",
+              "id": "950439591189688320",
+              "name": "George MacKay"
+            }
+          }
+        ],
+        "conversation_id": "2101408998717264344",
+        "created_at": "2026-09-19T20:32:02.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T21:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101408998717264344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1569409963990351874",
+              "start": 3,
+              "username": "Argenpoirot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101408998717264344",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1511
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100810828047954368",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Argenpoirot: Durante la filmacion de \"1917\", George MacKay choco accidentalmente con dos extras, el director decidió dejar las tomas po…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100810799799222272"
+          ]
+        },
+        "author_id": "1569409963990351874",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "George MacKay",
+              "id": "950439591189688320",
+              "name": "George MacKay"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "George MacKay",
+              "id": "950439591189688320",
+              "name": "George MacKay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "George MacKay",
+              "id": "950439591189688320",
+              "name": "George MacKay"
+            }
+          }
+        ],
+        "conversation_id": "2100810828047954368",
+        "created_at": "2026-09-18T04:55:07.000Z",
+        "display_text_range": [
+          0,
+          269
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T05:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100810828047954368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ffnEmYHfNq",
+              "end": 293,
+              "expanded_url": "https://x.com/Argenpoirot/status/2100810828047954368/video/1",
+              "media_key": "13_2100810799799222272",
+              "start": 270,
+              "url": "https://t.co/ffnEmYHfNq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100810828047954368",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "13_2100810799799222272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2217,
+          "impression_count": 1740136,
+          "like_count": 27036,
+          "quote_count": 51,
+          "reply_count": 86,
+          "retweet_count": 1511
+        },
+        "reply_settings": "everyone",
+        "text": "Durante la filmacion de \"1917\", George MacKay choco accidentalmente con dos extras, el director decidió dejar las tomas porque era muy costoso repetirlas, requerían una gran producción. \n\nTermino siendo una decisión más que acertada, le dio un realismo único a la toma. https://t.co/ffnEmYHfNq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病癌症病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@Kage_Spec",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "Kage_Spec"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "is_identity_verified": false,
+        "location": "中国 河北省 邯郸市",
+        "most_recent_tweet_id": "2101408998717264344",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/878794367103676416/1784999152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9087,
+          "following_count": 6807,
+          "like_count": 16545,
+          "listed_count": 20,
+          "media_count": 3146,
+          "tweet_count": 23203
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-12T19:37:57.000Z",
+        "description": "Usando la materia gris para postear, a veces no.\n\nPublicidad al DM.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/argenpoirot26?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/argenpoirot26?igsh=a3Ixend2dGhqdHYx",
+                "start": 0,
+                "url": "https://t.co/2OxBTx9TbR"
+              }
+            ]
+          }
+        },
+        "id": "1569409963990351874",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101404515157049387",
+        "name": "Poirot",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1569409963990351874/1704478455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888710753231794176/kgaBVX8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158845,
+          "following_count": 3354,
+          "like_count": 34574,
+          "listed_count": 204,
+          "media_count": 10123,
+          "tweet_count": 16253
+        },
+        "url": "https://t.co/2OxBTx9TbR",
+        "username": "Argenpoirot",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

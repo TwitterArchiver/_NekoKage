@@ -1,0 +1,881 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10024011469",
+          "name": "Nintendo Wii"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899619193749511",
+          "name": "Sandbox games"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027048853",
+          "name": "PlayStation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10027048853",
+          "name": "PlayStation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027048853",
+          "name": "PlayStation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2099624433115861016",
+    "created_at": "2026-09-14T22:20:48.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T23:20:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099624433115861016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1562230495135793154",
+          "start": 3,
+          "username": "OptiJogos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099624433115861016",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 416
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099515084036854154",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OptiJogos: TERMINADO!!! FINALMENTE NUEVO PORT DE \"\"MINECRAFT LEGACY\"\" a PS2 y WII!!\n\nEs un PORT de JAVA 1.2.5 a C++ con la interfaz de…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 299632,
+        "height": 525,
+        "media_key": "13_2099514056310697984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099514056310697984/img/xtmsMjQx3X4sOWN2.jpg",
+        "public_metrics": {
+          "view_count": 48608
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099514056310697984/vid/avc1/370x270/Yxb-h3HX6MXtWcoO.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099514056310697984/vid/avc1/492x360/QBMQSdMFKrueaGPv.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099514056310697984/vid/avc1/718x524/9go2NXo2TbPx4R3E.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099514056310697984/pl/K5GJcAI9g7Na9Xw3.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10024011469",
+              "name": "Nintendo Wii"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027048853",
+              "name": "PlayStation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10027048853",
+              "name": "PlayStation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027048853",
+              "name": "PlayStation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2099624433115861016",
+        "created_at": "2026-09-14T22:20:48.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T23:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099624433115861016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1562230495135793154",
+              "start": 3,
+              "username": "OptiJogos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099624433115861016",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 416
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099515084036854154",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OptiJogos: TERMINADO!!! FINALMENTE NUEVO PORT DE \"\"MINECRAFT LEGACY\"\" a PS2 y WII!!\n\nEs un PORT de JAVA 1.2.5 a C++ con la interfaz de…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099514056310697984"
+          ]
+        },
+        "author_id": "1562230495135793154",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10024011469",
+              "name": "Nintendo Wii"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027048853",
+              "name": "PlayStation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10027048853",
+              "name": "PlayStation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027048853",
+              "name": "PlayStation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2099515084036854154",
+        "created_at": "2026-09-14T15:06:17.000Z",
+        "display_text_range": [
+          0,
+          267
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T16:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099515084036854154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nZNc0QehGy",
+              "end": 291,
+              "expanded_url": "https://x.com/OptiJogos/status/2099515084036854154/video/1",
+              "media_key": "13_2099514056310697984",
+              "start": 268,
+              "url": "https://t.co/nZNc0QehGy"
+            },
+            {
+              "display_url": "x.com/OptiJogos/stat…",
+              "end": 315,
+              "expanded_url": "https://twitter.com/OptiJogos/status/2098044970477183229",
+              "start": 292,
+              "url": "https://t.co/x3pQw8XvBJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099515084036854154",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "13_2099514056310697984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1090,
+          "impression_count": 110229,
+          "like_count": 3803,
+          "quote_count": 17,
+          "reply_count": 45,
+          "retweet_count": 416
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098044970477183229",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "TERMINADO!!! FINALMENTE NUEVO PORT DE \"\"MINECRAFT LEGACY\"\" a PS2 y WII!!\n\nEs un PORT de JAVA 1.2.5 a C++ con la interfaz de Legacy recreada, corriendo nativamente en la PS2 y Wii.\n\nProbado en hardware real! La wii soporta online con servidores de JAVA en esa version! https://t.co/nZNc0QehGy https://t.co/x3pQw8XvBJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病癌症病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@Kage_Spec",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "Kage_Spec"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "is_identity_verified": false,
+        "location": "中国 河北省 邯郸市",
+        "most_recent_tweet_id": "2099624433115861016",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/878794367103676416/1784999152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9081,
+          "following_count": 6805,
+          "like_count": 16493,
+          "listed_count": 19,
+          "media_count": 3140,
+          "tweet_count": 23133
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-24T00:09:24.000Z",
+        "description": "Hola modifico juegos para computadoras muy negligentes!\n\nTengo el record mundial de pepsiman y una pagina con mis proyectos",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "optijuegos.net",
+                "end": 23,
+                "expanded_url": "https://optijuegos.net",
+                "start": 0,
+                "url": "https://t.co/enGz4bwNuE"
+              }
+            ]
+          }
+        },
+        "id": "1562230495135793154",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099615777179554059",
+        "name": "OptiJuegos",
+        "pinned_tweet_id": "2022756381900575046",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992453325162254336/T-pSXbwm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16098,
+          "following_count": 34,
+          "like_count": 162,
+          "listed_count": 9,
+          "media_count": 259,
+          "tweet_count": 898
+        },
+        "url": "https://t.co/enGz4bwNuE",
+        "username": "OptiJogos",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

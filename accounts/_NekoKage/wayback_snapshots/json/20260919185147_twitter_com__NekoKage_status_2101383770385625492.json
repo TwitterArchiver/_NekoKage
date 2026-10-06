@@ -1,0 +1,512 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101297009076600832"
+      ],
+      "media_source_tweet_id": [
+        "2101297029897212223"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1284106872924991488",
+          "name": "Pentax"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1284106872924991488",
+          "name": "Pentax"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      }
+    ],
+    "conversation_id": "2101383770385625492",
+    "created_at": "2026-09-19T18:51:47.000Z",
+    "display_text_range": [
+      0,
+      119
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T19:51:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101383770385625492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1450484442225528834",
+          "start": 3,
+          "username": "_Sugar_photo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v38U0Rabcm",
+          "end": 119,
+          "expanded_url": "https://x.com/_Sugar_photo/status/2101297029897212223/photo/1",
+          "media_key": "3_2101297009076600832",
+          "start": 96,
+          "url": "https://t.co/v38U0Rabcm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101383770385625492",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2101297009076600832"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101297029897212223",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Sugar_photo: GRにビゾフレックスみたいなものを使って\nKマウントレンズを使えるような事がもし仮にできるとするならば\nあの奇怪な文の8割程は実現できるかもしれない(とは https://t.co/v38U0Rabcm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2101297009076600832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSlOfyGaAAApDCs.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101297009076600832"
+          ],
+          "media_source_tweet_id": [
+            "2101297029897212223"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1284106872924991488",
+              "name": "Pentax"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284106872924991488",
+              "name": "Pentax"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "2101383770385625492",
+        "created_at": "2026-09-19T18:51:47.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T19:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101383770385625492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1450484442225528834",
+              "start": 3,
+              "username": "_Sugar_photo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v38U0Rabcm",
+              "end": 119,
+              "expanded_url": "https://x.com/_Sugar_photo/status/2101297029897212223/photo/1",
+              "media_key": "3_2101297009076600832",
+              "start": 96,
+              "url": "https://t.co/v38U0Rabcm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101383770385625492",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101297009076600832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101297029897212223",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Sugar_photo: GRにビゾフレックスみたいなものを使って\nKマウントレンズを使えるような事がもし仮にできるとするならば\nあの奇怪な文の8割程は実現できるかもしれない(とは https://t.co/v38U0Rabcm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101297009076600832"
+          ]
+        },
+        "author_id": "1450484442225528834",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1284106872924991488",
+              "name": "Pentax"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284106872924991488",
+              "name": "Pentax"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "2101297029897212223",
+        "created_at": "2026-09-19T13:07:06.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T14:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101297029897212223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v38U0Rabcm",
+              "end": 101,
+              "expanded_url": "https://x.com/_Sugar_photo/status/2101297029897212223/photo/1",
+              "media_key": "3_2101297009076600832",
+              "start": 78,
+              "url": "https://t.co/v38U0Rabcm"
+            },
+            {
+              "display_url": "x.com/kiokucamera/st…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/kiokucamera/status/2101115754288734486",
+              "start": 102,
+              "url": "https://t.co/ZTuf9vDzMg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101297029897212223",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101297009076600832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 460,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101115754288734486",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "GRにビゾフレックスみたいなものを使って\nKマウントレンズを使えるような事がもし仮にできるとするならば\nあの奇怪な文の8割程は実現できるかもしれない(とは https://t.co/v38U0Rabcm https://t.co/ZTuf9vDzMg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病癌症病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@Kage_Spec",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "Kage_Spec"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "is_identity_verified": false,
+        "location": "中国 河北省 邯郸市",
+        "most_recent_tweet_id": "2101383770385625492",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/878794367103676416/1784999152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9085,
+          "following_count": 6804,
+          "like_count": 16542,
+          "listed_count": 20,
+          "media_count": 3146,
+          "tweet_count": 23192
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-19T15:30:24.000Z",
+        "description": "aichi.1995. カメラ飼ってる人 #カメラはいきもの ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~ ଳ~",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 21,
+                "tag": "カメラはいきもの"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/_sugar_camera_…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/_sugar_camera_?igshid=OGQ5ZDc2ODk2ZA==",
+                "start": 0,
+                "url": "https://t.co/0Lb3exilR4"
+              }
+            ]
+          }
+        },
+        "id": "1450484442225528834",
+        "is_identity_verified": false,
+        "location": "Nagoya",
+        "most_recent_tweet_id": "2101303628791456095",
+        "name": "しゅがーଳ",
+        "pinned_tweet_id": "2060326088128319706",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1450484442225528834/1769257284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015031422785064960/NjXLrDGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3159,
+          "following_count": 885,
+          "like_count": 43368,
+          "listed_count": 28,
+          "media_count": 6082,
+          "tweet_count": 30828
+        },
+        "url": "https://t.co/0Lb3exilR4",
+        "username": "_Sugar_photo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

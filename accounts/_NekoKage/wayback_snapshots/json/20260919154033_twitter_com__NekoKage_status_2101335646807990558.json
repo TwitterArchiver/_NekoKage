@@ -1,0 +1,693 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2100986746334740480"
+      ],
+      "media_source_tweet_id": [
+        "2100986928258580706"
+      ]
+    },
+    "author_id": "878794367103676416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2101335646807990558",
+    "created_at": "2026-09-19T15:40:33.000Z",
+    "display_text_range": [
+      0,
+      102
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T16:40:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101335646807990558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2660877698",
+          "start": 3,
+          "username": "TuAppleMundo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5Sg6qvMZ4q",
+          "end": 102,
+          "expanded_url": "https://x.com/TuAppleMundo/status/2100986928258580706/video/1",
+          "media_key": "13_2100986746334740480",
+          "start": 79,
+          "url": "https://t.co/5Sg6qvMZ4q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101335646807990558",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "13_2100986746334740480"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1365
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100986928258580706",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TuAppleMundo: La cámara de apertura variable de los nuevos iPhone 18 Pro 😳 https://t.co/5Sg6qvMZ4q"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6621,
+        "height": 3840,
+        "media_key": "13_2100986746334740480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100986746334740480/img/KpCaKHh3XmKZUCp2.jpg",
+        "public_metrics": {
+          "view_count": 5546650
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100986746334740480/vid/avc1/2160x3840/tvplOOAToqzFv6u5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100986746334740480/vid/avc1/720x1280/4NrvMD9jMPkM4Ysw.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100986746334740480/vid/avc1/480x852/GrtsPoNvVhHyZvwo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100986746334740480/pl/Z6dOGemQc6bQtkpQ.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100986746334740480/vid/avc1/320x568/NOi4NPa_1wnw8pDc.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100986746334740480/vid/avc1/1080x1920/nmFhVMp5EJF5TUwf.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100986746334740480"
+          ],
+          "media_source_tweet_id": [
+            "2100986928258580706"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2101335646807990558",
+        "created_at": "2026-09-19T15:40:33.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T16:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101335646807990558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2660877698",
+              "start": 3,
+              "username": "TuAppleMundo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Sg6qvMZ4q",
+              "end": 102,
+              "expanded_url": "https://x.com/TuAppleMundo/status/2100986928258580706/video/1",
+              "media_key": "13_2100986746334740480",
+              "start": 79,
+              "url": "https://t.co/5Sg6qvMZ4q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101335646807990558",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "13_2100986746334740480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1365
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100986928258580706",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TuAppleMundo: La cámara de apertura variable de los nuevos iPhone 18 Pro 😳 https://t.co/5Sg6qvMZ4q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100986746334740480"
+          ]
+        },
+        "author_id": "2660877698",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2100986928258580706",
+        "created_at": "2026-09-18T16:34:52.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T17:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100986928258580706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Sg6qvMZ4q",
+              "end": 84,
+              "expanded_url": "https://x.com/TuAppleMundo/status/2100986928258580706/video/1",
+              "media_key": "13_2100986746334740480",
+              "start": 61,
+              "url": "https://t.co/5Sg6qvMZ4q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100986928258580706",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "13_2100986746334740480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4160,
+          "impression_count": 20305723,
+          "like_count": 28301,
+          "quote_count": 1825,
+          "reply_count": 534,
+          "retweet_count": 1365
+        },
+        "reply_settings": "everyone",
+        "text": "La cámara de apertura variable de los nuevos iPhone 18 Pro 😳 https://t.co/5Sg6qvMZ4q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病癌症病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@Kage_Spec",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "Kage_Spec"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "is_identity_verified": false,
+        "location": "中国 河北省 邯郸市",
+        "most_recent_tweet_id": "2101335646807990558",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/878794367103676416/1784999152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9086,
+          "following_count": 6804,
+          "like_count": 16538,
+          "listed_count": 20,
+          "media_count": 3144,
+          "tweet_count": 23174
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-07-19T22:56:43.000Z",
+        "description": "🍏 Soy Nacho y me encanta hacer vídeos\n⭐ El medio de Apple más grande en español\n👇🏻 Te ayudo a elegir tu próximo iPhone",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tuapplemundo.com",
+                "end": 23,
+                "expanded_url": "https://tuapplemundo.com/",
+                "start": 0,
+                "url": "https://t.co/d078FPlIi6"
+              }
+            ]
+          }
+        },
+        "id": "2660877698",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101332910804529649",
+        "name": "TuAppleMundo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2660877698/1787323768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095489124417376257/w-ti28wP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73948,
+          "following_count": 690,
+          "like_count": 3994,
+          "listed_count": 392,
+          "media_count": 5231,
+          "tweet_count": 9429
+        },
+        "url": "https://t.co/d078FPlIi6",
+        "username": "TuAppleMundo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
